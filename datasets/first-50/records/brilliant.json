@@ -1,0 +1,2830 @@
+{
+  "schema_version": "0.1",
+  "id": "brilliant",
+  "annotation": {
+    "status": "pilot_partial",
+    "method": "Assistant visual inspection of all 50 overview/full-page thumbnails and readable top-window crops; manual hero-copy transcription; local Apple Vision OCR of full screenshots.",
+    "coverage": [
+      "Visible headline and selected actions",
+      "Supporting hero copy where recorded",
+      "Industry/audience/intended action retrieval facets",
+      "Observed desktop composition and evidence images"
+    ],
+    "unreviewed": [
+      "Full-page OCR transcription candidates",
+      "Precise semantic body-section segmentation",
+      "Runtime and responsive behavior"
+    ]
+  },
+  "provenance": {
+    "gallery_url": "https://saaslandingpage.com/brilliant",
+    "gallery_saved_at": "2026-09-29T15:18:02.410Z",
+    "original_site_url": null,
+    "screenshot_captured_at": null,
+    "gallery_meta_path": "provenance/brilliant-meta.json",
+    "gallery_text_path": "provenance/brilliant-gallery.txt"
+  },
+  "images": [
+    {
+      "id": "full",
+      "path": "screenshots/brilliant.png",
+      "sha256": "4b9fb4a65a776383fe737efab6d27d909192ade514d48a87c261dc1bbacc3c41",
+      "width": 1440,
+      "height": 7814,
+      "role": "source",
+      "parent_id": null,
+      "bbox_px": null
+    },
+    {
+      "id": "hero-window",
+      "path": "crops/brilliant-hero.png",
+      "sha256": "4c951b629a617f1047489f236e5c3dfcc9500f8fcc1f260530b9ba22879a00a5",
+      "width": 1440,
+      "height": 1000,
+      "role": "crop",
+      "parent_id": "full",
+      "bbox_px": [
+        0,
+        0,
+        1440,
+        1000
+      ]
+    }
+  ],
+  "retrieval": {
+    "page_kind": "landing-page",
+    "summary": "A left-aligned serif promise and two audience choices sit beside a geometric learning illustration on pale gray.",
+    "tags": [
+      "industry:Education",
+      "audience:Learners and parents",
+      "conversion_goal:audience-selection",
+      "style:illustration-led",
+      "color_family:green",
+      "hero_layout:split"
+    ]
+  },
+  "claims": [
+    {
+      "field": "industry",
+      "value": "Education",
+      "basis": "interpretation",
+      "confidence": "medium",
+      "evidence_ids": [
+        "hero-window",
+        "full"
+      ]
+    },
+    {
+      "field": "audience",
+      "value": "Learners and parents",
+      "basis": "interpretation",
+      "confidence": "medium",
+      "evidence_ids": [
+        "hero-window",
+        "full"
+      ]
+    },
+    {
+      "field": "conversion_goal",
+      "value": "audience-selection",
+      "basis": "interpretation",
+      "confidence": "medium",
+      "evidence_ids": [
+        "hero-window",
+        "full"
+      ]
+    },
+    {
+      "field": "style",
+      "value": "illustration-led",
+      "basis": "interpretation",
+      "confidence": "medium",
+      "evidence_ids": [
+        "hero-window",
+        "full"
+      ]
+    },
+    {
+      "field": "color_family",
+      "value": "green",
+      "basis": "screenshot_observation",
+      "confidence": "high",
+      "evidence_ids": [
+        "hero-window",
+        "full"
+      ]
+    },
+    {
+      "field": "hero_layout",
+      "value": "split",
+      "basis": "screenshot_observation",
+      "confidence": "high",
+      "evidence_ids": [
+        "hero-window",
+        "full"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "id": "top-window",
+      "order": 0,
+      "role": "top-page-evidence-window",
+      "pattern": "split",
+      "takeaway": "Your personal tutor for math and coding",
+      "evidence_ids": [
+        "hero-window",
+        "full"
+      ],
+      "observations": [
+        "A left-aligned serif promise and two audience choices sit beside a geometric learning illustration on pale gray.",
+        "Window includes the page header and may include the start of subsequent content."
+      ],
+      "visible_affordances": [
+        "I’m a learner",
+        "I’m a parent or teacher"
+      ],
+      "runtime_verified": false
+    },
+    {
+      "id": "remaining-page",
+      "order": 1,
+      "role": "unsegmented-page-body",
+      "pattern": "unclassified",
+      "takeaway": "Inspect the full screenshot; detailed body annotation is pending.",
+      "evidence_ids": [
+        "full"
+      ],
+      "observations": [
+        "Full-page visual evidence and unreviewed OCR are retained."
+      ],
+      "visible_affordances": [],
+      "runtime_verified": false
+    }
+  ],
+  "recipes": [],
+  "unknowns": [
+    "No conversion-performance data; conversion_goal describes an intended visible action.",
+    "No verified mobile layout, animation, interaction, DOM, source code, font names, or CSS spacing values.",
+    "Screenshot capture date is unknown; gallery savedAt is the download date.",
+    "Full-page semantic section boundaries and body copy classification remain unreviewed.",
+    "The first 1000 pixels are an evidence window, not a browser viewport or exact hero boundary.",
+    "Copy text omits decorative icons; text punctuation is transcribed as visible, but font-specific glyph identity is not established."
+  ],
+  "copy_blocks": [
+    {
+      "id": "copy-01",
+      "section_id": "top-window",
+      "role": "headline",
+      "text_verbatim": "Your personal tutor for math and coding",
+      "visible_lines": [],
+      "evidence_ids": [
+        "hero-window",
+        "full"
+      ],
+      "reading_order": 0,
+      "transcription_status": "visually_verified",
+      "uncertainties": [
+        "Visual line wrapping is not transcribed; use the screenshot.",
+        "Reading order is grouped editorially by copy role, not a DOM reading-order measurement."
+      ]
+    },
+    {
+      "id": "copy-02",
+      "section_id": "top-window",
+      "role": "supporting_copy",
+      "text_verbatim": "A world-class tutor for every home. Built by top learning experts from MIT and Harvard.",
+      "visible_lines": [],
+      "evidence_ids": [
+        "hero-window",
+        "full"
+      ],
+      "reading_order": 1,
+      "transcription_status": "visually_verified",
+      "uncertainties": [
+        "Visual line wrapping is not transcribed; use the screenshot.",
+        "Reading order is grouped editorially by copy role, not a DOM reading-order measurement."
+      ]
+    },
+    {
+      "id": "copy-03",
+      "section_id": "top-window",
+      "role": "cta",
+      "text_verbatim": "I’m a learner",
+      "visible_lines": [],
+      "evidence_ids": [
+        "hero-window",
+        "full"
+      ],
+      "reading_order": 2,
+      "transcription_status": "visually_verified",
+      "uncertainties": [
+        "Visual line wrapping is not transcribed; use the screenshot.",
+        "Reading order is grouped editorially by copy role, not a DOM reading-order measurement."
+      ]
+    },
+    {
+      "id": "copy-04",
+      "section_id": "top-window",
+      "role": "cta",
+      "text_verbatim": "I’m a parent or teacher",
+      "visible_lines": [],
+      "evidence_ids": [
+        "hero-window",
+        "full"
+      ],
+      "reading_order": 3,
+      "transcription_status": "visually_verified",
+      "uncertainties": [
+        "Visual line wrapping is not transcribed; use the screenshot.",
+        "Reading order is grouped editorially by copy role, not a DOM reading-order measurement."
+      ]
+    }
+  ],
+  "transcription_candidates": [
+    {
+      "id": "ocr-0001",
+      "section_id": "top-window",
+      "text_raw": "Brilliant",
+      "bbox_px": [
+        96,
+        41,
+        206,
+        70
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0002",
+      "section_id": "top-window",
+      "text_raw": "Sign in",
+      "bbox_px": [
+        1288,
+        44,
+        1343,
+        63
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0003",
+      "section_id": "top-window",
+      "text_raw": "Your personal",
+      "bbox_px": [
+        117,
+        219,
+        583,
+        292
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0004",
+      "section_id": "top-window",
+      "text_raw": "tutor for math",
+      "bbox_px": [
+        117,
+        297,
+        585,
+        355
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0005",
+      "section_id": "top-window",
+      "text_raw": "and coding",
+      "bbox_px": [
+        119,
+        370,
+        487,
+        447
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0006",
+      "section_id": "top-window",
+      "text_raw": "A world-class tutor for every home. Built by",
+      "bbox_px": [
+        120,
+        496,
+        522,
+        518
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0007",
+      "section_id": "top-window",
+      "text_raw": "top learning experts from MIT and Harvard",
+      "bbox_px": [
+        117,
+        524,
+        517,
+        550
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0008",
+      "section_id": "top-window",
+      "text_raw": "I'm a learner",
+      "bbox_px": [
+        201,
+        614,
+        324,
+        633
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0009",
+      "section_id": "top-window",
+      "text_raw": "I'm a parent or teacher",
+      "bbox_px": [
+        452,
+        614,
+        671,
+        635
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0010",
+      "section_id": "top-window",
+      "text_raw": "Featured",
+      "bbox_px": [
+        298,
+        689,
+        385,
+        718
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0011",
+      "section_id": "top-window",
+      "text_raw": "Editors'",
+      "bbox_px": [
+        177,
+        695,
+        227,
+        709
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0012",
+      "section_id": "top-window",
+      "text_raw": "App",
+      "bbox_px": [
+        324,
+        709,
+        355,
+        722
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0013",
+      "section_id": "top-window",
+      "text_raw": "** * **",
+      "bbox_px": [
+        655,
+        933,
+        781,
+        952
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0014",
+      "section_id": "top-window",
+      "text_raw": "Award-winning",
+      "bbox_px": [
+        169,
+        981,
+        382,
+        1018
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0015",
+      "section_id": "top-window",
+      "text_raw": "10 million+",
+      "bbox_px": [
+        1081,
+        985,
+        1238,
+        1012
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0016",
+      "section_id": "top-window",
+      "text_raw": "100,000+",
+      "bbox_px": [
+        642,
+        986,
+        791,
+        1020
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0017",
+      "section_id": "remaining-page",
+      "text_raw": "effective and fun learning",
+      "bbox_px": [
+        180,
+        1023,
+        371,
+        1044
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0018",
+      "section_id": "remaining-page",
+      "text_raw": "5-star app store reviews",
+      "bbox_px": [
+        627,
+        1025,
+        812,
+        1044
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0019",
+      "section_id": "remaining-page",
+      "text_raw": "learners around the world",
+      "bbox_px": [
+        1066,
+        1025,
+        1257,
+        1041
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0020",
+      "section_id": "remaining-page",
+      "text_raw": "Meet Koji, your personal tutor",
+      "bbox_px": [
+        334,
+        1404,
+        1105,
+        1467
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0021",
+      "section_id": "remaining-page",
+      "text_raw": "x+y≤4",
+      "bbox_px": [
+        402,
+        1780,
+        481,
+        1798
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0022",
+      "section_id": "remaining-page",
+      "text_raw": "Concepts that click",
+      "bbox_px": [
+        831,
+        1829,
+        1149,
+        1864
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0023",
+      "section_id": "remaining-page",
+      "text_raw": "Every session is visual and interactive.",
+      "bbox_px": [
+        831,
+        1898,
+        1113,
+        1917
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0024",
+      "section_id": "remaining-page",
+      "text_raw": "Instead of just memorizing, you play with",
+      "bbox_px": [
+        831,
+        1921,
+        1139,
+        1940
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0025",
+      "section_id": "remaining-page",
+      "text_raw": "concepts until they click. And you work",
+      "bbox_px": [
+        831,
+        1947,
+        1123,
+        1964
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0026",
+      "section_id": "remaining-page",
+      "text_raw": "through problems step-by-step, building your",
+      "bbox_px": [
+        831,
+        1971,
+        1170,
+        1989
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0027",
+      "section_id": "remaining-page",
+      "text_raw": "intuition along the way.",
+      "bbox_px": [
+        831,
+        1994,
+        1006,
+        2013
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0028",
+      "section_id": "remaining-page",
+      "text_raw": "Built to make you think",
+      "bbox_px": [
+        164,
+        2377,
+        538,
+        2414
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0029",
+      "section_id": "remaining-page",
+      "text_raw": "(x+4) (x+2)",
+      "bbox_px": [
+        917,
+        2384,
+        1074,
+        2416
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0030",
+      "section_id": "remaining-page",
+      "text_raw": "= x= +",
+      "bbox_px": [
+        872,
+        2434,
+        948,
+        2460
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0031",
+      "section_id": "remaining-page",
+      "text_raw": "Like the best human tutors, Koji asks the",
+      "bbox_px": [
+        164,
+        2443,
+        467,
+        2465
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0032",
+      "section_id": "remaining-page",
+      "text_raw": "right questions, provides visual guidance, and",
+      "bbox_px": [
+        164,
+        2471,
+        504,
+        2486
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0033",
+      "section_id": "remaining-page",
+      "text_raw": "gets to the heart of where you're getting",
+      "bbox_px": [
+        164,
+        2494,
+        467,
+        2513
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0034",
+      "section_id": "remaining-page",
+      "text_raw": "stuck. It's the difference between getting the",
+      "bbox_px": [
+        164,
+        2518,
+        504,
+        2537
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0035",
+      "section_id": "remaining-page",
+      "text_raw": "8 x",
+      "bbox_px": [
+        959,
+        2531,
+        987,
+        2547
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0036",
+      "section_id": "remaining-page",
+      "text_raw": "answer and actually understanding it.",
+      "bbox_px": [
+        164,
+        2541,
+        446,
+        2560
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0037",
+      "section_id": "remaining-page",
+      "text_raw": "Multiply x(y + 4).",
+      "bbox_px": [
+        316,
+        2868,
+        423,
+        2884
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0038",
+      "section_id": "remaining-page",
+      "text_raw": "Adapts to exactly",
+      "bbox_px": [
+        830,
+        2913,
+        1118,
+        2950
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0039",
+      "section_id": "remaining-page",
+      "text_raw": "where you are",
+      "bbox_px": [
+        830,
+        2956,
+        1061,
+        2995
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0040",
+      "section_id": "remaining-page",
+      "text_raw": "Koji tracks what you've mastered and where",
+      "bbox_px": [
+        831,
+        3027,
+        1160,
+        3044
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0041",
+      "section_id": "remaining-page",
+      "text_raw": "you're stuck, then builds practice around the",
+      "bbox_px": [
+        828,
+        3052,
+        1162,
+        3070
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0042",
+      "section_id": "remaining-page",
+      "text_raw": "gaps. He speeds up when you're ready, and",
+      "bbox_px": [
+        828,
+        3075,
+        1152,
+        3094
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0043",
+      "section_id": "remaining-page",
+      "text_raw": "slows down when you need it.",
+      "bbox_px": [
+        828,
+        3099,
+        1053,
+        3117
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0044",
+      "section_id": "remaining-page",
+      "text_raw": "Designed to keep",
+      "bbox_px": [
+        167,
+        3461,
+        452,
+        3498
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0045",
+      "section_id": "remaining-page",
+      "text_raw": "you learning",
+      "bbox_px": [
+        161,
+        3505,
+        363,
+        3541
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0046",
+      "section_id": "remaining-page",
+      "text_raw": "Brilliant is designed to feel like a challenge,",
+      "bbox_px": [
+        164,
+        3574,
+        480,
+        3592
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0047",
+      "section_id": "remaining-page",
+      "text_raw": "not a chore. Streaks, levels, and daily goals",
+      "bbox_px": [
+        164,
+        3597,
+        483,
+        3616
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0048",
+      "section_id": "remaining-page",
+      "text_raw": "motivate you to build on your progress and",
+      "bbox_px": [
+        164,
+        3621,
+        483,
+        3640
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0049",
+      "section_id": "remaining-page",
+      "text_raw": "keep moving forward.",
+      "bbox_px": [
+        164,
+        3644,
+        329,
+        3663
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0050",
+      "section_id": "remaining-page",
+      "text_raw": "From grade 5 to college and beyond",
+      "bbox_px": [
+        334,
+        3945,
+        1105,
+        3997
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0051",
+      "section_id": "remaining-page",
+      "text_raw": "Math",
+      "bbox_px": [
+        480,
+        4047,
+        530,
+        4063
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0052",
+      "section_id": "remaining-page",
+      "text_raw": "Computer Science",
+      "bbox_px": [
+        564,
+        4047,
+        710,
+        4063
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0053",
+      "section_id": "remaining-page",
+      "text_raw": "Science",
+      "bbox_px": [
+        747,
+        4047,
+        812,
+        4063
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0054",
+      "section_id": "remaining-page",
+      "text_raw": "Data Analysis",
+      "bbox_px": [
+        846,
+        4047,
+        956,
+        4066
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0055",
+      "section_id": "remaining-page",
+      "text_raw": "Covered subjects",
+      "bbox_px": [
+        258,
+        4204,
+        428,
+        4229
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0056",
+      "section_id": "remaining-page",
+      "text_raw": "Fractions",
+      "bbox_px": [
+        256,
+        4246,
+        331,
+        4262
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0057",
+      "section_id": "remaining-page",
+      "text_raw": "Proportional Reasoning",
+      "bbox_px": [
+        256,
+        4280,
+        433,
+        4296
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0058",
+      "section_id": "remaining-page",
+      "text_raw": "Coordinate Transformations",
+      "bbox_px": [
+        256,
+        4311,
+        470,
+        4328
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0059",
+      "section_id": "remaining-page",
+      "text_raw": "Quadratics",
+      "bbox_px": [
+        256,
+        4343,
+        342,
+        4359
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0060",
+      "section_id": "remaining-page",
+      "text_raw": "Functions",
+      "bbox_px": [
+        256,
+        4374,
+        334,
+        4390
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0061",
+      "section_id": "remaining-page",
+      "text_raw": "Trigonometric Functions",
+      "bbox_px": [
+        255,
+        4404,
+        444,
+        4427
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0062",
+      "section_id": "remaining-page",
+      "text_raw": "Derivatives",
+      "bbox_px": [
+        256,
+        4440,
+        344,
+        4455
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0063",
+      "section_id": "remaining-page",
+      "text_raw": "28 additional courses",
+      "bbox_px": [
+        256,
+        4479,
+        399,
+        4495
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0064",
+      "section_id": "remaining-page",
+      "text_raw": "Quadratics",
+      "bbox_px": [
+        872,
+        4512,
+        961,
+        4534
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0065",
+      "section_id": "remaining-page",
+      "text_raw": "Always on your",
+      "bbox_px": [
+        827,
+        4850,
+        1085,
+        4890
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0066",
+      "section_id": "remaining-page",
+      "text_raw": "schedule",
+      "bbox_px": [
+        828,
+        4892,
+        982,
+        4926
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0067",
+      "section_id": "remaining-page",
+      "text_raw": "Say goodbye to trial-and-error hiring, driving",
+      "bbox_px": [
+        830,
+        4963,
+        1163,
+        4986
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0068",
+      "section_id": "remaining-page",
+      "text_raw": "across town, and fitting another thing into",
+      "bbox_px": [
+        828,
+        4987,
+        1144,
+        5006
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0069",
+      "section_id": "remaining-page",
+      "text_raw": "tn titinnthartininta",
+      "bbox_px": [
+        828,
+        4989,
+        1147,
+        4997
+      ],
+      "ocr_confidence": 0.30000001192092896,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0070",
+      "section_id": "remaining-page",
+      "text_raw": "your schedule. Koji is there Sunday night",
+      "bbox_px": [
+        828,
+        5012,
+        1134,
+        5032
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0071",
+      "section_id": "remaining-page",
+      "text_raw": "before the test, Saturday morning for fun,",
+      "bbox_px": [
+        831,
+        5038,
+        1142,
+        5053
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0072",
+      "section_id": "remaining-page",
+      "text_raw": "and the quiet 20 minutes before dinner.",
+      "bbox_px": [
+        828,
+        5061,
+        1129,
+        5077
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0073",
+      "section_id": "remaining-page",
+      "text_raw": "Built by top learning",
+      "bbox_px": [
+        164,
+        5358,
+        494,
+        5401
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0074",
+      "section_id": "remaining-page",
+      "text_raw": "experts",
+      "bbox_px": [
+        164,
+        5410,
+        292,
+        5443
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0075",
+      "section_id": "remaining-page",
+      "text_raw": "Our curriculum is crafted by award-winning",
+      "bbox_px": [
+        164,
+        5477,
+        488,
+        5496
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0076",
+      "section_id": "remaining-page",
+      "text_raw": "teachers, subject-matter experts, and",
+      "bbox_px": [
+        162,
+        5500,
+        446,
+        5517
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0077",
+      "section_id": "remaining-page",
+      "text_raw": "learning designers from top institutions.",
+      "bbox_px": [
+        162,
+        5524,
+        465,
+        5543
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0078",
+      "section_id": "remaining-page",
+      "text_raw": "HARVARD Stanford",
+      "bbox_px": [
+        255,
+        5582,
+        478,
+        5610
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0079",
+      "section_id": "remaining-page",
+      "text_raw": "Cornell University",
+      "bbox_px": [
+        164,
+        5639,
+        316,
+        5663
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0080",
+      "section_id": "remaining-page",
+      "text_raw": "Caltech",
+      "bbox_px": [
+        342,
+        5642,
+        425,
+        5663
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0081",
+      "section_id": "remaining-page",
+      "text_raw": "Students, parents, and teachers love us",
+      "bbox_px": [
+        295,
+        5854,
+        1144,
+        5912
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0082",
+      "section_id": "remaining-page",
+      "text_raw": "I learned the basics of",
+      "bbox_px": [
+        935,
+        6053,
+        1142,
+        6076
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0083",
+      "section_id": "remaining-page",
+      "text_raw": "tically",
+      "bbox_px": [
+        75,
+        6055,
+        133,
+        6076
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0084",
+      "section_id": "remaining-page",
+      "text_raw": "I wasn't getting the",
+      "bbox_px": [
+        266,
+        6055,
+        452,
+        6076
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0085",
+      "section_id": "remaining-page",
+      "text_raw": "I didn't expect him to",
+      "bbox_px": [
+        601,
+        6055,
+        799,
+        6074
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0086",
+      "section_id": "remaining-page",
+      "text_raw": "She'll ge'",
+      "bbox_px": [
+        1269,
+        6055,
+        1354,
+        6073
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0087",
+      "section_id": "remaining-page",
+      "text_raw": "learn this fast. He",
+      "bbox_px": [
+        598,
+        6081,
+        765,
+        6100
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0088",
+      "section_id": "remaining-page",
+      "text_raw": "Trigonometry in 12",
+      "bbox_px": [
+        935,
+        6081,
+        1115,
+        6103
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0089",
+      "section_id": "remaining-page",
+      "text_raw": "problem a",
+      "bbox_px": [
+        1269,
+        6082,
+        1361,
+        6103
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0090",
+      "section_id": "remaining-page",
+      "text_raw": "Class. I|",
+      "bbox_px": [
+        81,
+        6084,
+        143,
+        6100
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0091",
+      "section_id": "remaining-page",
+      "text_raw": "slope unit in class, but",
+      "bbox_px": [
+        269,
+        6084,
+        478,
+        6102
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0092",
+      "section_id": "remaining-page",
+      "text_raw": "it finally clicked after",
+      "bbox_px": [
+        266,
+        6108,
+        465,
+        6133
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0093",
+      "section_id": "remaining-page",
+      "text_raw": "explained how to write",
+      "bbox_px": [
+        600,
+        6108,
+        815,
+        6129
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0094",
+      "section_id": "remaining-page",
+      "text_raw": "days, I just got into a",
+      "bbox_px": [
+        935,
+        6110,
+        1129,
+        6132
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0095",
+      "section_id": "remaining-page",
+      "text_raw": "'Never mi",
+      "bbox_px": [
+        1270,
+        6110,
+        1358,
+        6126
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0096",
+      "section_id": "remaining-page",
+      "text_raw": "say,",
+      "bbox_px": [
+        81,
+        6113,
+        125,
+        6134
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0097",
+      "section_id": "remaining-page",
+      "text_raw": "20 minutes talking to",
+      "bbox_px": [
+        268,
+        6136,
+        470,
+        6158
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0098",
+      "section_id": "remaining-page",
+      "text_raw": "algorithms at dinner",
+      "bbox_px": [
+        600,
+        6136,
+        794,
+        6164
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0099",
+      "section_id": "remaining-page",
+      "text_raw": "flow. I'm best in my",
+      "bbox_px": [
+        935,
+        6137,
+        1116,
+        6158
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0100",
+      "section_id": "remaining-page",
+      "text_raw": "want",
+      "bbox_px": [
+        80,
+        6138,
+        136,
+        6159
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0101",
+      "section_id": "remaining-page",
+      "text_raw": "got it!' Ho",
+      "bbox_px": [
+        1267,
+        6138,
+        1361,
+        6158
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0102",
+      "section_id": "remaining-page",
+      "text_raw": "Koji!",
+      "bbox_px": [
+        263,
+        6165,
+        313,
+        6189
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0103",
+      "section_id": "remaining-page",
+      "text_raw": "that?",
+      "bbox_px": [
+        1267,
+        6165,
+        1319,
+        6184
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0104",
+      "section_id": "remaining-page",
+      "text_raw": "tonight.",
+      "bbox_px": [
+        600,
+        6166,
+        677,
+        6186
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0105",
+      "section_id": "remaining-page",
+      "text_raw": "class now.",
+      "bbox_px": [
+        935,
+        6168,
+        1034,
+        6186
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0106",
+      "section_id": "remaining-page",
+      "text_raw": "Noah",
+      "bbox_px": [
+        770,
+        6272,
+        836,
+        6296
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0107",
+      "section_id": "remaining-page",
+      "text_raw": "Aaron",
+      "bbox_px": [
+        99,
+        6293,
+        169,
+        6314
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0108",
+      "section_id": "remaining-page",
+      "text_raw": "Eliza",
+      "bbox_px": [
+        446,
+        6293,
+        504,
+        6317
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0109",
+      "section_id": "remaining-page",
+      "text_raw": "Tyler",
+      "bbox_px": [
+        1108,
+        6293,
+        1173,
+        6320
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0110",
+      "section_id": "remaining-page",
+      "text_raw": "Parent of",
+      "bbox_px": [
+        773,
+        6306,
+        838,
+        6320
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0111",
+      "section_id": "remaining-page",
+      "text_raw": "16 year old",
+      "bbox_px": [
+        763,
+        6325,
+        838,
+        6343
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0112",
+      "section_id": "remaining-page",
+      "text_raw": "10th grader",
+      "bbox_px": [
+        1089,
+        6326,
+        1173,
+        6344
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0113",
+      "section_id": "remaining-page",
+      "text_raw": "pora Teacher",
+      "bbox_px": [
+        83,
+        6327,
+        172,
+        6341
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0114",
+      "section_id": "remaining-page",
+      "text_raw": "7th grader",
+      "bbox_px": [
+        433,
+        6327,
+        507,
+        6344
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0115",
+      "section_id": "remaining-page",
+      "text_raw": "The best tutor you'll ever have",
+      "bbox_px": [
+        391,
+        6782,
+        1048,
+        6833
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0116",
+      "section_id": "remaining-page",
+      "text_raw": "is already here",
+      "bbox_px": [
+        556,
+        6835,
+        883,
+        6891
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0117",
+      "section_id": "remaining-page",
+      "text_raw": "Get started",
+      "bbox_px": [
+        663,
+        6960,
+        774,
+        6979
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0118",
+      "section_id": "remaining-page",
+      "text_raw": "GET IT ON",
+      "bbox_px": [
+        604,
+        7058,
+        655,
+        7071
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0119",
+      "section_id": "remaining-page",
+      "text_raw": "Download on the",
+      "bbox_px": [
+        780,
+        7062,
+        868,
+        7073
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0120",
+      "section_id": "remaining-page",
+      "text_raw": "Google Play",
+      "bbox_px": [
+        602,
+        7073,
+        709,
+        7096
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0121",
+      "section_id": "remaining-page",
+      "text_raw": "App Store",
+      "bbox_px": [
+        780,
+        7073,
+        873,
+        7098
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0122",
+      "section_id": "remaining-page",
+      "text_raw": "• X in",
+      "bbox_px": [
+        1194,
+        7300,
+        1329,
+        7324
+      ],
+      "ocr_confidence": 0.5,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0123",
+      "section_id": "remaining-page",
+      "text_raw": "Brilliant",
+      "bbox_px": [
+        108,
+        7301,
+        230,
+        7331
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0124",
+      "section_id": "remaining-page",
+      "text_raw": "Solutions",
+      "bbox_px": [
+        604,
+        7303,
+        676,
+        7318
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0125",
+      "section_id": "remaining-page",
+      "text_raw": "Company",
+      "bbox_px": [
+        792,
+        7303,
+        867,
+        7322
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0126",
+      "section_id": "remaining-page",
+      "text_raw": "Product",
+      "bbox_px": [
+        416,
+        7305,
+        479,
+        7318
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0127",
+      "section_id": "remaining-page",
+      "text_raw": "Behind the scenes",
+      "bbox_px": [
+        983,
+        7305,
+        1119,
+        7318
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0128",
+      "section_id": "remaining-page",
+      "text_raw": "A Tutor in Every",
+      "bbox_px": [
+        979,
+        7341,
+        1105,
+        7364
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0129",
+      "section_id": "remaining-page",
+      "text_raw": "About us",
+      "bbox_px": [
+        791,
+        7342,
+        864,
+        7362
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0130",
+      "section_id": "remaining-page",
+      "text_raw": "Courses",
+      "bbox_px": [
+        416,
+        7343,
+        479,
+        7359
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0131",
+      "section_id": "remaining-page",
+      "text_raw": "Educators",
+      "bbox_px": [
+        602,
+        7343,
+        684,
+        7361
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0132",
+      "section_id": "remaining-page",
+      "text_raw": "Home",
+      "bbox_px": [
+        981,
+        7367,
+        1030,
+        7387
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0133",
+      "section_id": "remaining-page",
+      "text_raw": "Homeschools",
+      "bbox_px": [
+        602,
+        7378,
+        709,
+        7399
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0134",
+      "section_id": "remaining-page",
+      "text_raw": "Careers",
+      "bbox_px": [
+        791,
+        7380,
+        853,
+        7397
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0135",
+      "section_id": "remaining-page",
+      "text_raw": "Pricing",
+      "bbox_px": [
+        414,
+        7381,
+        468,
+        7399
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0136",
+      "section_id": "remaining-page",
+      "text_raw": "Coding Skills That",
+      "bbox_px": [
+        981,
+        7403,
+        1121,
+        7422
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0137",
+      "section_id": "remaining-page",
+      "text_raw": "K-5 Math Practice",
+      "bbox_px": [
+        600,
+        7413,
+        745,
+        7435
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0138",
+      "section_id": "remaining-page",
+      "text_raw": "Gift Brilliant",
+      "bbox_px": [
+        414,
+        7416,
+        508,
+        7433
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0139",
+      "section_id": "remaining-page",
+      "text_raw": "Matter in the Age of",
+      "bbox_px": [
+        981,
+        7427,
+        1134,
+        7448
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0140",
+      "section_id": "remaining-page",
+      "text_raw": "(beta)",
+      "bbox_px": [
+        600,
+        7439,
+        655,
+        7458
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0141",
+      "section_id": "remaining-page",
+      "text_raw": "AI",
+      "bbox_px": [
+        979,
+        7452,
+        1002,
+        7468
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0142",
+      "section_id": "remaining-page",
+      "text_raw": "Resources",
+      "bbox_px": [
+        416,
+        7453,
+        500,
+        7467
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0143",
+      "section_id": "remaining-page",
+      "text_raw": "Help",
+      "bbox_px": [
+        412,
+        7486,
+        453,
+        7507
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0144",
+      "section_id": "remaining-page",
+      "text_raw": "Al at Brilliant",
+      "bbox_px": [
+        981,
+        7487,
+        1082,
+        7507
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0145",
+      "section_id": "remaining-page",
+      "text_raw": "kidSAFE",
+      "bbox_px": [
+        114,
+        7643,
+        211,
+        7674
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0146",
+      "section_id": "remaining-page",
+      "text_raw": "Brilliant is a member in the kidSAFE Seal Program. To learn more, click on the seal",
+      "bbox_px": [
+        219,
+        7646,
+        678,
+        7661
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0147",
+      "section_id": "remaining-page",
+      "text_raw": "or go to www.kidsafe.com.",
+      "bbox_px": [
+        219,
+        7664,
+        370,
+        7678
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0148",
+      "section_id": "remaining-page",
+      "text_raw": "COPPA CERTIFIEO",
+      "bbox_px": [
+        119,
+        7667,
+        194,
+        7678
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0149",
+      "section_id": "remaining-page",
+      "text_raw": "California privacy policy",
+      "bbox_px": [
+        420,
+        7712,
+        569,
+        7730
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0150",
+      "section_id": "remaining-page",
+      "text_raw": "Privacy policy A",
+      "bbox_px": [
+        567,
+        7713,
+        676,
+        7728
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0151",
+      "section_id": "remaining-page",
+      "text_raw": "© 2026 Brilliant Worldwide, Inc., Brilliant and the Brilliant Logo are trademarks of Brilliant Worldwide, Inc.",
+      "bbox_px": [
+        720,
+        7713,
+        1310,
+        7728
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0152",
+      "section_id": "remaining-page",
+      "text_raw": "Terms of service Do not sell my personal information",
+      "bbox_px": [
+        110,
+        7715,
+        422,
+        7728
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    }
+  ]
+}

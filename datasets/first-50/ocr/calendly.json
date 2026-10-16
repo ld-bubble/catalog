@@ -1,0 +1,2259 @@
+[
+  {
+    "height": 10213,
+    "lines": [
+      {
+        "bbox_px": [
+          49,
+          23,
+          198,
+          52
+        ],
+        "confidence": 1,
+        "text": "• Calendly"
+      },
+      {
+        "bbox_px": [
+          211,
+          25,
+          580,
+          42
+        ],
+        "confidence": 1,
+        "text": "Product v Solutions v Resources v Pricing"
+      },
+      {
+        "bbox_px": [
+          1042,
+          25,
+          1131,
+          42
+        ],
+        "confidence": 1,
+        "text": "Talk to sales"
+      },
+      {
+        "bbox_px": [
+          1160,
+          26,
+          1204,
+          41
+        ],
+        "confidence": 1,
+        "text": "Log In"
+      },
+      {
+        "bbox_px": [
+          1249,
+          25,
+          1372,
+          42
+        ],
+        "confidence": 1,
+        "text": "Get started for free"
+      },
+      {
+        "bbox_px": [
+          431,
+          201,
+          1006,
+          259
+        ],
+        "confidence": 1,
+        "text": "All the work around"
+      },
+      {
+        "bbox_px": [
+          427,
+          284,
+          1012,
+          359
+        ],
+        "confidence": 1,
+        "text": "meetings, handled."
+      },
+      {
+        "bbox_px": [
+          459,
+          376,
+          980,
+          395
+        ],
+        "confidence": 1,
+        "text": "From Al-powered scheduling to automated meeting recaps and"
+      },
+      {
+        "bbox_px": [
+          444,
+          399,
+          995,
+          418
+        ],
+        "confidence": 1,
+        "text": "follow-ups, get the busywork done with fewer tools and less effort."
+      },
+      {
+        "bbox_px": [
+          533,
+          470,
+          687,
+          486
+        ],
+        "confidence": 1,
+        "text": "Sign up with Google"
+      },
+      {
+        "bbox_px": [
+          773,
+          470,
+          946,
+          486
+        ],
+        "confidence": 1,
+        "text": "Sign up with Microsoft"
+      },
+      {
+        "bbox_px": [
+          598,
+          520,
+          841,
+          538
+        ],
+        "confidence": 1,
+        "text": "Sign up with email • No credit card required"
+      },
+      {
+        "bbox_px": [
+          274,
+          760,
+          379,
+          782
+        ],
+        "confidence": 1,
+        "text": "8 Scheduling"
+      },
+      {
+        "bbox_px": [
+          269,
+          816,
+          588,
+          848
+        ],
+        "confidence": 1,
+        "text": "Book meetings with"
+      },
+      {
+        "bbox_px": [
+          269,
+          852,
+          486,
+          884
+        ],
+        "confidence": 1,
+        "text": "the world's #1"
+      },
+      {
+        "bbox_px": [
+          269,
+          894,
+          517,
+          928
+        ],
+        "confidence": 1,
+        "text": "scheduling tool"
+      },
+      {
+        "bbox_px": [
+          269,
+          946,
+          546,
+          963
+        ],
+        "confidence": 1,
+        "text": "Giving you complete control and total"
+      },
+      {
+        "bbox_px": [
+          269,
+          970,
+          580,
+          986
+        ],
+        "confidence": 1,
+        "text": "customization, Calendly is the easiest and"
+      },
+      {
+        "bbox_px": [
+          269,
+          991,
+          585,
+          1007
+        ],
+        "confidence": 1,
+        "text": "most powerful way to find time to connect."
+      },
+      {
+        "bbox_px": [
+          791,
+          816,
+          859,
+          832
+        ],
+        "confidence": 1,
+        "text": "July 2026"
+      },
+      {
+        "bbox_px": [
+          1000,
+          821,
+          1061,
+          837
+        ],
+        "confidence": 1,
+        "text": "Thursday"
+      },
+      {
+        "bbox_px": [
+          1000,
+          841,
+          1058,
+          855
+        ],
+        "confidence": 1,
+        "text": "July 14.2026"
+      },
+      {
+        "bbox_px": [
+          1003,
+          886,
+          1055,
+          902
+        ],
+        "confidence": 1,
+        "text": "12:30 PM"
+      },
+      {
+        "bbox_px": [
+          1003,
+          928,
+          1055,
+          941
+        ],
+        "confidence": 1,
+        "text": "2:30 PM"
+      },
+      {
+        "bbox_px": [
+          969,
+          968,
+          1021,
+          983
+        ],
+        "confidence": 1,
+        "text": "3:00 PM"
+      },
+      {
+        "bbox_px": [
+          269,
+          1046,
+          368,
+          1062
+        ],
+        "confidence": 1,
+        "text": "Learn more →"
+      },
+      {
+        "bbox_px": [
+          629,
+          1402,
+          810,
+          1418
+        ],
+        "confidence": 1,
+        "text": "AI MEETING MANAGEMENT"
+      },
+      {
+        "bbox_px": [
+          446,
+          1440,
+          995,
+          1503
+        ],
+        "confidence": 1,
+        "text": "Built for people whose"
+      },
+      {
+        "bbox_px": [
+          438,
+          1499,
+          1004,
+          1568
+        ],
+        "confidence": 1,
+        "text": "work runs on meetings"
+      },
+      {
+        "bbox_px": [
+          454,
+          1584,
+          985,
+          1603
+        ],
+        "confidence": 1,
+        "text": "Meetings move you forward, but the work around them can slow"
+      },
+      {
+        "bbox_px": [
+          462,
+          1608,
+          977,
+          1630
+        ],
+        "confidence": 1,
+        "text": "you down. Calendly handles the tasks before, during, and after"
+      },
+      {
+        "bbox_px": [
+          504,
+          1635,
+          935,
+          1653
+        ],
+        "confidence": 1,
+        "text": "meetings, so you have more space for what matters."
+      },
+      {
+        "bbox_px": [
+          669,
+          1705,
+          770,
+          1722
+        ],
+        "confidence": 1,
+        "text": "Start for free"
+      },
+      {
+        "bbox_px": [
+          462,
+          1609,
+          977,
+          1628
+        ],
+        "confidence": 1,
+        "text": "you down. Calendly handles the tasks before, during, and after"
+      },
+      {
+        "bbox_px": [
+          504,
+          1634,
+          932,
+          1652
+        ],
+        "confidence": 1,
+        "text": "meetings, so you have more space for what matters."
+      },
+      {
+        "bbox_px": [
+          669,
+          1704,
+          768,
+          1720
+        ],
+        "confidence": 1,
+        "text": "Start for free"
+      },
+      {
+        "bbox_px": [
+          148,
+          1840,
+          216,
+          1864
+        ],
+        "confidence": 1,
+        "text": "Book"
+      },
+      {
+        "bbox_px": [
+          148,
+          1882,
+          352,
+          1898
+        ],
+        "confidence": 1,
+        "text": "Book the meeting and get paid"
+      },
+      {
+        "bbox_px": [
+          148,
+          1902,
+          316,
+          1916
+        ],
+        "confidence": 1,
+        "text": "with zero back-and-forth."
+      },
+      {
+        "bbox_px": [
+          418,
+          1838,
+          485,
+          1871
+        ],
+        "confidence": 1,
+        "text": "Prep"
+      },
+      {
+        "bbox_px": [
+          420,
+          1882,
+          593,
+          1898
+        ],
+        "confidence": 1,
+        "text": "Never walk into a meeting"
+      },
+      {
+        "bbox_px": [
+          420,
+          1903,
+          457,
+          1916
+        ],
+        "confidence": 1,
+        "text": "cold."
+      },
+      {
+        "bbox_px": [
+          692,
+          1841,
+          797,
+          1870
+        ],
+        "confidence": 1,
+        "text": "Capture"
+      },
+      {
+        "bbox_px": [
+          692,
+          1882,
+          995,
+          1898
+        ],
+        "confidence": 1,
+        "text": "While you run the meeting, Notetaker captures"
+      },
+      {
+        "bbox_px": [
+          692,
+          1902,
+          1006,
+          1916
+        ],
+        "confidence": 1,
+        "text": "the conversation. The recap and action items are"
+      },
+      {
+        "bbox_px": [
+          692,
+          1921,
+          875,
+          1937
+        ],
+        "confidence": 1,
+        "text": "delivered right after the call."
+      },
+      {
+        "bbox_px": [
+          723,
+          1955,
+          932,
+          1972
+        ],
+        "confidence": 1,
+        "text": "Notetaker joins and takes notes"
+      },
+      {
+        "bbox_px": [
+          723,
+          1989,
+          927,
+          2006
+        ],
+        "confidence": 1,
+        "text": "You get a ready-to-share recap"
+      },
+      {
+        "bbox_px": [
+          723,
+          2023,
+          940,
+          2042
+        ],
+        "confidence": 1,
+        "text": "Recap is stored in contact profile"
+      },
+      {
+        "bbox_px": [
+          1099,
+          1841,
+          1220,
+          1867
+        ],
+        "confidence": 1,
+        "text": "Follow up"
+      },
+      {
+        "bbox_px": [
+          1100,
+          1882,
+          1296,
+          1895
+        ],
+        "confidence": 1,
+        "text": "Work moves forward after the"
+      },
+      {
+        "bbox_px": [
+          1100,
+          1902,
+          1194,
+          1919
+        ],
+        "confidence": 1,
+        "text": "meeting ends."
+      },
+      {
+        "bbox_px": [
+          120,
+          2591,
+          230,
+          2615
+        ],
+        "confidence": 1,
+        "text": "& Scheduling"
+      },
+      {
+        "bbox_px": [
+          120,
+          2632,
+          648,
+          2685
+        ],
+        "confidence": 1,
+        "text": "A better way to book your"
+      },
+      {
+        "bbox_px": [
+          118,
+          2679,
+          313,
+          2741
+        ],
+        "confidence": 1,
+        "text": "meetings"
+      },
+      {
+        "bbox_px": [
+          862,
+          2700,
+          1011,
+          2729
+        ],
+        "confidence": 1,
+        "text": "Availability"
+      },
+      {
+        "bbox_px": [
+          940,
+          2769,
+          1053,
+          2789
+        ],
+        "confidence": 1,
+        "text": "Meetings per day"
+      },
+      {
+        "bbox_px": [
+          878,
+          2842,
+          938,
+          2858
+        ],
+        "confidence": 1,
+        "text": "15 min"
+      },
+      {
+        "bbox_px": [
+          974,
+          2842,
+          1108,
+          2858
+        ],
+        "confidence": 1,
+        "text": "Meeting Buffer Time"
+      },
+      {
+        "bbox_px": [
+          120,
+          2910,
+          425,
+          2939
+        ],
+        "confidence": 1,
+        "text": "L? Full control over your calendar"
+      },
+      {
+        "bbox_px": [
+          120,
+          2960,
+          554,
+          2976
+        ],
+        "confidence": 1,
+        "text": "Connect your calendars, set your hours, and control exactly"
+      },
+      {
+        "bbox_px": [
+          120,
+          2981,
+          344,
+          3000
+        ],
+        "confidence": 1,
+        "text": "when you're available to meet."
+      },
+      {
+        "bbox_px": [
+          862,
+          2900,
+          1003,
+          2913
+        ],
+        "confidence": 1,
+        "text": "Schedule: Custom v"
+      },
+      {
+        "bbox_px": [
+          911,
+          2938,
+          1074,
+          2963
+        ],
+        "confidence": 1,
+        "text": "9:00am - 5:00pm"
+      },
+      {
+        "bbox_px": [
+          912,
+          2989,
+          1074,
+          3010
+        ],
+        "confidence": 1,
+        "text": "9:00am - 5:00pm"
+      },
+      {
+        "bbox_px": [
+          912,
+          3036,
+          1074,
+          3057
+        ],
+        "confidence": 1,
+        "text": "9:00am - 5:00pm"
+      },
+      {
+        "bbox_px": [
+          122,
+          3116,
+          488,
+          3138
+        ],
+        "confidence": 1,
+        "text": "• Meeting templates for every scenario"
+      },
+      {
+        "bbox_px": [
+          120,
+          3161,
+          574,
+          3178
+        ],
+        "confidence": 1,
+        "text": "From one-on-one calls to multi-host meetings, pre-built event"
+      },
+      {
+        "bbox_px": [
+          120,
+          3185,
+          428,
+          3201
+        ],
+        "confidence": 1,
+        "text": "types make scheduling easy for everyone."
+      },
+      {
+        "bbox_px": [
+          120,
+          3318,
+          462,
+          3339
+        ],
+        "confidence": 1,
+        "text": "& Automated email & text workflows"
+      },
+      {
+        "bbox_px": [
+          120,
+          3363,
+          572,
+          3379
+        ],
+        "confidence": 1,
+        "text": "Reduce no-shows with personalized email and text reminders,"
+      },
+      {
+        "bbox_px": [
+          120,
+          3383,
+          551,
+          3397
+        ],
+        "confidence": 1,
+        "text": "and let invitees reschedule when needed without the back-"
+      },
+      {
+        "bbox_px": [
+          120,
+          3320,
+          462,
+          3339
+        ],
+        "confidence": 1,
+        "text": "& Automated email & text workflows"
+      },
+      {
+        "bbox_px": [
+          117,
+          3361,
+          572,
+          3378
+        ],
+        "confidence": 1,
+        "text": "Reduce no-shows with personalized email and text reminders."
+      },
+      {
+        "bbox_px": [
+          117,
+          3385,
+          551,
+          3398
+        ],
+        "confidence": 1,
+        "text": "and let invitees reschedule when needed without the back-"
+      },
+      {
+        "bbox_px": [
+          120,
+          3409,
+          193,
+          3422
+        ],
+        "confidence": 1,
+        "text": "and-forth."
+      },
+      {
+        "bbox_px": [
+          310,
+          3887,
+          480,
+          3911
+        ],
+        "confidence": 1,
+        "text": "Dominic Mills"
+      },
+      {
+        "bbox_px": [
+          125,
+          4431,
+          277,
+          4450
+        ],
+        "confidence": 1,
+        "text": "• Notetaker New"
+      },
+      {
+        "bbox_px": [
+          120,
+          4476,
+          551,
+          4528
+        ],
+        "confidence": 1,
+        "text": "Actionable recaps for"
+      },
+      {
+        "bbox_px": [
+          120,
+          4530,
+          413,
+          4582
+        ],
+        "confidence": 1,
+        "text": "every meeting"
+      },
+      {
+        "bbox_px": [
+          117,
+          4672,
+          446,
+          4699
+        ],
+        "confidence": 1,
+        "text": "= Clear summaries with next steps"
+      },
+      {
+        "bbox_px": [
+          120,
+          4709,
+          603,
+          4733
+        ],
+        "confidence": 1,
+        "text": "End every call with meeting summaries and next steps, so nothing"
+      },
+      {
+        "bbox_px": [
+          117,
+          4734,
+          300,
+          4756
+        ],
+        "confidence": 1,
+        "text": "falls through the cracks."
+      },
+      {
+        "bbox_px": [
+          117,
+          4806,
+          415,
+          4833
+        ],
+        "confidence": 1,
+        "text": "E Pre-drafted follow-up emails"
+      },
+      {
+        "bbox_px": [
+          117,
+          4881,
+          350,
+          4912
+        ],
+        "confidence": 1,
+        "text": "8* Works with your tools"
+      },
+      {
+        "bbox_px": [
+          120,
+          4957,
+          352,
+          4986
+        ],
+        "confidence": 1,
+        "text": "** Instant meeting recall"
+      },
+      {
+        "bbox_px": [
+          781,
+          3612,
+          904,
+          3635
+        ],
+        "confidence": 1,
+        "text": "* Callie Beta"
+      },
+      {
+        "bbox_px": [
+          781,
+          3657,
+          1183,
+          3713
+        ],
+        "confidence": 1,
+        "text": "Meet Callie, your AI"
+      },
+      {
+        "bbox_px": [
+          778,
+          3711,
+          964,
+          3752
+        ],
+        "confidence": 1,
+        "text": "assistant"
+      },
+      {
+        "bbox_px": [
+          778,
+          3906,
+          1050,
+          3930
+        ],
+        "confidence": 1,
+        "text": "@ Conversational scheduling"
+      },
+      {
+        "bbox_px": [
+          778,
+          3947,
+          1257,
+          3964
+        ],
+        "confidence": 1,
+        "text": "Instead of managing scheduling links and calendars yourself, just"
+      },
+      {
+        "bbox_px": [
+          778,
+          3968,
+          1249,
+          3987
+        ],
+        "confidence": 1,
+        "text": "add callie@calendly.com to the email thread. Say what you need"
+      },
+      {
+        "bbox_px": [
+          776,
+          3991,
+          1014,
+          4011
+        ],
+        "confidence": 1,
+        "text": "and let Callie take it from there."
+      },
+      {
+        "bbox_px": [
+          781,
+          4063,
+          998,
+          4084
+        ],
+        "confidence": 1,
+        "text": "• Precise coordination"
+      },
+      {
+        "bbox_px": [
+          778,
+          4139,
+          1129,
+          4165
+        ],
+        "confidence": 1,
+        "text": "5 24/7 assistance with meeting tasks"
+      },
+      {
+        "bbox_px": [
+          1092,
+          4861,
+          1115,
+          4882
+        ],
+        "confidence": 1,
+        "text": "1х"
+      },
+      {
+        "bbox_px": [
+          112,
+          4800,
+          412,
+          4836
+        ],
+        "confidence": 1,
+        "text": "E? Pre-drafted follow-up emails"
+      },
+      {
+        "bbox_px": [
+          120,
+          4883,
+          347,
+          4908
+        ],
+        "confidence": 1,
+        "text": "8% Works with your tools"
+      },
+      {
+        "bbox_px": [
+          122,
+          4959,
+          353,
+          4983
+        ],
+        "confidence": 1,
+        "text": "** Instant meeting recall"
+      },
+      {
+        "bbox_px": [
+          770,
+          5249,
+          880,
+          5278
+        ],
+        "confidence": 1,
+        "text": "© Payments"
+      },
+      {
+        "bbox_px": [
+          893,
+          5255,
+          932,
+          5270
+        ],
+        "confidence": 1,
+        "text": "New"
+      },
+      {
+        "bbox_px": [
+          778,
+          5296,
+          1291,
+          5350
+        ],
+        "confidence": 1,
+        "text": "Flexible payment options"
+      },
+      {
+        "bbox_px": [
+          775,
+          5348,
+          1218,
+          5405
+        ],
+        "confidence": 1,
+        "text": "that fit your business"
+      },
+      {
+        "bbox_px": [
+          363,
+          5427,
+          470,
+          5444
+        ],
+        "confidence": 1,
+        "text": "Dominic Mills"
+      },
+      {
+        "bbox_px": [
+          360,
+          5454,
+          522,
+          5480
+        ],
+        "confidence": 1,
+        "text": "Consultation"
+      },
+      {
+        "bbox_px": [
+          279,
+          5529,
+          345,
+          5545
+        ],
+        "confidence": 1,
+        "text": "45 min"
+      },
+      {
+        "bbox_px": [
+          397,
+          5527,
+          446,
+          5545
+        ],
+        "confidence": 1,
+        "text": "Zoom"
+      },
+      {
+        "bbox_px": [
+          781,
+          5495,
+          1055,
+          5517
+        ],
+        "confidence": 1,
+        "text": "• Upfront meeting payments"
+      },
+      {
+        "bbox_px": [
+          778,
+          5535,
+          1251,
+          5550
+        ],
+        "confidence": 1,
+        "text": "Collect payment when clients book with you, so you can get paid"
+      },
+      {
+        "bbox_px": [
+          776,
+          5558,
+          998,
+          5572
+        ],
+        "confidence": 1,
+        "text": "sooner and reduce no-shows."
+      },
+      {
+        "bbox_px": [
+          222,
+          5624,
+          415,
+          5650
+        ],
+        "confidence": 1,
+        "text": "Require Payment"
+      },
+      {
+        "bbox_px": [
+          780,
+          5626,
+          983,
+          5653
+        ],
+        "confidence": 1,
+        "text": "• Meeting packages"
+      },
+      {
+        "bbox_px": [
+          812,
+          5707,
+          891,
+          5723
+        ],
+        "confidence": 1,
+        "text": "Invoices"
+      },
+      {
+        "bbox_px": [
+          781,
+          5780,
+          941,
+          5804
+        ],
+        "confidence": 1,
+        "text": "2 Payment links"
+      },
+      {
+        "bbox_px": [
+          650,
+          6100,
+          789,
+          6113
+        ],
+        "confidence": 1,
+        "text": "CUSTOMER STORIES"
+      },
+      {
+        "bbox_px": [
+          462,
+          6147,
+          977,
+          6202
+        ],
+        "confidence": 1,
+        "text": "Real customers. Real"
+      },
+      {
+        "bbox_px": [
+          626,
+          6213,
+          819,
+          6268
+        ],
+        "confidence": 1,
+        "text": "results."
+      },
+      {
+        "bbox_px": [
+          368,
+          6372,
+          595,
+          6401
+        ],
+        "confidence": 1,
+        "text": "75 hours saved"
+      },
+      {
+        "bbox_px": [
+          368,
+          6407,
+          499,
+          6443
+        ],
+        "confidence": 1,
+        "text": "monthly"
+      },
+      {
+        "bbox_px": [
+          368,
+          6410,
+          499,
+          6447
+        ],
+        "confidence": 1,
+        "text": "monthly"
+      },
+      {
+        "bbox_px": [
+          351,
+          6606,
+          596,
+          6644
+        ],
+        "confidence": 1,
+        "text": "\"Calendly helps us"
+      },
+      {
+        "bbox_px": [
+          367,
+          6641,
+          669,
+          6677
+        ],
+        "confidence": 1,
+        "text": "protect our team's time"
+      },
+      {
+        "bbox_px": [
+          368,
+          6676,
+          685,
+          6711
+        ],
+        "confidence": 1,
+        "text": "and make every support"
+      },
+      {
+        "bbox_px": [
+          365,
+          6711,
+          611,
+          6740
+        ],
+        "confidence": 1,
+        "text": "interaction count.\""
+      },
+      {
+        "bbox_px": [
+          376,
+          6760,
+          478,
+          6777
+        ],
+        "confidence": 1,
+        "text": "Marques Stewart"
+      },
+      {
+        "bbox_px": [
+          376,
+          6794,
+          684,
+          6808
+        ],
+        "confidence": 1,
+        "text": "Managing Director of Technology at Achievement First"
+      },
+      {
+        "bbox_px": [
+          780,
+          6760,
+          1024,
+          6797
+        ],
+        "confidence": 1,
+        "text": "()Achievement First"
+      },
+      {
+        "bbox_px": [
+          648,
+          7155,
+          789,
+          7171
+        ],
+        "confidence": 1,
+        "text": "150+ INTEGRATIONS"
+      },
+      {
+        "bbox_px": [
+          438,
+          7193,
+          1003,
+          7254
+        ],
+        "confidence": 1,
+        "text": "Connect Calendly with"
+      },
+      {
+        "bbox_px": [
+          492,
+          7255,
+          944,
+          7321
+        ],
+        "confidence": 1,
+        "text": "your favorite tools"
+      },
+      {
+        "bbox_px": [
+          483,
+          7338,
+          956,
+          7357
+        ],
+        "confidence": 1,
+        "text": "Our extensive list of integrations makes Calendly flexible."
+      },
+      {
+        "bbox_px": [
+          627,
+          7404,
+          807,
+          7422
+        ],
+        "confidence": 1,
+        "text": "View all integrations →"
+      },
+      {
+        "bbox_px": [
+          292,
+          7535,
+          331,
+          7566
+        ],
+        "confidence": 1,
+        "text": "31"
+      },
+      {
+        "bbox_px": [
+          420,
+          7525,
+          473,
+          7574
+        ],
+        "confidence": 1,
+        "text": "M"
+      },
+      {
+        "bbox_px": [
+          765,
+          7666,
+          807,
+          7708
+        ],
+        "confidence": 1,
+        "text": "in"
+      },
+      {
+        "bbox_px": [
+          1021,
+          7653,
+          1087,
+          7718
+        ],
+        "confidence": 1,
+        "text": "P"
+      },
+      {
+        "bbox_px": [
+          141,
+          7880,
+          284,
+          7907
+        ],
+        "confidence": 1,
+        "text": "Google suite"
+      },
+      {
+        "bbox_px": [
+          143,
+          7920,
+          648,
+          7936
+        ],
+        "confidence": 1,
+        "text": "Get your job done faster by connecting Calendly to Google Calendar,"
+      },
+      {
+        "bbox_px": [
+          141,
+          7940,
+          334,
+          7959
+        ],
+        "confidence": 1,
+        "text": "Meet, Analytics, and more."
+      },
+      {
+        "bbox_px": [
+          752,
+          7883,
+          925,
+          7904
+        ],
+        "confidence": 1,
+        "text": "Microsoft suite"
+      },
+      {
+        "bbox_px": [
+          752,
+          7917,
+          1262,
+          7938
+        ],
+        "confidence": 1,
+        "text": "Make your day easier with Calendly integrations for Microsoft Teams,"
+      },
+      {
+        "bbox_px": [
+          755,
+          7943,
+          980,
+          7959
+        ],
+        "confidence": 1,
+        "text": "Outlook, Azure SSO, and more."
+      },
+      {
+        "bbox_px": [
+          674,
+          8225,
+          765,
+          8238
+        ],
+        "confidence": 1,
+        "text": "GET STARTED"
+      },
+      {
+        "bbox_px": [
+          412,
+          8255,
+          1027,
+          8323
+        ],
+        "confidence": 1,
+        "text": "From the first meeting to"
+      },
+      {
+        "bbox_px": [
+          550,
+          8331,
+          889,
+          8383
+        ],
+        "confidence": 1,
+        "text": "the follow-up"
+      },
+      {
+        "bbox_px": [
+          449,
+          8405,
+          990,
+          8423
+        ],
+        "confidence": 1,
+        "text": "All of the work around meetings, handled in one place. Book time,"
+      },
+      {
+        "bbox_px": [
+          446,
+          8431,
+          993,
+          8449
+        ],
+        "confidence": 1,
+        "text": "capture every discussion, and keep next steps moving without the"
+      },
+      {
+        "bbox_px": [
+          663,
+          8457,
+          776,
+          8473
+        ],
+        "confidence": 1,
+        "text": "manual work."
+      },
+      {
+        "bbox_px": [
+          669,
+          8525,
+          770,
+          8541
+        ],
+        "confidence": 1,
+        "text": "Start for free"
+      },
+      {
+        "bbox_px": [
+          574,
+          8869,
+          732,
+          8902
+        ],
+        "confidence": 1,
+        "text": "Discovery"
+      },
+      {
+        "bbox_px": [
+          757,
+          8865,
+          933,
+          8900
+        ],
+        "confidence": 1,
+        "text": "Scheduled"
+      },
+      {
+        "bbox_px": [
+          120,
+          9308,
+          493,
+          9366
+        ],
+        "confidence": 1,
+        "text": "Make space for"
+      },
+      {
+        "bbox_px": [
+          119,
+          9374,
+          458,
+          9428
+        ],
+        "confidence": 1,
+        "text": "what matters."
+      },
+      {
+        "bbox_px": [
+          652,
+          9298,
+          732,
+          9317
+        ],
+        "confidence": 1,
+        "text": "Products"
+      },
+      {
+        "bbox_px": [
+          652,
+          9327,
+          729,
+          9346
+        ],
+        "confidence": 1,
+        "text": "Scheduling"
+      },
+      {
+        "bbox_px": [
+          653,
+          9357,
+          731,
+          9370
+        ],
+        "confidence": 1,
+        "text": "Al assistant"
+      },
+      {
+        "bbox_px": [
+          653,
+          9386,
+          721,
+          9399
+        ],
+        "confidence": 1,
+        "text": "Notetaker"
+      },
+      {
+        "bbox_px": [
+          653,
+          9412,
+          716,
+          9428
+        ],
+        "confidence": 1,
+        "text": "Contacts"
+      },
+      {
+        "bbox_px": [
+          653,
+          9441,
+          721,
+          9454
+        ],
+        "confidence": 1,
+        "text": "Payments"
+      },
+      {
+        "bbox_px": [
+          883,
+          9300,
+          990,
+          9315
+        ],
+        "confidence": 1,
+        "text": "Integrations"
+      },
+      {
+        "bbox_px": [
+          883,
+          9329,
+          1006,
+          9344
+        ],
+        "confidence": 1,
+        "text": "Google ecosystem"
+      },
+      {
+        "bbox_px": [
+          883,
+          9356,
+          1022,
+          9374
+        ],
+        "confidence": 1,
+        "text": "Microsoft ecosystem"
+      },
+      {
+        "bbox_px": [
+          882,
+          9383,
+          1011,
+          9402
+        ],
+        "confidence": 1,
+        "text": "Video conferencing"
+      },
+      {
+        "bbox_px": [
+          883,
+          9412,
+          1019,
+          9428
+        ],
+        "confidence": 1,
+        "text": "Payment processors"
+      },
+      {
+        "bbox_px": [
+          883,
+          9441,
+          969,
+          9455
+        ],
+        "confidence": 1,
+        "text": "Sales & CRM"
+      },
+      {
+        "bbox_px": [
+          883,
+          9467,
+          993,
+          9483
+        ],
+        "confidence": 1,
+        "text": "Recruiting & ATS"
+      },
+      {
+        "bbox_px": [
+          883,
+          9496,
+          985,
+          9512
+        ],
+        "confidence": 1,
+        "text": "All integrations"
+      },
+      {
+        "bbox_px": [
+          653,
+          9493,
+          731,
+          9509
+        ],
+        "confidence": 1,
+        "text": "Features"
+      },
+      {
+        "bbox_px": [
+          652,
+          9522,
+          711,
+          9541
+        ],
+        "confidence": 1,
+        "text": "Security"
+      },
+      {
+        "bbox_px": [
+          653,
+          9553,
+          815,
+          9569
+        ],
+        "confidence": 1,
+        "text": "Customizable availability"
+      },
+      {
+        "bbox_px": [
+          653,
+          9580,
+          731,
+          9596
+        ],
+        "confidence": 1,
+        "text": "Event types"
+      },
+      {
+        "bbox_px": [
+          653,
+          9609,
+          742,
+          9625
+        ],
+        "confidence": 1,
+        "text": "Meeting polls"
+      },
+      {
+        "bbox_px": [
+          653,
+          9635,
+          799,
+          9650
+        ],
+        "confidence": 1,
+        "text": "Reminders & follow up"
+      },
+      {
+        "bbox_px": [
+          653,
+          9663,
+          757,
+          9680
+        ],
+        "confidence": 1,
+        "text": "Meeting routing"
+      },
+      {
+        "bbox_px": [
+          653,
+          9692,
+          716,
+          9705
+        ],
+        "confidence": 1,
+        "text": "Analytics"
+      },
+      {
+        "bbox_px": [
+          653,
+          9721,
+          789,
+          9732
+        ],
+        "confidence": 1,
+        "text": "Admin management"
+      },
+      {
+        "bbox_px": [
+          885,
+          9548,
+          969,
+          9564
+        ],
+        "confidence": 1,
+        "text": "Solutions"
+      },
+      {
+        "bbox_px": [
+          883,
+          9580,
+          980,
+          9596
+        ],
+        "confidence": 1,
+        "text": "For individuals"
+      },
+      {
+        "bbox_px": [
+          883,
+          9608,
+          953,
+          9622
+        ],
+        "confidence": 1,
+        "text": "For teams"
+      },
+      {
+        "bbox_px": [
+          883,
+          9634,
+          1019,
+          9653
+        ],
+        "confidence": 1,
+        "text": "For large companies"
+      },
+      {
+        "bbox_px": [
+          1115,
+          9297,
+          1212,
+          9316
+        ],
+        "confidence": 1,
+        "text": "Resources"
+      },
+      {
+        "bbox_px": [
+          1115,
+          9329,
+          1251,
+          9344
+        ],
+        "confidence": 1,
+        "text": "Create your account"
+      },
+      {
+        "bbox_px": [
+          1115,
+          9357,
+          1230,
+          9373
+        ],
+        "confidence": 1,
+        "text": "Pricing and plans"
+      },
+      {
+        "bbox_px": [
+          1115,
+          9386,
+          1202,
+          9399
+        ],
+        "confidence": 1,
+        "text": "Product tour"
+      },
+      {
+        "bbox_px": [
+          1115,
+          9412,
+          1194,
+          9428
+        ],
+        "confidence": 1,
+        "text": "What's new"
+      },
+      {
+        "bbox_px": [
+          1115,
+          9441,
+          1254,
+          9457
+        ],
+        "confidence": 1,
+        "text": "Getting started guide"
+      },
+      {
+        "bbox_px": [
+          1115,
+          9467,
+          1249,
+          9483
+        ],
+        "confidence": 1,
+        "text": "Calendly community"
+      },
+      {
+        "bbox_px": [
+          1115,
+          9496,
+          1220,
+          9509
+        ],
+        "confidence": 1,
+        "text": "Developer tools"
+      },
+      {
+        "bbox_px": [
+          1115,
+          9548,
+          1189,
+          9567
+        ],
+        "confidence": 1,
+        "text": "Support"
+      },
+      {
+        "bbox_px": [
+          1115,
+          9579,
+          1197,
+          9596
+        ],
+        "confidence": 1,
+        "text": "Help center"
+      },
+      {
+        "bbox_px": [
+          1115,
+          9609,
+          1202,
+          9625
+        ],
+        "confidence": 1,
+        "text": "Learning hub"
+      },
+      {
+        "bbox_px": [
+          1115,
+          9635,
+          1225,
+          9650
+        ],
+        "confidence": 1,
+        "text": "Contact support"
+      },
+      {
+        "bbox_px": [
+          1115,
+          9663,
+          1210,
+          9677
+        ],
+        "confidence": 1,
+        "text": "Contact sales"
+      },
+      {
+        "bbox_px": [
+          1115,
+          9717,
+          1199,
+          9735
+        ],
+        "confidence": 1,
+        "text": "Company"
+      },
+      {
+        "bbox_px": [
+          1115,
+          9747,
+          1178,
+          9763
+        ],
+        "confidence": 1,
+        "text": "About us"
+      },
+      {
+        "bbox_px": [
+          1115,
+          9776,
+          1168,
+          9789
+        ],
+        "confidence": 1,
+        "text": "Careers"
+      },
+      {
+        "bbox_px": [
+          1180,
+          9775,
+          1254,
+          9794
+        ],
+        "confidence": 1,
+        "text": "We're hiring!"
+      },
+      {
+        "bbox_px": [
+          655,
+          9609,
+          745,
+          9622
+        ],
+        "confidence": 1,
+        "text": "Meeting polls"
+      },
+      {
+        "bbox_px": [
+          655,
+          9637,
+          801,
+          9650
+        ],
+        "confidence": 1,
+        "text": "Reminders & follow up"
+      },
+      {
+        "bbox_px": [
+          655,
+          9664,
+          759,
+          9679
+        ],
+        "confidence": 1,
+        "text": "Meeting routing"
+      },
+      {
+        "bbox_px": [
+          655,
+          9691,
+          717,
+          9706
+        ],
+        "confidence": 1,
+        "text": "Analytics"
+      },
+      {
+        "bbox_px": [
+          654,
+          9718,
+          789,
+          9735
+        ],
+        "confidence": 1,
+        "text": "Admin management"
+      },
+      {
+        "bbox_px": [
+          887,
+          9607,
+          954,
+          9623
+        ],
+        "confidence": 1,
+        "text": "For teams"
+      },
+      {
+        "bbox_px": [
+          887,
+          9637,
+          1019,
+          9650
+        ],
+        "confidence": 1,
+        "text": "For large companies"
+      },
+      {
+        "bbox_px": [
+          1117,
+          9609,
+          1205,
+          9622
+        ],
+        "confidence": 1,
+        "text": "Learning hub"
+      },
+      {
+        "bbox_px": [
+          1119,
+          9637,
+          1226,
+          9650
+        ],
+        "confidence": 1,
+        "text": "Contact support"
+      },
+      {
+        "bbox_px": [
+          1119,
+          9664,
+          1211,
+          9677
+        ],
+        "confidence": 1,
+        "text": "Contact sales"
+      },
+      {
+        "bbox_px": [
+          176,
+          9795,
+          368,
+          9853
+        ],
+        "confidence": 1,
+        "text": "Calendly"
+      },
+      {
+        "bbox_px": [
+          1117,
+          9716,
+          1201,
+          9737
+        ],
+        "confidence": 1,
+        "text": "Company"
+      },
+      {
+        "bbox_px": [
+          1117,
+          9747,
+          1178,
+          9762
+        ],
+        "confidence": 1,
+        "text": "About us"
+      },
+      {
+        "bbox_px": [
+          1119,
+          9777,
+          1170,
+          9789
+        ],
+        "confidence": 1,
+        "text": "Careers"
+      },
+      {
+        "bbox_px": [
+          1184,
+          9777,
+          1255,
+          9791
+        ],
+        "confidence": 1,
+        "text": "We're hiring!"
+      },
+      {
+        "bbox_px": [
+          1119,
+          9804,
+          1236,
+          9818
+        ],
+        "confidence": 1,
+        "text": "Become a partner"
+      },
+      {
+        "bbox_px": [
+          1116,
+          9830,
+          1152,
+          9851
+        ],
+        "confidence": 1,
+        "text": "Biog"
+      },
+      {
+        "bbox_px": [
+          117,
+          9966,
+          207,
+          9981
+        ],
+        "confidence": 1,
+        "text": "Downloads"
+      },
+      {
+        "bbox_px": [
+          1195,
+          9964,
+          1322,
+          9979
+        ],
+        "confidence": 1,
+        "text": "Join us on social"
+      },
+      {
+        "bbox_px": [
+          1172,
+          10012,
+          1197,
+          10035
+        ],
+        "confidence": 1,
+        "text": "+"
+      },
+      {
+        "bbox_px": [
+          1228,
+          10012,
+          1253,
+          10035
+        ],
+        "confidence": 1,
+        "text": "in"
+      },
+      {
+        "bbox_px": [
+          119,
+          10104,
+          211,
+          10123
+        ],
+        "confidence": 1,
+        "text": "® English v"
+      },
+      {
+        "bbox_px": [
+          420,
+          10106,
+          512,
+          10121
+        ],
+        "confidence": 1,
+        "text": "Privacy Policy"
+      },
+      {
+        "bbox_px": [
+          527,
+          10106,
+          573,
+          10121
+        ],
+        "confidence": 1,
+        "text": "Legal"
+      },
+      {
+        "bbox_px": [
+          590,
+          10106,
+          638,
+          10119
+        ],
+        "confidence": 1,
+        "text": "Status"
+      },
+      {
+        "bbox_px": [
+          658,
+          10104,
+          764,
+          10121
+        ],
+        "confidence": 1,
+        "text": "Cookie Settings"
+      },
+      {
+        "bbox_px": [
+          789,
+          10106,
+          960,
+          10121
+        ],
+        "confidence": 1,
+        "text": "x Your Privacy Choices"
+      },
+      {
+        "bbox_px": [
+          1165,
+          10106,
+          1320,
+          10121
+        ],
+        "confidence": 1,
+        "text": "© Copyright Calendly 2026"
+      }
+    ],
+    "path": "screenshots/calendly.png",
+    "width": 1440
+  }
+]

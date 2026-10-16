@@ -1,0 +1,3662 @@
+{
+  "schema_version": "0.1",
+  "id": "revolut",
+  "annotation": {
+    "status": "pilot_partial",
+    "method": "Assistant visual inspection of all 50 overview/full-page thumbnails and readable top-window crops; manual hero-copy transcription; local Apple Vision OCR of full screenshots.",
+    "coverage": [
+      "Visible headline and selected actions",
+      "Supporting hero copy where recorded",
+      "Industry/audience/intended action retrieval facets",
+      "Observed desktop composition and evidence images"
+    ],
+    "unreviewed": [
+      "Full-page OCR transcription candidates",
+      "Precise semantic body-section segmentation",
+      "Runtime and responsive behavior"
+    ]
+  },
+  "provenance": {
+    "gallery_url": "https://saaslandingpage.com/revolut",
+    "gallery_saved_at": "2026-09-29T15:14:42.027Z",
+    "original_site_url": null,
+    "screenshot_captured_at": null,
+    "gallery_meta_path": "provenance/revolut-meta.json",
+    "gallery_text_path": "provenance/revolut-gallery.txt"
+  },
+  "images": [
+    {
+      "id": "full",
+      "path": "screenshots/revolut.png",
+      "sha256": "6febf36bd3270feed05982fb20698ea69ee384e14078c1d7b4db97e7c9e5db03",
+      "width": 1440,
+      "height": 11604,
+      "role": "source",
+      "parent_id": null,
+      "bbox_px": null
+    },
+    {
+      "id": "hero-window",
+      "path": "crops/revolut-hero.png",
+      "sha256": "90705930124a85f8abf70411a4ee17b195e01b3c281554f7b7f11a6c62907089",
+      "width": 1440,
+      "height": 1000,
+      "role": "crop",
+      "parent_id": "full",
+      "bbox_px": [
+        0,
+        0,
+        1440,
+        1000
+      ]
+    }
+  ],
+  "retrieval": {
+    "page_kind": "landing-page",
+    "summary": "Large uppercase white text overlays a blue-sky portrait, with a floating banking balance interface.",
+    "tags": [
+      "industry:Finance",
+      "audience:Consumers",
+      "conversion_goal:download",
+      "style:photography-led",
+      "color_family:blue",
+      "hero_layout:left"
+    ]
+  },
+  "claims": [
+    {
+      "field": "industry",
+      "value": "Finance",
+      "basis": "interpretation",
+      "confidence": "medium",
+      "evidence_ids": [
+        "hero-window",
+        "full"
+      ]
+    },
+    {
+      "field": "audience",
+      "value": "Consumers",
+      "basis": "interpretation",
+      "confidence": "medium",
+      "evidence_ids": [
+        "hero-window",
+        "full"
+      ]
+    },
+    {
+      "field": "conversion_goal",
+      "value": "download",
+      "basis": "interpretation",
+      "confidence": "medium",
+      "evidence_ids": [
+        "hero-window",
+        "full"
+      ]
+    },
+    {
+      "field": "style",
+      "value": "photography-led",
+      "basis": "interpretation",
+      "confidence": "medium",
+      "evidence_ids": [
+        "hero-window",
+        "full"
+      ]
+    },
+    {
+      "field": "color_family",
+      "value": "blue",
+      "basis": "screenshot_observation",
+      "confidence": "high",
+      "evidence_ids": [
+        "hero-window",
+        "full"
+      ]
+    },
+    {
+      "field": "hero_layout",
+      "value": "left",
+      "basis": "screenshot_observation",
+      "confidence": "high",
+      "evidence_ids": [
+        "hero-window",
+        "full"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "id": "top-window",
+      "order": 0,
+      "role": "top-page-evidence-window",
+      "pattern": "left",
+      "takeaway": "BREAKTHROUGH BANKING",
+      "evidence_ids": [
+        "hero-window",
+        "full"
+      ],
+      "observations": [
+        "Large uppercase white text overlays a blue-sky portrait, with a floating banking balance interface.",
+        "Window includes the page header and may include the start of subsequent content."
+      ],
+      "visible_affordances": [
+        "Get the app"
+      ],
+      "runtime_verified": false
+    },
+    {
+      "id": "remaining-page",
+      "order": 1,
+      "role": "unsegmented-page-body",
+      "pattern": "unclassified",
+      "takeaway": "Inspect the full screenshot; detailed body annotation is pending.",
+      "evidence_ids": [
+        "full"
+      ],
+      "observations": [
+        "Full-page visual evidence and unreviewed OCR are retained."
+      ],
+      "visible_affordances": [],
+      "runtime_verified": false
+    }
+  ],
+  "recipes": [],
+  "unknowns": [
+    "No conversion-performance data; conversion_goal describes an intended visible action.",
+    "No verified mobile layout, animation, interaction, DOM, source code, font names, or CSS spacing values.",
+    "Screenshot capture date is unknown; gallery savedAt is the download date.",
+    "Full-page semantic section boundaries and body copy classification remain unreviewed.",
+    "The first 1000 pixels are an evidence window, not a browser viewport or exact hero boundary.",
+    "Copy text omits decorative icons; text punctuation is transcribed as visible, but font-specific glyph identity is not established."
+  ],
+  "copy_blocks": [
+    {
+      "id": "copy-01",
+      "section_id": "top-window",
+      "role": "headline",
+      "text_verbatim": "BREAKTHROUGH BANKING",
+      "visible_lines": [],
+      "evidence_ids": [
+        "hero-window",
+        "full"
+      ],
+      "reading_order": 0,
+      "transcription_status": "visually_verified",
+      "uncertainties": [
+        "Visual line wrapping is not transcribed; use the screenshot.",
+        "Reading order is grouped editorially by copy role, not a DOM reading-order measurement."
+      ]
+    },
+    {
+      "id": "copy-02",
+      "section_id": "top-window",
+      "role": "supporting_copy",
+      "text_verbatim": "For those who want more from their money — there’s Revolut. Sign up for free, in a tap.",
+      "visible_lines": [],
+      "evidence_ids": [
+        "hero-window",
+        "full"
+      ],
+      "reading_order": 1,
+      "transcription_status": "visually_verified",
+      "uncertainties": [
+        "Visual line wrapping is not transcribed; use the screenshot.",
+        "Reading order is grouped editorially by copy role, not a DOM reading-order measurement."
+      ]
+    },
+    {
+      "id": "copy-03",
+      "section_id": "top-window",
+      "role": "cta",
+      "text_verbatim": "Get the app",
+      "visible_lines": [],
+      "evidence_ids": [
+        "hero-window",
+        "full"
+      ],
+      "reading_order": 2,
+      "transcription_status": "visually_verified",
+      "uncertainties": [
+        "Visual line wrapping is not transcribed; use the screenshot.",
+        "Reading order is grouped editorially by copy role, not a DOM reading-order measurement."
+      ]
+    }
+  ],
+  "transcription_candidates": [
+    {
+      "id": "ocr-0001",
+      "section_id": "top-window",
+      "text_raw": "BREAKTHROUGH",
+      "bbox_px": [
+        222,
+        136,
+        966,
+        209
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0002",
+      "section_id": "top-window",
+      "text_raw": "BANKING",
+      "bbox_px": [
+        222,
+        229,
+        635,
+        303
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0003",
+      "section_id": "top-window",
+      "text_raw": "For those who want more from their money —",
+      "bbox_px": [
+        219,
+        333,
+        588,
+        358
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0004",
+      "section_id": "top-window",
+      "text_raw": "there's Revolut. Sign up for free, in a tap.",
+      "bbox_px": [
+        219,
+        358,
+        541,
+        384
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0005",
+      "section_id": "top-window",
+      "text_raw": "Get the app",
+      "bbox_px": [
+        242,
+        416,
+        330,
+        438
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0006",
+      "section_id": "top-window",
+      "text_raw": "3,126 €",
+      "bbox_px": [
+        572,
+        648,
+        865,
+        750
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0007",
+      "section_id": "top-window",
+      "text_raw": "Daily v",
+      "bbox_px": [
+        676,
+        779,
+        763,
+        805
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0008",
+      "section_id": "remaining-page",
+      "text_raw": "+ 0,35 €",
+      "bbox_px": [
+        870,
+        1082,
+        969,
+        1114
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0009",
+      "section_id": "remaining-page",
+      "text_raw": "Coffee cashback",
+      "bbox_px": [
+        559,
+        1083,
+        757,
+        1107
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0010",
+      "section_id": "remaining-page",
+      "text_raw": "Well deserved",
+      "bbox_px": [
+        556,
+        1116,
+        703,
+        1140
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0011",
+      "section_id": "remaining-page",
+      "text_raw": "IT SAVES TO SPEND",
+      "bbox_px": [
+        462,
+        1346,
+        975,
+        1400
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0012",
+      "section_id": "remaining-page",
+      "text_raw": "Create custom Pockets for every target, gift, or budget. And with spare",
+      "bbox_px": [
+        439,
+        1425,
+        1006,
+        1444
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0013",
+      "section_id": "remaining-page",
+      "text_raw": "change round-ups, you won't even notice how much you're saving every",
+      "bbox_px": [
+        431,
+        1447,
+        1011,
+        1471
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0014",
+      "section_id": "remaining-page",
+      "text_raw": "time you spend.",
+      "bbox_px": [
+        655,
+        1472,
+        786,
+        1493
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0015",
+      "section_id": "remaining-page",
+      "text_raw": "Get started",
+      "bbox_px": [
+        679,
+        1537,
+        763,
+        1554
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0016",
+      "section_id": "remaining-page",
+      "text_raw": "3126€",
+      "bbox_px": [
+        642,
+        1925,
+        805,
+        1983
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0017",
+      "section_id": "remaining-page",
+      "text_raw": "Adventure • EUR v",
+      "bbox_px": [
+        650,
+        1989,
+        794,
+        2002
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0018",
+      "section_id": "remaining-page",
+      "text_raw": "Wedding",
+      "bbox_px": [
+        636,
+        2387,
+        709,
+        2409
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0019",
+      "section_id": "remaining-page",
+      "text_raw": "Moving",
+      "bbox_px": [
+        751,
+        2388,
+        829,
+        2410
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0020",
+      "section_id": "remaining-page",
+      "text_raw": "Ticket to •",
+      "bbox_px": [
+        880,
+        2389,
+        964,
+        2406
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0021",
+      "section_id": "remaining-page",
+      "text_raw": "Adventure u",
+      "bbox_px": [
+        480,
+        2392,
+        574,
+        2408
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0022",
+      "section_id": "remaining-page",
+      "text_raw": "360° SECURITY",
+      "bbox_px": [
+        511,
+        2545,
+        923,
+        2606
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0023",
+      "section_id": "remaining-page",
+      "text_raw": "Not only are we on the clock 24/7 monitoring and securing your money,",
+      "bbox_px": [
+        433,
+        2630,
+        1006,
+        2649
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0024",
+      "section_id": "remaining-page",
+      "text_raw": "but our full banking licence ensures your money is protected by the by the",
+      "bbox_px": [
+        423,
+        2654,
+        1016,
+        2673
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0025",
+      "section_id": "remaining-page",
+      "text_raw": "Lithuanian State Company Deposit and Investment Insurance. And you'll",
+      "bbox_px": [
+        428,
+        2677,
+        1008,
+        2698
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0026",
+      "section_id": "remaining-page",
+      "text_raw": "get IBAN account details.",
+      "bbox_px": [
+        616,
+        2701,
+        820,
+        2722
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0027",
+      "section_id": "remaining-page",
+      "text_raw": "Tell me more",
+      "bbox_px": [
+        671,
+        2766,
+        766,
+        2787
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0028",
+      "section_id": "remaining-page",
+      "text_raw": "R",
+      "bbox_px": [
+        661,
+        3156,
+        818,
+        3334
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0029",
+      "section_id": "remaining-page",
+      "text_raw": "K",
+      "bbox_px": [
+        567,
+        3200,
+        828,
+        3343
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0030",
+      "section_id": "remaining-page",
+      "text_raw": "CHECK OUT THAT CARD",
+      "bbox_px": [
+        407,
+        3759,
+        1029,
+        3806
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0031",
+      "section_id": "remaining-page",
+      "text_raw": "Get the one that matches your vibe. Fees apply.",
+      "bbox_px": [
+        527,
+        3835,
+        909,
+        3857
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0032",
+      "section_id": "remaining-page",
+      "text_raw": "Choose your card",
+      "bbox_px": [
+        655,
+        3901,
+        784,
+        3919
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0033",
+      "section_id": "remaining-page",
+      "text_raw": "Revolut",
+      "bbox_px": [
+        569,
+        4283,
+        719,
+        4321
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0034",
+      "section_id": "remaining-page",
+      "text_raw": "Revolut",
+      "bbox_px": [
+        358,
+        4294,
+        488,
+        4337
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0035",
+      "section_id": "remaining-page",
+      "text_raw": "ELE",
+      "bbox_px": [
+        593,
+        4353,
+        650,
+        4395
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0036",
+      "section_id": "remaining-page",
+      "text_raw": "You requested",
+      "bbox_px": [
+        1037,
+        5273,
+        1123,
+        5287
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0037",
+      "section_id": "remaining-page",
+      "text_raw": "12,99 €",
+      "bbox_px": [
+        1029,
+        5301,
+        1147,
+        5337
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0038",
+      "section_id": "remaining-page",
+      "text_raw": "SIMPLY HIT SEND",
+      "bbox_px": [
+        216,
+        5322,
+        666,
+        5367
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0039",
+      "section_id": "remaining-page",
+      "text_raw": "Sending and receiving money is just as easy as texting a",
+      "bbox_px": [
+        219,
+        5396,
+        671,
+        5419
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0040",
+      "section_id": "remaining-page",
+      "text_raw": "friend.",
+      "bbox_px": [
+        216,
+        5420,
+        271,
+        5435
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0041",
+      "section_id": "remaining-page",
+      "text_raw": "& You received",
+      "bbox_px": [
+        833,
+        5477,
+        893,
+        5485
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0042",
+      "section_id": "remaining-page",
+      "text_raw": "Try it out",
+      "bbox_px": [
+        243,
+        5485,
+        308,
+        5504
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0043",
+      "section_id": "remaining-page",
+      "text_raw": "12,99 €",
+      "bbox_px": [
+        830,
+        5498,
+        920,
+        5527
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0044",
+      "section_id": "remaining-page",
+      "text_raw": "Thanks! ®",
+      "bbox_px": [
+        1110,
+        5498,
+        1157,
+        5514
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0045",
+      "section_id": "remaining-page",
+      "text_raw": "Thank you!",
+      "bbox_px": [
+        833,
+        5527,
+        893,
+        5543
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0046",
+      "section_id": "remaining-page",
+      "text_raw": "Send",
+      "bbox_px": [
+        880,
+        5702,
+        922,
+        5718
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0047",
+      "section_id": "remaining-page",
+      "text_raw": "Split",
+      "bbox_px": [
+        980,
+        5702,
+        1016,
+        5720
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0048",
+      "section_id": "remaining-page",
+      "text_raw": "Gift",
+      "bbox_px": [
+        1071,
+        5702,
+        1108,
+        5718
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0049",
+      "section_id": "remaining-page",
+      "text_raw": "AND SEND",
+      "bbox_px": [
+        726,
+        6358,
+        1006,
+        6406
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0050",
+      "section_id": "remaining-page",
+      "text_raw": "ACROSS THE",
+      "bbox_px": [
+        729,
+        6415,
+        1068,
+        6460
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0051",
+      "section_id": "remaining-page",
+      "text_raw": "GLOBE TOO",
+      "bbox_px": [
+        729,
+        6470,
+        1032,
+        6515
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0052",
+      "section_id": "remaining-page",
+      "text_raw": "Whether it's Morocco or Mexico, you can transfer there -",
+      "bbox_px": [
+        729,
+        6546,
+        1194,
+        6564
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0053",
+      "section_id": "remaining-page",
+      "text_raw": "really, really fast. Oh, and the rates are as good as you've",
+      "bbox_px": [
+        729,
+        6570,
+        1183,
+        6591
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0054",
+      "section_id": "remaining-page",
+      "text_raw": "heard.",
+      "bbox_px": [
+        729,
+        6596,
+        781,
+        6611
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0055",
+      "section_id": "remaining-page",
+      "text_raw": "See how to send it far",
+      "bbox_px": [
+        752,
+        6658,
+        912,
+        6674
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0056",
+      "section_id": "remaining-page",
+      "text_raw": "TAP TO TRADE",
+      "bbox_px": [
+        527,
+        7135,
+        909,
+        7180
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0057",
+      "section_id": "remaining-page",
+      "text_raw": "Invest, commission-free, in global companies for as little as €1.*",
+      "bbox_px": [
+        467,
+        7208,
+        972,
+        7231
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0058",
+      "section_id": "remaining-page",
+      "text_raw": "Capital at risk. The value of investments can go down as well as up. T&Cs",
+      "bbox_px": [
+        425,
+        7234,
+        1016,
+        7252
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0059",
+      "section_id": "remaining-page",
+      "text_raw": "Explore Stocks",
+      "bbox_px": [
+        666,
+        7323,
+        773,
+        7339
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0060",
+      "section_id": "remaining-page",
+      "text_raw": "Stocks",
+      "bbox_px": [
+        556,
+        8173,
+        608,
+        8189
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0061",
+      "section_id": "remaining-page",
+      "text_raw": "Crypto",
+      "bbox_px": [
+        671,
+        8173,
+        721,
+        8192
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0062",
+      "section_id": "remaining-page",
+      "text_raw": "Commodities",
+      "bbox_px": [
+        781,
+        8173,
+        880,
+        8189
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0063",
+      "section_id": "remaining-page",
+      "text_raw": "JOIN THE 35+ MILLION USING REVOLUT",
+      "bbox_px": [
+        214,
+        8355,
+        1220,
+        8406
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0064",
+      "section_id": "remaining-page",
+      "text_raw": "Get Revolut",
+      "bbox_px": [
+        676,
+        8450,
+        763,
+        8463
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0065",
+      "section_id": "remaining-page",
+      "text_raw": "*FOR TRADING: Capital at risk.",
+      "bbox_px": [
+        219,
+        8554,
+        402,
+        8575
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0066",
+      "section_id": "remaining-page",
+      "text_raw": "Investment services are provided by Revolut Securities Europe UAB. Information contained herein is not a personal recommendation, investment advice or offer to take any",
+      "bbox_px": [
+        219,
+        8575,
+        1220,
+        8591
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0067",
+      "section_id": "remaining-page",
+      "text_raw": "investment decision, therefore you must carefully consider your financial situation, review relevant documents and information or seek professional independent advice",
+      "bbox_px": [
+        219,
+        8593,
+        1196,
+        8609
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0068",
+      "section_id": "remaining-page",
+      "text_raw": "before entering into financial transactions or subscribing to new investment services.",
+      "bbox_px": [
+        216,
+        8611,
+        718,
+        8628
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0069",
+      "section_id": "remaining-page",
+      "text_raw": "The value of investments can go up as well as down and you may receive less than your original investment or lose the value of your entire initial investment. Past",
+      "bbox_px": [
+        219,
+        8648,
+        1165,
+        8664
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0070",
+      "section_id": "remaining-page",
+      "text_raw": "performance and forecasts are not a reliable indicator of future results. Currency rate fluctuations can adversely impact the overall returns on your original investment.",
+      "bbox_px": [
+        216,
+        8666,
+        1191,
+        8680
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0071",
+      "section_id": "remaining-page",
+      "text_raw": "Further information can be found in our Risk Description Document and in our Trading FAQ",
+      "bbox_px": [
+        216,
+        8684,
+        747,
+        8698
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0072",
+      "section_id": "remaining-page",
+      "text_raw": "Revolut Securities Europe UAB (company code: 305799582; registered address: Konstitucijos ave. 21B, Vilnius, Lithuania, LT-08130) is a Lithuanian investment firm",
+      "bbox_px": [
+        216,
+        8718,
+        1173,
+        8735
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0073",
+      "section_id": "remaining-page",
+      "text_raw": "authorised and regulated by the Bank of Lithuania. Depending on your location, Revolut's cryptocurrency services are offered by Revolut Ltd (company code: 08804411;",
+      "bbox_px": [
+        216,
+        8737,
+        1202,
+        8753
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0074",
+      "section_id": "remaining-page",
+      "text_raw": "registered address: 7 Westferry Circus, Canary Wharf, London, England, E14 4HD) or RT Digital Securities Cyprus Ltd (company code: HE430310; registered address",
+      "bbox_px": [
+        219,
+        8756,
+        1183,
+        8772
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0075",
+      "section_id": "remaining-page",
+      "text_raw": "Pikioni, 10 Flat/Office 5, 3075, Limassol, Cyprus). Commodities services are provided by Revolut Ltd.",
+      "bbox_px": [
+        216,
+        8774,
+        804,
+        8790
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0076",
+      "section_id": "remaining-page",
+      "text_raw": "**FOR CRYPTO: Capital at risk.",
+      "bbox_px": [
+        216,
+        8808,
+        402,
+        8826
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0077",
+      "section_id": "remaining-page",
+      "text_raw": "You must be satisfied that this crypto offering is suitable for you in light of your financial circumstances and attitude towards risk before starting. The price or value of",
+      "bbox_px": [
+        216,
+        8826,
+        1191,
+        8842
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0078",
+      "section_id": "remaining-page",
+      "text_raw": "cryptocurrencies can rapidly increase or decrease at any time (and may even fall to zero). The risk of loss in holding cryptocurrencies can be substantial. Funds received",
+      "bbox_px": [
+        216,
+        8844,
+        1207,
+        8860
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0079",
+      "section_id": "remaining-page",
+      "text_raw": "by us in relation to cryptocurrency transactions will not be safeguarded or covered by the UK Financial Services Compensation Scheme or Cyprus Investor Compensation",
+      "bbox_px": [
+        219,
+        8863,
+        1215,
+        8879
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0080",
+      "section_id": "remaining-page",
+      "text_raw": "Fund. We do not make any representation regarding the advisability of transacting in cryptocurrency. We cannot guarantee the timeliness, accurateness, or completeness",
+      "bbox_px": [
+        219,
+        8881,
+        1215,
+        8897
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0081",
+      "section_id": "remaining-page",
+      "text_raw": "of any data or information used in connection with you holding any exposure to cryptocurrencies.",
+      "bbox_px": [
+        219,
+        8899,
+        789,
+        8916
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0082",
+      "section_id": "remaining-page",
+      "text_raw": "Depending on your location, Revolut's cryptocurrency service may be offered by Revolut Ltd or RT Digital Securities Cyprus Ltd, and is not regulated other than for the",
+      "bbox_px": [
+        216,
+        8936,
+        1191,
+        8952
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0083",
+      "section_id": "remaining-page",
+      "text_raw": "purposes of money laundering.",
+      "bbox_px": [
+        216,
+        8954,
+        402,
+        8970
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0084",
+      "section_id": "remaining-page",
+      "text_raw": "Revolut Ltd is registered with the UK Financial Conduct Authority to offer cryptoasset services under the Money Laundering, Terrorist Financing and Transfer of Funds",
+      "bbox_px": [
+        216,
+        8988,
+        1191,
+        9005
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0085",
+      "section_id": "remaining-page",
+      "text_raw": "(Information on the Payer) Regulations 2017. Its firm reference number is 900562 and its company number is 08804411. Its registered address is 7 Westferry Circus,",
+      "bbox_px": [
+        216,
+        9007,
+        1176,
+        9022
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0086",
+      "section_id": "remaining-page",
+      "text_raw": "Canary Wharf, London, England, E14 4HD.",
+      "bbox_px": [
+        219,
+        9025,
+        465,
+        9041
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0087",
+      "section_id": "remaining-page",
+      "text_raw": "RT Digital Securities Cyprus Ltd is registered with the Cyprus Securities and Exchange Commission to offer cryptoasset services under the Prevention and Suppression of",
+      "bbox_px": [
+        219,
+        9061,
+        1215,
+        9078
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0088",
+      "section_id": "remaining-page",
+      "text_raw": "Money Laundering and Terrorist Financing Law. Its registration number is 001/22 and its company registration number is HE430310. Its registered address is Pikioni, 10",
+      "bbox_px": [
+        216,
+        9080,
+        1194,
+        9096
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0089",
+      "section_id": "remaining-page",
+      "text_raw": "Flat/Office 5, 3075, Limassol, Cyprus.",
+      "bbox_px": [
+        216,
+        9098,
+        439,
+        9114
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0090",
+      "section_id": "remaining-page",
+      "text_raw": "***FOR COMMODITIES: Capital at risk.",
+      "bbox_px": [
+        219,
+        9132,
+        446,
+        9149
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0091",
+      "section_id": "remaining-page",
+      "text_raw": "You must be satisfied that Revolut's commodities offering is suitable for you in light of your financial circumstances and attitude towards risk before starting. The price or",
+      "bbox_px": [
+        216,
+        9150,
+        1212,
+        9167
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0092",
+      "section_id": "remaining-page",
+      "text_raw": "value of commodities such as gold can rapidly increase or decrease at any time. The risk of loss in exposure to commodities can be substantial. Funds received by us in",
+      "bbox_px": [
+        216,
+        9168,
+        1202,
+        9185
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0093",
+      "section_id": "remaining-page",
+      "text_raw": "relation to commodities will not be safeguarded (under the UK Electronic Money Regulations 2011) or covered by the Financial Services Compensation Scheme. We cannot",
+      "bbox_px": [
+        216,
+        9187,
+        1217,
+        9203
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0094",
+      "section_id": "remaining-page",
+      "text_raw": "guarantee the timeliness, accurateness, or completeness of any data or information used in connection with you holding any exposure to commodities.",
+      "bbox_px": [
+        216,
+        9206,
+        1102,
+        9222
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0095",
+      "section_id": "remaining-page",
+      "text_raw": "Revolut's commodities service is provided by Revolut Ltd (No. 08804411). Registered address: 7 Westferry Circus, Canary Wharf, London, England, E14 4HD. Revolut's",
+      "bbox_px": [
+        216,
+        9242,
+        1191,
+        9258
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0096",
+      "section_id": "remaining-page",
+      "text_raw": "commodities services are not regulated by financial services supervisory authorities.",
+      "bbox_px": [
+        216,
+        9260,
+        716,
+        9277
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0097",
+      "section_id": "remaining-page",
+      "text_raw": "T&Cs apply to all products listed.",
+      "bbox_px": [
+        219,
+        9294,
+        413,
+        9313
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0098",
+      "section_id": "remaining-page",
+      "text_raw": "Choose your plan",
+      "bbox_px": [
+        219,
+        9522,
+        536,
+        9563
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0099",
+      "section_id": "remaining-page",
+      "text_raw": "Plus",
+      "bbox_px": [
+        578,
+        9648,
+        631,
+        9673
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0100",
+      "section_id": "remaining-page",
+      "text_raw": "Standard",
+      "bbox_px": [
+        240,
+        9649,
+        342,
+        9670
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0101",
+      "section_id": "remaining-page",
+      "text_raw": "Premium",
+      "bbox_px": [
+        922,
+        9649,
+        1021,
+        9670
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0102",
+      "section_id": "remaining-page",
+      "text_raw": "Free",
+      "bbox_px": [
+        240,
+        9683,
+        279,
+        9702
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0103",
+      "section_id": "remaining-page",
+      "text_raw": "€2.99/month",
+      "bbox_px": [
+        582,
+        9683,
+        689,
+        9702
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0104",
+      "section_id": "remaining-page",
+      "text_raw": "€8.99/month",
+      "bbox_px": [
+        925,
+        9683,
+        1029,
+        9702
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0105",
+      "section_id": "remaining-page",
+      "text_raw": "Whether you're looking to save money",
+      "bbox_px": [
+        240,
+        9715,
+        496,
+        9734
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0106",
+      "section_id": "remaining-page",
+      "text_raw": "Give your everyday finances a boost.",
+      "bbox_px": [
+        582,
+        9715,
+        828,
+        9734
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0107",
+      "section_id": "remaining-page",
+      "text_raw": "Upgrade to a global lifestyle. Get the",
+      "bbox_px": [
+        922,
+        9715,
+        1168,
+        9733
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0108",
+      "section_id": "remaining-page",
+      "text_raw": "spending abroad or sticking to your",
+      "bbox_px": [
+        240,
+        9738,
+        478,
+        9754
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0109",
+      "section_id": "remaining-page",
+      "text_raw": "Get more out of your money for less than",
+      "bbox_px": [
+        582,
+        9738,
+        857,
+        9754
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0110",
+      "section_id": "remaining-page",
+      "text_raw": "confidence to spend, invest, and save",
+      "bbox_px": [
+        922,
+        9738,
+        1176,
+        9754
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0111",
+      "section_id": "remaining-page",
+      "text_raw": "budget with our built-in budgeting, get",
+      "bbox_px": [
+        240,
+        9759,
+        501,
+        9777
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0112",
+      "section_id": "remaining-page",
+      "text_raw": "the cost of a coffee",
+      "bbox_px": [
+        582,
+        9759,
+        716,
+        9775
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0113",
+      "section_id": "remaining-page",
+      "text_raw": "smarter across the globe",
+      "bbox_px": [
+        922,
+        9760,
+        1092,
+        9776
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0114",
+      "section_id": "remaining-page",
+      "text_raw": "more from your money with our Standard",
+      "bbox_px": [
+        240,
+        9783,
+        514,
+        9797
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0115",
+      "section_id": "remaining-page",
+      "text_raw": "account",
+      "bbox_px": [
+        240,
+        9806,
+        300,
+        9817
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0116",
+      "section_id": "remaining-page",
+      "text_raw": "Metal",
+      "bbox_px": [
+        240,
+        9929,
+        308,
+        9953
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0117",
+      "section_id": "remaining-page",
+      "text_raw": "Ultra",
+      "bbox_px": [
+        750,
+        9932,
+        804,
+        9953
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0118",
+      "section_id": "remaining-page",
+      "text_raw": "€15.99/month",
+      "bbox_px": [
+        243,
+        9966,
+        355,
+        9981
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0119",
+      "section_id": "remaining-page",
+      "text_raw": "€45/month",
+      "bbox_px": [
+        752,
+        9966,
+        849,
+        9984
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0120",
+      "section_id": "remaining-page",
+      "text_raw": "Get ultimate power with the full package. Stand out with an",
+      "bbox_px": [
+        243,
+        9997,
+        635,
+        10016
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0121",
+      "section_id": "remaining-page",
+      "text_raw": "Experience the exceptional, featuring exclusive lifestyle benefits,",
+      "bbox_px": [
+        752,
+        9997,
+        1181,
+        10016
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0122",
+      "section_id": "remaining-page",
+      "text_raw": "exclusive contactless Metal card, earn up to 1% cashback, and",
+      "bbox_px": [
+        240,
+        10021,
+        653,
+        10036
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0123",
+      "section_id": "remaining-page",
+      "text_raw": "world-class travel, and a precision engineered, platinum-plated",
+      "bbox_px": [
+        752,
+        10021,
+        1170,
+        10036
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0124",
+      "section_id": "remaining-page",
+      "text_raw": "much more",
+      "bbox_px": [
+        240,
+        10042,
+        318,
+        10055
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0125",
+      "section_id": "remaining-page",
+      "text_raw": "card",
+      "bbox_px": [
+        752,
+        10042,
+        786,
+        10055
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0126",
+      "section_id": "remaining-page",
+      "text_raw": "What are you waiting for?",
+      "bbox_px": [
+        214,
+        10219,
+        493,
+        10248
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0127",
+      "section_id": "remaining-page",
+      "text_raw": "Breakthrough banking",
+      "bbox_px": [
+        219,
+        10277,
+        616,
+        10319
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0128",
+      "section_id": "remaining-page",
+      "text_raw": "Learn more",
+      "bbox_px": [
+        240,
+        10363,
+        326,
+        10377
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0129",
+      "section_id": "remaining-page",
+      "text_raw": "Daily Banking",
+      "bbox_px": [
+        723,
+        10478,
+        810,
+        10495
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0130",
+      "section_id": "remaining-page",
+      "text_raw": "Portfolio",
+      "bbox_px": [
+        216,
+        10479,
+        274,
+        10494
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0131",
+      "section_id": "remaining-page",
+      "text_raw": "Plans",
+      "bbox_px": [
+        893,
+        10479,
+        932,
+        10494
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0132",
+      "section_id": "remaining-page",
+      "text_raw": "Company",
+      "bbox_px": [
+        1063,
+        10479,
+        1123,
+        10494
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0133",
+      "section_id": "remaining-page",
+      "text_raw": "Accounts",
+      "bbox_px": [
+        386,
+        10481,
+        447,
+        10495
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0134",
+      "section_id": "remaining-page",
+      "text_raw": "Help",
+      "bbox_px": [
+        556,
+        10481,
+        588,
+        10497
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0135",
+      "section_id": "remaining-page",
+      "text_raw": "Help Centre",
+      "bbox_px": [
+        554,
+        10512,
+        629,
+        10529
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0136",
+      "section_id": "remaining-page",
+      "text_raw": "Standard",
+      "bbox_px": [
+        893,
+        10512,
+        951,
+        10528
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0137",
+      "section_id": "remaining-page",
+      "text_raw": "Cards",
+      "bbox_px": [
+        726,
+        10513,
+        765,
+        10528
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0138",
+      "section_id": "remaining-page",
+      "text_raw": "Crypto",
+      "bbox_px": [
+        219,
+        10515,
+        263,
+        10528
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0139",
+      "section_id": "remaining-page",
+      "text_raw": "Joint Accounts",
+      "bbox_px": [
+        386,
+        10515,
+        480,
+        10529
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0140",
+      "section_id": "remaining-page",
+      "text_raw": "About us",
+      "bbox_px": [
+        1063,
+        10515,
+        1121,
+        10529
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0141",
+      "section_id": "remaining-page",
+      "text_raw": "Stocks",
+      "bbox_px": [
+        216,
+        10547,
+        263,
+        10562
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0142",
+      "section_id": "remaining-page",
+      "text_raw": "System Status",
+      "bbox_px": [
+        556,
+        10547,
+        645,
+        10563
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0143",
+      "section_id": "remaining-page",
+      "text_raw": "Payments",
+      "bbox_px": [
+        723,
+        10547,
+        786,
+        10562
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0144",
+      "section_id": "remaining-page",
+      "text_raw": "Plus",
+      "bbox_px": [
+        893,
+        10547,
+        922,
+        10562
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0145",
+      "section_id": "remaining-page",
+      "text_raw": "Contact",
+      "bbox_px": [
+        1063,
+        10547,
+        1113,
+        10562
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0146",
+      "section_id": "remaining-page",
+      "text_raw": "Pro for Freelance",
+      "bbox_px": [
+        386,
+        10549,
+        491,
+        10562
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0147",
+      "section_id": "remaining-page",
+      "text_raw": "Revolut <18 Parents &",
+      "bbox_px": [
+        386,
+        10581,
+        520,
+        10596
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0148",
+      "section_id": "remaining-page",
+      "text_raw": "Community",
+      "bbox_px": [
+        556,
+        10581,
+        629,
+        10596
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0149",
+      "section_id": "remaining-page",
+      "text_raw": "Budgeting & Analytics",
+      "bbox_px": [
+        723,
+        10581,
+        857,
+        10597
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0150",
+      "section_id": "remaining-page",
+      "text_raw": "Premium",
+      "bbox_px": [
+        893,
+        10581,
+        951,
+        10596
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0151",
+      "section_id": "remaining-page",
+      "text_raw": "Culture",
+      "bbox_px": [
+        1063,
+        10581,
+        1111,
+        10597
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0152",
+      "section_id": "remaining-page",
+      "text_raw": "Commodities",
+      "bbox_px": [
+        219,
+        10583,
+        300,
+        10596
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0153",
+      "section_id": "remaining-page",
+      "text_raw": "Guardians",
+      "bbox_px": [
+        386,
+        10598,
+        452,
+        10615
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0154",
+      "section_id": "remaining-page",
+      "text_raw": "Developers API",
+      "bbox_px": [
+        556,
+        10615,
+        650,
+        10630
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0155",
+      "section_id": "remaining-page",
+      "text_raw": "Metal",
+      "bbox_px": [
+        893,
+        10615,
+        932,
+        10630
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0156",
+      "section_id": "remaining-page",
+      "text_raw": "Diversity & Inclusion",
+      "bbox_px": [
+        1063,
+        10615,
+        1186,
+        10630
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0157",
+      "section_id": "remaining-page",
+      "text_raw": "Security",
+      "bbox_px": [
+        216,
+        10625,
+        271,
+        10638
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0158",
+      "section_id": "remaining-page",
+      "text_raw": "Lifestyle",
+      "bbox_px": [
+        386,
+        10641,
+        441,
+        10656
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0159",
+      "section_id": "remaining-page",
+      "text_raw": "Code of Conduct",
+      "bbox_px": [
+        1063,
+        10648,
+        1170,
+        10665
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0160",
+      "section_id": "remaining-page",
+      "text_raw": "Ultra",
+      "bbox_px": [
+        893,
+        10651,
+        927,
+        10664
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0161",
+      "section_id": "remaining-page",
+      "text_raw": "Security Bugs",
+      "bbox_px": [
+        216,
+        10656,
+        303,
+        10673
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0162",
+      "section_id": "remaining-page",
+      "text_raw": "Stays & Experiences",
+      "bbox_px": [
+        386,
+        10677,
+        512,
+        10691
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0163",
+      "section_id": "remaining-page",
+      "text_raw": "Compare Plans",
+      "bbox_px": [
+        893,
+        10683,
+        985,
+        10699
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0164",
+      "section_id": "remaining-page",
+      "text_raw": "Sustainability",
+      "bbox_px": [
+        1063,
+        10683,
+        1147,
+        10698
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0165",
+      "section_id": "remaining-page",
+      "text_raw": "Donations",
+      "bbox_px": [
+        386,
+        10711,
+        452,
+        10725
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0166",
+      "section_id": "remaining-page",
+      "text_raw": "Leadership",
+      "bbox_px": [
+        1063,
+        10719,
+        1134,
+        10732
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0167",
+      "section_id": "remaining-page",
+      "text_raw": "Global insurance",
+      "bbox_px": [
+        386,
+        10745,
+        488,
+        10759
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0168",
+      "section_id": "remaining-page",
+      "text_raw": "Careers",
+      "bbox_px": [
+        1063,
+        10751,
+        1113,
+        10766
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0169",
+      "section_id": "remaining-page",
+      "text_raw": "Working at Revolut",
+      "bbox_px": [
+        1061,
+        10787,
+        1178,
+        10801
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0170",
+      "section_id": "remaining-page",
+      "text_raw": "Affiliates",
+      "bbox_px": [
+        1063,
+        10819,
+        1118,
+        10832
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0171",
+      "section_id": "remaining-page",
+      "text_raw": "Influencers",
+      "bbox_px": [
+        1063,
+        10855,
+        1131,
+        10866
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0172",
+      "section_id": "remaining-page",
+      "text_raw": "News & Media",
+      "bbox_px": [
+        1063,
+        10886,
+        1149,
+        10900
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0173",
+      "section_id": "remaining-page",
+      "text_raw": "Financial Statements",
+      "bbox_px": [
+        1063,
+        10921,
+        1189,
+        10934
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0174",
+      "section_id": "remaining-page",
+      "text_raw": "Blog",
+      "bbox_px": [
+        1063,
+        10955,
+        1092,
+        10970
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0175",
+      "section_id": "remaining-page",
+      "text_raw": "Revolut",
+      "bbox_px": [
+        216,
+        11031,
+        295,
+        11052
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0176",
+      "section_id": "remaining-page",
+      "text_raw": "in",
+      "bbox_px": [
+        1152,
+        11036,
+        1170,
+        11054
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0177",
+      "section_id": "remaining-page",
+      "text_raw": "Customer Vulnerability",
+      "bbox_px": [
+        663,
+        11114,
+        799,
+        11127
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0178",
+      "section_id": "remaining-page",
+      "text_raw": "Data Privacy Statement for Candidates",
+      "bbox_px": [
+        818,
+        11114,
+        1050,
+        11131
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0179",
+      "section_id": "remaining-page",
+      "text_raw": "Legal Agreements",
+      "bbox_px": [
+        441,
+        11116,
+        554,
+        11130
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0180",
+      "section_id": "remaining-page",
+      "text_raw": "* Malta",
+      "bbox_px": [
+        222,
+        11117,
+        277,
+        11128
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0181",
+      "section_id": "remaining-page",
+      "text_raw": "Website terms",
+      "bbox_px": [
+        337,
+        11117,
+        425,
+        11128
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0182",
+      "section_id": "remaining-page",
+      "text_raw": "Complaints",
+      "bbox_px": [
+        574,
+        11117,
+        642,
+        11130
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0183",
+      "section_id": "remaining-page",
+      "text_raw": "UK Modern Slavery Policy",
+      "bbox_px": [
+        334,
+        11140,
+        491,
+        11156
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0184",
+      "section_id": "remaining-page",
+      "text_raw": "Privacy",
+      "bbox_px": [
+        508,
+        11140,
+        557,
+        11157
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0185",
+      "section_id": "remaining-page",
+      "text_raw": "© 2023 Revolut Bank UAB",
+      "bbox_px": [
+        217,
+        11201,
+        374,
+        11216
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0186",
+      "section_id": "remaining-page",
+      "text_raw": "If you would like to find out more about which Revolut entity you receive services from, please click here. If you have any other questions, please reach out to us via the in-",
+      "bbox_px": [
+        216,
+        11235,
+        1217,
+        11257
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0187",
+      "section_id": "remaining-page",
+      "text_raw": "app chat in the Revolut app.",
+      "bbox_px": [
+        216,
+        11258,
+        384,
+        11272
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0188",
+      "section_id": "remaining-page",
+      "text_raw": "Revolut Bank UAB is a bank established in the Republic of Lithuania, registered address: Konstitucijos ave. 21B, Vilnius, 08130, the Republic of Lithuania, number of",
+      "bbox_px": [
+        216,
+        11274,
+        1173,
+        11290
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0189",
+      "section_id": "remaining-page",
+      "text_raw": "registration 304580906, Fl code 70700. Revolut Bank UAB is licensed by the European Central Bank and regulated by the Bank of Lithuania. Revolut Bank UAB provides",
+      "bbox_px": [
+        217,
+        11291,
+        1199,
+        11306
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0190",
+      "section_id": "remaining-page",
+      "text_raw": "credit, payment, current account, and demand deposit account services.",
+      "bbox_px": [
+        219,
+        11310,
+        642,
+        11327
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0191",
+      "section_id": "remaining-page",
+      "text_raw": "Insurance distribution service is provided by Revolut Insurance Europe UAB, which is authorised by the Bank of Lithuania as an insurance broker undertaking. Registered",
+      "bbox_px": [
+        216,
+        11329,
+        1204,
+        11345
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0192",
+      "section_id": "remaining-page",
+      "text_raw": "address: Konstitucijos ave. 21B, Vilnius, 08130, the Republic of Lithuania, number of registration 305910164.",
+      "bbox_px": [
+        217,
+        11346,
+        849,
+        11361
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0193",
+      "section_id": "remaining-page",
+      "text_raw": "Revolut Ltd (No. 08804411) is authorised by the Financial Conduct Authority under the Electronic Money Regulations 2011 (Firm Reference 900562). Registered address: 7",
+      "bbox_px": [
+        216,
+        11363,
+        1215,
+        11379
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0194",
+      "section_id": "remaining-page",
+      "text_raw": "Westferry Circus, Canary Wharf, London, England, E14 4HD.",
+      "bbox_px": [
+        216,
+        11383,
+        569,
+        11397
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0195",
+      "section_id": "remaining-page",
+      "text_raw": "Westferry Circus, Canary Wharf, London, England, E14 4HD",
+      "bbox_px": [
+        217,
+        11383,
+        567,
+        11396
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0196",
+      "section_id": "remaining-page",
+      "text_raw": "Insurance related-products for Revolut Ltd customers are provided by Revolut Travel Ltd, which is authorised by the Financial Conduct Authority to undertake insurance",
+      "bbox_px": [
+        219,
+        11399,
+        1201,
+        11416
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0197",
+      "section_id": "remaining-page",
+      "text_raw": "mediation services (FCA No: 780586) and by Revolut Ltd, an Appointed Representative of Revolut Travel Ltd in relation to insurance distribution activities. Investment",
+      "bbox_px": [
+        217,
+        11419,
+        1188,
+        11432
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0198",
+      "section_id": "remaining-page",
+      "text_raw": "services in the European Economic Area (\"EEA) are provided by Revolut Securities Europe UAB (registration code 305799582, address Konstitucijos ave. 21B, Vilnius,",
+      "bbox_px": [
+        217,
+        11436,
+        1186,
+        11453
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0199",
+      "section_id": "remaining-page",
+      "text_raw": "Lithuania, LT-08130), which is authorised by the Bank of Lithuania as a brokerage firm.",
+      "bbox_px": [
+        217,
+        11454,
+        726,
+        11470
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0200",
+      "section_id": "remaining-page",
+      "text_raw": "Revolut Ltd provides Crypto and Commodity products. Revolut Ltd is registered with the Financial Conduct Authority in the United Kingdom to offer cryptocurrency",
+      "bbox_px": [
+        219,
+        11472,
+        1174,
+        11487
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0201",
+      "section_id": "remaining-page",
+      "text_raw": "services under the Money Laundering, Terrorist Financing and Transfer of Funds (Information on the Payer) Regulations 2017. Revolut's commodities service is not",
+      "bbox_px": [
+        217,
+        11488,
+        1167,
+        11506
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0202",
+      "section_id": "remaining-page",
+      "text_raw": "regulated by the Financial Conduct Authority.",
+      "bbox_px": [
+        217,
+        11509,
+        485,
+        11522
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    }
+  ]
+}

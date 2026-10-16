@@ -1,0 +1,4648 @@
+{
+  "schema_version": "0.1",
+  "id": "dropbox",
+  "annotation": {
+    "status": "pilot_partial",
+    "method": "Assistant visual inspection of all 50 overview/full-page thumbnails and readable top-window crops; manual hero-copy transcription; local Apple Vision OCR of full screenshots.",
+    "coverage": [
+      "Visible headline and selected actions",
+      "Supporting hero copy where recorded",
+      "Industry/audience/intended action retrieval facets",
+      "Observed desktop composition and evidence images"
+    ],
+    "unreviewed": [
+      "Full-page OCR transcription candidates",
+      "Precise semantic body-section segmentation",
+      "Runtime and responsive behavior"
+    ]
+  },
+  "provenance": {
+    "gallery_url": "https://saaslandingpage.com/dropbox",
+    "gallery_saved_at": "2026-09-29T15:11:06.406Z",
+    "original_site_url": null,
+    "screenshot_captured_at": null,
+    "gallery_meta_path": "provenance/dropbox-meta.json",
+    "gallery_text_path": "provenance/dropbox-gallery.txt"
+  },
+  "images": [
+    {
+      "id": "full",
+      "path": "screenshots/dropbox.png",
+      "sha256": "984d301005efb4bdec5f07df9c8b54b3556dcfad172a539541ffbef01313d3a9",
+      "width": 1440,
+      "height": 9341,
+      "role": "source",
+      "parent_id": null,
+      "bbox_px": null
+    },
+    {
+      "id": "hero-window",
+      "path": "crops/dropbox-hero.png",
+      "sha256": "c07e1c91ebb4e9e26ba63b46f7e164269515cd346c93cef8f9c8982177d64975",
+      "width": 1440,
+      "height": 1000,
+      "role": "crop",
+      "parent_id": "full",
+      "bbox_px": [
+        0,
+        0,
+        1440,
+        1000
+      ]
+    }
+  ],
+  "retrieval": {
+    "page_kind": "landing-page",
+    "summary": "A compact copy column and blue action sit beside desktop and mobile file views; customer proof follows.",
+    "tags": [
+      "industry:Productivity and collaboration",
+      "audience:Individuals and teams",
+      "conversion_goal:free-trial",
+      "style:interface-led",
+      "color_family:white",
+      "hero_layout:split"
+    ]
+  },
+  "claims": [
+    {
+      "field": "industry",
+      "value": "Productivity and collaboration",
+      "basis": "interpretation",
+      "confidence": "medium",
+      "evidence_ids": [
+        "hero-window",
+        "full"
+      ]
+    },
+    {
+      "field": "audience",
+      "value": "Individuals and teams",
+      "basis": "interpretation",
+      "confidence": "medium",
+      "evidence_ids": [
+        "hero-window",
+        "full"
+      ]
+    },
+    {
+      "field": "conversion_goal",
+      "value": "free-trial",
+      "basis": "interpretation",
+      "confidence": "medium",
+      "evidence_ids": [
+        "hero-window",
+        "full"
+      ]
+    },
+    {
+      "field": "style",
+      "value": "interface-led",
+      "basis": "interpretation",
+      "confidence": "medium",
+      "evidence_ids": [
+        "hero-window",
+        "full"
+      ]
+    },
+    {
+      "field": "color_family",
+      "value": "white",
+      "basis": "screenshot_observation",
+      "confidence": "high",
+      "evidence_ids": [
+        "hero-window",
+        "full"
+      ]
+    },
+    {
+      "field": "hero_layout",
+      "value": "split",
+      "basis": "screenshot_observation",
+      "confidence": "high",
+      "evidence_ids": [
+        "hero-window",
+        "full"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "id": "top-window",
+      "order": 0,
+      "role": "top-page-evidence-window",
+      "pattern": "split",
+      "takeaway": "Get to work, with a lot less work",
+      "evidence_ids": [
+        "hero-window",
+        "full"
+      ],
+      "observations": [
+        "A compact copy column and blue action sit beside desktop and mobile file views; customer proof follows.",
+        "Window includes the page header and may include the start of subsequent content."
+      ],
+      "visible_affordances": [
+        "Try Dropbox free"
+      ],
+      "runtime_verified": false
+    },
+    {
+      "id": "remaining-page",
+      "order": 1,
+      "role": "unsegmented-page-body",
+      "pattern": "unclassified",
+      "takeaway": "Inspect the full screenshot; detailed body annotation is pending.",
+      "evidence_ids": [
+        "full"
+      ],
+      "observations": [
+        "Full-page visual evidence and unreviewed OCR are retained."
+      ],
+      "visible_affordances": [],
+      "runtime_verified": false
+    }
+  ],
+  "recipes": [],
+  "unknowns": [
+    "No conversion-performance data; conversion_goal describes an intended visible action.",
+    "No verified mobile layout, animation, interaction, DOM, source code, font names, or CSS spacing values.",
+    "Screenshot capture date is unknown; gallery savedAt is the download date.",
+    "Full-page semantic section boundaries and body copy classification remain unreviewed.",
+    "The first 1000 pixels are an evidence window, not a browser viewport or exact hero boundary.",
+    "Copy text omits decorative icons; text punctuation is transcribed as visible, but font-specific glyph identity is not established."
+  ],
+  "copy_blocks": [
+    {
+      "id": "copy-01",
+      "section_id": "top-window",
+      "role": "headline",
+      "text_verbatim": "Get to work, with a lot less work",
+      "visible_lines": [],
+      "evidence_ids": [
+        "hero-window",
+        "full"
+      ],
+      "reading_order": 0,
+      "transcription_status": "visually_verified",
+      "uncertainties": [
+        "Visual line wrapping is not transcribed; use the screenshot.",
+        "Reading order is grouped editorially by copy role, not a DOM reading-order measurement."
+      ]
+    },
+    {
+      "id": "copy-02",
+      "section_id": "top-window",
+      "role": "supporting_copy",
+      "text_verbatim": "Dropbox delivers tools that help you collaborate with ease, move work forward faster, and keep it all safe.",
+      "visible_lines": [],
+      "evidence_ids": [
+        "hero-window",
+        "full"
+      ],
+      "reading_order": 1,
+      "transcription_status": "visually_verified",
+      "uncertainties": [
+        "Visual line wrapping is not transcribed; use the screenshot.",
+        "Reading order is grouped editorially by copy role, not a DOM reading-order measurement."
+      ]
+    },
+    {
+      "id": "copy-03",
+      "section_id": "top-window",
+      "role": "cta",
+      "text_verbatim": "Try Dropbox free",
+      "visible_lines": [],
+      "evidence_ids": [
+        "hero-window",
+        "full"
+      ],
+      "reading_order": 2,
+      "transcription_status": "visually_verified",
+      "uncertainties": [
+        "Visual line wrapping is not transcribed; use the screenshot.",
+        "Reading order is grouped editorially by copy role, not a DOM reading-order measurement."
+      ]
+    }
+  ],
+  "transcription_candidates": [
+    {
+      "id": "ocr-0001",
+      "section_id": "top-window",
+      "text_raw": "Dropbox",
+      "bbox_px": [
+        70,
+        26,
+        175,
+        49
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0002",
+      "section_id": "top-window",
+      "text_raw": "Solutions v Business Pricing",
+      "bbox_px": [
+        303,
+        26,
+        556,
+        47
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0003",
+      "section_id": "top-window",
+      "text_raw": "Products v",
+      "bbox_px": [
+        190,
+        28,
+        287,
+        44
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0004",
+      "section_id": "top-window",
+      "text_raw": "Contact sales",
+      "bbox_px": [
+        943,
+        28,
+        1040,
+        44
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0005",
+      "section_id": "top-window",
+      "text_raw": "Get app v",
+      "bbox_px": [
+        1045,
+        28,
+        1134,
+        44
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0006",
+      "section_id": "top-window",
+      "text_raw": "Sign up",
+      "bbox_px": [
+        1149,
+        28,
+        1212,
+        47
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0007",
+      "section_id": "top-window",
+      "text_raw": "Get started",
+      "bbox_px": [
+        1311,
+        28,
+        1403,
+        44
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0008",
+      "section_id": "top-window",
+      "text_raw": "Log in",
+      "bbox_px": [
+        1225,
+        30,
+        1275,
+        47
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0009",
+      "section_id": "top-window",
+      "text_raw": "Home",
+      "bbox_px": [
+        723,
+        214,
+        763,
+        225
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0010",
+      "section_id": "top-window",
+      "text_raw": "Q Search",
+      "bbox_px": [
+        883,
+        214,
+        938,
+        227
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0011",
+      "section_id": "top-window",
+      "text_raw": "• All files",
+      "bbox_px": [
+        729,
+        250,
+        784,
+        264
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0012",
+      "section_id": "top-window",
+      "text_raw": "9:41",
+      "bbox_px": [
+        1194,
+        256,
+        1217,
+        269
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0013",
+      "section_id": "top-window",
+      "text_raw": "Create",
+      "bbox_px": [
+        878,
+        279,
+        917,
+        295
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0014",
+      "section_id": "top-window",
+      "text_raw": "Upload",
+      "bbox_px": [
+        982,
+        279,
+        1021,
+        293
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0015",
+      "section_id": "top-window",
+      "text_raw": "Create folder",
+      "bbox_px": [
+        1084,
+        279,
+        1149,
+        293
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0016",
+      "section_id": "top-window",
+      "text_raw": "Home",
+      "bbox_px": [
+        1178,
+        282,
+        1220,
+        295
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0017",
+      "section_id": "top-window",
+      "text_raw": "Д Й +",
+      "bbox_px": [
+        1304,
+        282,
+        1364,
+        298
+      ],
+      "ocr_confidence": 0.30000001192092896,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0018",
+      "section_id": "top-window",
+      "text_raw": "Starred",
+      "bbox_px": [
+        718,
+        295,
+        760,
+        300
+      ],
+      "ocr_confidence": 0.30000001192092896,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0019",
+      "section_id": "top-window",
+      "text_raw": "Q. Search for anything",
+      "bbox_px": [
+        1181,
+        308,
+        1280,
+        322
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0020",
+      "section_id": "top-window",
+      "text_raw": "Get to work, with",
+      "bbox_px": [
+        47,
+        316,
+        402,
+        363
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0021",
+      "section_id": "top-window",
+      "text_raw": "All files",
+      "bbox_px": [
+        872,
+        334,
+        919,
+        348
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0022",
+      "section_id": "top-window",
+      "text_raw": "See all",
+      "bbox_px": [
+        1335,
+        337,
+        1366,
+        350
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0023",
+      "section_id": "top-window",
+      "text_raw": "# Campaign Bud...",
+      "bbox_px": [
+        726,
+        340,
+        823,
+        353
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0024",
+      "section_id": "top-window",
+      "text_raw": "ekecema",
+      "bbox_px": [
+        1181,
+        342,
+        1230,
+        347
+      ],
+      "ocr_confidence": 0.30000001192092896,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0025",
+      "section_id": "top-window",
+      "text_raw": "• Glass Mockup",
+      "bbox_px": [
+        729,
+        363,
+        815,
+        376
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0026",
+      "section_id": "top-window",
+      "text_raw": "a lot less work",
+      "bbox_px": [
+        47,
+        366,
+        350,
+        400
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0027",
+      "section_id": "top-window",
+      "text_raw": "PDF",
+      "bbox_px": [
+        938,
+        366,
+        959,
+        379
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0028",
+      "section_id": "top-window",
+      "text_raw": "Drawings",
+      "bbox_px": [
+        1045,
+        368,
+        1089,
+        381
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0029",
+      "section_id": "top-window",
+      "text_raw": "MOV - 2:34",
+      "bbox_px": [
+        1220,
+        381,
+        1257,
+        387
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0030",
+      "section_id": "top-window",
+      "text_raw": "Mood Board.pdf",
+      "bbox_px": [
+        1220,
+        410,
+        1280,
+        421
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0031",
+      "section_id": "top-window",
+      "text_raw": "Dropbox delivers tools that help you collaborate with",
+      "bbox_px": [
+        49,
+        429,
+        546,
+        450
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0032",
+      "section_id": "top-window",
+      "text_raw": "L 21 images",
+      "bbox_px": [
+        1198,
+        451,
+        1260,
+        469
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0033",
+      "section_id": "top-window",
+      "text_raw": "ease, move work forward faster, and keep it all safe.",
+      "bbox_px": [
+        46,
+        455,
+        535,
+        481
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0034",
+      "section_id": "top-window",
+      "text_raw": "See all",
+      "bbox_px": [
+        1335,
+        501,
+        1369,
+        515
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0035",
+      "section_id": "top-window",
+      "text_raw": "Shared",
+      "bbox_px": [
+        1181,
+        502,
+        1228,
+        515
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0036",
+      "section_id": "top-window",
+      "text_raw": "Try Dropbox free",
+      "bbox_px": [
+        72,
+        538,
+        206,
+        562
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0037",
+      "section_id": "top-window",
+      "text_raw": "→",
+      "bbox_px": [
+        232,
+        541,
+        248,
+        557
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0038",
+      "section_id": "top-window",
+      "text_raw": "no CIo",
+      "bbox_px": [
+        870,
+        541,
+        914,
+        546
+      ],
+      "ocr_confidence": 0.30000001192092896,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0039",
+      "section_id": "top-window",
+      "text_raw": "ke erence snd a",
+      "bbox_px": [
+        1034,
+        541,
+        1100,
+        546
+      ],
+      "ocr_confidence": 0.30000001192092896,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0040",
+      "section_id": "top-window",
+      "text_raw": "MOV - 2:34",
+      "bbox_px": [
+        870,
+        551,
+        919,
+        565
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0041",
+      "section_id": "top-window",
+      "text_raw": "2026 Planning",
+      "bbox_px": [
+        1181,
+        590,
+        1238,
+        604
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0042",
+      "section_id": "top-window",
+      "text_raw": "Silverware Campa... • Fi",
+      "bbox_px": [
+        1272,
+        590,
+        1374,
+        604
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0043",
+      "section_id": "top-window",
+      "text_raw": "§ Viewed links",
+      "bbox_px": [
+        1181,
+        622,
+        1251,
+        636
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0044",
+      "section_id": "top-window",
+      "text_raw": "See all",
+      "bbox_px": [
+        1335,
+        622,
+        1366,
+        636
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0045",
+      "section_id": "top-window",
+      "text_raw": "Join the over 700 million registered users who trust Dropbox",
+      "bbox_px": [
+        423,
+        881,
+        1016,
+        905
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0046",
+      "section_id": "top-window",
+      "text_raw": "zoom",
+      "bbox_px": [
+        1275,
+        991,
+        1426,
+        1028
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0047",
+      "section_id": "top-window",
+      "text_raw": "McLarenẾ",
+      "bbox_px": [
+        49,
+        992,
+        196,
+        1019
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0048",
+      "section_id": "remaining-page",
+      "text_raw": "Hydro Flask®",
+      "bbox_px": [
+        802,
+        1006,
+        935,
+        1030
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0049",
+      "section_id": "remaining-page",
+      "text_raw": "FORMULA 1 TEAM",
+      "bbox_px": [
+        73,
+        1020,
+        182,
+        1033
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0050",
+      "section_id": "remaining-page",
+      "text_raw": "KATZ MEDIA",
+      "bbox_px": [
+        1032,
+        1020,
+        1176,
+        1041
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0051",
+      "section_id": "remaining-page",
+      "text_raw": "GROUF",
+      "bbox_px": [
+        1142,
+        1038,
+        1178,
+        1051
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0052",
+      "section_id": "remaining-page",
+      "text_raw": "CIRQUE DU SOLEIL",
+      "bbox_px": [
+        554,
+        1051,
+        676,
+        1067
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0053",
+      "section_id": "remaining-page",
+      "text_raw": "Q Find",
+      "bbox_px": [
+        692,
+        1326,
+        747,
+        1342
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0054",
+      "section_id": "remaining-page",
+      "text_raw": "Find it fast, every time",
+      "bbox_px": [
+        567,
+        1370,
+        870,
+        1402
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0055",
+      "section_id": "remaining-page",
+      "text_raw": "Get to the right file, fact, or message when you need it, so you spend less time searching and more",
+      "bbox_px": [
+        347,
+        1420,
+        1095,
+        1438
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0056",
+      "section_id": "remaining-page",
+      "text_raw": "time working.",
+      "bbox_px": [
+        666,
+        1443,
+        773,
+        1461
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0057",
+      "section_id": "remaining-page",
+      "text_raw": "Try Dropbox free",
+      "bbox_px": [
+        629,
+        1514,
+        763,
+        1533
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0058",
+      "section_id": "remaining-page",
+      "text_raw": "→",
+      "bbox_px": [
+        786,
+        1514,
+        804,
+        1530
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0059",
+      "section_id": "remaining-page",
+      "text_raw": "Q Fall samples",
+      "bbox_px": [
+        648,
+        1900,
+        747,
+        1913
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0060",
+      "section_id": "remaining-page",
+      "text_raw": "Broadmire knit",
+      "bbox_px": [
+        269,
+        2125,
+        386,
+        2142
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0061",
+      "section_id": "remaining-page",
+      "text_raw": "PNG • 32.4 KB",
+      "bbox_px": [
+        269,
+        2149,
+        381,
+        2165
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0062",
+      "section_id": "remaining-page",
+      "text_raw": "DSC_1241",
+      "bbox_px": [
+        407,
+        2156,
+        486,
+        2178
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0063",
+      "section_id": "remaining-page",
+      "text_raw": "JPG • 12.7 KB",
+      "bbox_px": [
+        404,
+        2180,
+        509,
+        2199
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0064",
+      "section_id": "remaining-page",
+      "text_raw": "Et Organize",
+      "bbox_px": [
+        674,
+        2327,
+        765,
+        2343
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0065",
+      "section_id": "remaining-page",
+      "text_raw": "Cloud storage that keeps everyone in sync",
+      "bbox_px": [
+        431,
+        2371,
+        1006,
+        2401
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0066",
+      "section_id": "remaining-page",
+      "text_raw": "Keep every version current and easy to manage. With synced team folders, previews for 175+ file types, I",
+      "bbox_px": [
+        331,
+        2444,
+        1110,
+        2463
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0067",
+      "section_id": "remaining-page",
+      "text_raw": "and built-in Al summaries (coming soon), your content stays organized and accessible.",
+      "bbox_px": [
+        389,
+        2468,
+        1050,
+        2486
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0068",
+      "section_id": "remaining-page",
+      "text_raw": "Learn more",
+      "bbox_px": [
+        546,
+        2565,
+        640,
+        2581
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0069",
+      "section_id": "remaining-page",
+      "text_raw": "→",
+      "bbox_px": [
+        661,
+        2565,
+        682,
+        2583
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0070",
+      "section_id": "remaining-page",
+      "text_raw": "Try Dropbox free →",
+      "bbox_px": [
+        757,
+        2565,
+        914,
+        2584
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0071",
+      "section_id": "remaining-page",
+      "text_raw": "Set naming convention",
+      "bbox_px": [
+        350,
+        2818,
+        540,
+        2837
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0072",
+      "section_id": "remaining-page",
+      "text_raw": "D 2025-Filename-Grandprix. jpg",
+      "bbox_px": [
+        365,
+        2861,
+        538,
+        2877
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0073",
+      "section_id": "remaining-page",
+      "text_raw": "Date uploaded",
+      "bbox_px": [
+        365,
+        2908,
+        439,
+        2921
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0074",
+      "section_id": "remaining-page",
+      "text_raw": "YYYY",
+      "bbox_px": [
+        507,
+        2908,
+        538,
+        2921
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0075",
+      "section_id": "remaining-page",
+      "text_raw": "Filename",
+      "bbox_px": [
+        364,
+        2938,
+        413,
+        2957
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0076",
+      "section_id": "remaining-page",
+      "text_raw": "Keyword",
+      "bbox_px": [
+        363,
+        2976,
+        412,
+        2989
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0077",
+      "section_id": "remaining-page",
+      "text_raw": "GrandPrix",
+      "bbox_px": [
+        507,
+        2976,
+        561,
+        2986
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0078",
+      "section_id": "remaining-page",
+      "text_raw": "+ Add rule",
+      "bbox_px": [
+        355,
+        3017,
+        418,
+        3033
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0079",
+      "section_id": "remaining-page",
+      "text_raw": "Share",
+      "bbox_px": [
+        867,
+        3668,
+        909,
+        3681
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0080",
+      "section_id": "remaining-page",
+      "text_raw": "LLOTAS",
+      "bbox_px": [
+        798,
+        3674,
+        856,
+        3705
+      ],
+      "ocr_confidence": 0.30000001192092896,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0081",
+      "section_id": "remaining-page",
+      "text_raw": "Share Final_files",
+      "bbox_px": [
+        797,
+        3727,
+        906,
+        3741
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0082",
+      "section_id": "remaining-page",
+      "text_raw": "Folder",
+      "bbox_px": [
+        797,
+        3749,
+        833,
+        3762
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0083",
+      "section_id": "remaining-page",
+      "text_raw": "Add people",
+      "bbox_px": [
+        833,
+        3791,
+        922,
+        3807
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0084",
+      "section_id": "remaining-page",
+      "text_raw": "Final_fi",
+      "bbox_px": [
+        723,
+        3846,
+        781,
+        3864
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0085",
+      "section_id": "remaining-page",
+      "text_raw": "Shared",
+      "bbox_px": [
+        722,
+        3868,
+        785,
+        3891
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0086",
+      "section_id": "remaining-page",
+      "text_raw": "Copy link",
+      "bbox_px": [
+        810,
+        3879,
+        875,
+        3898
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0087",
+      "section_id": "remaining-page",
+      "text_raw": "Transfer a copy",
+      "bbox_px": [
+        953,
+        3879,
+        1061,
+        3898
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0088",
+      "section_id": "remaining-page",
+      "text_raw": "Al integrations",
+      "bbox_px": [
+        658,
+        4395,
+        781,
+        4411
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0089",
+      "section_id": "remaining-page",
+      "text_raw": "Bring Dropbox content",
+      "bbox_px": [
+        498,
+        4434,
+        940,
+        4473
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0090",
+      "section_id": "remaining-page",
+      "text_raw": "into your favorite Al tools",
+      "bbox_px": [
+        472,
+        4467,
+        962,
+        4509
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0091",
+      "section_id": "remaining-page",
+      "text_raw": "Connect Dropbox with leading Al platforms to summarize content, create shared links, and save work back to",
+      "bbox_px": [
+        305,
+        4526,
+        1134,
+        4545
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0092",
+      "section_id": "remaining-page",
+      "text_raw": "Dropbox-all without switching tools.",
+      "bbox_px": [
+        577,
+        4550,
+        859,
+        4568
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0093",
+      "section_id": "remaining-page",
+      "text_raw": "Google Gemini",
+      "bbox_px": [
+        321,
+        4667,
+        470,
+        4688
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0094",
+      "section_id": "remaining-page",
+      "text_raw": "OpenAI",
+      "bbox_px": [
+        940,
+        4667,
+        1019,
+        4688
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0095",
+      "section_id": "remaining-page",
+      "text_raw": "Pair Dropbox with Gemini chat and Gemini",
+      "bbox_px": [
+        321,
+        4704,
+        648,
+        4723
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0096",
+      "section_id": "remaining-page",
+      "text_raw": "Dropbox files are now easier to find and work",
+      "bbox_px": [
+        940,
+        4704,
+        1285,
+        4723
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0097",
+      "section_id": "remaining-page",
+      "text_raw": "Spark to build on your ideas and move them",
+      "bbox_px": [
+        321,
+        4730,
+        658,
+        4748
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0098",
+      "section_id": "remaining-page",
+      "text_raw": "with across ChatGPI. Bring in what you need",
+      "bbox_px": [
+        938,
+        4730,
+        1285,
+        4746
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0099",
+      "section_id": "remaining-page",
+      "text_raw": "forward-all while keeping access and",
+      "bbox_px": [
+        318,
+        4753,
+        611,
+        4772
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0100",
+      "section_id": "remaining-page",
+      "text_raw": "as you work, then organize, share, and act",
+      "bbox_px": [
+        938,
+        4753,
+        1257,
+        4772
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0101",
+      "section_id": "remaining-page",
+      "text_raw": "approvals in place.",
+      "bbox_px": [
+        318,
+        4775,
+        465,
+        4797
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0102",
+      "section_id": "remaining-page",
+      "text_raw": "without breaking your workflow.",
+      "bbox_px": [
+        938,
+        4777,
+        1186,
+        4796
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0103",
+      "section_id": "remaining-page",
+      "text_raw": "Connect now →",
+      "bbox_px": [
+        938,
+        4820,
+        1068,
+        4842
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0104",
+      "section_id": "remaining-page",
+      "text_raw": "Connect now →",
+      "bbox_px": [
+        321,
+        4821,
+        449,
+        4840
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0105",
+      "section_id": "remaining-page",
+      "text_raw": "Anthropic",
+      "bbox_px": [
+        321,
+        4914,
+        420,
+        4936
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0106",
+      "section_id": "remaining-page",
+      "text_raw": "Ground Claude in your Dropbox knowledge to",
+      "bbox_px": [
+        321,
+        4950,
+        669,
+        4972
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0107",
+      "section_id": "remaining-page",
+      "text_raw": "search, analyze, and review documents with the",
+      "bbox_px": [
+        318,
+        4976,
+        684,
+        4992
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0108",
+      "section_id": "remaining-page",
+      "text_raw": "context you need.",
+      "bbox_px": [
+        318,
+        5001,
+        454,
+        5020
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0109",
+      "section_id": "remaining-page",
+      "text_raw": "Connect now →",
+      "bbox_px": [
+        321,
+        5045,
+        449,
+        5064
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0110",
+      "section_id": "remaining-page",
+      "text_raw": "Security never comes second",
+      "bbox_px": [
+        514,
+        5487,
+        922,
+        5522
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0111",
+      "section_id": "remaining-page",
+      "text_raw": "From industry-leading encryption and tamper-proof documents to version history and recovery,",
+      "bbox_px": [
+        360,
+        5537,
+        1081,
+        5556
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0112",
+      "section_id": "remaining-page",
+      "text_raw": "Dropbox keeps your intellectual property safe and never sells your data.",
+      "bbox_px": [
+        449,
+        5561,
+        993,
+        5582
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0113",
+      "section_id": "remaining-page",
+      "text_raw": "Try Dropbox free",
+      "bbox_px": [
+        545,
+        5631,
+        682,
+        5656
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0114",
+      "section_id": "remaining-page",
+      "text_raw": "→",
+      "bbox_px": [
+        703,
+        5631,
+        721,
+        5652
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0115",
+      "section_id": "remaining-page",
+      "text_raw": "Learn more →",
+      "bbox_px": [
+        797,
+        5634,
+        914,
+        5652
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0116",
+      "section_id": "remaining-page",
+      "text_raw": "Share",
+      "bbox_px": [
+        663,
+        5854,
+        705,
+        5867
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0117",
+      "section_id": "remaining-page",
+      "text_raw": "< Back",
+      "bbox_px": [
+        684,
+        5916,
+        734,
+        5932
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0118",
+      "section_id": "remaining-page",
+      "text_raw": "Reference Folder",
+      "bbox_px": [
+        682,
+        5955,
+        818,
+        5972
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0119",
+      "section_id": "remaining-page",
+      "text_raw": "People Links",
+      "bbox_px": [
+        682,
+        6005,
+        776,
+        6019
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0120",
+      "section_id": "remaining-page",
+      "text_raw": "Bethany Frazier • Viewed 2 hours ago",
+      "bbox_px": [
+        747,
+        6071,
+        959,
+        6087
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0121",
+      "section_id": "remaining-page",
+      "text_raw": "Can odit •",
+      "bbox_px": [
+        1029,
+        6081,
+        1089,
+        6090
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0122",
+      "section_id": "remaining-page",
+      "text_raw": "AK IN",
+      "bbox_px": [
+        185,
+        6380,
+        248,
+        6394
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0123",
+      "section_id": "remaining-page",
+      "text_raw": "Testimonial",
+      "bbox_px": [
+        483,
+        6385,
+        556,
+        6398
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0124",
+      "section_id": "remaining-page",
+      "text_raw": "Testimonia",
+      "bbox_px": [
+        1225,
+        6385,
+        1296,
+        6395
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0125",
+      "section_id": "remaining-page",
+      "text_raw": "•GRES",
+      "bbox_px": [
+        185,
+        6398,
+        253,
+        6414
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0126",
+      "section_id": "remaining-page",
+      "text_raw": "\"The security of knowing",
+      "bbox_px": [
+        483,
+        6421,
+        716,
+        6445
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0127",
+      "section_id": "remaining-page",
+      "text_raw": "\"Seriously impres",
+      "bbox_px": [
+        1225,
+        6421,
+        1390,
+        6444
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0128",
+      "section_id": "remaining-page",
+      "text_raw": "our information is safe.\"",
+      "bbox_px": [
+        483,
+        6442,
+        710,
+        6463
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0129",
+      "section_id": "remaining-page",
+      "text_raw": "Tech influencer Justin Ts",
+      "bbox_px": [
+        1225,
+        6458,
+        1390,
+        6474
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0130",
+      "section_id": "remaining-page",
+      "text_raw": "rsp",
+      "bbox_px": [
+        180,
+        6477,
+        271,
+        6524
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0131",
+      "section_id": "remaining-page",
+      "text_raw": "Customer Bryan Chandler reveals how his team uses",
+      "bbox_px": [
+        483,
+        6479,
+        836,
+        6497
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0132",
+      "section_id": "remaining-page",
+      "text_raw": "Dropbox to keep his con",
+      "bbox_px": [
+        1225,
+        6479,
+        1390,
+        6495
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0133",
+      "section_id": "remaining-page",
+      "text_raw": "Dropbox to organize and share files securely.",
+      "bbox_px": [
+        483,
+        6500,
+        781,
+        6519
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0134",
+      "section_id": "remaining-page",
+      "text_raw": "Watch testimonial",
+      "bbox_px": [
+        483,
+        6616,
+        629,
+        6632
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0135",
+      "section_id": "remaining-page",
+      "text_raw": "Watch testimonial",
+      "bbox_px": [
+        1225,
+        6616,
+        1374,
+        6632
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0136",
+      "section_id": "remaining-page",
+      "text_raw": "Dropbox empowers across industries",
+      "bbox_px": [
+        352,
+        6895,
+        1084,
+        6936
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0137",
+      "section_id": "remaining-page",
+      "text_raw": "Construction",
+      "bbox_px": [
+        321,
+        7030,
+        441,
+        7048
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0138",
+      "section_id": "remaining-page",
+      "text_raw": "Media",
+      "bbox_px": [
+        940,
+        7030,
+        995,
+        7048
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0139",
+      "section_id": "remaining-page",
+      "text_raw": "With Dropbox for teams, you can store, access,",
+      "bbox_px": [
+        321,
+        7066,
+        676,
+        7085
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0140",
+      "section_id": "remaining-page",
+      "text_raw": "Create a flexible media workspace",
+      "bbox_px": [
+        940,
+        7066,
+        1202,
+        7082
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0141",
+      "section_id": "remaining-page",
+      "text_raw": "preview, edit, and transfer CAD, BIM, PDF, and",
+      "bbox_px": [
+        321,
+        7090,
+        674,
+        7109
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0142",
+      "section_id": "remaining-page",
+      "text_raw": "that connects your teams, content, and",
+      "bbox_px": [
+        938,
+        7090,
+        1236,
+        7109
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0143",
+      "section_id": "remaining-page",
+      "text_raw": "visual content files from anywhere.",
+      "bbox_px": [
+        318,
+        7111,
+        588,
+        7133
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0144",
+      "section_id": "remaining-page",
+      "text_raw": "tools together.",
+      "bbox_px": [
+        938,
+        7116,
+        1050,
+        7133
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0145",
+      "section_id": "remaining-page",
+      "text_raw": "Learn more →",
+      "bbox_px": [
+        318,
+        7160,
+        433,
+        7177
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0146",
+      "section_id": "remaining-page",
+      "text_raw": "Learn more →",
+      "bbox_px": [
+        938,
+        7160,
+        1053,
+        7177
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0147",
+      "section_id": "remaining-page",
+      "text_raw": "Professional services",
+      "bbox_px": [
+        940,
+        7250,
+        1142,
+        7269
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0148",
+      "section_id": "remaining-page",
+      "text_raw": "Technology",
+      "bbox_px": [
+        321,
+        7253,
+        428,
+        7272
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0149",
+      "section_id": "remaining-page",
+      "text_raw": "Make clients happier with easy collaboration,",
+      "bbox_px": [
+        940,
+        7285,
+        1283,
+        7308
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0150",
+      "section_id": "remaining-page",
+      "text_raw": "Product ideation to development, streamline",
+      "bbox_px": [
+        321,
+        7286,
+        658,
+        7306
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0151",
+      "section_id": "remaining-page",
+      "text_raw": "boosted productivity, and one organized place",
+      "bbox_px": [
+        938,
+        7309,
+        1291,
+        7332
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0152",
+      "section_id": "remaining-page",
+      "text_raw": "technology workflows so you can focus on",
+      "bbox_px": [
+        318,
+        7313,
+        642,
+        7331
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0153",
+      "section_id": "remaining-page",
+      "text_raw": "turning great ideas into products people love.",
+      "bbox_px": [
+        318,
+        7336,
+        663,
+        7355
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0154",
+      "section_id": "remaining-page",
+      "text_raw": "to get things done.",
+      "bbox_px": [
+        938,
+        7336,
+        1081,
+        7355
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0155",
+      "section_id": "remaining-page",
+      "text_raw": "Learn more →",
+      "bbox_px": [
+        318,
+        7380,
+        436,
+        7399
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0156",
+      "section_id": "remaining-page",
+      "text_raw": "Learn more →",
+      "bbox_px": [
+        938,
+        7380,
+        1053,
+        7399
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0157",
+      "section_id": "remaining-page",
+      "text_raw": "Manufacturing",
+      "bbox_px": [
+        321,
+        7469,
+        455,
+        7493
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0158",
+      "section_id": "remaining-page",
+      "text_raw": "Education",
+      "bbox_px": [
+        940,
+        7472,
+        1035,
+        7491
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0159",
+      "section_id": "remaining-page",
+      "text_raw": "Design and engineering teams easily",
+      "bbox_px": [
+        321,
+        7509,
+        601,
+        7528
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0160",
+      "section_id": "remaining-page",
+      "text_raw": "Power student learning, faculty research, and",
+      "bbox_px": [
+        940,
+        7509,
+        1283,
+        7528
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0161",
+      "section_id": "remaining-page",
+      "text_raw": "collaborate, managing complex reviews and",
+      "bbox_px": [
+        318,
+        7532,
+        653,
+        7551
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0162",
+      "section_id": "remaining-page",
+      "text_raw": "staff operations on Dropbox Education's secure",
+      "bbox_px": [
+        938,
+        7532,
+        1298,
+        7551
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0163",
+      "section_id": "remaining-page",
+      "text_raw": "sharing large files seamlessly.",
+      "bbox_px": [
+        318,
+        7556,
+        548,
+        7575
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0164",
+      "section_id": "remaining-page",
+      "text_raw": "cloud collaboration platform.",
+      "bbox_px": [
+        940,
+        7556,
+        1160,
+        7575
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0165",
+      "section_id": "remaining-page",
+      "text_raw": "Learn more →",
+      "bbox_px": [
+        318,
+        7600,
+        436,
+        7619
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0166",
+      "section_id": "remaining-page",
+      "text_raw": "Learn more →",
+      "bbox_px": [
+        938,
+        7602,
+        1055,
+        7619
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0167",
+      "section_id": "remaining-page",
+      "text_raw": "Discover, learn, thrive with Dropbox",
+      "bbox_px": [
+        376,
+        7787,
+        1063,
+        7832
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0168",
+      "section_id": "remaining-page",
+      "text_raw": "* Dropbox",
+      "bbox_px": [
+        539,
+        7948,
+        656,
+        7977
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0169",
+      "section_id": "remaining-page",
+      "text_raw": "LL Technolog",
+      "bbox_px": [
+        794,
+        8006,
+        917,
+        8032
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0170",
+      "section_id": "remaining-page",
+      "text_raw": "ALL TechnolO",
+      "bbox_px": [
+        791,
+        8007,
+        910,
+        8031
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0171",
+      "section_id": "remaining-page",
+      "text_raw": "workday",
+      "bbox_px": [
+        528,
+        8039,
+        589,
+        8063
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0172",
+      "section_id": "remaining-page",
+      "text_raw": "Article",
+      "bbox_px": [
+        133,
+        8137,
+        180,
+        8150
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0173",
+      "section_id": "remaining-page",
+      "text_raw": "Article",
+      "bbox_px": [
+        546,
+        8137,
+        590,
+        8150
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0174",
+      "section_id": "remaining-page",
+      "text_raw": "Article",
+      "bbox_px": [
+        959,
+        8137,
+        1003,
+        8150
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0175",
+      "section_id": "remaining-page",
+      "text_raw": "Study: Here's how many hours we",
+      "bbox_px": [
+        135,
+        8163,
+        452,
+        8187
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0176",
+      "section_id": "remaining-page",
+      "text_raw": "Dropbox teams up with McLaren",
+      "bbox_px": [
+        550,
+        8164,
+        851,
+        8185
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0177",
+      "section_id": "remaining-page",
+      "text_raw": "The best way to share photos with",
+      "bbox_px": [
+        959,
+        8165,
+        1285,
+        8184
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0178",
+      "section_id": "remaining-page",
+      "text_raw": "Racing as an Official Technology",
+      "bbox_px": [
+        548,
+        8185,
+        849,
+        8209
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0179",
+      "section_id": "remaining-page",
+      "text_raw": "family and friends",
+      "bbox_px": [
+        958,
+        8185,
+        1132,
+        8209
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0180",
+      "section_id": "remaining-page",
+      "text_raw": "Inco to diatrontion",
+      "bbox_px": [
+        133,
+        8186,
+        318,
+        8197
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0181",
+      "section_id": "remaining-page",
+      "text_raw": "lose to distraction-and how to get",
+      "bbox_px": [
+        133,
+        8186,
+        464,
+        8207
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0182",
+      "section_id": "remaining-page",
+      "text_raw": "ond hau to dat",
+      "bbox_px": [
+        321,
+        8186,
+        465,
+        8197
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0183",
+      "section_id": "remaining-page",
+      "text_raw": "Doninc oe an nffinial Tanhnnlodu",
+      "bbox_px": [
+        548,
+        8186,
+        849,
+        8197
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0184",
+      "section_id": "remaining-page",
+      "text_raw": "fomily ond frionde",
+      "bbox_px": [
+        961,
+        8186,
+        1131,
+        8197
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0185",
+      "section_id": "remaining-page",
+      "text_raw": "our focus back",
+      "bbox_px": [
+        136,
+        8208,
+        276,
+        8225
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0186",
+      "section_id": "remaining-page",
+      "text_raw": "Partner of McLaren Formula 1 Team",
+      "bbox_px": [
+        548,
+        8208,
+        879,
+        8228
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0187",
+      "section_id": "remaining-page",
+      "text_raw": "Don't lose precious photos. Save them and",
+      "bbox_px": [
+        962,
+        8227,
+        1285,
+        8244
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0188",
+      "section_id": "remaining-page",
+      "text_raw": "Dropbox brings simplified sharing,",
+      "bbox_px": [
+        550,
+        8247,
+        814,
+        8267
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0189",
+      "section_id": "remaining-page",
+      "text_raw": "For our study, Economist Impact included",
+      "bbox_px": [
+        133,
+        8248,
+        452,
+        8267
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0190",
+      "section_id": "remaining-page",
+      "text_raw": "share them with loved ones-for free. Here's",
+      "bbox_px": [
+        962,
+        8250,
+        1295,
+        8267
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0191",
+      "section_id": "remaining-page",
+      "text_raw": "knowledge workers globally-and found",
+      "bbox_px": [
+        136,
+        8273,
+        437,
+        8290
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0192",
+      "section_id": "remaining-page",
+      "text_raw": "collaboration, and organization to the",
+      "bbox_px": [
+        548,
+        8273,
+        833,
+        8290
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0193",
+      "section_id": "remaining-page",
+      "text_raw": "an easy-to-follow guide to sharing and",
+      "bbox_px": [
+        962,
+        8275,
+        1253,
+        8292
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0194",
+      "section_id": "remaining-page",
+      "text_raw": "McLaren Formula 1 Team.",
+      "bbox_px": [
+        550,
+        8296,
+        747,
+        8313
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0195",
+      "section_id": "remaining-page",
+      "text_raw": "that, no matter where people work, there's",
+      "bbox_px": [
+        133,
+        8298,
+        456,
+        8313
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0196",
+      "section_id": "remaining-page",
+      "text_raw": "storing photos with Dropbox.",
+      "bbox_px": [
+        962,
+        8300,
+        1184,
+        8317
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0197",
+      "section_id": "remaining-page",
+      "text_raw": "a significant cost to lost focus around",
+      "bbox_px": [
+        135,
+        8320,
+        420,
+        8339
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0198",
+      "section_id": "remaining-page",
+      "text_raw": "the world.",
+      "bbox_px": [
+        131,
+        8344,
+        215,
+        8364
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0199",
+      "section_id": "remaining-page",
+      "text_raw": "Read article",
+      "bbox_px": [
+        136,
+        8382,
+        230,
+        8397
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0200",
+      "section_id": "remaining-page",
+      "text_raw": "Read article",
+      "bbox_px": [
+        546,
+        8382,
+        644,
+        8402
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0201",
+      "section_id": "remaining-page",
+      "text_raw": "Read article",
+      "bbox_px": [
+        960,
+        8382,
+        1057,
+        8401
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0202",
+      "section_id": "remaining-page",
+      "text_raw": "View more resources",
+      "bbox_px": [
+        638,
+        8499,
+        801,
+        8518
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0203",
+      "section_id": "remaining-page",
+      "text_raw": "Products",
+      "bbox_px": [
+        303,
+        8689,
+        397,
+        8716
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0204",
+      "section_id": "remaining-page",
+      "text_raw": "Company",
+      "bbox_px": [
+        1131,
+        8689,
+        1233,
+        8719
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0205",
+      "section_id": "remaining-page",
+      "text_raw": "Support",
+      "bbox_px": [
+        717,
+        8690,
+        806,
+        8718
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0206",
+      "section_id": "remaining-page",
+      "text_raw": "Dropbox",
+      "bbox_px": [
+        97,
+        8691,
+        188,
+        8718
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0207",
+      "section_id": "remaining-page",
+      "text_raw": "Features",
+      "bbox_px": [
+        510,
+        8692,
+        603,
+        8718
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0208",
+      "section_id": "remaining-page",
+      "text_raw": "Resources",
+      "bbox_px": [
+        923,
+        8692,
+        1033,
+        8717
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0209",
+      "section_id": "remaining-page",
+      "text_raw": "Help center",
+      "bbox_px": [
+        715,
+        8742,
+        801,
+        8765
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0210",
+      "section_id": "remaining-page",
+      "text_raw": "About us",
+      "bbox_px": [
+        1132,
+        8742,
+        1197,
+        8765
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0211",
+      "section_id": "remaining-page",
+      "text_raw": "Desktop app",
+      "bbox_px": [
+        98,
+        8744,
+        186,
+        8765
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0212",
+      "section_id": "remaining-page",
+      "text_raw": "Plus",
+      "bbox_px": [
+        301,
+        8744,
+        336,
+        8765
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0213",
+      "section_id": "remaining-page",
+      "text_raw": "Send large files",
+      "bbox_px": [
+        510,
+        8744,
+        619,
+        8765
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0214",
+      "section_id": "remaining-page",
+      "text_raw": "Blog",
+      "bbox_px": [
+        923,
+        8744,
+        964,
+        8765
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0215",
+      "section_id": "remaining-page",
+      "text_raw": "Mobile app",
+      "bbox_px": [
+        98,
+        8777,
+        180,
+        8802
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0216",
+      "section_id": "remaining-page",
+      "text_raw": "Professional",
+      "bbox_px": [
+        303,
+        8778,
+        391,
+        8799
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0217",
+      "section_id": "remaining-page",
+      "text_raw": "Events",
+      "bbox_px": [
+        923,
+        8778,
+        977,
+        8799
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0218",
+      "section_id": "remaining-page",
+      "text_raw": "Contact us",
+      "bbox_px": [
+        717,
+        8779,
+        795,
+        8799
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0219",
+      "section_id": "remaining-page",
+      "text_raw": "Send long videos",
+      "bbox_px": [
+        510,
+        8780,
+        629,
+        8799
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0220",
+      "section_id": "remaining-page",
+      "text_raw": "Jobs",
+      "bbox_px": [
+        1130,
+        8780,
+        1165,
+        8799
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0221",
+      "section_id": "remaining-page",
+      "text_raw": "Integrations",
+      "bbox_px": [
+        96,
+        8811,
+        184,
+        8834
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0222",
+      "section_id": "remaining-page",
+      "text_raw": "Business",
+      "bbox_px": [
+        303,
+        8813,
+        370,
+        8832
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0223",
+      "section_id": "remaining-page",
+      "text_raw": "Cloud photo storage",
+      "bbox_px": [
+        510,
+        8813,
+        651,
+        8835
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0224",
+      "section_id": "remaining-page",
+      "text_raw": "Privacy & terms",
+      "bbox_px": [
+        717,
+        8813,
+        826,
+        8832
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0225",
+      "section_id": "remaining-page",
+      "text_raw": "Customer stories",
+      "bbox_px": [
+        925,
+        8813,
+        1044,
+        8832
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0226",
+      "section_id": "remaining-page",
+      "text_raw": "Investor relations",
+      "bbox_px": [
+        1130,
+        8813,
+        1251,
+        8832
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0227",
+      "section_id": "remaining-page",
+      "text_raw": "Features",
+      "bbox_px": [
+        95,
+        8844,
+        163,
+        8869
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0228",
+      "section_id": "remaining-page",
+      "text_raw": "Cookie policy",
+      "bbox_px": [
+        717,
+        8844,
+        814,
+        8868
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0229",
+      "section_id": "remaining-page",
+      "text_raw": "Corporate responsibility",
+      "bbox_px": [
+        1132,
+        8845,
+        1297,
+        8868
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0230",
+      "section_id": "remaining-page",
+      "text_raw": "Resources library",
+      "bbox_px": [
+        922,
+        8846,
+        1042,
+        8868
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0231",
+      "section_id": "remaining-page",
+      "text_raw": "Enterprise",
+      "bbox_px": [
+        303,
+        8847,
+        378,
+        8866
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0232",
+      "section_id": "remaining-page",
+      "text_raw": "Secure file transfer",
+      "bbox_px": [
+        510,
+        8847,
+        642,
+        8866
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0233",
+      "section_id": "remaining-page",
+      "text_raw": "Solutions",
+      "bbox_px": [
+        96,
+        8880,
+        165,
+        8901
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0234",
+      "section_id": "remaining-page",
+      "text_raw": "Cloud backup",
+      "bbox_px": [
+        510,
+        8880,
+        609,
+        8901
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0235",
+      "section_id": "remaining-page",
+      "text_raw": "Cookies & CCPA",
+      "bbox_px": [
+        717,
+        8880,
+        833,
+        8902
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0236",
+      "section_id": "remaining-page",
+      "text_raw": "Dash",
+      "bbox_px": [
+        303,
+        8882,
+        343,
+        8901
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0237",
+      "section_id": "remaining-page",
+      "text_raw": "Developers",
+      "bbox_px": [
+        922,
+        8882,
+        1004,
+        8902
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0238",
+      "section_id": "remaining-page",
+      "text_raw": "preferences",
+      "bbox_px": [
+        717,
+        8905,
+        801,
+        8924
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0239",
+      "section_id": "remaining-page",
+      "text_raw": "Security",
+      "bbox_px": [
+        95,
+        8911,
+        161,
+        8937
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0240",
+      "section_id": "remaining-page",
+      "text_raw": "Community forums",
+      "bbox_px": [
+        924,
+        8913,
+        1059,
+        8937
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0241",
+      "section_id": "remaining-page",
+      "text_raw": "DocSend",
+      "bbox_px": [
+        303,
+        8914,
+        370,
+        8935
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0242",
+      "section_id": "remaining-page",
+      "text_raw": "Edit PDFs",
+      "bbox_px": [
+        510,
+        8914,
+        581,
+        8935
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0243",
+      "section_id": "remaining-page",
+      "text_raw": "Al principles",
+      "bbox_px": [
+        717,
+        8934,
+        808,
+        8958
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0244",
+      "section_id": "remaining-page",
+      "text_raw": "Early access",
+      "bbox_px": [
+        95,
+        8946,
+        186,
+        8972
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0245",
+      "section_id": "remaining-page",
+      "text_raw": "Dropbox Sign",
+      "bbox_px": [
+        303,
+        8949,
+        399,
+        8970
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0246",
+      "section_id": "remaining-page",
+      "text_raw": "Electronic signatures",
+      "bbox_px": [
+        510,
+        8949,
+        657,
+        8968
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0247",
+      "section_id": "remaining-page",
+      "text_raw": "Referrals",
+      "bbox_px": [
+        923,
+        8949,
+        987,
+        8968
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0248",
+      "section_id": "remaining-page",
+      "text_raw": "Sitemap",
+      "bbox_px": [
+        717,
+        8973,
+        778,
+        8990
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0249",
+      "section_id": "remaining-page",
+      "text_raw": "Convert to PDF",
+      "bbox_px": [
+        512,
+        8983,
+        617,
+        9001
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0250",
+      "section_id": "remaining-page",
+      "text_raw": "Templates",
+      "bbox_px": [
+        96,
+        8985,
+        171,
+        9002
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0251",
+      "section_id": "remaining-page",
+      "text_raw": "Reclaim.ai",
+      "bbox_px": [
+        303,
+        8985,
+        376,
+        8999
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0252",
+      "section_id": "remaining-page",
+      "text_raw": "Reseller partners",
+      "bbox_px": [
+        923,
+        8985,
+        1042,
+        9002
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0253",
+      "section_id": "remaining-page",
+      "text_raw": "Learning resources",
+      "bbox_px": [
+        715,
+        9008,
+        849,
+        9025
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0254",
+      "section_id": "remaining-page",
+      "text_raw": "Integration partners",
+      "bbox_px": [
+        922,
+        9016,
+        1061,
+        9038
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0255",
+      "section_id": "remaining-page",
+      "text_raw": "Free tools",
+      "bbox_px": [
+        96,
+        9018,
+        167,
+        9035
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0256",
+      "section_id": "remaining-page",
+      "text_raw": "Dropbox Fax",
+      "bbox_px": [
+        303,
+        9018,
+        393,
+        9035
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0257",
+      "section_id": "remaining-page",
+      "text_raw": "Plans",
+      "bbox_px": [
+        303,
+        9052,
+        345,
+        9069
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0258",
+      "section_id": "remaining-page",
+      "text_raw": "Find a partner",
+      "bbox_px": [
+        922,
+        9052,
+        1023,
+        9071
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0259",
+      "section_id": "remaining-page",
+      "text_raw": "Product updates",
+      "bbox_px": [
+        303,
+        9085,
+        418,
+        9105
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0260",
+      "section_id": "remaining-page",
+      "text_raw": "@ English (United States) >",
+      "bbox_px": [
+        100,
+        9267,
+        326,
+        9289
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    }
+  ]
+}

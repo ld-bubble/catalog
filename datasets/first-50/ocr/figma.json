@@ -1,0 +1,2909 @@
+[
+  {
+    "height": 8944,
+    "lines": [
+      {
+        "bbox_px": [
+          99,
+          31,
+          588,
+          50
+        ],
+        "confidence": 1,
+        "text": "Products v Solutions v Community v Resources v Pricing"
+      },
+      {
+        "bbox_px": [
+          974,
+          31,
+          1021,
+          50
+        ],
+        "confidence": 1,
+        "text": "Log in"
+      },
+      {
+        "bbox_px": [
+          1063,
+          31,
+          1168,
+          47
+        ],
+        "confidence": 1,
+        "text": "Contact sales"
+      },
+      {
+        "bbox_px": [
+          1223,
+          30,
+          1366,
+          47
+        ],
+        "confidence": 1,
+        "text": "Get started for free"
+      },
+      {
+        "bbox_px": [
+          639,
+          277,
+          721,
+          292
+        ],
+        "confidence": 1,
+        "text": "Select a gem"
+      },
+      {
+        "bbox_px": [
+          46,
+          399,
+          374,
+          453
+        ],
+        "confidence": 1,
+        "text": "The intelligent"
+      },
+      {
+        "bbox_px": [
+          49,
+          461,
+          287,
+          506
+        ],
+        "confidence": 1,
+        "text": "canvas for"
+      },
+      {
+        "bbox_px": [
+          44,
+          518,
+          203,
+          559
+        ],
+        "confidence": 1,
+        "text": "infinite"
+      },
+      {
+        "bbox_px": [
+          43,
+          569,
+          262,
+          626
+        ],
+        "confidence": 1,
+        "text": "creativity"
+      },
+      {
+        "bbox_px": [
+          891,
+          369,
+          941,
+          384
+        ],
+        "confidence": 1,
+        "text": "ate are"
+      },
+      {
+        "bbox_px": [
+          893,
+          392,
+          922,
+          408
+        ],
+        "confidence": 1,
+        "text": "I've"
+      },
+      {
+        "bbox_px": [
+          893,
+          418,
+          925,
+          434
+        ],
+        "confidence": 1,
+        "text": "File"
+      },
+      {
+        "bbox_px": [
+          1155,
+          496,
+          1301,
+          524
+        ],
+        "confidence": 1,
+        "text": "Get started"
+      },
+      {
+        "bbox_px": [
+          452,
+          559,
+          770,
+          606
+        ],
+        "confidence": 1,
+        "text": "FlowState"
+      },
+      {
+        "bbox_px": [
+          457,
+          609,
+          496,
+          622
+        ],
+        "confidence": 1,
+        "text": "2026"
+      },
+      {
+        "bbox_px": [
+          778,
+          635,
+          906,
+          664
+        ],
+        "confidence": 1,
+        "text": "100810.12.26"
+      },
+      {
+        "bbox_px": [
+          271,
+          1025,
+          1040,
+          1056
+        ],
+        "confidence": 1,
+        "text": "One workspace for your entire product development process."
+      },
+      {
+        "bbox_px": [
+          274,
+          1062,
+          1024,
+          1094
+        ],
+        "confidence": 1,
+        "text": "Made so your whole team can go from WIP to ship, together."
+      },
+      {
+        "bbox_px": [
+          410,
+          1127,
+          559,
+          1159
+        ],
+        "confidence": 1,
+        "text": "LIVING"
+      },
+      {
+        "bbox_px": [
+          457,
+          1164,
+          601,
+          1188
+        ],
+        "confidence": 1,
+        "text": "** LE VOSK"
+      },
+      {
+        "bbox_px": [
+          229,
+          1190,
+          292,
+          1206
+        ],
+        "confidence": 1,
+        "text": "< Icons"
+      },
+      {
+        "bbox_px": [
+          804,
+          1224,
+          943,
+          1240
+        ],
+        "confidence": 1,
+        "text": "Synthetic Bio-Capsule"
+      },
+      {
+        "bbox_px": [
+          804,
+          1242,
+          904,
+          1255
+        ],
+        "confidence": 1,
+        "text": "Food & Agriculture"
+      },
+      {
+        "bbox_px": [
+          985,
+          1291,
+          1087,
+          1305
+        ],
+        "confidence": 1,
+        "text": "Arboreal Biodome"
+      },
+      {
+        "bbox_px": [
+          985,
+          1310,
+          1047,
+          1323
+        ],
+        "confidence": 1,
+        "text": "Architecture"
+      },
+      {
+        "bbox_px": [
+          229,
+          1331,
+          271,
+          1344
+        ],
+        "confidence": 1,
+        "text": "Search"
+      },
+      {
+        "bbox_px": [
+          357,
+          1328,
+          408,
+          1345
+        ],
+        "confidence": 1,
+        "text": "Favorite"
+      },
+      {
+        "bbox_px": [
+          452,
+          1443,
+          528,
+          1462
+        ],
+        "confidence": 1,
+        "text": "Madison"
+      },
+      {
+        "bbox_px": [
+          227,
+          1478,
+          263,
+          1491
+        ],
+        "confidence": 1,
+        "text": "Home"
+      },
+      {
+        "bbox_px": [
+          358,
+          1478,
+          410,
+          1491
+        ],
+        "confidence": 1,
+        "text": "Location"
+      },
+      {
+        "bbox_px": [
+          804,
+          1475,
+          891,
+          1488
+        ],
+        "confidence": 1,
+        "text": "Adaptive Suit"
+      },
+      {
+        "bbox_px": [
+          804,
+          1493,
+          849,
+          1506
+        ],
+        "confidence": 1,
+        "text": "Fashion"
+      },
+      {
+        "bbox_px": [
+          979,
+          1473,
+          1116,
+          1491
+        ],
+        "confidence": 1,
+        "text": "Arid Research Station"
+      },
+      {
+        "bbox_px": [
+          980,
+          1493,
+          1047,
+          1506
+        ],
+        "confidence": 1,
+        "text": "Architecture"
+      },
+      {
+        "bbox_px": [
+          404,
+          1527,
+          700,
+          1547
+        ],
+        "confidence": 1,
+        "text": "Modular Living examines the intersection of"
+      },
+      {
+        "bbox_px": [
+          402,
+          1548,
+          695,
+          1564
+        ],
+        "confidence": 1,
+        "text": "innovative construction and environmental"
+      },
+      {
+        "bbox_px": [
+          402,
+          1569,
+          729,
+          1585
+        ],
+        "confidence": 1,
+        "text": "responsibility, proposing a new language for how"
+      },
+      {
+        "bbox_px": [
+          404,
+          1586,
+          716,
+          1607
+        ],
+        "confidence": 1,
+        "text": "we build and inhabit space. Through a physical"
+      },
+      {
+        "bbox_px": [
+          405,
+          1609,
+          731,
+          1625
+        ],
+        "confidence": 1,
+        "text": "architectural model, the work visualizes a system"
+      },
+      {
+        "bbox_px": [
+          404,
+          1624,
+          739,
+          1646
+        ],
+        "confidence": 1,
+        "text": "of interlocking, nrofahricated ctructures designed"
+      },
+      {
+        "bbox_px": [
+          402,
+          1648,
+          491,
+          1663
+        ],
+        "confidence": 1,
+        "text": "to reduce ma"
+      },
+      {
+        "bbox_px": [
+          674,
+          1650,
+          739,
+          1664
+        ],
+        "confidence": 1,
+        "text": "potprints,"
+      },
+      {
+        "bbox_px": [
+          768,
+          1556,
+          839,
+          1575
+        ],
+        "confidence": 1,
+        "text": "Galaxia"
+      },
+      {
+        "bbox_px": [
+          804,
+          1645,
+          883,
+          1658
+        ],
+        "confidence": 1,
+        "text": "Subterranea"
+      },
+      {
+        "bbox_px": [
+          402,
+          1610,
+          731,
+          1626
+        ],
+        "confidence": 1,
+        "text": "architectural model, the work visualizes a system"
+      },
+      {
+        "bbox_px": [
+          405,
+          1628,
+          739,
+          1644
+        ],
+        "confidence": 1,
+        "text": "of interlocking, nrefahricated structures designed"
+      },
+      {
+        "bbox_px": [
+          402,
+          1649,
+          493,
+          1662
+        ],
+        "confidence": 1,
+        "text": "to reduce ma"
+      },
+      {
+        "bbox_px": [
+          569,
+          1652,
+          595,
+          1673
+        ],
+        "confidence": 1,
+        "text": "a"
+      },
+      {
+        "bbox_px": [
+          673,
+          1647,
+          737,
+          1665
+        ],
+        "confidence": 1,
+        "text": "hotprints,"
+      },
+      {
+        "bbox_px": [
+          804,
+          1644,
+          883,
+          1657
+        ],
+        "confidence": 1,
+        "text": "Subterranea"
+      },
+      {
+        "bbox_px": [
+          804,
+          1662,
+          875,
+          1675
+        ],
+        "confidence": 1,
+        "text": "Soundscapes"
+      },
+      {
+        "bbox_px": [
+          159,
+          1834,
+          399,
+          1853
+        ],
+        "confidence": 1,
+        "text": "Design anything you can imagine"
+      },
+      {
+        "bbox_px": [
+          159,
+          1859,
+          525,
+          1875
+        ],
+        "confidence": 1,
+        "text": "Turn your ideas into apps, websites, and products."
+      },
+      {
+        "bbox_px": [
+          159,
+          1895,
+          329,
+          1913
+        ],
+        "confidence": 1,
+        "text": "Explore design tools →"
+      },
+      {
+        "bbox_px": [
+          726,
+          1835,
+          870,
+          1851
+        ],
+        "confidence": 1,
+        "text": "Build with intention"
+      },
+      {
+        "bbox_px": [
+          726,
+          1856,
+          1081,
+          1875
+        ],
+        "confidence": 1,
+        "text": "Dev tools that take you all the way to production."
+      },
+      {
+        "bbox_px": [
+          726,
+          1895,
+          883,
+          1913
+        ],
+        "confidence": 1,
+        "text": "Explore build tools →"
+      },
+      {
+        "bbox_px": [
+          274,
+          2083,
+          948,
+          2112
+        ],
+        "confidence": 1,
+        "text": "Move fast in the right direction on an Al-native canvas."
+      },
+      {
+        "bbox_px": [
+          271,
+          2120,
+          1155,
+          2149
+        ],
+        "confidence": 1,
+        "text": "Teammates and Al agents work in the same space with shared context."
+      },
+      {
+        "bbox_px": [
+          274,
+          2154,
+          1027,
+          2189
+        ],
+        "confidence": 1,
+        "text": "Generate new design directions, refine, and align-together."
+      },
+      {
+        "bbox_px": [
+          582,
+          2337,
+          655,
+          2353
+        ],
+        "confidence": 1,
+        "text": "Hi, Jamie"
+      },
+      {
+        "bbox_px": [
+          593,
+          2379,
+          666,
+          2393
+        ],
+        "confidence": 1,
+        "text": "Total savings"
+      },
+      {
+        "bbox_px": [
+          590,
+          2400,
+          718,
+          2447
+        ],
+        "confidence": 1,
+        "text": "$194.70"
+      },
+      {
+        "bbox_px": [
+          624,
+          2497,
+          689,
+          2515
+        ],
+        "confidence": 1,
+        "text": "1 Deposit"
+      },
+      {
+        "bbox_px": [
+          750,
+          2499,
+          812,
+          2513
+        ],
+        "confidence": 1,
+        "text": "Transfer"
+      },
+      {
+        "bbox_px": [
+          582,
+          2557,
+          677,
+          2576
+        ],
+        "confidence": 1,
+        "text": "Recent spending"
+      },
+      {
+        "bbox_px": [
+          791,
+          2560,
+          849,
+          2573
+        ],
+        "confidence": 1,
+        "text": "View all ›"
+      },
+      {
+        "bbox_px": [
+          598,
+          2649,
+          629,
+          2662
+        ],
+        "confidence": 1,
+        "text": "$212"
+      },
+      {
+        "bbox_px": [
+          736,
+          2649,
+          760,
+          2662
+        ],
+        "confidence": 1,
+        "text": "$56"
+      },
+      {
+        "bbox_px": [
+          781,
+          2649,
+          804,
+          2662
+        ],
+        "confidence": 1,
+        "text": "$29"
+      },
+      {
+        "bbox_px": [
+          593,
+          2675,
+          723,
+          2688
+        ],
+        "confidence": 1,
+        "text": "• Trips • Entertainment"
+      },
+      {
+        "bbox_px": [
+          726,
+          2675,
+          770,
+          2688
+        ],
+        "confidence": 1,
+        "text": "• Food"
+      },
+      {
+        "bbox_px": [
+          770,
+          2675,
+          823,
+          2688
+        ],
+        "confidence": 1,
+        "text": "• Clothes"
+      },
+      {
+        "bbox_px": [
+          812,
+          2649,
+          833,
+          2662
+        ],
+        "confidence": 1,
+        "text": "$16"
+      },
+      {
+        "bbox_px": [
+          655,
+          2743,
+          833,
+          2761
+        ],
+        "confidence": 1,
+        "text": "Youre spending more on Clothing this"
+      },
+      {
+        "bbox_px": [
+          653,
+          2771,
+          729,
+          2785
+        ],
+        "confidence": 1,
+        "text": "Learn more›"
+      },
+      {
+        "bbox_px": [
+          582,
+          2813,
+          619,
+          2827
+        ],
+        "confidence": 1,
+        "text": "Goals"
+      },
+      {
+        "bbox_px": [
+          791,
+          2813,
+          849,
+          2827
+        ],
+        "confidence": 1,
+        "text": "View all >"
+      },
+      {
+        "bbox_px": [
+          47,
+          3164,
+          564,
+          3193
+        ],
+        "confidence": 1,
+        "text": "Powerfully expressive. Incredibly precise."
+      },
+      {
+        "bbox_px": [
+          47,
+          3201,
+          669,
+          3230
+        ],
+        "confidence": 1,
+        "text": "Every technical tool you need to dial in the details."
+      },
+      {
+        "bbox_px": [
+          1212,
+          3206,
+          1392,
+          3225
+        ],
+        "confidence": 1,
+        "text": "Explore Figma Design →"
+      },
+      {
+        "bbox_px": [
+          198,
+          3287,
+          339,
+          3301
+        ],
+        "confidence": 1,
+        "text": "Approach Get Connected"
+      },
+      {
+        "bbox_px": [
+          347,
+          3290,
+          716,
+          3397
+        ],
+        "confidence": 1,
+        "text": "Bloom"
+      },
+      {
+        "bbox_px": [
+          961,
+          3346,
+          1027,
+          3361
+        ],
+        "confidence": 1,
+        "text": "Synaptic Pulse"
+      },
+      {
+        "bbox_px": [
+          961,
+          3360,
+          1014,
+          3374
+        ],
+        "confidence": 1,
+        "text": "Orion Fisk"
+      },
+      {
+        "bbox_px": [
+          1136,
+          3358,
+          1400,
+          3397
+        ],
+        "confidence": 1,
+        "text": "RE:FINISHED"
+      },
+      {
+        "bbox_px": [
+          47,
+          3200,
+          669,
+          3231
+        ],
+        "confidence": 1,
+        "text": "Every technical tool you need to dial in the details."
+      },
+      {
+        "bbox_px": [
+          198,
+          3286,
+          339,
+          3299
+        ],
+        "confidence": 1,
+        "text": "Approach Get Connected"
+      },
+      {
+        "bbox_px": [
+          347,
+          3291,
+          723,
+          3415
+        ],
+        "confidence": 1,
+        "text": "Bloom"
+      },
+      {
+        "bbox_px": [
+          1215,
+          3207,
+          1392,
+          3226
+        ],
+        "confidence": 1,
+        "text": "Explore Figma Design →"
+      },
+      {
+        "bbox_px": [
+          961,
+          3346,
+          1027,
+          3360
+        ],
+        "confidence": 1,
+        "text": "Synaptic Pulse"
+      },
+      {
+        "bbox_px": [
+          961,
+          3361,
+          1014,
+          3375
+        ],
+        "confidence": 1,
+        "text": "Orion Fisk"
+      },
+      {
+        "bbox_px": [
+          1136,
+          3356,
+          1400,
+          3401
+        ],
+        "confidence": 1,
+        "text": "RE:FINISHED"
+      },
+      {
+        "bbox_px": [
+          1136,
+          3406,
+          1280,
+          3430
+        ],
+        "confidence": 1,
+        "text": "BY ANA VOSS"
+      },
+      {
+        "bbox_px": [
+          172,
+          3461,
+          243,
+          3479
+        ],
+        "confidence": 1,
+        "text": "Texture"
+      },
+      {
+        "bbox_px": [
+          172,
+          3492,
+          253,
+          3509
+        ],
+        "confidence": 1,
+        "text": "S 1• R 50"
+      },
+      {
+        "bbox_px": [
+          39,
+          3578,
+          232,
+          3597
+        ],
+        "confidence": 1,
+        "text": "Where Stillness Meets Transformation."
+      },
+      {
+        "bbox_px": [
+          39,
+          3596,
+          303,
+          3616
+        ],
+        "confidence": 1,
+        "text": "Find respite from the noise and reconniee with your"
+      },
+      {
+        "bbox_px": [
+          39,
+          3615,
+          295,
+          3631
+        ],
+        "confidence": 1,
+        "text": "inner peace. Our unique approach, inspired by the"
+      },
+      {
+        "bbox_px": [
+          38,
+          3629,
+          295,
+          3651
+        ],
+        "confidence": 1,
+        "text": "tranquility of karesansui, guides you towards a life"
+      },
+      {
+        "bbox_px": [
+          36,
+          3650,
+          284,
+          3668
+        ],
+        "confidence": 1,
+        "text": "of balance, simplicity, and profound well being."
+      },
+      {
+        "bbox_px": [
+          28,
+          3736,
+          337,
+          3757
+        ],
+        "confidence": 1,
+        "text": "A classic bistro influence, respect for what the changii"
+      },
+      {
+        "bbox_px": [
+          28,
+          3759,
+          342,
+          3778
+        ],
+        "confidence": 1,
+        "text": "our dedicated suppliers are oftering, comforting dishes"
+      },
+      {
+        "bbox_px": [
+          28,
+          3780,
+          65,
+          3793
+        ],
+        "confidence": 1,
+        "text": "wine."
+      },
+      {
+        "bbox_px": [
+          240,
+          3812,
+          284,
+          3825
+        ],
+        "confidence": 1,
+        "text": "Brushes"
+      },
+      {
+        "bbox_px": [
+          31,
+          3827,
+          141,
+          3846
+        ],
+        "confidence": 1,
+        "text": "Make a reservation"
+      },
+      {
+        "bbox_px": [
+          -36,
+          3817,
+          407,
+          4172
+        ],
+        "confidence": 1,
+        "text": "RE"
+      },
+      {
+        "bbox_px": [
+          243,
+          4062,
+          292,
+          4068
+        ],
+        "confidence": 1,
+        "text": "wet brusn"
+      },
+      {
+        "bbox_px": [
+          240,
+          4113,
+          282,
+          4126
+        ],
+        "confidence": 1,
+        "text": "Splatter"
+      },
+      {
+        "bbox_px": [
+          425,
+          3493,
+          486,
+          3508
+        ],
+        "confidence": 1,
+        "text": "L4.83:1"
+      },
+      {
+        "bbox_px": [
+          582,
+          3489,
+          653,
+          3508
+        ],
+        "confidence": 1,
+        "text": "VAA %"
+      },
+      {
+        "bbox_px": [
+          1126,
+          3618,
+          1170,
+          3634
+        ],
+        "confidence": 1,
+        "text": "Depth"
+      },
+      {
+        "bbox_px": [
+          1238,
+          3505,
+          1382,
+          3524
+        ],
+        "confidence": 1,
+        "text": "ARTIST TOUR"
+      },
+      {
+        "bbox_px": [
+          1340,
+          3618,
+          1361,
+          3631
+        ],
+        "confidence": 1,
+        "text": "34"
+      },
+      {
+        "bbox_px": [
+          765,
+          3631,
+          833,
+          3644
+        ],
+        "confidence": 1,
+        "text": "Invisible Layers"
+      },
+      {
+        "bbox_px": [
+          765,
+          3644,
+          833,
+          3658
+        ],
+        "confidence": 1,
+        "text": "Mira Blackwell"
+      },
+      {
+        "bbox_px": [
+          917,
+          3629,
+          953,
+          3642
+        ],
+        "confidence": 1,
+        "text": "$2.600.00"
+      },
+      {
+        "bbox_px": [
+          720,
+          3733,
+          1079,
+          3825
+        ],
+        "confidence": 1,
+        "text": "VAULT"
+      },
+      {
+        "bbox_px": [
+          770,
+          3929,
+          823,
+          3947
+        ],
+        "confidence": 1,
+        "text": "Weight"
+      },
+      {
+        "bbox_px": [
+          914,
+          3929,
+          943,
+          3945
+        ],
+        "confidence": 1,
+        "text": "830"
+      },
+      {
+        "bbox_px": [
+          1325,
+          3735,
+          1439,
+          3815
+        ],
+        "confidence": 1,
+        "text": "ON"
+      },
+      {
+        "bbox_px": [
+          1218,
+          3819,
+          1432,
+          3993
+        ],
+        "confidence": 0.30000001192092896,
+        "text": "pFЇ⅘"
+      },
+      {
+        "bbox_px": [
+          726,
+          4120,
+          953,
+          4134
+        ],
+        "confidence": 1,
+        "text": "INTO A SONIC JOURNEY, BACK TO THE"
+      },
+      {
+        "bbox_px": [
+          726,
+          4136,
+          888,
+          4149
+        ],
+        "confidence": 1,
+        "text": "N ERA OF DETROIT TECHNO."
+      },
+      {
+        "bbox_px": [
+          540,
+          4238,
+          669,
+          4254
+        ],
+        "confidence": 1,
+        "text": "S CHATGPT IMAGE 2.0"
+      },
+      {
+        "bbox_px": [
+          786,
+          4334,
+          912,
+          4351
+        ],
+        "confidence": 1,
+        "text": "~ Image displace v"
+      },
+      {
+        "bbox_px": [
+          789,
+          4382,
+          844,
+          4398
+        ],
+        "confidence": 1,
+        "text": "Grid Size"
+      },
+      {
+        "bbox_px": [
+          789,
+          4419,
+          872,
+          4432
+        ],
+        "confidence": 1,
+        "text": "Displacement"
+      },
+      {
+        "bbox_px": [
+          961,
+          4335,
+          982,
+          4353
+        ],
+        "confidence": 0.30000001192092896,
+        "text": "*0."
+      },
+      {
+        "bbox_px": [
+          956,
+          4382,
+          977,
+          4398
+        ],
+        "confidence": 1,
+        "text": "32"
+      },
+      {
+        "bbox_px": [
+          956,
+          4416,
+          980,
+          4432
+        ],
+        "confidence": 1,
+        "text": "0.3"
+      },
+      {
+        "bbox_px": [
+          1147,
+          4304,
+          1246,
+          4319
+        ],
+        "confidence": 1,
+        "text": "& Bitmap mosaic •"
+      },
+      {
+        "bbox_px": [
+          1146,
+          4339,
+          1182,
+          4358
+        ],
+        "confidence": 1,
+        "text": "Shape"
+      },
+      {
+        "bbox_px": [
+          1243,
+          4343,
+          1283,
+          4353
+        ],
+        "confidence": 1,
+        "text": "Custom"
+      },
+      {
+        "bbox_px": [
+          1147,
+          4369,
+          1170,
+          4382
+        ],
+        "confidence": 1,
+        "text": "File"
+      },
+      {
+        "bbox_px": [
+          1147,
+          4398,
+          1191,
+          4411
+        ],
+        "confidence": 1,
+        "text": "Spacing"
+      },
+      {
+        "bbox_px": [
+          1149,
+          4423,
+          1215,
+          4437
+        ],
+        "confidence": 1,
+        "text": "Minimum size"
+      },
+      {
+        "bbox_px": [
+          1147,
+          4450,
+          1215,
+          4463
+        ],
+        "confidence": 1,
+        "text": "Maximum size"
+      },
+      {
+        "bbox_px": [
+          271,
+          4471,
+          297,
+          4487
+        ],
+        "confidence": 1,
+        "text": "0.6"
+      },
+      {
+        "bbox_px": [
+          271,
+          4771,
+          891,
+          4804
+        ],
+        "confidence": 1,
+        "text": "Start with design context. Build with consistency."
+      },
+      {
+        "bbox_px": [
+          271,
+          4808,
+          1165,
+          4843
+        ],
+        "confidence": 1,
+        "text": "Your context, codebase, and agents stay connected so what you design"
+      },
+      {
+        "bbox_px": [
+          269,
+          4842,
+          540,
+          4874
+        ],
+        "confidence": 1,
+        "text": "is what gets shipped."
+      },
+      {
+        "bbox_px": [
+          271,
+          4810,
+          1165,
+          4842
+        ],
+        "confidence": 1,
+        "text": "Your context, codebase, and agents stay connected so what you design"
+      },
+      {
+        "bbox_px": [
+          268,
+          4844,
+          541,
+          4878
+        ],
+        "confidence": 1,
+        "text": "is what gets shipped."
+      },
+      {
+        "bbox_px": [
+          505,
+          5250,
+          965,
+          5325
+        ],
+        "confidence": 1,
+        "text": "Clone repo •"
+      },
+      {
+        "bbox_px": [
+          1114,
+          5252,
+          1317,
+          5330
+        ],
+        "confidence": 1,
+        "text": "https:"
+      },
+      {
+        "bbox_px": [
+          47,
+          5689,
+          211,
+          5708
+        ],
+        "confidence": 1,
+        "text": "Explore Figma Make →"
+      },
+      {
+        "bbox_px": [
+          47,
+          5877,
+          859,
+          5919
+        ],
+        "confidence": 1,
+        "text": "The products you love are designed in Figma"
+      },
+      {
+        "bbox_px": [
+          62,
+          5984,
+          922,
+          6039
+        ],
+        "confidence": 1,
+        "text": "\"Everyone is able to influence, inspire, and give"
+      },
+      {
+        "bbox_px": [
+          83,
+          6037,
+          930,
+          6084
+        ],
+        "confidence": 1,
+        "text": "input without ever leaving the design file. That"
+      },
+      {
+        "bbox_px": [
+          88,
+          6089,
+          922,
+          6134
+        ],
+        "confidence": 1,
+        "text": "creates a really transparent, open, and honest"
+      },
+      {
+        "bbox_px": [
+          88,
+          6131,
+          805,
+          6184
+        ],
+        "confidence": 1,
+        "text": "process throughout the whole projectạẠỊi"
+      },
+      {
+        "bbox_px": [
+          156,
+          6225,
+          263,
+          6242
+        ],
+        "confidence": 1,
+        "text": "Francisco Seiz"
+      },
+      {
+        "bbox_px": [
+          156,
+          6246,
+          454,
+          6267
+        ],
+        "confidence": 1,
+        "text": "Senior Design Director, Code and Theory"
+      },
+      {
+        "bbox_px": [
+          1105,
+          5993,
+          1280,
+          6066
+        ],
+        "confidence": 1,
+        "text": "95%"
+      },
+      {
+        "bbox_px": [
+          1102,
+          6105,
+          1319,
+          6126
+        ],
+        "confidence": 1,
+        "text": "95% of the Fortune 500 uses"
+      },
+      {
+        "bbox_px": [
+          1105,
+          6129,
+          1155,
+          6147
+        ],
+        "confidence": 1,
+        "text": "Figma"
+      },
+      {
+        "bbox_px": [
+          1063,
+          6173,
+          1277,
+          6192
+        ],
+        "confidence": 1,
+        "text": "Based on data from March 2025."
+      },
+      {
+        "bbox_px": [
+          119,
+          6340,
+          232,
+          6366
+        ],
+        "confidence": 1,
+        "text": "duolingo"
+      },
+      {
+        "bbox_px": [
+          297,
+          6337,
+          392,
+          6370
+        ],
+        "confidence": 1,
+        "text": "GitHub"
+      },
+      {
+        "bbox_px": [
+          459,
+          6340,
+          676,
+          6370
+        ],
+        "confidence": 1,
+        "text": "mercado libre"
+      },
+      {
+        "bbox_px": [
+          742,
+          6340,
+          865,
+          6367
+        ],
+        "confidence": 1,
+        "text": "• Microsoft"
+      },
+      {
+        "bbox_px": [
+          927,
+          6335,
+          1024,
+          6370
+        ],
+        "confidence": 1,
+        "text": "NETFLIX"
+      },
+      {
+        "bbox_px": [
+          1083,
+          6334,
+          1221,
+          6370
+        ],
+        "confidence": 1,
+        "text": "Pentagram"
+      },
+      {
+        "bbox_px": [
+          376,
+          6539,
+          1061,
+          6582
+        ],
+        "confidence": 1,
+        "text": "Ideas no longer have to wait their turn"
+      },
+      {
+        "bbox_px": [
+          373,
+          6538,
+          1061,
+          6580
+        ],
+        "confidence": 1,
+        "text": "Ideas no longer have to wait their turn"
+      },
+      {
+        "bbox_px": [
+          577,
+          6681,
+          854,
+          6730
+        ],
+        "confidence": 1,
+        "text": "Get started"
+      },
+      {
+        "bbox_px": [
+          49,
+          6938,
+          669,
+          6981
+        ],
+        "confidence": 1,
+        "text": "Explore what you can do in Figma."
+      },
+      {
+        "bbox_px": [
+          49,
+          6985,
+          831,
+          7034
+        ],
+        "confidence": 1,
+        "text": "Browse resources made by the community."
+      },
+      {
+        "bbox_px": [
+          47,
+          7045,
+          219,
+          7064
+        ],
+        "confidence": 1,
+        "text": "Browse all templates →"
+      },
+      {
+        "bbox_px": [
+          164,
+          7156,
+          237,
+          7169
+        ],
+        "confidence": 1,
+        "text": "bg-black-100"
+      },
+      {
+        "bbox_px": [
+          164,
+          7187,
+          232,
+          7200
+        ],
+        "confidence": 1,
+        "text": "bg-grey-500"
+      },
+      {
+        "bbox_px": [
+          164,
+          7221,
+          243,
+          7231
+        ],
+        "confidence": 1,
+        "text": "bg-orange-400"
+      },
+      {
+        "bbox_px": [
+          70,
+          7247,
+          88,
+          7271
+        ],
+        "confidence": 1,
+        "text": "8"
+      },
+      {
+        "bbox_px": [
+          164,
+          7252,
+          232,
+          7265
+        ],
+        "confidence": 1,
+        "text": "bg-blue-500"
+      },
+      {
+        "bbox_px": [
+          135,
+          7292,
+          180,
+          7305
+        ],
+        "confidence": 1,
+        "text": "* Chip"
+      },
+      {
+        "bbox_px": [
+          232,
+          7370,
+          263,
+          7383
+        ],
+        "confidence": 1,
+        "text": "Label"
+      },
+      {
+        "bbox_px": [
+          135,
+          7428,
+          227,
+          7441
+        ],
+        "confidence": 1,
+        "text": "* Tile / Location"
+      },
+      {
+        "bbox_px": [
+          156,
+          7475,
+          211,
+          7490
+        ],
+        "confidence": 1,
+        "text": "LOCATION"
+      },
+      {
+        "bbox_px": [
+          154,
+          7548,
+          214,
+          7564
+        ],
+        "confidence": 1,
+        "text": "LOCATION"
+      },
+      {
+        "bbox_px": [
+          313,
+          7273,
+          373,
+          7287
+        ],
+        "confidence": 1,
+        "text": "* Card / E"
+      },
+      {
+        "bbox_px": [
+          446,
+          7252,
+          522,
+          7268
+        ],
+        "confidence": 1,
+        "text": "The Roam"
+      },
+      {
+        "bbox_px": [
+          457,
+          7265,
+          512,
+          7281
+        ],
+        "confidence": 1,
+        "text": "Report"
+      },
+      {
+        "bbox_px": [
+          386,
+          7480,
+          473,
+          7496
+        ],
+        "confidence": 1,
+        "text": "Websites →"
+      },
+      {
+        "bbox_px": [
+          789,
+          7291,
+          870,
+          7316
+        ],
+        "confidence": 1,
+        "text": "Brunch"
+      },
+      {
+        "bbox_px": [
+          788,
+          7312,
+          941,
+          7343
+        ],
+        "confidence": 1,
+        "text": "Is Here to Stay"
+      },
+      {
+        "bbox_px": [
+          870,
+          7420,
+          987,
+          7444
+        ],
+        "confidence": 1,
+        "text": "7AM-3PM"
+      },
+      {
+        "bbox_px": [
+          830,
+          7445,
+          987,
+          7475
+        ],
+        "confidence": 1,
+        "text": "Every Saturday"
+      },
+      {
+        "bbox_px": [
+          1066,
+          7480,
+          1176,
+          7498
+        ],
+        "confidence": 1,
+        "text": "Mobile apps →"
+      },
+      {
+        "bbox_px": [
+          47,
+          7577,
+          109,
+          7587
+        ],
+        "confidence": 1,
+        "text": ":ing-medium"
+      },
+      {
+        "bbox_px": [
+          44,
+          7608,
+          104,
+          7622
+        ],
+        "confidence": 1,
+        "text": "›ing-large"
+      },
+      {
+        "bbox_px": [
+          46,
+          7642,
+          117,
+          7658
+        ],
+        "confidence": 1,
+        "text": "UI Kits →"
+      },
+      {
+        "bbox_px": [
+          334,
+          7545,
+          373,
+          7559
+        ],
+        "confidence": 1,
+        "text": "LABE"
+      },
+      {
+        "bbox_px": [
+          350,
+          7561,
+          373,
+          7574
+        ],
+        "confidence": 1,
+        "text": "DESC"
+      },
+      {
+        "bbox_px": [
+          334,
+          7585,
+          373,
+          7598
+        ],
+        "confidence": 1,
+        "text": "• LABE"
+      },
+      {
+        "bbox_px": [
+          350,
+          7600,
+          373,
+          7616
+        ],
+        "confidence": 1,
+        "text": "DESC"
+      },
+      {
+        "bbox_px": [
+          726,
+          7642,
+          838,
+          7658
+        ],
+        "confidence": 1,
+        "text": "Social media →"
+      },
+      {
+        "bbox_px": [
+          56,
+          7865,
+          185,
+          7911
+        ],
+        "confidence": 1,
+        "text": "Figma"
+      },
+      {
+        "bbox_px": [
+          506,
+          7864,
+          580,
+          7883
+        ],
+        "confidence": 1,
+        "text": "PRODUCT"
+      },
+      {
+        "bbox_px": [
+          506,
+          7905,
+          609,
+          7926
+        ],
+        "confidence": 1,
+        "text": "Figma Design"
+      },
+      {
+        "bbox_px": [
+          506,
+          7942,
+          596,
+          7963
+        ],
+        "confidence": 1,
+        "text": "Figma Make"
+      },
+      {
+        "bbox_px": [
+          507,
+          7979,
+          642,
+          7998
+        ],
+        "confidence": 1,
+        "text": "Figma Weave NEW"
+      },
+      {
+        "bbox_px": [
+          506,
+          8019,
+          582,
+          8035
+        ],
+        "confidence": 1,
+        "text": "Dev Mode"
+      },
+      {
+        "bbox_px": [
+          507,
+          8055,
+          648,
+          8074
+        ],
+        "confidence": 1,
+        "text": "Figma Motion NEW"
+      },
+      {
+        "bbox_px": [
+          507,
+          8092,
+          561,
+          8111
+        ],
+        "confidence": 1,
+        "text": "FigJam"
+      },
+      {
+        "bbox_px": [
+          507,
+          8131,
+          601,
+          8147
+        ],
+        "confidence": 1,
+        "text": "Figma Slides"
+      },
+      {
+        "bbox_px": [
+          506,
+          8168,
+          595,
+          8187
+        ],
+        "confidence": 1,
+        "text": "Figma Draw"
+      },
+      {
+        "bbox_px": [
+          747,
+          7864,
+          841,
+          7883
+        ],
+        "confidence": 1,
+        "text": "USE CASES"
+      },
+      {
+        "bbox_px": [
+          747,
+          7906,
+          818,
+          7925
+        ],
+        "confidence": 1,
+        "text": "Ul design"
+      },
+      {
+        "bbox_px": [
+          747,
+          7943,
+          823,
+          7961
+        ],
+        "confidence": 1,
+        "text": "UX design"
+      },
+      {
+        "bbox_px": [
+          747,
+          7980,
+          836,
+          7998
+        ],
+        "confidence": 1,
+        "text": "Wireframing"
+      },
+      {
+        "bbox_px": [
+          746,
+          8016,
+          844,
+          8037
+        ],
+        "confidence": 1,
+        "text": "Diagramming"
+      },
+      {
+        "bbox_px": [
+          747,
+          8055,
+          833,
+          8074
+        ],
+        "confidence": 1,
+        "text": "Prototyping"
+      },
+      {
+        "bbox_px": [
+          746,
+          8091,
+          849,
+          8111
+        ],
+        "confidence": 1,
+        "text": "Brainstorming"
+      },
+      {
+        "bbox_px": [
+          747,
+          8129,
+          888,
+          8145
+        ],
+        "confidence": 1,
+        "text": "Presentation Maker"
+      },
+      {
+        "bbox_px": [
+          747,
+          8168,
+          880,
+          8181
+        ],
+        "confidence": 1,
+        "text": "Online whiteboard"
+      },
+      {
+        "bbox_px": [
+          985,
+          7867,
+          1079,
+          7883
+        ],
+        "confidence": 1,
+        "text": "RESOURCES"
+      },
+      {
+        "bbox_px": [
+          985,
+          7905,
+          1026,
+          7926
+        ],
+        "confidence": 1,
+        "text": "Blog"
+      },
+      {
+        "bbox_px": [
+          987,
+          7943,
+          1095,
+          7959
+        ],
+        "confidence": 1,
+        "text": "Best practices"
+      },
+      {
+        "bbox_px": [
+          987,
+          7978,
+          1103,
+          7998
+        ],
+        "confidence": 1,
+        "text": "Gradient Library"
+      },
+      {
+        "bbox_px": [
+          987,
+          8016,
+          1126,
+          8039
+        ],
+        "confidence": 1,
+        "text": "Gradient Generator"
+      },
+      {
+        "bbox_px": [
+          987,
+          8055,
+          1061,
+          8071
+        ],
+        "confidence": 1,
+        "text": "GIF maker"
+      },
+      {
+        "bbox_px": [
+          987,
+          8092,
+          1074,
+          8108
+        ],
+        "confidence": 1,
+        "text": "Color wheel"
+      },
+      {
+        "bbox_px": [
+          987,
+          8129,
+          1034,
+          8145
+        ],
+        "confidence": 1,
+        "text": "Colors"
+      },
+      {
+        "bbox_px": [
+          987,
+          8166,
+          1076,
+          8185
+        ],
+        "confidence": 1,
+        "text": "Color picker"
+      },
+      {
+        "bbox_px": [
+          1249,
+          7046,
+          1296,
+          7061
+        ],
+        "confidence": 1,
+        "text": "1 of 10"
+      },
+      {
+        "bbox_px": [
+          1225,
+          7867,
+          1301,
+          7883
+        ],
+        "confidence": 1,
+        "text": "COMPANY"
+      },
+      {
+        "bbox_px": [
+          1225,
+          7906,
+          1277,
+          7922
+        ],
+        "confidence": 1,
+        "text": "Events"
+      },
+      {
+        "bbox_px": [
+          1228,
+          7943,
+          1306,
+          7959
+        ],
+        "confidence": 1,
+        "text": "Customers"
+      },
+      {
+        "bbox_px": [
+          1228,
+          7980,
+          1285,
+          7995
+        ],
+        "confidence": 1,
+        "text": "Careers"
+      },
+      {
+        "bbox_px": [
+          1225,
+          8020,
+          1304,
+          8035
+        ],
+        "confidence": 1,
+        "text": "Newsroom"
+      },
+      {
+        "bbox_px": [
+          1228,
+          8055,
+          1319,
+          8071
+        ],
+        "confidence": 1,
+        "text": "Brand assets"
+      },
+      {
+        "bbox_px": [
+          1403,
+          7373,
+          1432,
+          7388
+        ],
+        "confidence": 1,
+        "text": "Pre"
+      },
+      {
+        "bbox_px": [
+          508,
+          8018,
+          584,
+          8036
+        ],
+        "confidence": 1,
+        "text": "Dev Mode"
+      },
+      {
+        "bbox_px": [
+          510,
+          8056,
+          609,
+          8073
+        ],
+        "confidence": 1,
+        "text": "Figma Motion"
+      },
+      {
+        "bbox_px": [
+          617,
+          8056,
+          648,
+          8069
+        ],
+        "confidence": 1,
+        "text": "NEW"
+      },
+      {
+        "bbox_px": [
+          506,
+          8093,
+          563,
+          8113
+        ],
+        "confidence": 1,
+        "text": "FigJam"
+      },
+      {
+        "bbox_px": [
+          508,
+          8131,
+          600,
+          8151
+        ],
+        "confidence": 1,
+        "text": "Figma Slides"
+      },
+      {
+        "bbox_px": [
+          510,
+          8169,
+          594,
+          8186
+        ],
+        "confidence": 1,
+        "text": "Figma Draw"
+      },
+      {
+        "bbox_px": [
+          510,
+          8205,
+          594,
+          8222
+        ],
+        "confidence": 1,
+        "text": "Figma Sites"
+      },
+      {
+        "bbox_px": [
+          604,
+          8207,
+          640,
+          8219
+        ],
+        "confidence": 1,
+        "text": "BETA"
+      },
+      {
+        "bbox_px": [
+          510,
+          8242,
+          594,
+          8259
+        ],
+        "confidence": 1,
+        "text": "Figma Buzz"
+      },
+      {
+        "bbox_px": [
+          602,
+          8242,
+          640,
+          8255
+        ],
+        "confidence": 1,
+        "text": "BETA"
+      },
+      {
+        "bbox_px": [
+          510,
+          8280,
+          646,
+          8298
+        ],
+        "confidence": 1,
+        "text": "Design and explore"
+      },
+      {
+        "bbox_px": [
+          510,
+          8317,
+          678,
+          8334
+        ],
+        "confidence": 1,
+        "text": "Build and ship products"
+      },
+      {
+        "bbox_px": [
+          510,
+          8355,
+          602,
+          8370
+        ],
+        "confidence": 1,
+        "text": "Al workflows"
+      },
+      {
+        "bbox_px": [
+          510,
+          8393,
+          611,
+          8406
+        ],
+        "confidence": 1,
+        "text": "Release notes"
+      },
+      {
+        "bbox_px": [
+          510,
+          8428,
+          590,
+          8444
+        ],
+        "confidence": 1,
+        "text": "Downloads"
+      },
+      {
+        "bbox_px": [
+          506,
+          8499,
+          561,
+          8515
+        ],
+        "confidence": 1,
+        "text": "PLANS"
+      },
+      {
+        "bbox_px": [
+          509,
+          8538,
+          561,
+          8557
+        ],
+        "confidence": 1,
+        "text": "Pricing"
+      },
+      {
+        "bbox_px": [
+          510,
+          8575,
+          584,
+          8593
+        ],
+        "confidence": 1,
+        "text": "Enterprise"
+      },
+      {
+        "bbox_px": [
+          510,
+          8612,
+          602,
+          8630
+        ],
+        "confidence": 1,
+        "text": "Organization"
+      },
+      {
+        "bbox_px": [
+          510,
+          8650,
+          598,
+          8665
+        ],
+        "confidence": 1,
+        "text": "Professional"
+      },
+      {
+        "bbox_px": [
+          56,
+          8794,
+          203,
+          8818
+        ],
+        "confidence": 1,
+        "text": "Cookie settings |"
+      },
+      {
+        "bbox_px": [
+          223,
+          8794,
+          330,
+          8816
+        ],
+        "confidence": 1,
+        "text": "English v"
+      },
+      {
+        "bbox_px": [
+          747,
+          8018,
+          843,
+          8037
+        ],
+        "confidence": 1,
+        "text": "Diagramming"
+      },
+      {
+        "bbox_px": [
+          747,
+          8056,
+          835,
+          8075
+        ],
+        "confidence": 1,
+        "text": "Prototyping"
+      },
+      {
+        "bbox_px": [
+          747,
+          8094,
+          849,
+          8110
+        ],
+        "confidence": 1,
+        "text": "Brainstorming"
+      },
+      {
+        "bbox_px": [
+          749,
+          8131,
+          891,
+          8144
+        ],
+        "confidence": 1,
+        "text": "Presentation Maker"
+      },
+      {
+        "bbox_px": [
+          751,
+          8166,
+          881,
+          8182
+        ],
+        "confidence": 1,
+        "text": "Online whiteboard"
+      },
+      {
+        "bbox_px": [
+          749,
+          8204,
+          881,
+          8223
+        ],
+        "confidence": 1,
+        "text": "Strategic planning"
+      },
+      {
+        "bbox_px": [
+          749,
+          8241,
+          852,
+          8258
+        ],
+        "confidence": 1,
+        "text": "Mind mapping"
+      },
+      {
+        "bbox_px": [
+          749,
+          8279,
+          897,
+          8295
+        ],
+        "confidence": 1,
+        "text": "Al website generator"
+      },
+      {
+        "bbox_px": [
+          749,
+          8317,
+          889,
+          8332
+        ],
+        "confidence": 1,
+        "text": "Al design generator"
+      },
+      {
+        "bbox_px": [
+          749,
+          8353,
+          849,
+          8368
+        ],
+        "confidence": 1,
+        "text": "Al app builder"
+      },
+      {
+        "bbox_px": [
+          749,
+          8390,
+          860,
+          8408
+        ],
+        "confidence": 1,
+        "text": "Al Ul generator"
+      },
+      {
+        "bbox_px": [
+          749,
+          8428,
+          849,
+          8443
+        ],
+        "confidence": 1,
+        "text": "Weave Al tool"
+      },
+      {
+        "bbox_px": [
+          747,
+          8466,
+          862,
+          8484
+        ],
+        "confidence": 1,
+        "text": "Al design agent"
+      },
+      {
+        "bbox_px": [
+          987,
+          8014,
+          1132,
+          8038
+        ],
+        "confidence": 1,
+        "text": "Gradient Generator"
+      },
+      {
+        "bbox_px": [
+          987,
+          8053,
+          1065,
+          8075
+        ],
+        "confidence": 1,
+        "text": "GIF maker"
+      },
+      {
+        "bbox_px": [
+          987,
+          8089,
+          1078,
+          8113
+        ],
+        "confidence": 1,
+        "text": "Color wheel"
+      },
+      {
+        "bbox_px": [
+          987,
+          8127,
+          1038,
+          8148
+        ],
+        "confidence": 1,
+        "text": "Colors"
+      },
+      {
+        "bbox_px": [
+          987,
+          8163,
+          1080,
+          8188
+        ],
+        "confidence": 1,
+        "text": "Color picker"
+      },
+      {
+        "bbox_px": [
+          987,
+          8200,
+          1078,
+          8225
+        ],
+        "confidence": 1,
+        "text": "Font Library"
+      },
+      {
+        "bbox_px": [
+          985,
+          8238,
+          1067,
+          8261
+        ],
+        "confidence": 1,
+        "text": "Templates"
+      },
+      {
+        "bbox_px": [
+          987,
+          8277,
+          1071,
+          8300
+        ],
+        "confidence": 1,
+        "text": "Developers"
+      },
+      {
+        "bbox_px": [
+          985,
+          8316,
+          1077,
+          8334
+        ],
+        "confidence": 1,
+        "text": "Integrations"
+      },
+      {
+        "bbox_px": [
+          987,
+          8349,
+          1113,
+          8372
+        ],
+        "confidence": 1,
+        "text": "Affiliate program"
+      },
+      {
+        "bbox_px": [
+          987,
+          8386,
+          1107,
+          8410
+        ],
+        "confidence": 1,
+        "text": "Resource library"
+      },
+      {
+        "bbox_px": [
+          987,
+          8424,
+          1138,
+          8448
+        ],
+        "confidence": 1,
+        "text": "Reports and insights"
+      },
+      {
+        "bbox_px": [
+          985,
+          8460,
+          1054,
+          8485
+        ],
+        "confidence": 1,
+        "text": "Support"
+      },
+      {
+        "bbox_px": [
+          986,
+          8499,
+          1041,
+          8522
+        ],
+        "confidence": 1,
+        "text": "Status"
+      },
+      {
+        "bbox_px": [
+          985,
+          8540,
+          1113,
+          8561
+        ],
+        "confidence": 1,
+        "text": "Legal and privacy"
+      },
+      {
+        "bbox_px": [
+          985,
+          8577,
+          1098,
+          8599
+        ],
+        "confidence": 1,
+        "text": "Modern slavery"
+      },
+      {
+        "bbox_px": [
+          985,
+          8602,
+          1065,
+          8621
+        ],
+        "confidence": 1,
+        "text": "statement"
+      },
+      {
+        "bbox_px": [
+          987,
+          8637,
+          1121,
+          8657
+        ],
+        "confidence": 1,
+        "text": "Climate disclosure"
+      },
+      {
+        "bbox_px": [
+          985,
+          8665,
+          1065,
+          8682
+        ],
+        "confidence": 1,
+        "text": "statement"
+      },
+      {
+        "bbox_px": [
+          985,
+          8701,
+          1069,
+          8720
+        ],
+        "confidence": 1,
+        "text": "Impressum"
+      },
+      {
+        "bbox_px": [
+          1226,
+          8016,
+          1308,
+          8037
+        ],
+        "confidence": 1,
+        "text": "Newsroom"
+      },
+      {
+        "bbox_px": [
+          1226,
+          8053,
+          1325,
+          8076
+        ],
+        "confidence": 1,
+        "text": "Brand assets"
+      }
+    ],
+    "path": "screenshots/figma.png",
+    "width": 1440
+  }
+]

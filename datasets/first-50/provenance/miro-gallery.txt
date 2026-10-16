@@ -1,0 +1,77 @@
+✨ Looking for app inspiration? Check out SaaS Interface ✨
+Inspiration
+App Inspiration
+Templates
+Advertise
+Visit Website
+Miro
+
+Miro is an online collaborative whiteboard platform that enables remote teams to collaborate more efficiently with the help of a suite of features to brainstorm sessions, plan projects, and design new products.
+
+Fonts
+Roobert PRO
+Palette
+1c1c1e
+2e4de6
+fbf7ef
+Stacks
+GSAP, Next.js, React, WordPress
+Tags
+B2B, Productivity
+Categories
+Landing page
+Date
+September 2024
+Recommended
+Inspiration
+Landing pages
+Pricing pages
+About Us pages
+Features pages
+Blog pages
+Testimonials pages
+FAQ pages
+Contact Us pages
+Templates
+Framer
+Webflow
+React
+HTML
+Next.js
+Tailwind CSS
+Vue
+View all
+Resources
+Blog
+Resources & Tools
+Popular stacks
+React
+Next.js
+Tailwind CSS
+Webflow
+GSAP
+Framer
+WordPress
+View all
+Popular tags
+Productivity
+AI
+Code Tool
+Finance
+Design Tool
+B2B
+FinTech
+View all
+Popular fonts
+Inter
+Graphik
+Geist Sans
+Suisse Int'l
+Roobert
+Geist Mono
+Tiempos Headline
+View all
+Advertise on SLP
+ Privacy Policy
+Day / Night toggle
+A project by Davide Pacilio.

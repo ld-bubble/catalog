@@ -1,0 +1,3033 @@
+{
+  "schema_version": "0.1",
+  "id": "typeform",
+  "annotation": {
+    "status": "pilot_partial",
+    "method": "Assistant visual inspection of all 50 overview/full-page thumbnails and readable top-window crops; manual hero-copy transcription; local Apple Vision OCR of full screenshots.",
+    "coverage": [
+      "Visible headline and selected actions",
+      "Supporting hero copy where recorded",
+      "Industry/audience/intended action retrieval facets",
+      "Observed desktop composition and evidence images"
+    ],
+    "unreviewed": [
+      "Full-page OCR transcription candidates",
+      "Precise semantic body-section segmentation",
+      "Runtime and responsive behavior"
+    ]
+  },
+  "provenance": {
+    "gallery_url": "https://saaslandingpage.com/typeform",
+    "gallery_saved_at": "2026-09-29T15:08:31.767Z",
+    "original_site_url": null,
+    "screenshot_captured_at": null,
+    "gallery_meta_path": "provenance/typeform-meta.json",
+    "gallery_text_path": "provenance/typeform-gallery.txt"
+  },
+  "images": [
+    {
+      "id": "full",
+      "path": "screenshots/typeform.png",
+      "sha256": "ef13e3f0191d030318fc49027feb53cacff879032229aaeb9634005a89e0ae3e",
+      "width": 1440,
+      "height": 7920,
+      "role": "source",
+      "parent_id": null,
+      "bbox_px": null
+    },
+    {
+      "id": "hero-window",
+      "path": "crops/typeform-hero.png",
+      "sha256": "d22c1deee02a69b50181c41c861852d71a4a4b1197aee2c572522bd8069774d4",
+      "width": 1440,
+      "height": 1000,
+      "role": "crop",
+      "parent_id": "full",
+      "bbox_px": [
+        0,
+        0,
+        1440,
+        1000
+      ]
+    }
+  ],
+  "retrieval": {
+    "page_kind": "landing-page",
+    "summary": "Large centered light serif type on dark purple sits above a CTA and three compact capability panels.",
+    "tags": [
+      "industry:Marketing and sales",
+      "audience:Marketing and research teams",
+      "conversion_goal:signup",
+      "style:editorial-typography",
+      "color_family:purple",
+      "hero_layout:centered"
+    ]
+  },
+  "claims": [
+    {
+      "field": "industry",
+      "value": "Marketing and sales",
+      "basis": "interpretation",
+      "confidence": "medium",
+      "evidence_ids": [
+        "hero-window",
+        "full"
+      ]
+    },
+    {
+      "field": "audience",
+      "value": "Marketing and research teams",
+      "basis": "interpretation",
+      "confidence": "medium",
+      "evidence_ids": [
+        "hero-window",
+        "full"
+      ]
+    },
+    {
+      "field": "conversion_goal",
+      "value": "signup",
+      "basis": "interpretation",
+      "confidence": "medium",
+      "evidence_ids": [
+        "hero-window",
+        "full"
+      ]
+    },
+    {
+      "field": "style",
+      "value": "editorial-typography",
+      "basis": "interpretation",
+      "confidence": "medium",
+      "evidence_ids": [
+        "hero-window",
+        "full"
+      ]
+    },
+    {
+      "field": "color_family",
+      "value": "purple",
+      "basis": "screenshot_observation",
+      "confidence": "high",
+      "evidence_ids": [
+        "hero-window",
+        "full"
+      ]
+    },
+    {
+      "field": "hero_layout",
+      "value": "centered",
+      "basis": "screenshot_observation",
+      "confidence": "high",
+      "evidence_ids": [
+        "hero-window",
+        "full"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "id": "top-window",
+      "order": 0,
+      "role": "top-page-evidence-window",
+      "pattern": "centered",
+      "takeaway": "Your favorite forms. Now with AI automation.",
+      "evidence_ids": [
+        "hero-window",
+        "full"
+      ],
+      "observations": [
+        "Large centered light serif type on dark purple sits above a CTA and three compact capability panels.",
+        "Window includes the page header and may include the start of subsequent content."
+      ],
+      "visible_affordances": [
+        "Get started—it’s free"
+      ],
+      "runtime_verified": false
+    },
+    {
+      "id": "remaining-page",
+      "order": 1,
+      "role": "unsegmented-page-body",
+      "pattern": "unclassified",
+      "takeaway": "Inspect the full screenshot; detailed body annotation is pending.",
+      "evidence_ids": [
+        "full"
+      ],
+      "observations": [
+        "Full-page visual evidence and unreviewed OCR are retained."
+      ],
+      "visible_affordances": [],
+      "runtime_verified": false
+    }
+  ],
+  "recipes": [],
+  "unknowns": [
+    "No conversion-performance data; conversion_goal describes an intended visible action.",
+    "No verified mobile layout, animation, interaction, DOM, source code, font names, or CSS spacing values.",
+    "Screenshot capture date is unknown; gallery savedAt is the download date.",
+    "Full-page semantic section boundaries and body copy classification remain unreviewed.",
+    "The first 1000 pixels are an evidence window, not a browser viewport or exact hero boundary.",
+    "Copy text omits decorative icons; text punctuation is transcribed as visible, but font-specific glyph identity is not established."
+  ],
+  "copy_blocks": [
+    {
+      "id": "copy-01",
+      "section_id": "top-window",
+      "role": "headline",
+      "text_verbatim": "Your favorite forms. Now with AI automation.",
+      "visible_lines": [],
+      "evidence_ids": [
+        "hero-window",
+        "full"
+      ],
+      "reading_order": 0,
+      "transcription_status": "visually_verified",
+      "uncertainties": [
+        "Visual line wrapping is not transcribed; use the screenshot.",
+        "Reading order is grouped editorially by copy role, not a DOM reading-order measurement."
+      ]
+    },
+    {
+      "id": "copy-02",
+      "section_id": "top-window",
+      "role": "supporting_copy",
+      "text_verbatim": "Combine AI forms and automated workflows to drive revenue growth. Run in-depth research and manage the entire customer lifecycle. All in Typeform.",
+      "visible_lines": [],
+      "evidence_ids": [
+        "hero-window",
+        "full"
+      ],
+      "reading_order": 1,
+      "transcription_status": "visually_verified",
+      "uncertainties": [
+        "Visual line wrapping is not transcribed; use the screenshot.",
+        "Reading order is grouped editorially by copy role, not a DOM reading-order measurement."
+      ]
+    },
+    {
+      "id": "copy-03",
+      "section_id": "top-window",
+      "role": "cta",
+      "text_verbatim": "Get started—it’s free",
+      "visible_lines": [],
+      "evidence_ids": [
+        "hero-window",
+        "full"
+      ],
+      "reading_order": 2,
+      "transcription_status": "visually_verified",
+      "uncertainties": [
+        "Visual line wrapping is not transcribed; use the screenshot.",
+        "Reading order is grouped editorially by copy role, not a DOM reading-order measurement."
+      ]
+    }
+  ],
+  "transcription_candidates": [
+    {
+      "id": "ocr-0001",
+      "section_id": "top-window",
+      "text_raw": "I• Typeform",
+      "bbox_px": [
+        41,
+        30,
+        201,
+        61
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0002",
+      "section_id": "top-window",
+      "text_raw": "Pricing",
+      "bbox_px": [
+        555,
+        34,
+        630,
+        56
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0003",
+      "section_id": "top-window",
+      "text_raw": "Sign up",
+      "bbox_px": [
+        1314,
+        35,
+        1372,
+        55
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0004",
+      "section_id": "top-window",
+      "text_raw": "Platform v Solutions v",
+      "bbox_px": [
+        235,
+        36,
+        436,
+        52
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0005",
+      "section_id": "top-window",
+      "text_raw": "Resources v",
+      "bbox_px": [
+        436,
+        36,
+        556,
+        52
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0006",
+      "section_id": "top-window",
+      "text_raw": "Log in",
+      "bbox_px": [
+        1068,
+        36,
+        1118,
+        55
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0007",
+      "section_id": "top-window",
+      "text_raw": "Contact sales",
+      "bbox_px": [
+        1160,
+        36,
+        1262,
+        52
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0008",
+      "section_id": "top-window",
+      "text_raw": "AI FORMS & AUTOMATION",
+      "bbox_px": [
+        629,
+        119,
+        810,
+        136
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0009",
+      "section_id": "top-window",
+      "text_raw": "Your favorite torms.",
+      "bbox_px": [
+        381,
+        166,
+        1065,
+        247
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0010",
+      "section_id": "top-window",
+      "text_raw": "Now with Al automation.",
+      "bbox_px": [
+        289,
+        240,
+        1161,
+        319
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0011",
+      "section_id": "top-window",
+      "text_raw": "Combine Al forms and automated workflows to drive revenue growth. Run in-depth",
+      "bbox_px": [
+        347,
+        339,
+        1095,
+        364
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0012",
+      "section_id": "top-window",
+      "text_raw": "research and manage the entire customer lifecycle. All in Typeform.",
+      "bbox_px": [
+        415,
+        368,
+        1024,
+        390
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0013",
+      "section_id": "top-window",
+      "text_raw": "Get started-it's free",
+      "bbox_px": [
+        642,
+        449,
+        797,
+        466
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0014",
+      "section_id": "top-window",
+      "text_raw": "LEARN",
+      "bbox_px": [
+        972,
+        556,
+        1029,
+        573
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0015",
+      "section_id": "top-window",
+      "text_raw": "ASK",
+      "bbox_px": [
+        70,
+        557,
+        107,
+        572
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0016",
+      "section_id": "top-window",
+      "text_raw": "АСТ",
+      "bbox_px": [
+        522,
+        557,
+        556,
+        572
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0017",
+      "section_id": "top-window",
+      "text_raw": "Intelligent Forms",
+      "bbox_px": [
+        67,
+        593,
+        253,
+        620
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0018",
+      "section_id": "top-window",
+      "text_raw": "Growth Flow",
+      "bbox_px": [
+        522,
+        596,
+        661,
+        620
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0019",
+      "section_id": "top-window",
+      "text_raw": "Research Flow",
+      "bbox_px": [
+        972,
+        596,
+        1134,
+        620
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0020",
+      "section_id": "top-window",
+      "text_raw": "NEW",
+      "bbox_px": [
+        682,
+        601,
+        718,
+        614
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0021",
+      "section_id": "top-window",
+      "text_raw": "NEW",
+      "bbox_px": [
+        1155,
+        601,
+        1191,
+        614
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0022",
+      "section_id": "top-window",
+      "text_raw": "Build forms that adapt to every respondent and then",
+      "bbox_px": [
+        70,
+        632,
+        446,
+        651
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0023",
+      "section_id": "top-window",
+      "text_raw": "Convert and keep customers with automated Al",
+      "bbox_px": [
+        522,
+        635,
+        867,
+        651
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0024",
+      "section_id": "top-window",
+      "text_raw": "Make confident business decisions fast with",
+      "bbox_px": [
+        972,
+        635,
+        1293,
+        651
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0025",
+      "section_id": "top-window",
+      "text_raw": "analyze your data for rich insights.",
+      "bbox_px": [
+        70,
+        659,
+        316,
+        678
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0026",
+      "section_id": "top-window",
+      "text_raw": "segmentation and follow-ups.",
+      "bbox_px": [
+        520,
+        664,
+        742,
+        680
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0027",
+      "section_id": "top-window",
+      "text_raw": "Al-moderated studies and automated reports.",
+      "bbox_px": [
+        972,
+        664,
+        1309,
+        680
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0028",
+      "section_id": "remaining-page",
+      "text_raw": "FitCo",
+      "bbox_px": [
+        559,
+        1279,
+        588,
+        1292
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0029",
+      "section_id": "remaining-page",
+      "text_raw": "Share your",
+      "bbox_px": [
+        567,
+        1323,
+        648,
+        1339
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0030",
+      "section_id": "remaining-page",
+      "text_raw": "email for a free",
+      "bbox_px": [
+        566,
+        1334,
+        677,
+        1356
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0031",
+      "section_id": "remaining-page",
+      "text_raw": "virtual class",
+      "bbox_px": [
+        567,
+        1352,
+        658,
+        1368
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0032",
+      "section_id": "remaining-page",
+      "text_raw": "Submit",
+      "bbox_px": [
+        608,
+        1402,
+        650,
+        1415
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0033",
+      "section_id": "remaining-page",
+      "text_raw": "INTELLIGENT FORMS",
+      "bbox_px": [
+        167,
+        2479,
+        310,
+        2492
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0034",
+      "section_id": "remaining-page",
+      "text_raw": "Build a feedback form for",
+      "bbox_px": [
+        949,
+        2497,
+        1125,
+        2563
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0035",
+      "section_id": "remaining-page",
+      "text_raw": "FitCo",
+      "bbox_px": [
+        731,
+        2508,
+        823,
+        2568
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0036",
+      "section_id": "remaining-page",
+      "text_raw": "my fitness studio|",
+      "bbox_px": [
+        950,
+        2515,
+        1079,
+        2566
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0037",
+      "section_id": "remaining-page",
+      "text_raw": "Build forms at the",
+      "bbox_px": [
+        169,
+        2534,
+        540,
+        2573
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0038",
+      "section_id": "remaining-page",
+      "text_raw": "drop of a prompt",
+      "bbox_px": [
+        167,
+        2586,
+        533,
+        2633
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0039",
+      "section_id": "remaining-page",
+      "text_raw": "Aa",
+      "bbox_px": [
+        765,
+        2596,
+        802,
+        2625
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0040",
+      "section_id": "remaining-page",
+      "text_raw": "With over 48 million responses collected",
+      "bbox_px": [
+        167,
+        2654,
+        533,
+        2673
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0041",
+      "section_id": "remaining-page",
+      "text_raw": "monthly, Typeform Al builds best-in-class forms",
+      "bbox_px": [
+        167,
+        2677,
+        595,
+        2698
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0042",
+      "section_id": "remaining-page",
+      "text_raw": "proven to get 3.5x more data. Brand easily,",
+      "bbox_px": [
+        167,
+        2703,
+        551,
+        2724
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0043",
+      "section_id": "remaining-page",
+      "text_raw": "customize everything.",
+      "bbox_px": [
+        167,
+        2732,
+        371,
+        2751
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0044",
+      "section_id": "remaining-page",
+      "text_raw": "Explore forms",
+      "bbox_px": [
+        196,
+        2800,
+        300,
+        2816
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0045",
+      "section_id": "remaining-page",
+      "text_raw": "High Response Rate",
+      "bbox_px": [
+        224,
+        2918,
+        446,
+        2944
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0046",
+      "section_id": "remaining-page",
+      "text_raw": "Deeper Insights",
+      "bbox_px": [
+        603,
+        2918,
+        776,
+        2944
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0047",
+      "section_id": "remaining-page",
+      "text_raw": "Advanced Analytics",
+      "bbox_px": [
+        982,
+        2918,
+        1202,
+        2944
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0048",
+      "section_id": "remaining-page",
+      "text_raw": "Build forms people actually fill out with",
+      "bbox_px": [
+        227,
+        2952,
+        504,
+        2971
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0049",
+      "section_id": "remaining-page",
+      "text_raw": "Get rich answers with video and audio",
+      "bbox_px": [
+        606,
+        2952,
+        880,
+        2971
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0050",
+      "section_id": "remaining-page",
+      "text_raw": "Dig into both qualitative and",
+      "bbox_px": [
+        982,
+        2952,
+        1189,
+        2973
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0051",
+      "section_id": "remaining-page",
+      "text_raw": "responses, plus extra context from Al-",
+      "bbox_px": [
+        603,
+        2973,
+        880,
+        2994
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0052",
+      "section_id": "remaining-page",
+      "text_raw": "beautiful design and conversational",
+      "bbox_px": [
+        224,
+        2975,
+        486,
+        2992
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0053",
+      "section_id": "remaining-page",
+      "text_raw": "quantitative data with topic and",
+      "bbox_px": [
+        982,
+        2975,
+        1215,
+        2992
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0054",
+      "section_id": "remaining-page",
+      "text_raw": "generated follow-up questions that",
+      "bbox_px": [
+        603,
+        2993,
+        862,
+        3012
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0055",
+      "section_id": "remaining-page",
+      "text_raw": "logic that adapts to every response,",
+      "bbox_px": [
+        224,
+        2996,
+        486,
+        3013
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0056",
+      "section_id": "remaining-page",
+      "text_raw": "sentiment analysis, respondent",
+      "bbox_px": [
+        982,
+        2996,
+        1215,
+        3013
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0057",
+      "section_id": "remaining-page",
+      "text_raw": "doubling the completion rate vs.",
+      "bbox_px": [
+        227,
+        3015,
+        462,
+        3035
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0058",
+      "section_id": "remaining-page",
+      "text_raw": "comparison, and form drop-off",
+      "bbox_px": [
+        982,
+        3015,
+        1207,
+        3034
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0059",
+      "section_id": "remaining-page",
+      "text_raw": "adapt as people complete your form.",
+      "bbox_px": [
+        603,
+        3017,
+        872,
+        3033
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0060",
+      "section_id": "remaining-page",
+      "text_raw": "traditional forms.",
+      "bbox_px": [
+        224,
+        3038,
+        350,
+        3055
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0061",
+      "section_id": "remaining-page",
+      "text_raw": "analysis.",
+      "bbox_px": [
+        982,
+        3038,
+        1048,
+        3055
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0062",
+      "section_id": "remaining-page",
+      "text_raw": "When the form ends,",
+      "bbox_px": [
+        437,
+        3287,
+        1000,
+        3376
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0063",
+      "section_id": "remaining-page",
+      "text_raw": "the flow begins...",
+      "bbox_px": [
+        500,
+        3367,
+        944,
+        3444
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0064",
+      "section_id": "remaining-page",
+      "text_raw": "NEW",
+      "bbox_px": [
+        955,
+        3609,
+        992,
+        3628
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0065",
+      "section_id": "remaining-page",
+      "text_raw": "GROWTH FLOW",
+      "bbox_px": [
+        828,
+        3610,
+        938,
+        3626
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0066",
+      "section_id": "remaining-page",
+      "text_raw": "Sign up for",
+      "bbox_px": [
+        571,
+        3640,
+        645,
+        3676
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0067",
+      "section_id": "remaining-page",
+      "text_raw": "more classes!",
+      "bbox_px": [
+        572,
+        3655,
+        661,
+        3694
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0068",
+      "section_id": "remaining-page",
+      "text_raw": "FiLCO",
+      "bbox_px": [
+        339,
+        3660,
+        365,
+        3676
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0069",
+      "section_id": "remaining-page",
+      "text_raw": "Be proactive with",
+      "bbox_px": [
+        831,
+        3670,
+        1202,
+        3718
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0070",
+      "section_id": "remaining-page",
+      "text_raw": "Get membership",
+      "bbox_px": [
+        590,
+        3688,
+        669,
+        3726
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0071",
+      "section_id": "remaining-page",
+      "text_raw": "Share your",
+      "bbox_px": [
+        343,
+        3704,
+        423,
+        3746
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0072",
+      "section_id": "remaining-page",
+      "text_raw": "email for a free",
+      "bbox_px": [
+        344,
+        3720,
+        449,
+        3767
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0073",
+      "section_id": "remaining-page",
+      "text_raw": "customer data",
+      "bbox_px": [
+        828,
+        3725,
+        1142,
+        3762
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0074",
+      "section_id": "remaining-page",
+      "text_raw": "virtual class",
+      "bbox_px": [
+        346,
+        3737,
+        432,
+        3776
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0075",
+      "section_id": "remaining-page",
+      "text_raw": "Set up automations that convert and keep",
+      "bbox_px": [
+        828,
+        3788,
+        1207,
+        3812
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0076",
+      "section_id": "remaining-page",
+      "text_raw": "Submit",
+      "bbox_px": [
+        386,
+        3801,
+        423,
+        3817
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0077",
+      "section_id": "remaining-page",
+      "text_raw": "customers for you. As opportunities arise,",
+      "bbox_px": [
+        828,
+        3817,
+        1202,
+        3836
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0078",
+      "section_id": "remaining-page",
+      "text_raw": "Growth Flow steps in to enrich leads, create",
+      "bbox_px": [
+        830,
+        3840,
+        1223,
+        3863
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0079",
+      "section_id": "remaining-page",
+      "text_raw": "Contact added to",
+      "bbox_px": [
+        254,
+        3859,
+        363,
+        3906
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0080",
+      "section_id": "remaining-page",
+      "text_raw": "segments, and send personalized messages.",
+      "bbox_px": [
+        828,
+        3869,
+        1230,
+        3890
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0081",
+      "section_id": "remaining-page",
+      "text_raw": "PROSPECT LIST",
+      "bbox_px": [
+        254,
+        3879,
+        338,
+        3919
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0082",
+      "section_id": "remaining-page",
+      "text_raw": "Explore Growth Flow",
+      "bbox_px": [
+        851,
+        3937,
+        1006,
+        3953
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0083",
+      "section_id": "remaining-page",
+      "text_raw": "RESEARCH FLOW",
+      "bbox_px": [
+        167,
+        4274,
+        287,
+        4290
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0084",
+      "section_id": "remaining-page",
+      "text_raw": "NEW",
+      "bbox_px": [
+        308,
+        4277,
+        342,
+        4288
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0085",
+      "section_id": "remaining-page",
+      "text_raw": "Recruit participants",
+      "bbox_px": [
+        1057,
+        4289,
+        1176,
+        4340
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0086",
+      "section_id": "remaining-page",
+      "text_raw": "ROLL",
+      "bbox_px": [
+        815,
+        4325,
+        846,
+        4345
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0087",
+      "section_id": "remaining-page",
+      "text_raw": "2,070 VERIFIED",
+      "bbox_px": [
+        1052,
+        4334,
+        1138,
+        4375
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0088",
+      "section_id": "remaining-page",
+      "text_raw": "Run fast research,",
+      "bbox_px": [
+        167,
+        4337,
+        559,
+        4387
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0089",
+      "section_id": "remaining-page",
+      "text_raw": "How familiar",
+      "bbox_px": [
+        816,
+        4365,
+        920,
+        4414
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0090",
+      "section_id": "remaining-page",
+      "text_raw": "moderated by Al",
+      "bbox_px": [
+        166,
+        4387,
+        530,
+        4438
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0091",
+      "section_id": "remaining-page",
+      "text_raw": "are you with",
+      "bbox_px": [
+        818,
+        4390,
+        918,
+        4433
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0092",
+      "section_id": "remaining-page",
+      "text_raw": "e-bikes?",
+      "bbox_px": [
+        819,
+        4406,
+        892,
+        4445
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0093",
+      "section_id": "remaining-page",
+      "text_raw": "g Listening...",
+      "bbox_px": [
+        822,
+        4436,
+        905,
+        4474
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0094",
+      "section_id": "remaining-page",
+      "text_raw": "Make data-backed business decisions with",
+      "bbox_px": [
+        167,
+        4455,
+        559,
+        4474
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0095",
+      "section_id": "remaining-page",
+      "text_raw": "Research Flow. It builds your research study,",
+      "bbox_px": [
+        167,
+        4479,
+        567,
+        4503
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0096",
+      "section_id": "remaining-page",
+      "text_raw": "conducts 1000s of Al-moderated interviews at",
+      "bbox_px": [
+        167,
+        4507,
+        588,
+        4526
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0097",
+      "section_id": "remaining-page",
+      "text_raw": "Finalize study design",
+      "bbox_px": [
+        758,
+        4531,
+        894,
+        4590
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0098",
+      "section_id": "remaining-page",
+      "text_raw": "once, and analyzes the findings. Fast.",
+      "bbox_px": [
+        167,
+        4534,
+        501,
+        4553
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0099",
+      "section_id": "remaining-page",
+      "text_raw": "Explore Research Flow",
+      "bbox_px": [
+        190,
+        4601,
+        360,
+        4620
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0100",
+      "section_id": "remaining-page",
+      "text_raw": "Qualitative & Quantitative",
+      "bbox_px": [
+        603,
+        4714,
+        880,
+        4738
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0101",
+      "section_id": "remaining-page",
+      "text_raw": "Verified Panel Recruitment",
+      "bbox_px": [
+        982,
+        4714,
+        1270,
+        4736
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0102",
+      "section_id": "remaining-page",
+      "text_raw": "Fast Insights",
+      "bbox_px": [
+        224,
+        4715,
+        363,
+        4740
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0103",
+      "section_id": "remaining-page",
+      "text_raw": "Get insights in hours, not weeks. Al",
+      "bbox_px": [
+        227,
+        4748,
+        481,
+        4769
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0104",
+      "section_id": "remaining-page",
+      "text_raw": "Run Al-moderated text, video, and",
+      "bbox_px": [
+        603,
+        4751,
+        857,
+        4767
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0105",
+      "section_id": "remaining-page",
+      "text_raw": "Get the best possible insights. Use",
+      "bbox_px": [
+        982,
+        4751,
+        1233,
+        4767
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0106",
+      "section_id": "remaining-page",
+      "text_raw": "handles recruiting, moderating, and",
+      "bbox_px": [
+        224,
+        4771,
+        486,
+        4788
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0107",
+      "section_id": "remaining-page",
+      "text_raw": "voice interviews at survey scale and in",
+      "bbox_px": [
+        603,
+        4771,
+        883,
+        4788
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0108",
+      "section_id": "remaining-page",
+      "text_raw": "400+ targeting criteria to reach the",
+      "bbox_px": [
+        982,
+        4771,
+        1236,
+        4788
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0109",
+      "section_id": "remaining-page",
+      "text_raw": "one platform. Capture tone, hesitation,",
+      "bbox_px": [
+        603,
+        4790,
+        883,
+        4809
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0110",
+      "section_id": "remaining-page",
+      "text_raw": "synthesizing research studies from start",
+      "bbox_px": [
+        227,
+        4793,
+        514,
+        4809
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0111",
+      "section_id": "remaining-page",
+      "text_raw": "right audience, with built-in incentive",
+      "bbox_px": [
+        982,
+        4793,
+        1251,
+        4809
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0112",
+      "section_id": "remaining-page",
+      "text_raw": "to finish, so you uncover deep insights",
+      "bbox_px": [
+        224,
+        4813,
+        504,
+        4829
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0113",
+      "section_id": "remaining-page",
+      "text_raw": "and the reasoning behind every answer.",
+      "bbox_px": [
+        603,
+        4813,
+        896,
+        4829
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0114",
+      "section_id": "remaining-page",
+      "text_raw": "management so you need fewer tools.",
+      "bbox_px": [
+        982,
+        4813,
+        1257,
+        4829
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0115",
+      "section_id": "remaining-page",
+      "text_raw": "at light speed.",
+      "bbox_px": [
+        227,
+        4835,
+        331,
+        4850
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0116",
+      "section_id": "remaining-page",
+      "text_raw": "totad tn nne tuln sasseisna tio",
+      "bbox_px": [
+        112,
+        5090,
+        1322,
+        5142
+      ],
+      "ocr_confidence": 0.30000001192092896,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0117",
+      "section_id": "remaining-page",
+      "text_raw": "un o pao",
+      "bbox_px": [
+        1298,
+        5566,
+        1437,
+        5592
+      ],
+      "ocr_confidence": 0.30000001192092896,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0118",
+      "section_id": "remaining-page",
+      "text_raw": "osieр",
+      "bbox_px": [
+        951,
+        6320,
+        1067,
+        6363
+      ],
+      "ocr_confidence": 0.30000001192092896,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0119",
+      "section_id": "remaining-page",
+      "text_raw": "ofisep",
+      "bbox_px": [
+        950,
+        6415,
+        1066,
+        6457
+      ],
+      "ocr_confidence": 0.30000001192092896,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0120",
+      "section_id": "remaining-page",
+      "text_raw": "klaviyo™",
+      "bbox_px": [
+        955,
+        6416,
+        1068,
+        6458
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0121",
+      "section_id": "remaining-page",
+      "text_raw": "aduns",
+      "bbox_px": [
+        538,
+        6419,
+        621,
+        6458
+      ],
+      "ocr_confidence": 0.30000001192092896,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0122",
+      "section_id": "remaining-page",
+      "text_raw": "_zapier",
+      "bbox_px": [
+        88,
+        6421,
+        207,
+        6455
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0123",
+      "section_id": "remaining-page",
+      "text_raw": "i slack",
+      "bbox_px": [
+        733,
+        6421,
+        857,
+        6453
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0124",
+      "section_id": "remaining-page",
+      "text_raw": "stripe",
+      "bbox_px": [
+        541,
+        6422,
+        618,
+        6453
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0125",
+      "section_id": "remaining-page",
+      "text_raw": "W Webflow",
+      "bbox_px": [
+        304,
+        6426,
+        424,
+        6451
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0126",
+      "section_id": "remaining-page",
+      "text_raw": "IIII INTERCOM",
+      "bbox_px": [
+        1172,
+        6430,
+        1287,
+        6444
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0127",
+      "section_id": "remaining-page",
+      "text_raw": "View integrations",
+      "bbox_px": [
+        655,
+        6540,
+        786,
+        6559
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0128",
+      "section_id": "remaining-page",
+      "text_raw": "Al forms and automation.",
+      "bbox_px": [
+        277,
+        6825,
+        1171,
+        6906
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0129",
+      "section_id": "remaining-page",
+      "text_raw": "All in Typeform.",
+      "bbox_px": [
+        442,
+        6912,
+        1004,
+        6995
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0130",
+      "section_id": "remaining-page",
+      "text_raw": "Get started-it's free",
+      "bbox_px": [
+        644,
+        7042,
+        795,
+        7058
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0131",
+      "section_id": "remaining-page",
+      "text_raw": "PRODUCT",
+      "bbox_px": [
+        46,
+        7274,
+        125,
+        7290
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0132",
+      "section_id": "remaining-page",
+      "text_raw": "TEMPLATES",
+      "bbox_px": [
+        320,
+        7274,
+        413,
+        7290
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0133",
+      "section_id": "remaining-page",
+      "text_raw": "INTEGRATIONS",
+      "bbox_px": [
+        594,
+        7274,
+        713,
+        7292
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0134",
+      "section_id": "remaining-page",
+      "text_raw": "RESOURCES",
+      "bbox_px": [
+        870,
+        7274,
+        969,
+        7292
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0135",
+      "section_id": "remaining-page",
+      "text_raw": "GET TO KNOW US",
+      "bbox_px": [
+        1146,
+        7274,
+        1283,
+        7293
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0136",
+      "section_id": "remaining-page",
+      "text_raw": "Pricing",
+      "bbox_px": [
+        48,
+        7325,
+        99,
+        7340
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0137",
+      "section_id": "remaining-page",
+      "text_raw": "Blog",
+      "bbox_px": [
+        872,
+        7325,
+        907,
+        7341
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0138",
+      "section_id": "remaining-page",
+      "text_raw": "About us",
+      "bbox_px": [
+        1146,
+        7325,
+        1214,
+        7338
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0139",
+      "section_id": "remaining-page",
+      "text_raw": "Popular templates v",
+      "bbox_px": [
+        322,
+        7329,
+        477,
+        7349
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0140",
+      "section_id": "remaining-page",
+      "text_raw": "Popular integration apps v",
+      "bbox_px": [
+        596,
+        7330,
+        799,
+        7348
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0141",
+      "section_id": "remaining-page",
+      "text_raw": "Guides",
+      "bbox_px": [
+        869,
+        7361,
+        925,
+        7380
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0142",
+      "section_id": "remaining-page",
+      "text_raw": "Brand",
+      "bbox_px": [
+        1148,
+        7363,
+        1192,
+        7376
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0143",
+      "section_id": "remaining-page",
+      "text_raw": "Enterprise v",
+      "bbox_px": [
+        48,
+        7367,
+        145,
+        7383
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0144",
+      "section_id": "remaining-page",
+      "text_raw": "Recent templates v",
+      "bbox_px": [
+        322,
+        7378,
+        472,
+        7395
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0145",
+      "section_id": "remaining-page",
+      "text_raw": "More integration apps v",
+      "bbox_px": [
+        596,
+        7378,
+        781,
+        7396
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0146",
+      "section_id": "remaining-page",
+      "text_raw": "Careers",
+      "bbox_px": [
+        1146,
+        7397,
+        1208,
+        7414
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0147",
+      "section_id": "remaining-page",
+      "text_raw": "Help center",
+      "bbox_px": [
+        867,
+        7398,
+        960,
+        7416
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0148",
+      "section_id": "remaining-page",
+      "text_raw": "Popular app categories v",
+      "bbox_px": [
+        593,
+        7424,
+        790,
+        7449
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0149",
+      "section_id": "remaining-page",
+      "text_raw": "Popular categories v",
+      "bbox_px": [
+        318,
+        7425,
+        483,
+        7447
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0150",
+      "section_id": "remaining-page",
+      "text_raw": "Community",
+      "bbox_px": [
+        870,
+        7433,
+        958,
+        7454
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0151",
+      "section_id": "remaining-page",
+      "text_raw": "Contact sales",
+      "bbox_px": [
+        1148,
+        7435,
+        1247,
+        7452
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0152",
+      "section_id": "remaining-page",
+      "text_raw": "Tutorials",
+      "bbox_px": [
+        870,
+        7471,
+        934,
+        7491
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0153",
+      "section_id": "remaining-page",
+      "text_raw": "Legal",
+      "bbox_px": [
+        1144,
+        7471,
+        1188,
+        7491
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0154",
+      "section_id": "remaining-page",
+      "text_raw": "Recent categories v",
+      "bbox_px": [
+        320,
+        7473,
+        479,
+        7494
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0155",
+      "section_id": "remaining-page",
+      "text_raw": "More app categories v",
+      "bbox_px": [
+        594,
+        7473,
+        773,
+        7494
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0156",
+      "section_id": "remaining-page",
+      "text_raw": "FAQS",
+      "bbox_px": [
+        867,
+        7506,
+        914,
+        7526
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0157",
+      "section_id": "remaining-page",
+      "text_raw": "Newsletter",
+      "bbox_px": [
+        1146,
+        7508,
+        1228,
+        7524
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0158",
+      "section_id": "remaining-page",
+      "text_raw": "Why Typeform? v",
+      "bbox_px": [
+        865,
+        7551,
+        1009,
+        7571
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0159",
+      "section_id": "remaining-page",
+      "text_raw": "O D in",
+      "bbox_px": [
+        1205,
+        7559,
+        1298,
+        7582
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0160",
+      "section_id": "remaining-page",
+      "text_raw": "Referral program",
+      "bbox_px": [
+        867,
+        7592,
+        996,
+        7614
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0161",
+      "section_id": "remaining-page",
+      "text_raw": "Partners v",
+      "bbox_px": [
+        867,
+        7634,
+        958,
+        7655
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0162",
+      "section_id": "remaining-page",
+      "text_raw": "System status",
+      "bbox_px": [
+        867,
+        7676,
+        974,
+        7699
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0163",
+      "section_id": "remaining-page",
+      "text_raw": "Developers / API",
+      "bbox_px": [
+        867,
+        7712,
+        996,
+        7734
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0164",
+      "section_id": "remaining-page",
+      "text_raw": "© Typeform",
+      "bbox_px": [
+        1313,
+        7879,
+        1393,
+        7898
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0165",
+      "section_id": "remaining-page",
+      "text_raw": "Cookie settings Check our cookies policy to delete cookies Report abuse",
+      "bbox_px": [
+        44,
+        7880,
+        538,
+        7900
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    }
+  ]
+}

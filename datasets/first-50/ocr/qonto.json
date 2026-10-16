@@ -1,0 +1,2939 @@
+[
+  {
+    "height": 9662,
+    "lines": [
+      {
+        "bbox_px": [
+          44,
+          24,
+          133,
+          53
+        ],
+        "confidence": 1,
+        "text": "Qonto"
+      },
+      {
+        "bbox_px": [
+          159,
+          33,
+          295,
+          47
+        ],
+        "confidence": 1,
+        "text": "Business account"
+      },
+      {
+        "bbox_px": [
+          315,
+          31,
+          455,
+          51
+        ],
+        "confidence": 1,
+        "text": "Company creation"
+      },
+      {
+        "bbox_px": [
+          473,
+          34,
+          582,
+          50
+        ],
+        "confidence": 1,
+        "text": "Financial tools"
+      },
+      {
+        "bbox_px": [
+          603,
+          31,
+          653,
+          49
+        ],
+        "confidence": 1,
+        "text": "Credit"
+      },
+      {
+        "bbox_px": [
+          669,
+          34,
+          729,
+          49
+        ],
+        "confidence": 1,
+        "text": "Pricing"
+      },
+      {
+        "bbox_px": [
+          750,
+          33,
+          820,
+          47
+        ],
+        "confidence": 1,
+        "text": "About us"
+      },
+      {
+        "bbox_px": [
+          1097,
+          31,
+          1142,
+          47
+        ],
+        "confidence": 1,
+        "text": "EN -"
+      },
+      {
+        "bbox_px": [
+          1165,
+          31,
+          1217,
+          50
+        ],
+        "confidence": 1,
+        "text": "Sign in"
+      },
+      {
+        "bbox_px": [
+          1246,
+          34,
+          1377,
+          50
+        ],
+        "confidence": 1,
+        "text": "Open an account"
+      },
+      {
+        "bbox_px": [
+          878,
+          323,
+          946,
+          337
+        ],
+        "confidence": 1,
+        "text": "Business account"
+      },
+      {
+        "bbox_px": [
+          1008,
+          338,
+          1100,
+          362
+        ],
+        "confidence": 1,
+        "text": "Overview"
+      },
+      {
+        "bbox_px": [
+          1005,
+          363,
+          1108,
+          386
+        ],
+        "confidence": 1,
+        "text": "From Allaccounts v"
+      },
+      {
+        "bbox_px": [
+          1000,
+          401,
+          1064,
+          419
+        ],
+        "confidence": 1,
+        "text": "Make a transfer"
+      },
+      {
+        "bbox_px": [
+          1080,
+          406,
+          1129,
+          424
+        ],
+        "confidence": 1,
+        "text": "Go to IBAN"
+      },
+      {
+        "bbox_px": [
+          995,
+          450,
+          1029,
+          463
+        ],
+        "confidence": 1,
+        "text": "Balance"
+      },
+      {
+        "bbox_px": [
+          991,
+          472,
+          1104,
+          502
+        ],
+        "confidence": 1,
+        "text": "€42,130.23 *"
+      },
+      {
+        "bbox_px": [
+          969,
+          606,
+          987,
+          612
+        ],
+        "confidence": 0.30000001192092896,
+        "text": "840 7"
+      },
+      {
+        "bbox_px": [
+          1019,
+          609,
+          1045,
+          622
+        ],
+        "confidence": 1,
+        "text": "Feb 12"
+      },
+      {
+        "bbox_px": [
+          963,
+          655,
+          1007,
+          673
+        ],
+        "confidence": 1,
+        "text": "Accounts"
+      },
+      {
+        "bbox_px": [
+          960,
+          681,
+          1041,
+          706
+        ],
+        "confidence": 1,
+        "text": "X Compte principal"
+      },
+      {
+        "bbox_px": [
+          954,
+          707,
+          1007,
+          728
+        ],
+        "confidence": 1,
+        "text": "X Treasury"
+      },
+      {
+        "bbox_px": [
+          950,
+          731,
+          1002,
+          752
+        ],
+        "confidence": 1,
+        "text": "X Treasury"
+      },
+      {
+        "bbox_px": [
+          1214,
+          327,
+          1399,
+          356
+        ],
+        "confidence": 1,
+        "text": "Invoice-2026-001"
+      },
+      {
+        "bbox_px": [
+          1211,
+          354,
+          1438,
+          388
+        ],
+        "confidence": 1,
+        "text": "You've received a new inv"
+      },
+      {
+        "bbox_px": [
+          1141,
+          412,
+          1231,
+          430
+        ],
+        "confidence": 1,
+        "text": "Download statements"
+      },
+      {
+        "bbox_px": [
+          1248,
+          420,
+          1309,
+          436
+        ],
+        "confidence": 1,
+        "text": "Create invoice"
+      },
+      {
+        "bbox_px": [
+          1327,
+          425,
+          1377,
+          439
+        ],
+        "confidence": 1,
+        "text": "Pay invoice"
+      },
+      {
+        "bbox_px": [
+          1189,
+          627,
+          1215,
+          638
+        ],
+        "confidence": 1,
+        "text": "Feb 28"
+      },
+      {
+        "bbox_px": [
+          1149,
+          706,
+          1196,
+          722
+        ],
+        "confidence": 1,
+        "text": "€1.234.56"
+      },
+      {
+        "bbox_px": [
+          1146,
+          730,
+          1195,
+          749
+        ],
+        "confidence": 1,
+        "text": "4 €34.23ą"
+      },
+      {
+        "bbox_px": [
+          1140,
+          754,
+          1190,
+          776
+        ],
+        "confidence": 1,
+        "text": "A €34.2ąłą"
+      },
+      {
+        "bbox_px": [
+          1271,
+          472,
+          1331,
+          490
+        ],
+        "confidence": 1,
+        "text": "Transactions"
+      },
+      {
+        "bbox_px": [
+          1271,
+          498,
+          1320,
+          516
+        ],
+        "confidence": 1,
+        "text": "• Treezor"
+      },
+      {
+        "bbox_px": [
+          1385,
+          512,
+          1434,
+          521
+        ],
+        "confidence": 1,
+        "text": "Aug 11, 202"
+      },
+      {
+        "bbox_px": [
+          1268,
+          524,
+          1315,
+          543
+        ],
+        "confidence": 1,
+        "text": "B Billage"
+      },
+      {
+        "bbox_px": [
+          1263,
+          550,
+          1310,
+          569
+        ],
+        "confidence": 1,
+        "text": "B Billage"
+      },
+      {
+        "bbox_px": [
+          1258,
+          575,
+          1305,
+          595
+        ],
+        "confidence": 1,
+        "text": "B Biltage"
+      },
+      {
+        "bbox_px": [
+          1253,
+          600,
+          1347,
+          626
+        ],
+        "confidence": 1,
+        "text": "X Charged payments"
+      },
+      {
+        "bbox_px": [
+          1250,
+          626,
+          1300,
+          646
+        ],
+        "confidence": 1,
+        "text": "• Treezor"
+      },
+      {
+        "bbox_px": [
+          1245,
+          652,
+          1297,
+          672
+        ],
+        "confidence": 1,
+        "text": "• Treezor"
+      },
+      {
+        "bbox_px": [
+          1390,
+          536,
+          1437,
+          549
+        ],
+        "confidence": 1,
+        "text": "Aug 08, 202"
+      },
+      {
+        "bbox_px": [
+          1385,
+          564,
+          1437,
+          575
+        ],
+        "confidence": 1,
+        "text": "Aug 08. 202"
+      },
+      {
+        "bbox_px": [
+          1382,
+          590,
+          1437,
+          604
+        ],
+        "confidence": 1,
+        "text": "Aug 08, 2026"
+      },
+      {
+        "bbox_px": [
+          1373,
+          613,
+          1435,
+          632
+        ],
+        "confidence": 1,
+        "text": "Ml 30, 2026"
+      },
+      {
+        "bbox_px": [
+          1365,
+          639,
+          1438,
+          660
+        ],
+        "confidence": 1,
+        "text": "Aug 11,2026 -E"
+      },
+      {
+        "bbox_px": [
+          1362,
+          665,
+          1438,
+          687
+        ],
+        "confidence": 1,
+        "text": "Aug 11,2026 -El"
+      },
+      {
+        "bbox_px": [
+          1242,
+          681,
+          1291,
+          696
+        ],
+        "confidence": 1,
+        "text": "• Treezor"
+      },
+      {
+        "bbox_px": [
+          1358,
+          695,
+          1413,
+          709
+        ],
+        "confidence": 1,
+        "text": "Aug 11. 2026"
+      },
+      {
+        "bbox_px": [
+          1236,
+          704,
+          1331,
+          732
+        ],
+        "confidence": 1,
+        "text": "X Charged payments"
+      },
+      {
+        "bbox_px": [
+          1357,
+          718,
+          1409,
+          739
+        ],
+        "confidence": 0.5,
+        "text": "J 30.2026"
+      },
+      {
+        "bbox_px": [
+          1416,
+          727,
+          1437,
+          740
+        ],
+        "confidence": 1,
+        "text": "-EUF"
+      },
+      {
+        "bbox_px": [
+          1335,
+          747,
+          1372,
+          761
+        ],
+        "confidence": 1,
+        "text": "Show at"
+      },
+      {
+        "bbox_px": [
+          47,
+          682,
+          182,
+          699
+        ],
+        "confidence": 1,
+        "text": "4.7 of 5 * Trustpilot"
+      },
+      {
+        "bbox_px": [
+          49,
+          737,
+          690,
+          808
+        ],
+        "confidence": 1,
+        "text": "Business account."
+      },
+      {
+        "bbox_px": [
+          46,
+          815,
+          816,
+          896
+        ],
+        "confidence": 1,
+        "text": "Finance management."
+      },
+      {
+        "bbox_px": [
+          43,
+          883,
+          730,
+          991
+        ],
+        "confidence": 1,
+        "text": "Company creation.."
+      },
+      {
+        "bbox_px": [
+          62,
+          1059,
+          211,
+          1075
+        ],
+        "confidence": 1,
+        "text": "Open an account"
+      },
+      {
+        "bbox_px": [
+          253,
+          1059,
+          410,
+          1077
+        ],
+        "confidence": 1,
+        "text": "Find the right plan"
+      },
+      {
+        "bbox_px": [
+          175,
+          1295,
+          352,
+          1319
+        ],
+        "confidence": 1,
+        "text": "Made in France"
+      },
+      {
+        "bbox_px": [
+          52,
+          1342,
+          478,
+          1363
+        ],
+        "confidence": 1,
+        "text": "Qonto is a French company headquartered in Paris."
+      },
+      {
+        "bbox_px": [
+          621,
+          1294,
+          815,
+          1323
+        ],
+        "confidence": 1,
+        "text": "600,000+ clients"
+      },
+      {
+        "bbox_px": [
+          564,
+          1342,
+          875,
+          1360
+        ],
+        "confidence": 1,
+        "text": "use Qonto daily to run their business."
+      },
+      {
+        "bbox_px": [
+          1176,
+          1242,
+          1220,
+          1261
+        ],
+        "confidence": 1,
+        "text": "24/7"
+      },
+      {
+        "bbox_px": [
+          1052,
+          1294,
+          1293,
+          1322
+        ],
+        "confidence": 1,
+        "text": "24/7 human support"
+      },
+      {
+        "bbox_px": [
+          1000,
+          1342,
+          1348,
+          1364
+        ],
+        "confidence": 1,
+        "text": "We're available via chat, email, and phone."
+      },
+      {
+        "bbox_px": [
+          46,
+          1581,
+          870,
+          1648
+        ],
+        "confidence": 1,
+        "text": "Business account, Al-powered."
+      },
+      {
+        "bbox_px": [
+          1118,
+          1595,
+          1377,
+          1614
+        ],
+        "confidence": 1,
+        "text": "Discover our business account"
+      },
+      {
+        "bbox_px": [
+          70,
+          1723,
+          326,
+          1747
+        ],
+        "confidence": 1,
+        "text": "Account remuneration"
+      },
+      {
+        "bbox_px": [
+          73,
+          1770,
+          394,
+          1792
+        ],
+        "confidence": 1,
+        "text": "Earn up to 5%* on your Qonto account"
+      },
+      {
+        "bbox_px": [
+          523,
+          1722,
+          571,
+          1751
+        ],
+        "confidence": 1,
+        "text": "Pay"
+      },
+      {
+        "bbox_px": [
+          979,
+          1722,
+          1079,
+          1748
+        ],
+        "confidence": 1,
+        "text": "Get paid"
+      },
+      {
+        "bbox_px": [
+          527,
+          1771,
+          912,
+          1790
+        ],
+        "confidence": 1,
+        "text": "SEPA & global transfers, virtual cards, & Apple"
+      },
+      {
+        "bbox_px": [
+          980,
+          1771,
+          1361,
+          1790
+        ],
+        "confidence": 1,
+        "text": "Invoices with embedded payment links, Tap to"
+      },
+      {
+        "bbox_px": [
+          49,
+          1600,
+          870,
+          1644
+        ],
+        "confidence": 1,
+        "text": "business account, ar-powered."
+      },
+      {
+        "bbox_px": [
+          1118,
+          1600,
+          1377,
+          1613
+        ],
+        "confidence": 1,
+        "text": "Discover our business account"
+      },
+      {
+        "bbox_px": [
+          73,
+          1725,
+          326,
+          1744
+        ],
+        "confidence": 1,
+        "text": "Account remuneration"
+      },
+      {
+        "bbox_px": [
+          73,
+          1772,
+          394,
+          1791
+        ],
+        "confidence": 1,
+        "text": "Earn up to 5%* on your Qonto account"
+      },
+      {
+        "bbox_px": [
+          70,
+          1801,
+          146,
+          1817
+        ],
+        "confidence": 1,
+        "text": "balance."
+      },
+      {
+        "bbox_px": [
+          521,
+          1720,
+          572,
+          1752
+        ],
+        "confidence": 1,
+        "text": "Pay"
+      },
+      {
+        "bbox_px": [
+          527,
+          1770,
+          912,
+          1791
+        ],
+        "confidence": 1,
+        "text": "SEPA & global transfers, virtual cards, & Apple"
+      },
+      {
+        "bbox_px": [
+          525,
+          1798,
+          669,
+          1817
+        ],
+        "confidence": 1,
+        "text": "Pay/Google Pay."
+      },
+      {
+        "bbox_px": [
+          979,
+          1722,
+          1079,
+          1749
+        ],
+        "confidence": 1,
+        "text": "Get paid"
+      },
+      {
+        "bbox_px": [
+          980,
+          1772,
+          1364,
+          1791
+        ],
+        "confidence": 1,
+        "text": "Invoices with embedded payment links, Tap to"
+      },
+      {
+        "bbox_px": [
+          980,
+          1798,
+          1160,
+          1817
+        ],
+        "confidence": 1,
+        "text": "Pay & POS terminals."
+      },
+      {
+        "bbox_px": [
+          70,
+          1940,
+          206,
+          1961
+        ],
+        "confidence": 1,
+        "text": "Credit suite"
+      },
+      {
+        "bbox_px": [
+          73,
+          1987,
+          373,
+          2006
+        ],
+        "confidence": 1,
+        "text": "A range of working capital solutions,"
+      },
+      {
+        "bbox_px": [
+          70,
+          2015,
+          392,
+          2034
+        ],
+        "confidence": 1,
+        "text": "integrated into your business account."
+      },
+      {
+        "bbox_px": [
+          1107,
+          1930,
+          1173,
+          1979
+        ],
+        "confidence": 1,
+        "text": "€70.00"
+      },
+      {
+        "bbox_px": [
+          522,
+          2154,
+          912,
+          2182
+        ],
+        "confidence": 1,
+        "text": "Mastercard debit and credit cards"
+      },
+      {
+        "bbox_px": [
+          527,
+          2204,
+          904,
+          2223
+        ],
+        "confidence": 1,
+        "text": "Choose instant or deferred debit. Limits up to"
+      },
+      {
+        "bbox_px": [
+          527,
+          2230,
+          679,
+          2251
+        ],
+        "confidence": 1,
+        "text": "€200,000/month."
+      },
+      {
+        "bbox_px": [
+          167,
+          2220,
+          337,
+          2236
+        ],
+        "confidence": 1,
+        "text": "< Simulate your financing"
+      },
+      {
+        "bbox_px": [
+          169,
+          2259,
+          237,
+          2265
+        ],
+        "confidence": 1,
+        "text": "Amount to finance"
+      },
+      {
+        "bbox_px": [
+          169,
+          2272,
+          295,
+          2291
+        ],
+        "confidence": 1,
+        "text": "EUR 40,000.00"
+      },
+      {
+        "bbox_px": [
+          206,
+          2309,
+          261,
+          2319
+        ],
+        "confidence": 1,
+        "text": "9 installments"
+      },
+      {
+        "bbox_px": [
+          169,
+          2363,
+          243,
+          2377
+        ],
+        "confidence": 1,
+        "text": "Early repayment"
+      },
+      {
+        "bbox_px": [
+          169,
+          2382,
+          295,
+          2395
+        ],
+        "confidence": 1,
+        "text": "Repay anytime, interest based on"
+      },
+      {
+        "bbox_px": [
+          169,
+          2394,
+          243,
+          2408
+        ],
+        "confidence": 1,
+        "text": "financing duration."
+      },
+      {
+        "bbox_px": [
+          902,
+          2349,
+          1106,
+          2452
+        ],
+        "confidence": 1,
+        "text": "astercard"
+      },
+      {
+        "bbox_px": [
+          95,
+          2697,
+          275,
+          2740
+        ],
+        "confidence": 1,
+        "text": "Qonto Al."
+      },
+      {
+        "bbox_px": [
+          93,
+          2744,
+          577,
+          2798
+        ],
+        "confidence": 1,
+        "text": "Your choice, your control."
+      },
+      {
+        "bbox_px": [
+          135,
+          2874,
+          373,
+          2903
+        ],
+        "confidence": 1,
+        "text": "Agents, inside Qonto"
+      },
+      {
+        "bbox_px": [
+          135,
+          2910,
+          543,
+          2936
+        ],
+        "confidence": 1,
+        "text": "Ask Agents directly inside Qonto, right within the"
+      },
+      {
+        "bbox_px": [
+          132,
+          2933,
+          366,
+          2963
+        ],
+        "confidence": 1,
+        "text": "workflows you already use."
+      },
+      {
+        "bbox_px": [
+          833,
+          2847,
+          943,
+          2864
+        ],
+        "confidence": 1,
+        "text": "The Operator"
+      },
+      {
+        "bbox_px": [
+          815,
+          2889,
+          885,
+          2908
+        ],
+        "confidence": 1,
+        "text": "Ai Agent"
+      },
+      {
+        "bbox_px": [
+          1011,
+          2955,
+          1236,
+          2978
+        ],
+        "confidence": 1,
+        "text": "Pay salaries to my employees"
+      },
+      {
+        "bbox_px": [
+          899,
+          3017,
+          1087,
+          3036
+        ],
+        "confidence": 1,
+        "text": "Drop your payroll CSV, or"
+      },
+      {
+        "bbox_px": [
+          898,
+          3038,
+          1105,
+          3062
+        ],
+        "confidence": 1,
+        "text": "the individual payslip PDFs"
+      },
+      {
+        "bbox_px": [
+          133,
+          3033,
+          371,
+          3065
+        ],
+        "confidence": 1,
+        "text": "MCP, in your Al tools"
+      },
+      {
+        "bbox_px": [
+          130,
+          3069,
+          530,
+          3097
+        ],
+        "confidence": 1,
+        "text": "Connect Qonto MCP to the Al tools you already"
+      },
+      {
+        "bbox_px": [
+          130,
+          3096,
+          310,
+          3122
+        ],
+        "confidence": 1,
+        "text": "work with every day."
+      },
+      {
+        "bbox_px": [
+          130,
+          3193,
+          425,
+          3222
+        ],
+        "confidence": 1,
+        "text": "Visibility & accountability"
+      },
+      {
+        "bbox_px": [
+          135,
+          3229,
+          504,
+          3256
+        ],
+        "confidence": 1,
+        "text": "Al drafts the work, you review & approve. All"
+      },
+      {
+        "bbox_px": [
+          133,
+          3255,
+          386,
+          3282
+        ],
+        "confidence": 1,
+        "text": "actions logged and traceable."
+      },
+      {
+        "bbox_px": [
+          1108,
+          3190,
+          1217,
+          3209
+        ],
+        "confidence": 1,
+        "text": "S-TS-265.pdf"
+      },
+      {
+        "bbox_px": [
+          1108,
+          3237,
+          1220,
+          3256
+        ],
+        "confidence": 1,
+        "text": "S-DA-265.pdf"
+      },
+      {
+        "bbox_px": [
+          1108,
+          3284,
+          1225,
+          3303
+        ],
+        "confidence": 1,
+        "text": "S-CM-265.pdf"
+      },
+      {
+        "bbox_px": [
+          109,
+          3373,
+          266,
+          3395
+        ],
+        "confidence": 1,
+        "text": "Discover Qonto Al"
+      },
+      {
+        "bbox_px": [
+          135,
+          3200,
+          425,
+          3220
+        ],
+        "confidence": 1,
+        "text": "Visibility & accountability"
+      },
+      {
+        "bbox_px": [
+          138,
+          3233,
+          504,
+          3252
+        ],
+        "confidence": 1,
+        "text": "Al drafts the work, you review & approve. All"
+      },
+      {
+        "bbox_px": [
+          135,
+          3257,
+          386,
+          3278
+        ],
+        "confidence": 1,
+        "text": "actions logged and traceable."
+      },
+      {
+        "bbox_px": [
+          112,
+          3374,
+          266,
+          3390
+        ],
+        "confidence": 1,
+        "text": "Discover Qonto Al"
+      },
+      {
+        "bbox_px": [
+          49,
+          3602,
+          870,
+          3665
+        ],
+        "confidence": 1,
+        "text": "Compliant invoicing, zero effort"
+      },
+      {
+        "bbox_px": [
+          73,
+          3741,
+          347,
+          3768
+        ],
+        "confidence": 1,
+        "text": "Get ready for e-invoicing"
+      },
+      {
+        "bbox_px": [
+          70,
+          3790,
+          405,
+          3809
+        ],
+        "confidence": 1,
+        "text": "As a Certified Approved Platform, Qonto"
+      },
+      {
+        "bbox_px": [
+          70,
+          3819,
+          405,
+          3838
+        ],
+        "confidence": 1,
+        "text": "includes fully compliant e-invoicing in all"
+      },
+      {
+        "bbox_px": [
+          70,
+          3848,
+          125,
+          3867
+        ],
+        "confidence": 1,
+        "text": "plans."
+      },
+      {
+        "bbox_px": [
+          527,
+          3744,
+          865,
+          3768
+        ],
+        "confidence": 1,
+        "text": "Quotes & invoices, faster with"
+      },
+      {
+        "bbox_px": [
+          525,
+          3775,
+          554,
+          3799
+        ],
+        "confidence": 1,
+        "text": "AI"
+      },
+      {
+        "bbox_px": [
+          527,
+          3822,
+          901,
+          3841
+        ],
+        "confidence": 1,
+        "text": "Qonto Al drafts invoices & quotes, you review"
+      },
+      {
+        "bbox_px": [
+          525,
+          3851,
+          885,
+          3870
+        ],
+        "confidence": 1,
+        "text": "them. Track status and get paid faster with"
+      },
+      {
+        "bbox_px": [
+          527,
+          3878,
+          648,
+          3899
+        ],
+        "confidence": 1,
+        "text": "payment links."
+      },
+      {
+        "bbox_px": [
+          193,
+          4052,
+          269,
+          4068
+        ],
+        "confidence": 1,
+        "text": "New Invoice"
+      },
+      {
+        "bbox_px": [
+          156,
+          4096,
+          248,
+          4110
+        ],
+        "confidence": 1,
+        "text": "Customer Details"
+      },
+      {
+        "bbox_px": [
+          164,
+          4126,
+          245,
+          4139
+        ],
+        "confidence": 1,
+        "text": "Chloé Delorme"
+      },
+      {
+        "bbox_px": [
+          154,
+          4154,
+          201,
+          4165
+        ],
+        "confidence": 1,
+        "text": "Due Date"
+      },
+      {
+        "bbox_px": [
+          167,
+          4183,
+          216,
+          4197
+        ],
+        "confidence": 1,
+        "text": "On Issue"
+      },
+      {
+        "bbox_px": [
+          243,
+          4183,
+          303,
+          4197
+        ],
+        "confidence": 1,
+        "text": "In 30 Days"
+      },
+      {
+        "bbox_px": [
+          216,
+          4219,
+          311,
+          4237
+        ],
+        "confidence": 1,
+        "text": "Create an Invoice"
+      },
+      {
+        "bbox_px": [
+          329,
+          4183,
+          368,
+          4194
+        ],
+        "confidence": 1,
+        "text": "Select"
+      },
+      {
+        "bbox_px": [
+          601,
+          4003,
+          666,
+          4016
+        ],
+        "confidence": 1,
+        "text": "The Operator"
+      },
+      {
+        "bbox_px": [
+          588,
+          4026,
+          632,
+          4040
+        ],
+        "confidence": 1,
+        "text": "Agent IA"
+      },
+      {
+        "bbox_px": [
+          700,
+          4062,
+          836,
+          4076
+        ],
+        "confidence": 1,
+        "text": "Draft an invoice for AREVIA"
+      },
+      {
+        "bbox_px": [
+          629,
+          4118,
+          776,
+          4131
+        ],
+        "confidence": 1,
+        "text": "Consulting: 10 days x €500/day"
+      },
+      {
+        "bbox_px": [
+          629,
+          4147,
+          692,
+          4160
+        ],
+        "confidence": 1,
+        "text": "Total: €6.000"
+      },
+      {
+        "bbox_px": [
+          648,
+          4175,
+          713,
+          4188
+        ],
+        "confidence": 1,
+        "text": "Create invoice"
+      },
+      {
+        "bbox_px": [
+          648,
+          4207,
+          713,
+          4220
+        ],
+        "confidence": 1,
+        "text": "Review details"
+      },
+      {
+        "bbox_px": [
+          791,
+          4618,
+          841,
+          4683
+        ],
+        "confidence": 1,
+        "text": "S"
+      },
+      {
+        "bbox_px": [
+          112,
+          4654,
+          590,
+          4709
+        ],
+        "confidence": 1,
+        "text": "Keep all your tools"
+      },
+      {
+        "bbox_px": [
+          112,
+          4718,
+          392,
+          4766
+        ],
+        "confidence": 1,
+        "text": "connected"
+      },
+      {
+        "bbox_px": [
+          112,
+          4795,
+          582,
+          4814
+        ],
+        "confidence": 1,
+        "text": "Connect over 2,000 external tools & accounts directly to"
+      },
+      {
+        "bbox_px": [
+          112,
+          4824,
+          470,
+          4840
+        ],
+        "confidence": 1,
+        "text": "Qonto - let all your data sync automatically."
+      },
+      {
+        "bbox_px": [
+          781,
+          4877,
+          857,
+          4900
+        ],
+        "confidence": 0.30000001192092896,
+        "text": "AСП"
+      },
+      {
+        "bbox_px": [
+          1108,
+          3239,
+          1217,
+          3254
+        ],
+        "confidence": 1,
+        "text": "S-DA-265.pdf"
+      },
+      {
+        "bbox_px": [
+          1108,
+          3283,
+          1225,
+          3302
+        ],
+        "confidence": 1,
+        "text": "S-CM-265.pdf"
+      },
+      {
+        "bbox_px": [
+          1222,
+          3613,
+          1374,
+          3634
+        ],
+        "confidence": 1,
+        "text": "Discover invoicing"
+      },
+      {
+        "bbox_px": [
+          982,
+          3744,
+          1296,
+          3768
+        ],
+        "confidence": 1,
+        "text": "Supplier invoices, minus the"
+      },
+      {
+        "bbox_px": [
+          979,
+          3775,
+          1053,
+          3799
+        ],
+        "confidence": 1,
+        "text": "admin"
+      },
+      {
+        "bbox_px": [
+          982,
+          3822,
+          1358,
+          3841
+        ],
+        "confidence": 1,
+        "text": "Al imports supplier invoices and flags what to"
+      },
+      {
+        "bbox_px": [
+          982,
+          3851,
+          1264,
+          3870
+        ],
+        "confidence": 1,
+        "text": "check. You review & pay in a click."
+      },
+      {
+        "bbox_px": [
+          982,
+          3879,
+          1217,
+          3898
+        ],
+        "confidence": 1,
+        "text": "Reconciliation is automated."
+      },
+      {
+        "bbox_px": [
+          1063,
+          4016,
+          1113,
+          4029
+        ],
+        "confidence": 1,
+        "text": "Invoice"
+      },
+      {
+        "bbox_px": [
+          1196,
+          4015,
+          1320,
+          4034
+        ],
+        "confidence": 1,
+        "text": "C Our Al is activating"
+      },
+      {
+        "bbox_px": [
+          1014,
+          4144,
+          1084,
+          4158
+        ],
+        "confidence": 1,
+        "text": "Acme Corp. ("
+      },
+      {
+        "bbox_px": [
+          1157,
+          4206,
+          1204,
+          4217
+        ],
+        "confidence": 1,
+        "text": "Total inct VAT"
+      },
+      {
+        "bbox_px": [
+          1162,
+          4256,
+          1186,
+          4272
+        ],
+        "confidence": 1,
+        "text": "Pay"
+      },
+      {
+        "bbox_px": [
+          1241,
+          4207,
+          1322,
+          4223
+        ],
+        "confidence": 1,
+        "text": "5.760.00 €"
+      },
+      {
+        "bbox_px": [
+          1033,
+          4747,
+          1190,
+          4798
+        ],
+        "confidence": 1,
+        "text": "Qonto"
+      },
+      {
+        "bbox_px": [
+          112,
+          4800,
+          580,
+          4813
+        ],
+        "confidence": 1,
+        "text": "connect over <,00o external tools & accounts directly to"
+      },
+      {
+        "bbox_px": [
+          112,
+          4823,
+          470,
+          4842
+        ],
+        "confidence": 1,
+        "text": "Qonto - let all your data sync automatically."
+      },
+      {
+        "bbox_px": [
+          781,
+          4878,
+          857,
+          4899
+        ],
+        "confidence": 1,
+        "text": "AСD"
+      },
+      {
+        "bbox_px": [
+          290,
+          5192,
+          1149,
+          5245
+        ],
+        "confidence": 1,
+        "text": "Create your company with Qonto"
+      },
+      {
+        "bbox_px": [
+          175,
+          5382,
+          352,
+          5409
+        ],
+        "confidence": 1,
+        "text": "Simple and fast"
+      },
+      {
+        "bbox_px": [
+          52,
+          5430,
+          475,
+          5451
+        ],
+        "confidence": 1,
+        "text": "Ditch the paperwork. We'll have you up and running"
+      },
+      {
+        "bbox_px": [
+          211,
+          5458,
+          316,
+          5477
+        ],
+        "confidence": 1,
+        "text": "in 24 hours."
+      },
+      {
+        "bbox_px": [
+          548,
+          5383,
+          885,
+          5412
+        ],
+        "confidence": 1,
+        "text": "The right fit for your business"
+      },
+      {
+        "bbox_px": [
+          504,
+          5430,
+          935,
+          5451
+        ],
+        "confidence": 1,
+        "text": "Qonto works for all business structures: SAS, SASU,"
+      },
+      {
+        "bbox_px": [
+          551,
+          5459,
+          888,
+          5478
+        ],
+        "confidence": 1,
+        "text": "SARL, EURL, SCI, and micro-enterprises."
+      },
+      {
+        "bbox_px": [
+          1027,
+          5382,
+          1319,
+          5409
+        ],
+        "confidence": 1,
+        "text": "We're with you all the way"
+      },
+      {
+        "bbox_px": [
+          972,
+          5430,
+          1377,
+          5451
+        ],
+        "confidence": 1,
+        "text": "From start to KBIS, we're with you - and available"
+      },
+      {
+        "bbox_px": [
+          1100,
+          5459,
+          1249,
+          5478
+        ],
+        "confidence": 1,
+        "text": "every day to help."
+      },
+      {
+        "bbox_px": [
+          193,
+          5762,
+          331,
+          5778
+        ],
+        "confidence": 1,
+        "text": "Upload documents"
+      },
+      {
+        "bbox_px": [
+          452,
+          5767,
+          533,
+          5784
+        ],
+        "confidence": 1,
+        "text": "© In Progress"
+      },
+      {
+        "bbox_px": [
+          240,
+          5833,
+          459,
+          5851
+        ],
+        "confidence": 1,
+        "text": "Incorporation_documents.pdf"
+      },
+      {
+        "bbox_px": [
+          240,
+          5856,
+          284,
+          5867
+        ],
+        "confidence": 1,
+        "text": "298 KB"
+      },
+      {
+        "bbox_px": [
+          240,
+          5888,
+          381,
+          5906
+        ],
+        "confidence": 1,
+        "text": "ID_documents.pdf"
+      },
+      {
+        "bbox_px": [
+          240,
+          5911,
+          282,
+          5924
+        ],
+        "confidence": 1,
+        "text": "114KB"
+      },
+      {
+        "bbox_px": [
+          240,
+          5943,
+          433,
+          5961
+        ],
+        "confidence": 1,
+        "text": "Company_documents.pdf"
+      },
+      {
+        "bbox_px": [
+          240,
+          5966,
+          274,
+          5977
+        ],
+        "confidence": 1,
+        "text": "77KB"
+      },
+      {
+        "bbox_px": [
+          452,
+          5985,
+          580,
+          6000
+        ],
+        "confidence": 1,
+        "text": "Customer support"
+      },
+      {
+        "bbox_px": [
+          444,
+          6006,
+          488,
+          6019
+        ],
+        "confidence": 1,
+        "text": "03:27"
+      },
+      {
+        "bbox_px": [
+          629,
+          6235,
+          807,
+          6257
+        ],
+        "confidence": 1,
+        "text": "Create your company"
+      },
+      {
+        "bbox_px": [
+          49,
+          6436,
+          724,
+          6495
+        ],
+        "confidence": 1,
+        "text": "Our customers say it best"
+      },
+      {
+        "bbox_px": [
+          229,
+          6571,
+          381,
+          6597
+        ],
+        "confidence": 1,
+        "text": "DOISCAIE"
+      },
+      {
+        "bbox_px": [
+          49,
+          6441,
+          723,
+          6494
+        ],
+        "confidence": 1,
+        "text": "Our customers say it best"
+      },
+      {
+        "bbox_px": [
+          229,
+          6571,
+          381,
+          6610
+        ],
+        "confidence": 1,
+        "text": "POISCAILLE"
+      },
+      {
+        "bbox_px": [
+          1272,
+          6580,
+          1437,
+          6614
+        ],
+        "confidence": 0.5,
+        "text": "OR Ooak L"
+      },
+      {
+        "bbox_px": [
+          229,
+          6656,
+          716,
+          6683
+        ],
+        "confidence": 1,
+        "text": "\"Qonto adapts as our team grows. No more"
+      },
+      {
+        "bbox_px": [
+          232,
+          6692,
+          666,
+          6716
+        ],
+        "confidence": 1,
+        "text": "time-consuming, low-value processes."
+      },
+      {
+        "bbox_px": [
+          235,
+          6724,
+          703,
+          6748
+        ],
+        "confidence": 1,
+        "text": "Employee expense management becomes"
+      },
+      {
+        "bbox_px": [
+          229,
+          6753,
+          324,
+          6779
+        ],
+        "confidence": 1,
+        "text": "simple.\"."
+      },
+      {
+        "bbox_px": [
+          232,
+          6802,
+          629,
+          6819
+        ],
+        "confidence": 1,
+        "text": "Oksana Besnier, Financer Manager at Poiscaille"
+      },
+      {
+        "bbox_px": [
+          47,
+          7425,
+          514,
+          7462
+        ],
+        "confidence": 1,
+        "text": "First-class protection for"
+      },
+      {
+        "bbox_px": [
+          47,
+          7472,
+          324,
+          7509
+        ],
+        "confidence": 1,
+        "text": "your business."
+      },
+      {
+        "bbox_px": [
+          47,
+          7540,
+          162,
+          7556
+        ],
+        "confidence": 1,
+        "text": "Learn more 7"
+      },
+      {
+        "bbox_px": [
+          914,
+          7428,
+          956,
+          7441
+        ],
+        "confidence": 1,
+        "text": "ACPR"
+      },
+      {
+        "bbox_px": [
+          1118,
+          7441,
+          1162,
+          7454
+        ],
+        "confidence": 1,
+        "text": "RGPD"
+      },
+      {
+        "bbox_px": [
+          1168,
+          7440,
+          1236,
+          7454
+        ],
+        "confidence": 1,
+        "text": "ISO 27001"
+      },
+      {
+        "bbox_px": [
+          663,
+          7519,
+          812,
+          7538
+        ],
+        "confidence": 1,
+        "text": "Legally protected"
+      },
+      {
+        "bbox_px": [
+          666,
+          7545,
+          797,
+          7561
+        ],
+        "confidence": 1,
+        "text": "customer funds"
+      },
+      {
+        "bbox_px": [
+          893,
+          7503,
+          982,
+          7522
+        ],
+        "confidence": 1,
+        "text": "Regulated"
+      },
+      {
+        "bbox_px": [
+          893,
+          7531,
+          969,
+          7549
+        ],
+        "confidence": 1,
+        "text": "financial"
+      },
+      {
+        "bbox_px": [
+          891,
+          7561,
+          982,
+          7579
+        ],
+        "confidence": 1,
+        "text": "institution"
+      },
+      {
+        "bbox_px": [
+          1105,
+          7519,
+          1335,
+          7538
+        ],
+        "confidence": 1,
+        "text": "Top standards in IT security"
+      },
+      {
+        "bbox_px": [
+          1105,
+          7545,
+          1251,
+          7564
+        ],
+        "confidence": 1,
+        "text": "& data protection"
+      },
+      {
+        "bbox_px": [
+          109,
+          7917,
+          475,
+          7972
+        ],
+        "confidence": 1,
+        "text": "Complicated?"
+      },
+      {
+        "bbox_px": [
+          109,
+          7976,
+          531,
+          8035
+        ],
+        "confidence": 1,
+        "text": "Not with Qonto."
+      },
+      {
+        "bbox_px": [
+          112,
+          8058,
+          504,
+          8077
+        ],
+        "confidence": 1,
+        "text": "Open your business account in just 10 minutes."
+      },
+      {
+        "bbox_px": [
+          1001,
+          7975,
+          1065,
+          8001
+        ],
+        "confidence": 1,
+        "text": "€4,130.00 ="
+      },
+      {
+        "bbox_px": [
+          844,
+          8069,
+          891,
+          8090
+        ],
+        "confidence": 1,
+        "text": "Qonto"
+      },
+      {
+        "bbox_px": [
+          1097,
+          8108,
+          1123,
+          8121
+        ],
+        "confidence": 0.30000001192092896,
+        "text": "KURAOTE"
+      },
+      {
+        "bbox_px": [
+          127,
+          8144,
+          274,
+          8165
+        ],
+        "confidence": 1,
+        "text": "Open an account"
+      },
+      {
+        "bbox_px": [
+          318,
+          8143,
+          473,
+          8165
+        ],
+        "confidence": 1,
+        "text": "Find the right plan"
+      },
+      {
+        "bbox_px": [
+          115,
+          8000,
+          531,
+          8034
+        ],
+        "confidence": 1,
+        "text": "Not witn wonto."
+      },
+      {
+        "bbox_px": [
+          113,
+          8057,
+          507,
+          8077
+        ],
+        "confidence": 1,
+        "text": "Open your business account in just 10 minutes."
+      },
+      {
+        "bbox_px": [
+          845,
+          8067,
+          893,
+          8091
+        ],
+        "confidence": 1,
+        "text": "Qonto"
+      },
+      {
+        "bbox_px": [
+          128,
+          8144,
+          273,
+          8162
+        ],
+        "confidence": 1,
+        "text": "Open an account"
+      },
+      {
+        "bbox_px": [
+          318,
+          8144,
+          473,
+          8164
+        ],
+        "confidence": 1,
+        "text": "Find the right plan"
+      },
+      {
+        "bbox_px": [
+          71,
+          8482,
+          133,
+          8503
+        ],
+        "confidence": 1,
+        "text": "Pricing"
+      },
+      {
+        "bbox_px": [
+          70,
+          8530,
+          212,
+          8545
+        ],
+        "confidence": 1,
+        "text": "Find the best plan for"
+      },
+      {
+        "bbox_px": [
+          70,
+          8555,
+          212,
+          8570
+        ],
+        "confidence": 1,
+        "text": "your business needs."
+      },
+      {
+        "bbox_px": [
+          388,
+          8460,
+          555,
+          8475
+        ],
+        "confidence": 1,
+        "text": "BUSINESS ACCOUNT"
+      },
+      {
+        "bbox_px": [
+          388,
+          8490,
+          584,
+          8509
+        ],
+        "confidence": 1,
+        "text": "Open Business Bank Account"
+      },
+      {
+        "bbox_px": [
+          388,
+          8524,
+          608,
+          8539
+        ],
+        "confidence": 1,
+        "text": "Business Account for Freelancers"
+      },
+      {
+        "bbox_px": [
+          388,
+          8552,
+          541,
+          8567
+        ],
+        "confidence": 1,
+        "text": "Account Remuneration"
+      },
+      {
+        "bbox_px": [
+          388,
+          8584,
+          591,
+          8596
+        ],
+        "confidence": 1,
+        "text": "Bank Аccount for Associationst"
+      },
+      {
+        "bbox_px": [
+          62,
+          8619,
+          241,
+          8650
+        ],
+        "confidence": 1,
+        "text": "4.7 * • on App Store"
+      },
+      {
+        "bbox_px": [
+          65,
+          8681,
+          241,
+          8703
+        ],
+        "confidence": 1,
+        "text": "4.7 * • on Play Store"
+      },
+      {
+        "bbox_px": [
+          62,
+          8736,
+          241,
+          8761
+        ],
+        "confidence": 1,
+        "text": "4.7 * * on Trustpilot"
+      },
+      {
+        "bbox_px": [
+          732,
+          8461,
+          823,
+          8475
+        ],
+        "confidence": 1,
+        "text": "FINANCING"
+      },
+      {
+        "bbox_px": [
+          731,
+          8491,
+          860,
+          8509
+        ],
+        "confidence": 1,
+        "text": "Business Financing"
+      },
+      {
+        "bbox_px": [
+          729,
+          8523,
+          797,
+          8538
+        ],
+        "confidence": 1,
+        "text": "Pay Later"
+      },
+      {
+        "bbox_px": [
+          732,
+          8553,
+          799,
+          8567
+        ],
+        "confidence": 1,
+        "text": "Overdraft"
+      },
+      {
+        "bbox_px": [
+          727,
+          8608,
+          877,
+          8626
+        ],
+        "confidence": 1,
+        "text": "FINANCIAL TOOLS"
+      },
+      {
+        "bbox_px": [
+          729,
+          8640,
+          942,
+          8657
+        ],
+        "confidence": 1,
+        "text": "Expense Management Software"
+      },
+      {
+        "bbox_px": [
+          729,
+          8671,
+          891,
+          8688
+        ],
+        "confidence": 1,
+        "text": "Pre-accounting Solution"
+      },
+      {
+        "bbox_px": [
+          729,
+          8702,
+          821,
+          8717
+        ],
+        "confidence": 1,
+        "text": "Invoicing Tool"
+      },
+      {
+        "bbox_px": [
+          729,
+          8731,
+          889,
+          8746
+        ],
+        "confidence": 1,
+        "text": "Cash-flow Management"
+      },
+      {
+        "bbox_px": [
+          729,
+          8760,
+          814,
+          8777
+        ],
+        "confidence": 1,
+        "text": "Integrations"
+      },
+      {
+        "bbox_px": [
+          731,
+          8789,
+          872,
+          8807
+        ],
+        "confidence": 1,
+        "text": "Quotes Management"
+      },
+      {
+        "bbox_px": [
+          388,
+          8637,
+          531,
+          8655
+        ],
+        "confidence": 1,
+        "text": "BUSINESS CARDS"
+      },
+      {
+        "bbox_px": [
+          388,
+          8671,
+          454,
+          8686
+        ],
+        "confidence": 1,
+        "text": "One Card"
+      },
+      {
+        "bbox_px": [
+          388,
+          8700,
+          471,
+          8715
+        ],
+        "confidence": 1,
+        "text": "Virtual Card"
+      },
+      {
+        "bbox_px": [
+          388,
+          8731,
+          456,
+          8746
+        ],
+        "confidence": 1,
+        "text": "Plus Card"
+      },
+      {
+        "bbox_px": [
+          388,
+          8760,
+          475,
+          8775
+        ],
+        "confidence": 1,
+        "text": "See all cards"
+      },
+      {
+        "bbox_px": [
+          386,
+          8816,
+          560,
+          8833
+        ],
+        "confidence": 1,
+        "text": "COMPANY CREATION"
+      },
+      {
+        "bbox_px": [
+          388,
+          8850,
+          512,
+          8865
+        ],
+        "confidence": 1,
+        "text": "Create a Company"
+      },
+      {
+        "bbox_px": [
+          388,
+          8879,
+          492,
+          8896
+        ],
+        "confidence": 1,
+        "text": "Capital Deposit"
+      },
+      {
+        "bbox_px": [
+          388,
+          8934,
+          464,
+          8950
+        ],
+        "confidence": 1,
+        "text": "GET PAID"
+      },
+      {
+        "bbox_px": [
+          388,
+          8965,
+          478,
+          8980
+        ],
+        "confidence": 1,
+        "text": "POS Terminal"
+      },
+      {
+        "bbox_px": [
+          388,
+          8997,
+          488,
+          9012
+        ],
+        "confidence": 1,
+        "text": "Payment Links"
+      },
+      {
+        "bbox_px": [
+          388,
+          9028,
+          512,
+          9043
+        ],
+        "confidence": 1,
+        "text": "Tap-to-Pay iPhone"
+      },
+      {
+        "bbox_px": [
+          388,
+          9058,
+          519,
+          9073
+        ],
+        "confidence": 1,
+        "text": "Tap-to-Pay Android"
+      },
+      {
+        "bbox_px": [
+          1072,
+          8461,
+          1157,
+          8475
+        ],
+        "confidence": 1,
+        "text": "COMPANY"
+      },
+      {
+        "bbox_px": [
+          1072,
+          8491,
+          1138,
+          8509
+        ],
+        "confidence": 1,
+        "text": "Our Story"
+      },
+      {
+        "bbox_px": [
+          1071,
+          8523,
+          1114,
+          8539
+        ],
+        "confidence": 1,
+        "text": "Press"
+      },
+      {
+        "bbox_px": [
+          1072,
+          8553,
+          1174,
+          8568
+        ],
+        "confidence": 1,
+        "text": "Our Customers"
+      },
+      {
+        "bbox_px": [
+          1072,
+          8581,
+          1239,
+          8599
+        ],
+        "confidence": 1,
+        "text": "Sustainability & Inclusion"
+      },
+      {
+        "bbox_px": [
+          1070,
+          8613,
+          1128,
+          8630
+        ],
+        "confidence": 1,
+        "text": "Careers"
+      },
+      {
+        "bbox_px": [
+          1067,
+          8642,
+          1106,
+          8661
+        ],
+        "confidence": 1,
+        "text": "Blog"
+      },
+      {
+        "bbox_px": [
+          1067,
+          8673,
+          1176,
+          8690
+        ],
+        "confidence": 1,
+        "text": "FAQ & Support"
+      },
+      {
+        "bbox_px": [
+          1067,
+          8702,
+          1200,
+          8717
+        ],
+        "confidence": 1,
+        "text": "Recommend Qonto"
+      },
+      {
+        "bbox_px": [
+          1069,
+          8730,
+          1172,
+          8749
+        ],
+        "confidence": 1,
+        "text": "Ethics Charter"
+      },
+      {
+        "bbox_px": [
+          1070,
+          8787,
+          1215,
+          8806
+        ],
+        "confidence": 1,
+        "text": "FOR DEVELOPERS"
+      },
+      {
+        "bbox_px": [
+          1070,
+          8820,
+          1164,
+          8838
+        ],
+        "confidence": 1,
+        "text": "Qonto Embed"
+      },
+      {
+        "bbox_px": [
+          1070,
+          8850,
+          1142,
+          8869
+        ],
+        "confidence": 1,
+        "text": "Qonto API"
+      },
+      {
+        "bbox_px": [
+          727,
+          8845,
+          831,
+          8864
+        ],
+        "confidence": 1,
+        "text": "RESOURCES"
+      },
+      {
+        "bbox_px": [
+          729,
+          8878,
+          819,
+          8893
+        ],
+        "confidence": 1,
+        "text": "Product Tour"
+      },
+      {
+        "bbox_px": [
+          729,
+          8908,
+          874,
+          8927
+        ],
+        "confidence": 1,
+        "text": "Banking Comparators"
+      },
+      {
+        "bbox_px": [
+          729,
+          8937,
+          853,
+          8956
+        ],
+        "confidence": 1,
+        "text": "Financial Glossary"
+      },
+      {
+        "bbox_px": [
+          729,
+          8968,
+          886,
+          8983
+        ],
+        "confidence": 1,
+        "text": "SWIFT/BIC Code Finder"
+      },
+      {
+        "bbox_px": [
+          729,
+          9000,
+          843,
+          9015
+        ],
+        "confidence": 1,
+        "text": "See all resources"
+      },
+      {
+        "bbox_px": [
+          57,
+          9256,
+          394,
+          9346
+        ],
+        "confidence": 1,
+        "text": "Qonto"
+      },
+      {
+        "bbox_px": [
+          48,
+          9422,
+          96,
+          9435
+        ],
+        "confidence": 1,
+        "text": "Cookies"
+      },
+      {
+        "bbox_px": [
+          96,
+          9422,
+          538,
+          9437
+        ],
+        "confidence": 1,
+        "text": "Legal Documents Privacy Policy Security Al at Qonto Status Page"
+      },
+      {
+        "bbox_px": [
+          1345,
+          9420,
+          1377,
+          9434
+        ],
+        "confidence": 1,
+        "text": "EN"
+      },
+      {
+        "bbox_px": [
+          45,
+          9456,
+          1046,
+          9473
+        ],
+        "confidence": 1,
+        "text": "Qonto SA is a Société Anonyme under French law, registered at the Paris Trade Register (n° 819 489 626) having its headquarters at 6 Impasse Bonne Nouvelle, 75010 Paris, France."
+      },
+      {
+        "bbox_px": [
+          48,
+          9492,
+          1080,
+          9509
+        ],
+        "confidence": 1,
+        "text": "Qonto SA is a licensed payment institution authorized by the French Autorité de Contrôle Prudentiel et de Résolution (ACPR), under the registration number 16958 granted on 21/06/2018."
+      },
+      {
+        "bbox_px": [
+          48,
+          9528,
+          1357,
+          9546
+        ],
+        "confidence": 1,
+        "text": "The entirety of the funds collected from our customers is safeguarded in compliance with the relevant legislation. A part of these funds is either held by our partner banks, Crédit Mutuel Arkéa, Société Générale, Natixis or Rothschild Martin"
+      },
+      {
+        "bbox_px": [
+          45,
+          9547,
+          1384,
+          9562
+        ],
+        "confidence": 1,
+        "text": "Maurel, or invested in qualified money market funds, with the corresponding fund units held by Société Générale. In the case of bankruptcy of one of these partner banks, the deposits are covered up to €100,000 per institution and per client by"
+      },
+      {
+        "bbox_px": [
+          45,
+          9564,
+          1353,
+          9582
+        ],
+        "confidence": 1,
+        "text": "the Fonds de Garantie des Dépôts et de Résolution (FGDR). The remaining part of the funds is fully covered by two stand-alone guarantees, one granted by Crédit Agricole CIB, a subsidiary of Crédit Agricole S.A., the other by BNP Paribas."
+      }
+    ],
+    "path": "screenshots/qonto.png",
+    "width": 1440
+  }
+]

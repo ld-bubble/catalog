@@ -1,0 +1,20 @@
+{
+  "status": "passed",
+  "pages": 50,
+  "verified_copy_blocks": 168,
+  "unreviewed_ocr_candidates": 14180,
+  "checks": [
+    "Draft schema keyword subset used by this schema",
+    "Unique record IDs and 50-page coverage",
+    "All 100 image hashes and dimensions",
+    "Crop and OCR bounding-box bounds",
+    "Copy/claim/section evidence references",
+    "Portable packet, provenance, and image links",
+    "Review-gallery embedded data"
+  ],
+  "limitations": [
+    "No independent human transcription review",
+    "Gallery browser render not verified: local file navigation was blocked by browser URL policy",
+    "No mobile, runtime, CSS, conversion, or full-body semantic validation"
+  ]
+}

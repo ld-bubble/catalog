@@ -1,0 +1,5447 @@
+{
+  "schema_version": "0.1",
+  "id": "buffer",
+  "annotation": {
+    "status": "pilot_partial",
+    "method": "Assistant visual inspection of all 50 overview/full-page thumbnails and readable top-window crops; manual hero-copy transcription; local Apple Vision OCR of full screenshots.",
+    "coverage": [
+      "Visible headline and selected actions",
+      "Supporting hero copy where recorded",
+      "Industry/audience/intended action retrieval facets",
+      "Observed desktop composition and evidence images"
+    ],
+    "unreviewed": [
+      "Full-page OCR transcription candidates",
+      "Precise semantic body-section segmentation",
+      "Runtime and responsive behavior"
+    ]
+  },
+  "provenance": {
+    "gallery_url": "https://saaslandingpage.com/buffer",
+    "gallery_saved_at": "2026-09-29T15:03:30.270Z",
+    "original_site_url": null,
+    "screenshot_captured_at": null,
+    "gallery_meta_path": "provenance/buffer-meta.json",
+    "gallery_text_path": "provenance/buffer-gallery.txt"
+  },
+  "images": [
+    {
+      "id": "full",
+      "path": "screenshots/buffer.png",
+      "sha256": "9f50143295a320f0b27ac76cc6e286ee786d702b59853985662e7290acde1faf",
+      "width": 1440,
+      "height": 7635,
+      "role": "source",
+      "parent_id": null,
+      "bbox_px": null
+    },
+    {
+      "id": "hero-window",
+      "path": "crops/buffer-hero.png",
+      "sha256": "4d5db24dba898fa48d3cd8f43a6dcf4b3636b3f792ac8107c275ff97f51237ac",
+      "width": 1440,
+      "height": 1000,
+      "role": "crop",
+      "parent_id": "full",
+      "bbox_px": [
+        0,
+        0,
+        1440,
+        1000
+      ]
+    }
+  ],
+  "retrieval": {
+    "page_kind": "landing-page",
+    "summary": "Centered type and an email field are surrounded by platform icons; a customer-logo strip follows.",
+    "tags": [
+      "industry:Marketing and sales",
+      "audience:Creators and social teams",
+      "conversion_goal:signup",
+      "style:icon-led",
+      "color_family:white",
+      "hero_layout:centered"
+    ]
+  },
+  "claims": [
+    {
+      "field": "industry",
+      "value": "Marketing and sales",
+      "basis": "interpretation",
+      "confidence": "medium",
+      "evidence_ids": [
+        "hero-window",
+        "full"
+      ]
+    },
+    {
+      "field": "audience",
+      "value": "Creators and social teams",
+      "basis": "interpretation",
+      "confidence": "medium",
+      "evidence_ids": [
+        "hero-window",
+        "full"
+      ]
+    },
+    {
+      "field": "conversion_goal",
+      "value": "signup",
+      "basis": "interpretation",
+      "confidence": "medium",
+      "evidence_ids": [
+        "hero-window",
+        "full"
+      ]
+    },
+    {
+      "field": "style",
+      "value": "icon-led",
+      "basis": "interpretation",
+      "confidence": "medium",
+      "evidence_ids": [
+        "hero-window",
+        "full"
+      ]
+    },
+    {
+      "field": "color_family",
+      "value": "white",
+      "basis": "screenshot_observation",
+      "confidence": "high",
+      "evidence_ids": [
+        "hero-window",
+        "full"
+      ]
+    },
+    {
+      "field": "hero_layout",
+      "value": "centered",
+      "basis": "screenshot_observation",
+      "confidence": "high",
+      "evidence_ids": [
+        "hero-window",
+        "full"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "id": "top-window",
+      "order": 0,
+      "role": "top-page-evidence-window",
+      "pattern": "centered",
+      "takeaway": "Your social media workspace",
+      "evidence_ids": [
+        "hero-window",
+        "full"
+      ],
+      "observations": [
+        "Centered type and an email field are surrounded by platform icons; a customer-logo strip follows.",
+        "Window includes the page header and may include the start of subsequent content."
+      ],
+      "visible_affordances": [
+        "Get started for free"
+      ],
+      "runtime_verified": false
+    },
+    {
+      "id": "remaining-page",
+      "order": 1,
+      "role": "unsegmented-page-body",
+      "pattern": "unclassified",
+      "takeaway": "Inspect the full screenshot; detailed body annotation is pending.",
+      "evidence_ids": [
+        "full"
+      ],
+      "observations": [
+        "Full-page visual evidence and unreviewed OCR are retained."
+      ],
+      "visible_affordances": [],
+      "runtime_verified": false
+    }
+  ],
+  "recipes": [],
+  "unknowns": [
+    "No conversion-performance data; conversion_goal describes an intended visible action.",
+    "No verified mobile layout, animation, interaction, DOM, source code, font names, or CSS spacing values.",
+    "Screenshot capture date is unknown; gallery savedAt is the download date.",
+    "Full-page semantic section boundaries and body copy classification remain unreviewed.",
+    "The first 1000 pixels are an evidence window, not a browser viewport or exact hero boundary.",
+    "Copy text omits decorative icons; text punctuation is transcribed as visible, but font-specific glyph identity is not established."
+  ],
+  "copy_blocks": [
+    {
+      "id": "copy-01",
+      "section_id": "top-window",
+      "role": "headline",
+      "text_verbatim": "Your social media workspace",
+      "visible_lines": [],
+      "evidence_ids": [
+        "hero-window",
+        "full"
+      ],
+      "reading_order": 0,
+      "transcription_status": "visually_verified",
+      "uncertainties": [
+        "Visual line wrapping is not transcribed; use the screenshot.",
+        "Reading order is grouped editorially by copy role, not a DOM reading-order measurement."
+      ]
+    },
+    {
+      "id": "copy-02",
+      "section_id": "top-window",
+      "role": "supporting_copy",
+      "text_verbatim": "Works with every platform you post to, and plugs into your favorite tools",
+      "visible_lines": [],
+      "evidence_ids": [
+        "hero-window",
+        "full"
+      ],
+      "reading_order": 1,
+      "transcription_status": "visually_verified",
+      "uncertainties": [
+        "Visual line wrapping is not transcribed; use the screenshot.",
+        "Reading order is grouped editorially by copy role, not a DOM reading-order measurement."
+      ]
+    },
+    {
+      "id": "copy-03",
+      "section_id": "top-window",
+      "role": "cta",
+      "text_verbatim": "Get started for free",
+      "visible_lines": [],
+      "evidence_ids": [
+        "hero-window",
+        "full"
+      ],
+      "reading_order": 2,
+      "transcription_status": "visually_verified",
+      "uncertainties": [
+        "Visual line wrapping is not transcribed; use the screenshot.",
+        "Reading order is grouped editorially by copy role, not a DOM reading-order measurement."
+      ]
+    }
+  ],
+  "transcription_candidates": [
+    {
+      "id": "ocr-0001",
+      "section_id": "top-window",
+      "text_raw": "C Buffer",
+      "bbox_px": [
+        36,
+        22,
+        154,
+        55
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0002",
+      "section_id": "top-window",
+      "text_raw": "Pricing",
+      "bbox_px": [
+        850,
+        23,
+        923,
+        50
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0003",
+      "section_id": "top-window",
+      "text_raw": "Integrations v",
+      "bbox_px": [
+        443,
+        26,
+        570,
+        48
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0004",
+      "section_id": "top-window",
+      "text_raw": "Features v",
+      "bbox_px": [
+        324,
+        28,
+        418,
+        44
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0005",
+      "section_id": "top-window",
+      "text_raw": "Made for v",
+      "bbox_px": [
+        598,
+        28,
+        695,
+        44
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0006",
+      "section_id": "top-window",
+      "text_raw": "Resources v",
+      "bbox_px": [
+        723,
+        28,
+        836,
+        44
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0007",
+      "section_id": "top-window",
+      "text_raw": "Log in",
+      "bbox_px": [
+        1109,
+        28,
+        1166,
+        49
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0008",
+      "section_id": "top-window",
+      "text_raw": "Get started for free",
+      "bbox_px": [
+        1220,
+        28,
+        1382,
+        47
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0009",
+      "section_id": "top-window",
+      "text_raw": "Your social media",
+      "bbox_px": [
+        386,
+        162,
+        1050,
+        225
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0010",
+      "section_id": "top-window",
+      "text_raw": "workspace",
+      "bbox_px": [
+        511,
+        249,
+        930,
+        328
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0011",
+      "section_id": "top-window",
+      "text_raw": "Works with every platform you post to,",
+      "bbox_px": [
+        506,
+        354,
+        933,
+        389
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0012",
+      "section_id": "top-window",
+      "text_raw": "and plugs into your favorite tools",
+      "bbox_px": [
+        535,
+        392,
+        899,
+        419
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0013",
+      "section_id": "top-window",
+      "text_raw": "Enter your email...",
+      "bbox_px": [
+        433,
+        478,
+        582,
+        499
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0014",
+      "section_id": "top-window",
+      "text_raw": "Get started for free →",
+      "bbox_px": [
+        823,
+        478,
+        1008,
+        497
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0015",
+      "section_id": "top-window",
+      "text_raw": "By entering your email, you agree to receive emails from Buffer.",
+      "bbox_px": [
+        538,
+        541,
+        930,
+        557
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0016",
+      "section_id": "top-window",
+      "text_raw": "260,491 creators, brands, and agencies using Buffer",
+      "bbox_px": [
+        483,
+        805,
+        956,
+        829
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0017",
+      "section_id": "top-window",
+      "text_raw": "crocs™",
+      "bbox_px": [
+        783,
+        848,
+        928,
+        885
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0018",
+      "section_id": "top-window",
+      "text_raw": "METALLIC",
+      "bbox_px": [
+        42,
+        851,
+        108,
+        877
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0019",
+      "section_id": "top-window",
+      "text_raw": "benefit",
+      "bbox_px": [
+        198,
+        852,
+        300,
+        886
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0020",
+      "section_id": "top-window",
+      "text_raw": "WIRED",
+      "bbox_px": [
+        368,
+        854,
+        491,
+        885
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0021",
+      "section_id": "top-window",
+      "text_raw": "O SEMRUSH",
+      "bbox_px": [
+        564,
+        858,
+        716,
+        882
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0022",
+      "section_id": "top-window",
+      "text_raw": "IIElevenLabs",
+      "bbox_px": [
+        987,
+        858,
+        1144,
+        881
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0023",
+      "section_id": "remaining-page",
+      "text_raw": "January 2026",
+      "bbox_px": [
+        441,
+        1022,
+        504,
+        1036
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0024",
+      "section_id": "remaining-page",
+      "text_raw": "Create Post o Tags -",
+      "bbox_px": [
+        125,
+        1033,
+        227,
+        1047
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0025",
+      "section_id": "remaining-page",
+      "text_raw": "0100s V",
+      "bbox_px": [
+        1280,
+        1072,
+        1322,
+        1078
+      ],
+      "ocr_confidence": 0.30000001192092896,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0026",
+      "section_id": "remaining-page",
+      "text_raw": "ge Generate Ideas",
+      "bbox_px": [
+        820,
+        1085,
+        891,
+        1098
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0027",
+      "section_id": "remaining-page",
+      "text_raw": "Todo 4",
+      "bbox_px": [
+        1089,
+        1109,
+        1123,
+        1115
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0028",
+      "section_id": "remaining-page",
+      "text_raw": "Let's begin with a few questions /",
+      "bbox_px": [
+        815,
+        1119,
+        995,
+        1133
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0029",
+      "section_id": "remaining-page",
+      "text_raw": "Registration opens this Sunday!",
+      "bbox_px": [
+        169,
+        1125,
+        316,
+        1138
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0030",
+      "section_id": "remaining-page",
+      "text_raw": "Vid Ideas",
+      "bbox_px": [
+        1092,
+        1134,
+        1126,
+        1140
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0031",
+      "section_id": "remaining-page",
+      "text_raw": "What is your business about?",
+      "bbox_px": [
+        815,
+        1145,
+        948,
+        1159
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0032",
+      "section_id": "remaining-page",
+      "text_raw": "• Explaining a Restoration Process",
+      "bbox_px": [
+        1097,
+        1156,
+        1217,
+        1167
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0033",
+      "section_id": "remaining-page",
+      "text_raw": "A training and fitness brand",
+      "bbox_px": [
+        820,
+        1168,
+        946,
+        1185
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0034",
+      "section_id": "remaining-page",
+      "text_raw": "Posting Slots",
+      "bbox_px": [
+        439,
+        1208,
+        491,
+        1222
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0035",
+      "section_id": "remaining-page",
+      "text_raw": "What is your target audience?",
+      "bbox_px": [
+        815,
+        1208,
+        951,
+        1222
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0036",
+      "section_id": "remaining-page",
+      "text_raw": "The subtle art ot table stvino idel",
+      "bbox_px": [
+        1259,
+        1208,
+        1372,
+        1214
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0037",
+      "section_id": "remaining-page",
+      "text_raw": "123 O Start a inreao",
+      "bbox_px": [
+        318,
+        1211,
+        402,
+        1217
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0038",
+      "section_id": "remaining-page",
+      "text_raw": "* 6:00 PM",
+      "bbox_px": [
+        449,
+        1229,
+        501,
+        1243
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0039",
+      "section_id": "remaining-page",
+      "text_raw": "Busy working professionals worldwide",
+      "bbox_px": [
+        820,
+        1234,
+        990,
+        1248
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0040",
+      "section_id": "remaining-page",
+      "text_raw": "Selec ime",
+      "bbox_px": [
+        441,
+        1255,
+        483,
+        1261
+      ],
+      "ocr_confidence": 0.30000001192092896,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0041",
+      "section_id": "remaining-page",
+      "text_raw": "~t Topping",
+      "bbox_px": [
+        358,
+        1263,
+        405,
+        1276
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0042",
+      "section_id": "remaining-page",
+      "text_raw": "Europe/Londor",
+      "bbox_px": [
+        548,
+        1271,
+        619,
+        1284
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0043",
+      "section_id": "remaining-page",
+      "text_raw": "Design Tips in 30 Seconds",
+      "bbox_px": [
+        1257,
+        1276,
+        1348,
+        1290
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0044",
+      "section_id": "remaining-page",
+      "text_raw": "Generate Ideas",
+      "bbox_px": [
+        878,
+        1284,
+        961,
+        1298
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0045",
+      "section_id": "remaining-page",
+      "text_raw": "sovice such as how to mox paitern",
+      "bbox_px": [
+        1257,
+        1302,
+        1374,
+        1308
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0046",
+      "section_id": "remaining-page",
+      "text_raw": "+ More Posting Actions",
+      "bbox_px": [
+        441,
+        1307,
+        548,
+        1321
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0047",
+      "section_id": "remaining-page",
+      "text_raw": "v Done",
+      "bbox_px": [
+        582,
+        1307,
+        621,
+        1321
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0048",
+      "section_id": "remaining-page",
+      "text_raw": "t8 14 Jun, 16:00 ~",
+      "bbox_px": [
+        454,
+        1354,
+        533,
+        1368
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0049",
+      "section_id": "remaining-page",
+      "text_raw": "Schedule Posts",
+      "bbox_px": [
+        546,
+        1354,
+        606,
+        1368
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0050",
+      "section_id": "remaining-page",
+      "text_raw": "L Create Anoine.",
+      "bbox_px": [
+        120,
+        1359,
+        185,
+        1365
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0051",
+      "section_id": "remaining-page",
+      "text_raw": "+ New Ide:",
+      "bbox_px": [
+        1296,
+        1359,
+        1343,
+        1365
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0052",
+      "section_id": "remaining-page",
+      "text_raw": "PUBLISH",
+      "bbox_px": [
+        60,
+        1454,
+        133,
+        1470
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0053",
+      "section_id": "remaining-page",
+      "text_raw": "CREATE",
+      "bbox_px": [
+        755,
+        1454,
+        820,
+        1470
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0054",
+      "section_id": "remaining-page",
+      "text_raw": "The most complete set of publishing integrations,",
+      "bbox_px": [
+        59,
+        1488,
+        671,
+        1525
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0055",
+      "section_id": "remaining-page",
+      "text_raw": "Turn any idea into the perfect post",
+      "bbox_px": [
+        752,
+        1491,
+        1183,
+        1523
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0056",
+      "section_id": "remaining-page",
+      "text_raw": "ever",
+      "bbox_px": [
+        62,
+        1522,
+        117,
+        1540
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0057",
+      "section_id": "remaining-page",
+      "text_raw": "Schedule your content to the most popular platforms including Facebook,",
+      "bbox_px": [
+        62,
+        1556,
+        669,
+        1577
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0058",
+      "section_id": "remaining-page",
+      "text_raw": "Whether you're flying solo or working with a team, Buffer has all the",
+      "bbox_px": [
+        752,
+        1556,
+        1306,
+        1577
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0059",
+      "section_id": "remaining-page",
+      "text_raw": "Instagram, TikTok, Linkedln, Threads, Bluesky, YouTube Shorts, Pinterest,",
+      "bbox_px": [
+        62,
+        1582,
+        650,
+        1604
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0060",
+      "section_id": "remaining-page",
+      "text_raw": "features to help you create, organize, and repurpose your content for any",
+      "bbox_px": [
+        752,
+        1582,
+        1353,
+        1601
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0061",
+      "section_id": "remaining-page",
+      "text_raw": "channel. There's also an Al Assistant if you need it.",
+      "bbox_px": [
+        752,
+        1603,
+        1163,
+        1628
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0062",
+      "section_id": "remaining-page",
+      "text_raw": "Google Business, Mastodon and X.",
+      "bbox_px": [
+        62,
+        1606,
+        345,
+        1629
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0063",
+      "section_id": "remaining-page",
+      "text_raw": "channel. There's also an Al Assistant if you need it",
+      "bbox_px": [
+        752,
+        1607,
+        1160,
+        1626
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0064",
+      "section_id": "remaining-page",
+      "text_raw": "Learn more →",
+      "bbox_px": [
+        65,
+        1658,
+        162,
+        1679
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0065",
+      "section_id": "remaining-page",
+      "text_raw": "Learn more →",
+      "bbox_px": [
+        752,
+        1658,
+        854,
+        1674
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0066",
+      "section_id": "remaining-page",
+      "text_raw": "88 All channels",
+      "bbox_px": [
+        114,
+        1801,
+        206,
+        1817
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0067",
+      "section_id": "remaining-page",
+      "text_raw": "I By post Lise",
+      "bbox_px": [
+        559,
+        1804,
+        629,
+        1817
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0068",
+      "section_id": "remaining-page",
+      "text_raw": "Unanswered**",
+      "bbox_px": [
+        420,
+        1806,
+        548,
+        1814
+      ],
+      "ocr_confidence": 0.30000001192092896,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0069",
+      "section_id": "remaining-page",
+      "text_raw": "All Channels Q",
+      "bbox_px": [
+        966,
+        1806,
+        1087,
+        1822
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0070",
+      "section_id": "remaining-page",
+      "text_raw": "10s Amazinc 0000os Feb 3, 10115 PM (0 Reel",
+      "bbox_px": [
+        271,
+        1840,
+        407,
+        1846
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0071",
+      "section_id": "remaining-page",
+      "text_raw": "© Amazing00920",
+      "bbox_px": [
+        114,
+        1855,
+        172,
+        1867
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0072",
+      "section_id": "remaining-page",
+      "text_raw": "Meet Barney, He sat for 0.3 seconds, I cot the shot, Worth it.",
+      "bbox_px": [
+        274,
+        1855,
+        473,
+        1861
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0073",
+      "section_id": "remaining-page",
+      "text_raw": "Top 5 posts",
+      "bbox_px": [
+        838,
+        1858,
+        925,
+        1875
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0074",
+      "section_id": "remaining-page",
+      "text_raw": "May 18 - Jun 16, 2028",
+      "bbox_px": [
+        838,
+        1882,
+        930,
+        1890
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0075",
+      "section_id": "remaining-page",
+      "text_raw": "38k Likes",
+      "bbox_px": [
+        925,
+        1911,
+        969,
+        1924
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0076",
+      "section_id": "remaining-page",
+      "text_raw": "32k Likes",
+      "bbox_px": [
+        1074,
+        1911,
+        1118,
+        1924
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0077",
+      "section_id": "remaining-page",
+      "text_raw": "28k Likes",
+      "bbox_px": [
+        1220,
+        1911,
+        1267,
+        1924
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0078",
+      "section_id": "remaining-page",
+      "text_raw": "27k l",
+      "bbox_px": [
+        1372,
+        1911,
+        1395,
+        1924
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0079",
+      "section_id": "remaining-page",
+      "text_raw": "Nesamny morelaes 13 mnues so",
+      "bbox_px": [
+        300,
+        1921,
+        402,
+        1927
+      ],
+      "ocr_confidence": 0.30000001192092896,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0080",
+      "section_id": "remaining-page",
+      "text_raw": "iny paws, bd pefscnamyr",
+      "bbox_px": [
+        114,
+        1929,
+        203,
+        1935
+      ],
+      "ocr_confidence": 0.5,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0081",
+      "section_id": "remaining-page",
+      "text_raw": "wow, these doo pnotos are absoluteiv stunninoltne wav vou captured their oersonsleies",
+      "bbox_px": [
+        303,
+        1934,
+        598,
+        1940
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0082",
+      "section_id": "remaining-page",
+      "text_raw": "d 3:15 PM",
+      "bbox_px": [
+        843,
+        1934,
+        893,
+        1948
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0083",
+      "section_id": "remaining-page",
+      "text_raw": "G 1:00 PM",
+      "bbox_px": [
+        993,
+        1934,
+        1042,
+        1945
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0084",
+      "section_id": "remaining-page",
+      "text_raw": "d 3:15 PM",
+      "bbox_px": [
+        1142,
+        1934,
+        1189,
+        1945
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0085",
+      "section_id": "remaining-page",
+      "text_raw": "C 1:15 PM",
+      "bbox_px": [
+        1288,
+        1934,
+        1338,
+        1945
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0086",
+      "section_id": "remaining-page",
+      "text_raw": "My lavone una oi crent",
+      "bbox_px": [
+        117,
+        1939,
+        201,
+        1945
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0087",
+      "section_id": "remaining-page",
+      "text_raw": "reasy brings them to afe. what kind of camera or settings did you use to get such clean",
+      "bbox_px": [
+        303,
+        1945,
+        588,
+        1951
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0088",
+      "section_id": "remaining-page",
+      "text_raw": "London - you",
+      "bbox_px": [
+        844,
+        1950,
+        919,
+        1963
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0089",
+      "section_id": "remaining-page",
+      "text_raw": "We're back on stage",
+      "bbox_px": [
+        990,
+        1950,
+        1095,
+        1963
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0090",
+      "section_id": "remaining-page",
+      "text_raw": "New songs. Old",
+      "bbox_px": [
+        1139,
+        1950,
+        1220,
+        1963
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0091",
+      "section_id": "remaining-page",
+      "text_raw": "Introducing the latest",
+      "bbox_px": [
+        1288,
+        1950,
+        1390,
+        1963
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0092",
+      "section_id": "remaining-page",
+      "text_raw": "March 22nd at The Und..",
+      "bbox_px": [
+        990,
+        1965,
+        1115,
+        1979
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0093",
+      "section_id": "remaining-page",
+      "text_raw": "favourites. Prob.",
+      "bbox_px": [
+        1142,
+        1965,
+        1223,
+        1979
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0094",
+      "section_id": "remaining-page",
+      "text_raw": "collection of adorable •",
+      "bbox_px": [
+        1288,
+        1965,
+        1395,
+        1979
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0095",
+      "section_id": "remaining-page",
+      "text_raw": "ready?...",
+      "bbox_px": [
+        844,
+        1966,
+        888,
+        1979
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0096",
+      "section_id": "remaining-page",
+      "text_raw": "• AmazingDoggos",
+      "bbox_px": [
+        114,
+        1971,
+        175,
+        1985
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0097",
+      "section_id": "remaining-page",
+      "text_raw": "Thank you @amy.florela23! I use my Ca",
+      "bbox_px": [
+        310,
+        1999,
+        441,
+        2013
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0098",
+      "section_id": "remaining-page",
+      "text_raw": "Posts by month",
+      "bbox_px": [
+        927,
+        2018,
+        1021,
+        2031
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0099",
+      "section_id": "remaining-page",
+      "text_raw": "•AmazingDogp9",
+      "bbox_px": [
+        117,
+        2023,
+        172,
+        2036
+      ],
+      "ocr_confidence": 0.30000001192092896,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0100",
+      "section_id": "remaining-page",
+      "text_raw": "...",
+      "bbox_px": [
+        310,
+        2057,
+        358,
+        2070
+      ],
+      "ocr_confidence": 0.30000001192092896,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0101",
+      "section_id": "remaining-page",
+      "text_raw": "•AnazngDop3os",
+      "bbox_px": [
+        114,
+        2081,
+        175,
+        2094
+      ],
+      "ocr_confidence": 0.5,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0102",
+      "section_id": "remaining-page",
+      "text_raw": "• +3k d Tiktok",
+      "bbox_px": [
+        1079,
+        2107,
+        1173,
+        2120
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0103",
+      "section_id": "remaining-page",
+      "text_raw": "Private Account 14 minuses 299",
+      "bbox_px": [
+        300,
+        2108,
+        402,
+        2118
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0104",
+      "section_id": "remaining-page",
+      "text_raw": "These photos are so cheerful and full of life! Do you have any tips for making dogs feel",
+      "bbox_px": [
+        303,
+        2120,
+        590,
+        2134
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0105",
+      "section_id": "remaining-page",
+      "text_raw": "25,828 → 28,000 (+11.5%)",
+      "bbox_px": [
+        1079,
+        2125,
+        1225,
+        2138
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0106",
+      "section_id": "remaining-page",
+      "text_raw": "COMMUNITY",
+      "bbox_px": [
+        62,
+        2220,
+        167,
+        2235
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0107",
+      "section_id": "remaining-page",
+      "text_raw": "INSIGHTS",
+      "bbox_px": [
+        752,
+        2220,
+        836,
+        2235
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0108",
+      "section_id": "remaining-page",
+      "text_raw": "Answers, not just analytics",
+      "bbox_px": [
+        754,
+        2256,
+        1084,
+        2292
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0109",
+      "section_id": "remaining-page",
+      "text_raw": "Reply to comments in a flash",
+      "bbox_px": [
+        60,
+        2259,
+        415,
+        2288
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0110",
+      "section_id": "remaining-page",
+      "text_raw": "Engage with your audience across all your channels at 10x speed. Buffer will",
+      "bbox_px": [
+        62,
+        2321,
+        682,
+        2343
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0111",
+      "section_id": "remaining-page",
+      "text_raw": "Whether it's basic analytics or in-depth reporting, Buffer will help you learn",
+      "bbox_px": [
+        752,
+        2321,
+        1364,
+        2343
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0112",
+      "section_id": "remaining-page",
+      "text_raw": "help you triage and respond to comments from one simple dashboard.",
+      "bbox_px": [
+        60,
+        2348,
+        635,
+        2367
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0113",
+      "section_id": "remaining-page",
+      "text_raw": "what works and how to improve.",
+      "bbox_px": [
+        752,
+        2348,
+        1021,
+        2367
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0114",
+      "section_id": "remaining-page",
+      "text_raw": "Learn more →",
+      "bbox_px": [
+        752,
+        2399,
+        854,
+        2417
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0115",
+      "section_id": "remaining-page",
+      "text_raw": "Learn more →",
+      "bbox_px": [
+        60,
+        2400,
+        162,
+        2419
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0116",
+      "section_id": "remaining-page",
+      "text_raw": "...and so much more!",
+      "bbox_px": [
+        493,
+        2518,
+        946,
+        2563
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0117",
+      "section_id": "remaining-page",
+      "text_raw": "Your Queue",
+      "bbox_px": [
+        507,
+        2656,
+        588,
+        2670
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0118",
+      "section_id": "remaining-page",
+      "text_raw": "Al Assistant",
+      "bbox_px": [
+        1092,
+        2656,
+        1160,
+        2670
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0119",
+      "section_id": "remaining-page",
+      "text_raw": "What do you want to v",
+      "bbox_px": [
+        1089,
+        2682,
+        1215,
+        2696
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0120",
+      "section_id": "remaining-page",
+      "text_raw": "Let's add \"DM or visit the link",
+      "bbox_px": [
+        216,
+        2706,
+        334,
+        2719
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0121",
+      "section_id": "remaining-page",
+      "text_raw": "• Tomorrow 11:45 AM",
+      "bbox_px": [
+        441,
+        2706,
+        567,
+        2722
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0122",
+      "section_id": "remaining-page",
+      "text_raw": "in blo to book\"",
+      "bbox_px": [
+        214,
+        2719,
+        277,
+        2730
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0123",
+      "section_id": "remaining-page",
+      "text_raw": "Good call! Done!",
+      "bbox_px": [
+        198,
+        2753,
+        279,
+        2766
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0124",
+      "section_id": "remaining-page",
+      "text_raw": "* Generate",
+      "bbox_px": [
+        1270,
+        2787,
+        1343,
+        2804
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0125",
+      "section_id": "remaining-page",
+      "text_raw": "Collaborate",
+      "bbox_px": [
+        54,
+        2876,
+        164,
+        2895
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0126",
+      "section_id": "remaining-page",
+      "text_raw": "Mobile app",
+      "bbox_px": [
+        399,
+        2876,
+        499,
+        2896
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0127",
+      "section_id": "remaining-page",
+      "text_raw": "Start page",
+      "bbox_px": [
+        744,
+        2876,
+        847,
+        2895
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0128",
+      "section_id": "remaining-page",
+      "text_raw": "Al assistant",
+      "bbox_px": [
+        1089,
+        2876,
+        1204,
+        2895
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0129",
+      "section_id": "remaining-page",
+      "text_raw": "Turn your social bio into a powerful,",
+      "bbox_px": [
+        744,
+        2915,
+        1037,
+        2937
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0130",
+      "section_id": "remaining-page",
+      "text_raw": "Brainstorm ideas, rewrite content,",
+      "bbox_px": [
+        1089,
+        2915,
+        1366,
+        2934
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0131",
+      "section_id": "remaining-page",
+      "text_raw": "Manage, edit, and approve social",
+      "bbox_px": [
+        52,
+        2918,
+        324,
+        2936
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0132",
+      "section_id": "remaining-page",
+      "text_raw": "Manage your social media accounts",
+      "bbox_px": [
+        399,
+        2918,
+        692,
+        2936
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0133",
+      "section_id": "remaining-page",
+      "text_raw": "media posts from your team.",
+      "bbox_px": [
+        51,
+        2939,
+        290,
+        2965
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0134",
+      "section_id": "remaining-page",
+      "text_raw": "and craft platform-specific posts",
+      "bbox_px": [
+        1089,
+        2939,
+        1364,
+        2963
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0135",
+      "section_id": "remaining-page",
+      "text_raw": "personalized hub.",
+      "bbox_px": [
+        744,
+        2941,
+        888,
+        2960
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0136",
+      "section_id": "remaining-page",
+      "text_raw": "trom anywhere.",
+      "bbox_px": [
+        397,
+        2944,
+        527,
+        2963
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0137",
+      "section_id": "remaining-page",
+      "text_raw": "Learn more →",
+      "bbox_px": [
+        744,
+        2983,
+        844,
+        2999
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0138",
+      "section_id": "remaining-page",
+      "text_raw": "Learn more →",
+      "bbox_px": [
+        1089,
+        2983,
+        1191,
+        2999
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0139",
+      "section_id": "remaining-page",
+      "text_raw": "Learn more →",
+      "bbox_px": [
+        52,
+        2986,
+        154,
+        3002
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0140",
+      "section_id": "remaining-page",
+      "text_raw": "Learn more →",
+      "bbox_px": [
+        399,
+        2986,
+        499,
+        3002
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0141",
+      "section_id": "remaining-page",
+      "text_raw": "Connect your",
+      "bbox_px": [
+        64,
+        3127,
+        232,
+        3155
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0142",
+      "section_id": "remaining-page",
+      "text_raw": "in",
+      "bbox_px": [
+        504,
+        3146,
+        527,
+        3167
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0143",
+      "section_id": "remaining-page",
+      "text_raw": "favorite accounts",
+      "bbox_px": [
+        65,
+        3153,
+        285,
+        3180
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0144",
+      "section_id": "remaining-page",
+      "text_raw": "Small businesses",
+      "bbox_px": [
+        655,
+        3297,
+        778,
+        3313
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0145",
+      "section_id": "remaining-page",
+      "text_raw": "Agencies",
+      "bbox_px": [
+        822,
+        3297,
+        897,
+        3319
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0146",
+      "section_id": "remaining-page",
+      "text_raw": "Creators",
+      "bbox_px": [
+        543,
+        3299,
+        611,
+        3315
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0147",
+      "section_id": "remaining-page",
+      "text_raw": "Grow from zero →",
+      "bbox_px": [
+        159,
+        3395,
+        444,
+        3424
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0148",
+      "section_id": "remaining-page",
+      "text_raw": "THE BUFFER CREATOR COMMUNITY",
+      "bbox_px": [
+        637,
+        3401,
+        930,
+        3417
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0149",
+      "section_id": "remaining-page",
+      "text_raw": "one → one million",
+      "bbox_px": [
+        164,
+        3432,
+        439,
+        3462
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0150",
+      "section_id": "remaining-page",
+      "text_raw": "Whether you're just getting started on your creator journey or scaling your",
+      "bbox_px": [
+        39,
+        3479,
+        564,
+        3498
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0151",
+      "section_id": "remaining-page",
+      "text_raw": "audience to new heights, Buffer will get your content in front of more",
+      "bbox_px": [
+        54,
+        3500,
+        548,
+        3519
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0152",
+      "section_id": "remaining-page",
+      "text_raw": "people.",
+      "bbox_px": [
+        274,
+        3526,
+        329,
+        3540
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0153",
+      "section_id": "remaining-page",
+      "text_raw": "@rita_codes",
+      "bbox_px": [
+        705,
+        3565,
+        807,
+        3585
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0154",
+      "section_id": "remaining-page",
+      "text_raw": "@Pauldelobaume",
+      "bbox_px": [
+        935,
+        3566,
+        1074,
+        3584
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0155",
+      "section_id": "remaining-page",
+      "text_raw": "@yola_bastos",
+      "bbox_px": [
+        1194,
+        3566,
+        1309,
+        3584
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0156",
+      "section_id": "remaining-page",
+      "text_raw": "Save all your ideas as inspiration strikes",
+      "bbox_px": [
+        175,
+        3581,
+        457,
+        3600
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0157",
+      "section_id": "remaining-page",
+      "text_raw": "34.9K FOLLOWERS ON X",
+      "bbox_px": [
+        666,
+        3591,
+        841,
+        3608
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0158",
+      "section_id": "remaining-page",
+      "text_raw": "21K FOLLOWERS ON",
+      "bbox_px": [
+        930,
+        3591,
+        1076,
+        3608
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0159",
+      "section_id": "remaining-page",
+      "text_raw": "14.6K FOLLOWERS ON",
+      "bbox_px": [
+        1170,
+        3591,
+        1330,
+        3608
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0160",
+      "section_id": "remaining-page",
+      "text_raw": "LINKEDIN",
+      "bbox_px": [
+        966,
+        3610,
+        1037,
+        3626
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0161",
+      "section_id": "remaining-page",
+      "text_raw": "INSTAGRAM",
+      "bbox_px": [
+        1204,
+        3610,
+        1296,
+        3626
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0162",
+      "section_id": "remaining-page",
+      "text_raw": "v Learn exactly what content works best and why",
+      "bbox_px": [
+        122,
+        3618,
+        486,
+        3634
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0163",
+      "section_id": "remaining-page",
+      "text_raw": "V Create once, crosspost everywhere",
+      "bbox_px": [
+        167,
+        3652,
+        444,
+        3671
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0164",
+      "section_id": "remaining-page",
+      "text_raw": "CUSTOMER SUPPORT",
+      "bbox_px": [
+        36,
+        3866,
+        211,
+        3882
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0165",
+      "section_id": "remaining-page",
+      "text_raw": "Human support, worldwide",
+      "bbox_px": [
+        36,
+        3908,
+        614,
+        3963
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0166",
+      "section_id": "remaining-page",
+      "text_raw": "Our global Customer Advocacy team is spread across time zones to make sure",
+      "bbox_px": [
+        36,
+        3973,
+        676,
+        3992
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0167",
+      "section_id": "remaining-page",
+      "text_raw": "help is always nearby. Whether you have a quick question, need technical",
+      "bbox_px": [
+        33,
+        4000,
+        632,
+        4019
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0168",
+      "section_id": "remaining-page",
+      "text_raw": "support, or just want to connect, we're here for you - no bots, just real people",
+      "bbox_px": [
+        33,
+        4023,
+        682,
+        4045
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0169",
+      "section_id": "remaining-page",
+      "text_raw": "who care.",
+      "bbox_px": [
+        33,
+        4050,
+        120,
+        4067
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0170",
+      "section_id": "remaining-page",
+      "text_raw": "Visit the Help Center",
+      "bbox_px": [
+        52,
+        4099,
+        209,
+        4116
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0171",
+      "section_id": "remaining-page",
+      "text_raw": "Join Discord",
+      "bbox_px": [
+        250,
+        4099,
+        344,
+        4116
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0172",
+      "section_id": "remaining-page",
+      "text_raw": "We prioritize customer connection as a company and you could end up",
+      "bbox_px": [
+        36,
+        4167,
+        616,
+        4186
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0173",
+      "section_id": "remaining-page",
+      "text_raw": "speaking with a teammate in any role at Buffer, from Marketers to Engineers.",
+      "bbox_px": [
+        33,
+        4191,
+        661,
+        4212
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0174",
+      "section_id": "remaining-page",
+      "text_raw": "Learn more about our global team →",
+      "bbox_px": [
+        36,
+        4235,
+        337,
+        4254
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0175",
+      "section_id": "remaining-page",
+      "text_raw": "RESOURCES",
+      "bbox_px": [
+        36,
+        4421,
+        138,
+        4440
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0176",
+      "section_id": "remaining-page",
+      "text_raw": "Fuel your social media",
+      "bbox_px": [
+        36,
+        4455,
+        509,
+        4502
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0177",
+      "section_id": "remaining-page",
+      "text_raw": "Everything you need to level up your social strategy-in one place.",
+      "bbox_px": [
+        755,
+        4478,
+        1298,
+        4500
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0178",
+      "section_id": "remaining-page",
+      "text_raw": "success",
+      "bbox_px": [
+        36,
+        4510,
+        216,
+        4539
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0179",
+      "section_id": "remaining-page",
+      "text_raw": "Social Media Glossary",
+      "bbox_px": [
+        522,
+        4624,
+        789,
+        4657
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0180",
+      "section_id": "remaining-page",
+      "text_raw": "Free Marketing Tools",
+      "bbox_px": [
+        60,
+        4628,
+        313,
+        4657
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0181",
+      "section_id": "remaining-page",
+      "text_raw": "→",
+      "bbox_px": [
+        431,
+        4631,
+        449,
+        4652
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0182",
+      "section_id": "remaining-page",
+      "text_raw": "→",
+      "bbox_px": [
+        904,
+        4631,
+        919,
+        4649
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0183",
+      "section_id": "remaining-page",
+      "text_raw": "Social Media Terms: A",
+      "bbox_px": [
+        1077,
+        4642,
+        1191,
+        4676
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0184",
+      "section_id": "remaining-page",
+      "text_raw": "Comprehensive Glossary by Buffer",
+      "bbox_px": [
+        1043,
+        4651,
+        1225,
+        4693
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0185",
+      "section_id": "remaining-page",
+      "text_raw": "A glossary of the most popular terms to help you",
+      "bbox_px": [
+        522,
+        4664,
+        925,
+        4686
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0186",
+      "section_id": "remaining-page",
+      "text_raw": "A collection of free tools to make your social",
+      "bbox_px": [
+        62,
+        4665,
+        428,
+        4683
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0187",
+      "section_id": "remaining-page",
+      "text_raw": "make sense of all the social media lingo",
+      "bbox_px": [
+        522,
+        4688,
+        846,
+        4709
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0188",
+      "section_id": "remaining-page",
+      "text_raw": "media marketing easier and more effective",
+      "bbox_px": [
+        62,
+        4690,
+        412,
+        4709
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0189",
+      "section_id": "remaining-page",
+      "text_raw": "Create your next social media",
+      "bbox_px": [
+        138,
+        4800,
+        337,
+        4816
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0190",
+      "section_id": "remaining-page",
+      "text_raw": "post with one click*",
+      "bbox_px": [
+        172,
+        4811,
+        311,
+        4831
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0191",
+      "section_id": "remaining-page",
+      "text_raw": "post with one click *",
+      "bbox_px": [
+        172,
+        4815,
+        310,
+        4829
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0192",
+      "section_id": "remaining-page",
+      "text_raw": "Best cont",
+      "bbox_px": [
+        759,
+        4869,
+        819,
+        4888
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0193",
+      "section_id": "remaining-page",
+      "text_raw": "Best con",
+      "bbox_px": [
+        759,
+        4869,
+        819,
+        4889
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0194",
+      "section_id": "remaining-page",
+      "text_raw": "Social Media Resources",
+      "bbox_px": [
+        867,
+        4875,
+        1155,
+        4899
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0195",
+      "section_id": "remaining-page",
+      "text_raw": "→",
+      "bbox_px": [
+        1351,
+        4877,
+        1372,
+        4897
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0196",
+      "section_id": "remaining-page",
+      "text_raw": "on in",
+      "bbox_px": [
+        783,
+        4889,
+        815,
+        4896
+      ],
+      "ocr_confidence": 0.5,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0197",
+      "section_id": "remaining-page",
+      "text_raw": "Best time to pos",
+      "bbox_px": [
+        621,
+        4906,
+        722,
+        4928
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0198",
+      "section_id": "remaining-page",
+      "text_raw": "A collection of articles and interviews packed with tips,",
+      "bbox_px": [
+        870,
+        4908,
+        1322,
+        4934
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0199",
+      "section_id": "remaining-page",
+      "text_raw": "stories, and insights to level up your social media marketing",
+      "bbox_px": [
+        867,
+        4938,
+        1353,
+        4957
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0200",
+      "section_id": "remaining-page",
+      "text_raw": "Best day to pos",
+      "bbox_px": [
+        516,
+        4944,
+        615,
+        4967
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0201",
+      "section_id": "remaining-page",
+      "text_raw": "game",
+      "bbox_px": [
+        867,
+        4965,
+        917,
+        4984
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0202",
+      "section_id": "remaining-page",
+      "text_raw": "* Buffer",
+      "bbox_px": [
+        880,
+        5061,
+        922,
+        5075
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0203",
+      "section_id": "remaining-page",
+      "text_raw": "Social Media Marketing 101",
+      "bbox_px": [
+        59,
+        5088,
+        382,
+        5122
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0204",
+      "section_id": "remaining-page",
+      "text_raw": "→",
+      "bbox_px": [
+        428,
+        5095,
+        449,
+        5116
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0205",
+      "section_id": "remaining-page",
+      "text_raw": "Weikday evenings are best!",
+      "bbox_px": [
+        685,
+        5116,
+        791,
+        5148
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0206",
+      "section_id": "remaining-page",
+      "text_raw": "Tew Cot Tree eca",
+      "bbox_px": [
+        1167,
+        5118,
+        1237,
+        5139
+      ],
+      "ocr_confidence": 0.30000001192092896,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0207",
+      "section_id": "remaining-page",
+      "text_raw": "Your go-to guide for mastering the basics of",
+      "bbox_px": [
+        62,
+        5129,
+        428,
+        5151
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0208",
+      "section_id": "remaining-page",
+      "text_raw": "social media and beyond",
+      "bbox_px": [
+        62,
+        5155,
+        266,
+        5174
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0209",
+      "section_id": "remaining-page",
+      "text_raw": "Pridags",
+      "bbox_px": [
+        595,
+        5161,
+        629,
+        5174
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0210",
+      "section_id": "remaining-page",
+      "text_raw": "2028 (+ ном 50 г",
+      "bbox_px": [
+        1170,
+        5171,
+        1220,
+        5187
+      ],
+      "ocr_confidence": 0.30000001192092896,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0211",
+      "section_id": "remaining-page",
+      "text_raw": "Best Time to Post",
+      "bbox_px": [
+        525,
+        5273,
+        742,
+        5297
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0212",
+      "section_id": "remaining-page",
+      "text_raw": "Discover the best times to post",
+      "bbox_px": [
+        525,
+        5312,
+        784,
+        5331
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0213",
+      "section_id": "remaining-page",
+      "text_raw": "on social media to maximize your",
+      "bbox_px": [
+        522,
+        5338,
+        797,
+        5357
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0214",
+      "section_id": "remaining-page",
+      "text_raw": "Your Everything Guide to",
+      "bbox_px": [
+        163,
+        5340,
+        276,
+        5369
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0215",
+      "section_id": "remaining-page",
+      "text_raw": "trategy to Growth",
+      "bbox_px": [
+        165,
+        5356,
+        250,
+        5387
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0216",
+      "section_id": "remaining-page",
+      "text_raw": "arketing: From",
+      "bbox_px": [
+        226,
+        5359,
+        293,
+        5379
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0217",
+      "section_id": "remaining-page",
+      "text_raw": "engagement",
+      "bbox_px": [
+        522,
+        5365,
+        632,
+        5383
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0218",
+      "section_id": "remaining-page",
+      "text_raw": "Latest",
+      "bbox_px": [
+        932,
+        5365,
+        972,
+        5378
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0219",
+      "section_id": "remaining-page",
+      "text_raw": "40-",
+      "bbox_px": [
+        1110,
+        5383,
+        1136,
+        5393
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0220",
+      "section_id": "remaining-page",
+      "text_raw": "ABOUT US",
+      "bbox_px": [
+        33,
+        5582,
+        122,
+        5600
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0221",
+      "section_id": "remaining-page",
+      "text_raw": "We are an open company",
+      "bbox_px": [
+        36,
+        5626,
+        585,
+        5675
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0222",
+      "section_id": "remaining-page",
+      "text_raw": "Open dashboard →",
+      "bbox_px": [
+        1215,
+        5662,
+        1379,
+        5681
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0223",
+      "section_id": "remaining-page",
+      "text_raw": "Since 2013, we've shared Buffer's finances, team salaries, and other key metrics openly. Our",
+      "bbox_px": [
+        36,
+        5689,
+        781,
+        5712
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0224",
+      "section_id": "remaining-page",
+      "text_raw": "commitment to transparency is rooted in our belief that it fosters trust, keeps us",
+      "bbox_px": [
+        36,
+        5715,
+        692,
+        5734
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0225",
+      "section_id": "remaining-page",
+      "text_raw": "accountable, and helps drive positive change within our industry.",
+      "bbox_px": [
+        33,
+        5741,
+        567,
+        5762
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0226",
+      "section_id": "remaining-page",
+      "text_raw": "MAU",
+      "bbox_px": [
+        54,
+        5854,
+        96,
+        5872
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0227",
+      "section_id": "remaining-page",
+      "text_raw": "Teammates",
+      "bbox_px": [
+        744,
+        5854,
+        857,
+        5875
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0228",
+      "section_id": "remaining-page",
+      "text_raw": "ARR",
+      "bbox_px": [
+        1092,
+        5854,
+        1131,
+        5872
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0229",
+      "section_id": "remaining-page",
+      "text_raw": "Total customers",
+      "bbox_px": [
+        399,
+        5856,
+        551,
+        5872
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0230",
+      "section_id": "remaining-page",
+      "text_raw": "Total customers",
+      "bbox_px": [
+        399,
+        5876,
+        517,
+        5893
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0231",
+      "section_id": "remaining-page",
+      "text_raw": "Monthly active users",
+      "bbox_px": [
+        52,
+        5877,
+        203,
+        5894
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0232",
+      "section_id": "remaining-page",
+      "text_raw": "Across 15 countries",
+      "bbox_px": [
+        744,
+        5877,
+        888,
+        5894
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0233",
+      "section_id": "remaining-page",
+      "text_raw": "Annual recurring revenue",
+      "bbox_px": [
+        1092,
+        5877,
+        1272,
+        5894
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0234",
+      "section_id": "remaining-page",
+      "text_raw": "$26.5M",
+      "bbox_px": [
+        1089,
+        5931,
+        1218,
+        5967
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0235",
+      "section_id": "remaining-page",
+      "text_raw": "73",
+      "bbox_px": [
+        742,
+        5932,
+        786,
+        5964
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0236",
+      "section_id": "remaining-page",
+      "text_raw": "260,491",
+      "bbox_px": [
+        52,
+        5935,
+        175,
+        5972
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0237",
+      "section_id": "remaining-page",
+      "text_raw": "81,201",
+      "bbox_px": [
+        397,
+        5937,
+        493,
+        5972
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0238",
+      "section_id": "remaining-page",
+      "text_raw": "Grow your social presence",
+      "bbox_px": [
+        339,
+        6218,
+        1097,
+        6278
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0239",
+      "section_id": "remaining-page",
+      "text_raw": "with confidence",
+      "bbox_px": [
+        488,
+        6277,
+        951,
+        6330
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0240",
+      "section_id": "remaining-page",
+      "text_raw": "Get started for free →",
+      "bbox_px": [
+        627,
+        6390,
+        812,
+        6406
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0241",
+      "section_id": "remaining-page",
+      "text_raw": "No credit card needed. Free forever.",
+      "bbox_px": [
+        573,
+        6463,
+        870,
+        6483
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0242",
+      "section_id": "remaining-page",
+      "text_raw": "Company",
+      "bbox_px": [
+        1186,
+        6673,
+        1254,
+        6695
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0243",
+      "section_id": "remaining-page",
+      "text_raw": "Support",
+      "bbox_px": [
+        964,
+        6674,
+        1023,
+        6695
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0244",
+      "section_id": "remaining-page",
+      "text_raw": "Features",
+      "bbox_px": [
+        77,
+        6675,
+        136,
+        6692
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0245",
+      "section_id": "remaining-page",
+      "text_raw": "Channels",
+      "bbox_px": [
+        299,
+        6675,
+        362,
+        6692
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0246",
+      "section_id": "remaining-page",
+      "text_raw": "Made for",
+      "bbox_px": [
+        521,
+        6675,
+        583,
+        6692
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0247",
+      "section_id": "remaining-page",
+      "text_raw": "Resources",
+      "bbox_px": [
+        745,
+        6675,
+        814,
+        6690
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0248",
+      "section_id": "remaining-page",
+      "text_raw": "Blog",
+      "bbox_px": [
+        741,
+        6703,
+        778,
+        6725
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0249",
+      "section_id": "remaining-page",
+      "text_raw": "Changelog",
+      "bbox_px": [
+        966,
+        6703,
+        1038,
+        6724
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0250",
+      "section_id": "remaining-page",
+      "text_raw": "Buffer API",
+      "bbox_px": [
+        77,
+        6704,
+        146,
+        6722
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0251",
+      "section_id": "remaining-page",
+      "text_raw": "Bluesky",
+      "bbox_px": [
+        298,
+        6704,
+        352,
+        6724
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0252",
+      "section_id": "remaining-page",
+      "text_raw": "Agencies",
+      "bbox_px": [
+        523,
+        6704,
+        583,
+        6721
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0253",
+      "section_id": "remaining-page",
+      "text_raw": "About",
+      "bbox_px": [
+        1188,
+        6705,
+        1232,
+        6721
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0254",
+      "section_id": "remaining-page",
+      "text_raw": "Developer Docs",
+      "bbox_px": [
+        964,
+        6738,
+        1069,
+        6757
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0255",
+      "section_id": "remaining-page",
+      "text_raw": "Careers",
+      "bbox_px": [
+        1188,
+        6738,
+        1243,
+        6757
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0256",
+      "section_id": "remaining-page",
+      "text_raw": "Facebook",
+      "bbox_px": [
+        301,
+        6739,
+        366,
+        6753
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0257",
+      "section_id": "remaining-page",
+      "text_raw": "Collaborate",
+      "bbox_px": [
+        79,
+        6740,
+        152,
+        6753
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0258",
+      "section_id": "remaining-page",
+      "text_raw": "Creators",
+      "bbox_px": [
+        525,
+        6740,
+        579,
+        6753
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0259",
+      "section_id": "remaining-page",
+      "text_raw": "Our Community",
+      "bbox_px": [
+        747,
+        6740,
+        847,
+        6755
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0260",
+      "section_id": "remaining-page",
+      "text_raw": "Resource Library",
+      "bbox_px": [
+        744,
+        6770,
+        854,
+        6791
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0261",
+      "section_id": "remaining-page",
+      "text_raw": "Help Center",
+      "bbox_px": [
+        966,
+        6771,
+        1048,
+        6790
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0262",
+      "section_id": "remaining-page",
+      "text_raw": "Google Business Profile",
+      "bbox_px": [
+        301,
+        6773,
+        449,
+        6788
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0263",
+      "section_id": "remaining-page",
+      "text_raw": "Community",
+      "bbox_px": [
+        79,
+        6774,
+        154,
+        6790
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0264",
+      "section_id": "remaining-page",
+      "text_raw": "Developers",
+      "bbox_px": [
+        520,
+        6774,
+        596,
+        6790
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0265",
+      "section_id": "remaining-page",
+      "text_raw": "Legal",
+      "bbox_px": [
+        1186,
+        6774,
+        1226,
+        6792
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0266",
+      "section_id": "remaining-page",
+      "text_raw": "Create",
+      "bbox_px": [
+        77,
+        6807,
+        125,
+        6824
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0267",
+      "section_id": "remaining-page",
+      "text_raw": "Request a Feature",
+      "bbox_px": [
+        964,
+        6807,
+        1084,
+        6826
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0268",
+      "section_id": "remaining-page",
+      "text_raw": "Partner Program",
+      "bbox_px": [
+        1186,
+        6807,
+        1295,
+        6826
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0269",
+      "section_id": "remaining-page",
+      "text_raw": "Instagram",
+      "bbox_px": [
+        301,
+        6809,
+        366,
+        6824
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0270",
+      "section_id": "remaining-page",
+      "text_raw": "Higher Education",
+      "bbox_px": [
+        521,
+        6809,
+        634,
+        6826
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0271",
+      "section_id": "remaining-page",
+      "text_raw": "Social Media Terms",
+      "bbox_px": [
+        747,
+        6809,
+        868,
+        6822
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0272",
+      "section_id": "remaining-page",
+      "text_raw": "Glossary",
+      "bbox_px": [
+        744,
+        6831,
+        802,
+        6852
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0273",
+      "section_id": "remaining-page",
+      "text_raw": "Status",
+      "bbox_px": [
+        966,
+        6840,
+        1013,
+        6859
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0274",
+      "section_id": "remaining-page",
+      "text_raw": "Press",
+      "bbox_px": [
+        1186,
+        6840,
+        1228,
+        6859
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0275",
+      "section_id": "remaining-page",
+      "text_raw": "Insights",
+      "bbox_px": [
+        77,
+        6842,
+        129,
+        6859
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0276",
+      "section_id": "remaining-page",
+      "text_raw": "Linkedln",
+      "bbox_px": [
+        301,
+        6842,
+        357,
+        6855
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0277",
+      "section_id": "remaining-page",
+      "text_raw": "New",
+      "bbox_px": [
+        142,
+        6843,
+        171,
+        6855
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0278",
+      "section_id": "remaining-page",
+      "text_raw": "Nonprofits",
+      "bbox_px": [
+        523,
+        6843,
+        594,
+        6857
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0279",
+      "section_id": "remaining-page",
+      "text_raw": "Sitemap",
+      "bbox_px": [
+        1188,
+        6872,
+        1247,
+        6894
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0280",
+      "section_id": "remaining-page",
+      "text_raw": "Mastodon",
+      "bbox_px": [
+        298,
+        6874,
+        366,
+        6893
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0281",
+      "section_id": "remaining-page",
+      "text_raw": "Small Business",
+      "bbox_px": [
+        522,
+        6874,
+        619,
+        6891
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0282",
+      "section_id": "remaining-page",
+      "text_raw": "Publish",
+      "bbox_px": [
+        75,
+        6876,
+        127,
+        6893
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0283",
+      "section_id": "remaining-page",
+      "text_raw": "Transparency",
+      "bbox_px": [
+        964,
+        6894,
+        1054,
+        6914
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0284",
+      "section_id": "remaining-page",
+      "text_raw": "Pinterest",
+      "bbox_px": [
+        299,
+        6909,
+        359,
+        6926
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0285",
+      "section_id": "remaining-page",
+      "text_raw": "Startups",
+      "bbox_px": [
+        523,
+        6911,
+        579,
+        6924
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0286",
+      "section_id": "remaining-page",
+      "text_raw": "Open Hub",
+      "bbox_px": [
+        966,
+        6926,
+        1036,
+        6945
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0287",
+      "section_id": "remaining-page",
+      "text_raw": "Tools",
+      "bbox_px": [
+        75,
+        6930,
+        115,
+        6947
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0288",
+      "section_id": "remaining-page",
+      "text_raw": "Threads",
+      "bbox_px": [
+        299,
+        6943,
+        353,
+        6960
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0289",
+      "section_id": "remaining-page",
+      "text_raw": "Product Roadmap",
+      "bbox_px": [
+        964,
+        6958,
+        1082,
+        6979
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0290",
+      "section_id": "remaining-page",
+      "text_raw": "Al Assistant",
+      "bbox_px": [
+        75,
+        6960,
+        155,
+        6980
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0291",
+      "section_id": "remaining-page",
+      "text_raw": "TikTok",
+      "bbox_px": [
+        299,
+        6976,
+        343,
+        6993
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0292",
+      "section_id": "remaining-page",
+      "text_raw": "Transparent Metrics",
+      "bbox_px": [
+        964,
+        6995,
+        1094,
+        7012
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0293",
+      "section_id": "remaining-page",
+      "text_raw": "Android App",
+      "bbox_px": [
+        75,
+        6997,
+        159,
+        7014
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0294",
+      "section_id": "remaining-page",
+      "text_raw": "Browser Extension",
+      "bbox_px": [
+        77,
+        7027,
+        197,
+        7045
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0295",
+      "section_id": "remaining-page",
+      "text_raw": "Transparent Pricing",
+      "bbox_px": [
+        964,
+        7028,
+        1090,
+        7047
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0296",
+      "section_id": "remaining-page",
+      "text_raw": "YouTube",
+      "bbox_px": [
+        297,
+        7045,
+        357,
+        7062
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0297",
+      "section_id": "remaining-page",
+      "text_raw": "Transparent Salaries",
+      "bbox_px": [
+        964,
+        7062,
+        1096,
+        7081
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0298",
+      "section_id": "remaining-page",
+      "text_raw": "Integrations",
+      "bbox_px": [
+        75,
+        7064,
+        157,
+        7083
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0299",
+      "section_id": "remaining-page",
+      "text_raw": "¡OS App",
+      "bbox_px": [
+        75,
+        7097,
+        131,
+        7116
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0300",
+      "section_id": "remaining-page",
+      "text_raw": "Social Media MCP",
+      "bbox_px": [
+        77,
+        7133,
+        192,
+        7150
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0301",
+      "section_id": "remaining-page",
+      "text_raw": "Start Page",
+      "bbox_px": [
+        75,
+        7166,
+        146,
+        7185
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0302",
+      "section_id": "remaining-page",
+      "text_raw": "Template Library",
+      "bbox_px": [
+        75,
+        7200,
+        184,
+        7219
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0303",
+      "section_id": "remaining-page",
+      "text_raw": "Free tools and social media data v",
+      "bbox_px": [
+        77,
+        7311,
+        303,
+        7325
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0304",
+      "section_id": "remaining-page",
+      "text_raw": "Benchmarks, best times to post, and tools you can use right now.",
+      "bbox_px": [
+        77,
+        7331,
+        481,
+        7350
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0305",
+      "section_id": "remaining-page",
+      "text_raw": "English ~",
+      "bbox_px": [
+        1255,
+        7444,
+        1362,
+        7466
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0306",
+      "section_id": "remaining-page",
+      "text_raw": "Buffer",
+      "bbox_px": [
+        175,
+        7477,
+        439,
+        7556
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0307",
+      "section_id": "remaining-page",
+      "text_raw": "Copyright ©2026 Buffer | Privacy | Terms | Security",
+      "bbox_px": [
+        1017,
+        7543,
+        1362,
+        7562
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    }
+  ]
+}

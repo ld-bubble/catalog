@@ -1,0 +1,76 @@
+✨ Looking for app inspiration? Check out SaaS Interface ✨
+Inspiration
+App Inspiration
+Templates
+Advertise
+Visit Website
+Supabase
+
+Supabase is an open-source Firebase alternative. It lets you kickstart your project with a Postgres database, Authentication, instant APIs, Edge Functions, Realtime subscriptions, Storage, and and much more.
+
+Fonts
+Circular
+Palette
+161616
+3ecf8e
+Stacks
+Next.js, React, Tailwind CSS
+Tags
+Code Tool
+Categories
+Landing page
+Date
+August 2024
+Sponsored
+Inspiration
+Landing pages
+Pricing pages
+About Us pages
+Features pages
+Blog pages
+Testimonials pages
+FAQ pages
+Contact Us pages
+Templates
+Framer
+Webflow
+React
+HTML
+Next.js
+Tailwind CSS
+Vue
+View all
+Resources
+Blog
+Resources & Tools
+Popular stacks
+React
+Next.js
+Tailwind CSS
+Webflow
+GSAP
+Framer
+WordPress
+View all
+Popular tags
+Productivity
+AI
+Code Tool
+Finance
+Design Tool
+B2B
+FinTech
+View all
+Popular fonts
+Inter
+Graphik
+Geist Sans
+Suisse Int'l
+Roobert
+Geist Mono
+Tiempos Headline
+View all
+Advertise on SLP
+ Privacy Policy
+Day / Night toggle
+A project by Davide Pacilio.

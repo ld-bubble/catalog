@@ -1,0 +1,6603 @@
+{
+  "schema_version": "0.1",
+  "id": "linear",
+  "annotation": {
+    "status": "pilot_partial",
+    "method": "Assistant visual inspection of all 50 overview/full-page thumbnails and readable top-window crops; manual hero-copy transcription; local Apple Vision OCR of full screenshots.",
+    "coverage": [
+      "Visible headline and selected actions",
+      "Supporting hero copy where recorded",
+      "Industry/audience/intended action retrieval facets",
+      "Observed desktop composition and evidence images"
+    ],
+    "unreviewed": [
+      "Full-page OCR transcription candidates",
+      "Precise semantic body-section segmentation",
+      "Runtime and responsive behavior"
+    ]
+  },
+  "provenance": {
+    "gallery_url": "https://saaslandingpage.com/linear",
+    "gallery_saved_at": "2026-09-29T15:05:28.702Z",
+    "original_site_url": null,
+    "screenshot_captured_at": null,
+    "gallery_meta_path": "provenance/linear-meta.json",
+    "gallery_text_path": "provenance/linear-gallery.txt"
+  },
+  "images": [
+    {
+      "id": "full",
+      "path": "screenshots/linear.png",
+      "sha256": "af3922d866d540fc3ee6c36da8938feebb69bf3ba9cba87ea8ce54d884654b51",
+      "width": 1440,
+      "height": 10833,
+      "role": "source",
+      "parent_id": null,
+      "bbox_px": null
+    },
+    {
+      "id": "hero-window",
+      "path": "crops/linear-hero.png",
+      "sha256": "ba520fdba5cc5d2594f569eac33faa92380877b03ad238967f4edd8785b9ff05",
+      "width": 1440,
+      "height": 1000,
+      "role": "crop",
+      "parent_id": "full",
+      "bbox_px": [
+        0,
+        0,
+        1440,
+        1000
+      ]
+    }
+  ],
+  "retrieval": {
+    "page_kind": "landing-page",
+    "summary": "Light text on a near-black background precedes a broad, detailed product interface.",
+    "tags": [
+      "industry:Productivity and collaboration",
+      "audience:Product and engineering teams",
+      "conversion_goal:open-app",
+      "style:interface-led",
+      "color_family:black",
+      "hero_layout:left"
+    ]
+  },
+  "claims": [
+    {
+      "field": "industry",
+      "value": "Productivity and collaboration",
+      "basis": "interpretation",
+      "confidence": "medium",
+      "evidence_ids": [
+        "hero-window",
+        "full"
+      ]
+    },
+    {
+      "field": "audience",
+      "value": "Product and engineering teams",
+      "basis": "interpretation",
+      "confidence": "medium",
+      "evidence_ids": [
+        "hero-window",
+        "full"
+      ]
+    },
+    {
+      "field": "conversion_goal",
+      "value": "open-app",
+      "basis": "interpretation",
+      "confidence": "medium",
+      "evidence_ids": [
+        "hero-window",
+        "full"
+      ]
+    },
+    {
+      "field": "style",
+      "value": "interface-led",
+      "basis": "interpretation",
+      "confidence": "medium",
+      "evidence_ids": [
+        "hero-window",
+        "full"
+      ]
+    },
+    {
+      "field": "color_family",
+      "value": "black",
+      "basis": "screenshot_observation",
+      "confidence": "high",
+      "evidence_ids": [
+        "hero-window",
+        "full"
+      ]
+    },
+    {
+      "field": "hero_layout",
+      "value": "left",
+      "basis": "screenshot_observation",
+      "confidence": "high",
+      "evidence_ids": [
+        "hero-window",
+        "full"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "id": "top-window",
+      "order": 0,
+      "role": "top-page-evidence-window",
+      "pattern": "left",
+      "takeaway": "The product development system for teams and agents",
+      "evidence_ids": [
+        "hero-window",
+        "full"
+      ],
+      "observations": [
+        "Light text on a near-black background precedes a broad, detailed product interface.",
+        "Window includes the page header and may include the start of subsequent content."
+      ],
+      "visible_affordances": [
+        "Open app"
+      ],
+      "runtime_verified": false
+    },
+    {
+      "id": "remaining-page",
+      "order": 1,
+      "role": "unsegmented-page-body",
+      "pattern": "unclassified",
+      "takeaway": "Inspect the full screenshot; detailed body annotation is pending.",
+      "evidence_ids": [
+        "full"
+      ],
+      "observations": [
+        "Full-page visual evidence and unreviewed OCR are retained."
+      ],
+      "visible_affordances": [],
+      "runtime_verified": false
+    }
+  ],
+  "recipes": [],
+  "unknowns": [
+    "No conversion-performance data; conversion_goal describes an intended visible action.",
+    "No verified mobile layout, animation, interaction, DOM, source code, font names, or CSS spacing values.",
+    "Screenshot capture date is unknown; gallery savedAt is the download date.",
+    "Full-page semantic section boundaries and body copy classification remain unreviewed.",
+    "The first 1000 pixels are an evidence window, not a browser viewport or exact hero boundary.",
+    "Copy text omits decorative icons; text punctuation is transcribed as visible, but font-specific glyph identity is not established."
+  ],
+  "copy_blocks": [
+    {
+      "id": "copy-01",
+      "section_id": "top-window",
+      "role": "headline",
+      "text_verbatim": "The product development system for teams and agents",
+      "visible_lines": [],
+      "evidence_ids": [
+        "hero-window",
+        "full"
+      ],
+      "reading_order": 0,
+      "transcription_status": "visually_verified",
+      "uncertainties": [
+        "Visual line wrapping is not transcribed; use the screenshot.",
+        "Reading order is grouped editorially by copy role, not a DOM reading-order measurement."
+      ]
+    },
+    {
+      "id": "copy-02",
+      "section_id": "top-window",
+      "role": "supporting_copy",
+      "text_verbatim": "Purpose-built for planning and building products. Designed for the AI era.",
+      "visible_lines": [],
+      "evidence_ids": [
+        "hero-window",
+        "full"
+      ],
+      "reading_order": 1,
+      "transcription_status": "visually_verified",
+      "uncertainties": [
+        "Visual line wrapping is not transcribed; use the screenshot.",
+        "Reading order is grouped editorially by copy role, not a DOM reading-order measurement."
+      ]
+    },
+    {
+      "id": "copy-03",
+      "section_id": "top-window",
+      "role": "navigation",
+      "text_verbatim": "Open app",
+      "visible_lines": [],
+      "evidence_ids": [
+        "hero-window",
+        "full"
+      ],
+      "reading_order": 2,
+      "transcription_status": "visually_verified",
+      "uncertainties": [
+        "Visual line wrapping is not transcribed; use the screenshot.",
+        "Reading order is grouped editorially by copy role, not a DOM reading-order measurement."
+      ]
+    }
+  ],
+  "transcription_candidates": [
+    {
+      "id": "ocr-0001",
+      "section_id": "top-window",
+      "text_raw": "Linear",
+      "bbox_px": [
+        104,
+        28,
+        169,
+        49
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0002",
+      "section_id": "top-window",
+      "text_raw": "Product",
+      "bbox_px": [
+        750,
+        28,
+        812,
+        44
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0003",
+      "section_id": "top-window",
+      "text_raw": "Resources",
+      "bbox_px": [
+        812,
+        28,
+        891,
+        44
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0004",
+      "section_id": "top-window",
+      "text_raw": "Customers",
+      "bbox_px": [
+        909,
+        28,
+        982,
+        44
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0005",
+      "section_id": "top-window",
+      "text_raw": "Pricing Now Contact",
+      "bbox_px": [
+        998,
+        28,
+        1173,
+        47
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0006",
+      "section_id": "top-window",
+      "text_raw": "Docs",
+      "bbox_px": [
+        1217,
+        31,
+        1254,
+        44
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0007",
+      "section_id": "top-window",
+      "text_raw": "Open app",
+      "bbox_px": [
+        1283,
+        31,
+        1348,
+        44
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0008",
+      "section_id": "top-window",
+      "text_raw": "The product development",
+      "bbox_px": [
+        75,
+        279,
+        786,
+        346
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0009",
+      "section_id": "top-window",
+      "text_raw": "system for teams and agents",
+      "bbox_px": [
+        75,
+        342,
+        862,
+        408
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0010",
+      "section_id": "top-window",
+      "text_raw": "Purpose-built for planning and building products. Designed for the Al era.",
+      "bbox_px": [
+        78,
+        436,
+        585,
+        455
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0011",
+      "section_id": "top-window",
+      "text_raw": "New Linear Reviews (Beta) →",
+      "bbox_px": [
+        1144,
+        436,
+        1358,
+        453
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0012",
+      "section_id": "top-window",
+      "text_raw": "• Linear v",
+      "bbox_px": [
+        80,
+        546,
+        167,
+        565
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0013",
+      "section_id": "top-window",
+      "text_raw": ". . !",
+      "bbox_px": [
+        1270,
+        546,
+        1340,
+        565
+      ],
+      "ocr_confidence": 0.30000001192092896,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0014",
+      "section_id": "top-window",
+      "text_raw": "Faster app launch",
+      "bbox_px": [
+        328,
+        549,
+        436,
+        567
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0015",
+      "section_id": "top-window",
+      "text_raw": "02/145 ^ v",
+      "bbox_px": [
+        914,
+        549,
+        1021,
+        565
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0016",
+      "section_id": "top-window",
+      "text_raw": "ENG-2703",
+      "bbox_px": [
+        1079,
+        549,
+        1147,
+        562
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0017",
+      "section_id": "top-window",
+      "text_raw": "• Inbox",
+      "bbox_px": [
+        83,
+        588,
+        143,
+        604
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0018",
+      "section_id": "top-window",
+      "text_raw": "• In Progress",
+      "bbox_px": [
+        1079,
+        611,
+        1170,
+        628
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0019",
+      "section_id": "top-window",
+      "text_raw": "My issues",
+      "bbox_px": [
+        80,
+        617,
+        170,
+        636
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0020",
+      "section_id": "top-window",
+      "text_raw": "Faster app launch",
+      "bbox_px": [
+        365,
+        632,
+        535,
+        651
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0021",
+      "section_id": "top-window",
+      "text_raw": "Il High",
+      "bbox_px": [
+        1079,
+        643,
+        1134,
+        659
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0022",
+      "section_id": "top-window",
+      "text_raw": "* Reviews",
+      "bbox_px": [
+        80,
+        648,
+        159,
+        664
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0023",
+      "section_id": "top-window",
+      "text_raw": "Render Ul before vehicle_state sync when minimum required state is present,",
+      "bbox_px": [
+        365,
+        666,
+        888,
+        682
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0024",
+      "section_id": "top-window",
+      "text_raw": "Karri",
+      "bbox_px": [
+        1079,
+        675,
+        1134,
+        688
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0025",
+      "section_id": "top-window",
+      "text_raw": "+ Pulse",
+      "bbox_px": [
+        81,
+        680,
+        141,
+        696
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0026",
+      "section_id": "top-window",
+      "text_raw": "instead of blocking on full refresh during iOS startup.",
+      "bbox_px": [
+        365,
+        690,
+        708,
+        709
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0027",
+      "section_id": "top-window",
+      "text_raw": "® GitHub Copilot",
+      "bbox_px": [
+        1100,
+        706,
+        1215,
+        722
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0028",
+      "section_id": "top-window",
+      "text_raw": "Workspace •",
+      "bbox_px": [
+        78,
+        718,
+        164,
+        735
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0029",
+      "section_id": "top-window",
+      "text_raw": "Activity",
+      "bbox_px": [
+        365,
+        739,
+        428,
+        759
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0030",
+      "section_id": "top-window",
+      "text_raw": "Q Initiatives",
+      "bbox_px": [
+        81,
+        747,
+        164,
+        761
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0031",
+      "section_id": "top-window",
+      "text_raw": "• Projects",
+      "bbox_px": [
+        83,
+        776,
+        159,
+        792
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0032",
+      "section_id": "top-window",
+      "text_raw": "Linear created the issue via Slack on behalf of karri • 2min ago",
+      "bbox_px": [
+        368,
+        787,
+        747,
+        801
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0033",
+      "section_id": "top-window",
+      "text_raw": "• GitHub Copilot",
+      "bbox_px": [
+        980,
+        795,
+        1089,
+        811
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0034",
+      "section_id": "top-window",
+      "text_raw": "•.• More",
+      "bbox_px": [
+        81,
+        805,
+        138,
+        822
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0035",
+      "section_id": "top-window",
+      "text_raw": "• Triage Intelligence added the label Performance and iOS • 2min ago",
+      "bbox_px": [
+        368,
+        818,
+        781,
+        834
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0036",
+      "section_id": "top-window",
+      "text_raw": "I received your request and will let you know when the PR is",
+      "bbox_px": [
+        974,
+        841,
+        1319,
+        858
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0037",
+      "section_id": "top-window",
+      "text_raw": "Favorites •",
+      "bbox_px": [
+        78,
+        847,
+        151,
+        861
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0038",
+      "section_id": "top-window",
+      "text_raw": "ready.",
+      "bbox_px": [
+        974,
+        860,
+        1016,
+        873
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0039",
+      "section_id": "top-window",
+      "text_raw": "• karri • 4 min ago",
+      "bbox_px": [
+        365,
+        871,
+        486,
+        886
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0040",
+      "section_id": "top-window",
+      "text_raw": "Faster app launch",
+      "bbox_px": [
+        99,
+        876,
+        216,
+        892
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0041",
+      "section_id": "top-window",
+      "text_raw": "Start github-mcp-server MCP server",
+      "bbox_px": [
+        977,
+        889,
+        1207,
+        902
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0042",
+      "section_id": "top-window",
+      "text_raw": "Right now we show a spinner forever, which makes it look like the car disappeared...",
+      "bbox_px": [
+        365,
+        900,
+        875,
+        913
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0043",
+      "section_id": "top-window",
+      "text_raw": "F Agent tasks",
+      "bbox_px": [
+        81,
+        905,
+        180,
+        921
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0044",
+      "section_id": "top-window",
+      "text_raw": "Start playwright MCP server",
+      "bbox_px": [
+        977,
+        918,
+        1155,
+        931
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0045",
+      "section_id": "top-window",
+      "text_raw": "% UI Refresh",
+      "bbox_px": [
+        83,
+        936,
+        172,
+        949
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0046",
+      "section_id": "top-window",
+      "text_raw": "• jori • just now",
+      "bbox_px": [
+        368,
+        943,
+        470,
+        960
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0047",
+      "section_id": "top-window",
+      "text_raw": "I'll start by exploring the repository structure to understand the",
+      "bbox_px": [
+        974,
+        947,
+        1338,
+        960
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0048",
+      "section_id": "top-window",
+      "text_raw": "codebase and then implement the necessary changes to",
+      "bbox_px": [
+        977,
+        961,
+        1301,
+        980
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0049",
+      "section_id": "top-window",
+      "text_raw": "@GitHub Copilot can you take a stab at this?",
+      "bbox_px": [
+        391,
+        967,
+        661,
+        987
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0050",
+      "section_id": "top-window",
+      "text_raw": "Agents Insights",
+      "bbox_px": [
+        101,
+        968,
+        203,
+        981
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0051",
+      "section_id": "top-window",
+      "text_raw": "render Ul before vehicle_state sync",
+      "bbox_px": [
+        977,
+        980,
+        1202,
+        994
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0052",
+      "section_id": "top-window",
+      "text_raw": "jori connected GitHub Copilot • just now",
+      "bbox_px": [
+        392,
+        996,
+        655,
+        1012
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0053",
+      "section_id": "remaining-page",
+      "text_raw": "Bash: Check current directory and list repository contents",
+      "bbox_px": [
+        977,
+        1009,
+        1309,
+        1023
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0054",
+      "section_id": "remaining-page",
+      "text_raw": "View/home/runner/kinetic/kinetic-ios",
+      "bbox_px": [
+        977,
+        1041,
+        1243,
+        1056
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0055",
+      "section_id": "remaining-page",
+      "text_raw": "® GitHub Copilot",
+      "bbox_px": [
+        365,
+        1062,
+        475,
+        1081
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0056",
+      "section_id": "remaining-page",
+      "text_raw": "Thinking",
+      "bbox_px": [
+        977,
+        1075,
+        1055,
+        1096
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0057",
+      "section_id": "remaining-page",
+      "text_raw": "Examining issue ENG-2703",
+      "bbox_px": [
+        365,
+        1093,
+        533,
+        1109
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0058",
+      "section_id": "remaining-page",
+      "text_raw": "• GitHub Copilot moved from Todo to In Progress • just now",
+      "bbox_px": [
+        368,
+        1148,
+        721,
+        1164
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0059",
+      "section_id": "remaining-page",
+      "text_raw": "Message GitHub Copilot...",
+      "bbox_px": [
+        982,
+        1159,
+        1147,
+        1175
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0060",
+      "section_id": "remaining-page",
+      "text_raw": "→ CURSOR",
+      "bbox_px": [
+        243,
+        1469,
+        350,
+        1499
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0061",
+      "section_id": "remaining-page",
+      "text_raw": "* BOOM",
+      "bbox_px": [
+        1105,
+        1472,
+        1196,
+        1499
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0062",
+      "section_id": "remaining-page",
+      "text_raw": "ramp L",
+      "bbox_px": [
+        1264,
+        1472,
+        1359,
+        1501
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0063",
+      "section_id": "remaining-page",
+      "text_raw": "A Vercel",
+      "bbox_px": [
+        78,
+        1474,
+        172,
+        1499
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0064",
+      "section_id": "remaining-page",
+      "text_raw": "Cash App",
+      "bbox_px": [
+        940,
+        1474,
+        1021,
+        1494
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0065",
+      "section_id": "remaining-page",
+      "text_raw": "OpenAl",
+      "bbox_px": [
+        569,
+        1475,
+        655,
+        1499
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0066",
+      "section_id": "remaining-page",
+      "text_raw": "coinbase",
+      "bbox_px": [
+        729,
+        1475,
+        833,
+        1494
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0067",
+      "section_id": "remaining-page",
+      "text_raw": "oscar",
+      "bbox_px": [
+        420,
+        1478,
+        496,
+        1499
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0068",
+      "section_id": "remaining-page",
+      "text_raw": "A new species of product tool. Purpose-built for modern",
+      "bbox_px": [
+        78,
+        1598,
+        1217,
+        1645
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0069",
+      "section_id": "remaining-page",
+      "text_raw": "teams with Al workflows at its core, Linear sets a new",
+      "bbox_px": [
+        75,
+        1641,
+        1152,
+        1706
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0070",
+      "section_id": "remaining-page",
+      "text_raw": "standard for planning and building products.",
+      "bbox_px": [
+        78,
+        1694,
+        974,
+        1745
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0071",
+      "section_id": "remaining-page",
+      "text_raw": "FIG 0.2",
+      "bbox_px": [
+        80,
+        1876,
+        133,
+        1890
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0072",
+      "section_id": "remaining-page",
+      "text_raw": "FIG 0.4",
+      "bbox_px": [
+        961,
+        1876,
+        1016,
+        1890
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0073",
+      "section_id": "remaining-page",
+      "text_raw": "FIG 0.3",
+      "bbox_px": [
+        538,
+        1877,
+        590,
+        1890
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0074",
+      "section_id": "remaining-page",
+      "text_raw": "Built for purpose",
+      "bbox_px": [
+        77,
+        2265,
+        199,
+        2287
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0075",
+      "section_id": "remaining-page",
+      "text_raw": "Powered by Al agents",
+      "bbox_px": [
+        535,
+        2266,
+        692,
+        2285
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0076",
+      "section_id": "remaining-page",
+      "text_raw": "Designed for speed",
+      "bbox_px": [
+        961,
+        2266,
+        1102,
+        2282
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0077",
+      "section_id": "remaining-page",
+      "text_raw": "Linear is shaped by the practices and",
+      "bbox_px": [
+        78,
+        2298,
+        339,
+        2317
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0078",
+      "section_id": "remaining-page",
+      "text_raw": "Designed for workflows shared by humans and",
+      "bbox_px": [
+        538,
+        2298,
+        865,
+        2317
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0079",
+      "section_id": "remaining-page",
+      "text_raw": "Reduces noise and restores momentum to",
+      "bbox_px": [
+        961,
+        2298,
+        1257,
+        2314
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0080",
+      "section_id": "remaining-page",
+      "text_raw": "agents. From drafting PRDs to pushing PRs.",
+      "bbox_px": [
+        535,
+        2321,
+        838,
+        2340
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0081",
+      "section_id": "remaining-page",
+      "text_raw": "help teams ship with high velocity and focus.",
+      "bbox_px": [
+        961,
+        2321,
+        1275,
+        2340
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0082",
+      "section_id": "remaining-page",
+      "text_raw": "principles of world-class product teams.",
+      "bbox_px": [
+        78,
+        2324,
+        358,
+        2340
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0083",
+      "section_id": "remaining-page",
+      "text_raw": "Make product",
+      "bbox_px": [
+        77,
+        2644,
+        366,
+        2703
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0084",
+      "section_id": "remaining-page",
+      "text_raw": "Turn conversations and customer feedback",
+      "bbox_px": [
+        747,
+        2646,
+        1215,
+        2670
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0085",
+      "section_id": "remaining-page",
+      "text_raw": "into actionable issues that are routed,",
+      "bbox_px": [
+        747,
+        2677,
+        1147,
+        2706
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0086",
+      "section_id": "remaining-page",
+      "text_raw": "operations self-driving",
+      "bbox_px": [
+        78,
+        2691,
+        536,
+        2743
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0087",
+      "section_id": "remaining-page",
+      "text_raw": "labeled, and prioritized for the right team.",
+      "bbox_px": [
+        747,
+        2706,
+        1184,
+        2739
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0088",
+      "section_id": "remaining-page",
+      "text_raw": "1.0 Intake →",
+      "bbox_px": [
+        750,
+        2787,
+        849,
+        2803
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0089",
+      "section_id": "remaining-page",
+      "text_raw": "1. Thread in #feedback",
+      "bbox_px": [
+        81,
+        2897,
+        243,
+        2913
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0090",
+      "section_id": "remaining-page",
+      "text_raw": "• Todo 71",
+      "bbox_px": [
+        645,
+        2939,
+        718,
+        2952
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0091",
+      "section_id": "remaining-page",
+      "text_raw": "• In Progress 3",
+      "bbox_px": [
+        961,
+        2939,
+        1068,
+        2955
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0092",
+      "section_id": "remaining-page",
+      "text_raw": "lena 12:34 PM",
+      "bbox_px": [
+        128,
+        2984,
+        224,
+        2997
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0093",
+      "section_id": "remaining-page",
+      "text_raw": "ENG-926",
+      "bbox_px": [
+        645,
+        2991,
+        689,
+        3002
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0094",
+      "section_id": "remaining-page",
+      "text_raw": "EN6-148",
+      "bbox_px": [
+        959,
+        2994,
+        1006,
+        2999
+      ],
+      "ocr_confidence": 0.5,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0095",
+      "section_id": "remaining-page",
+      "text_raw": "Anyone else noticing the iOS app feels slow to open if",
+      "bbox_px": [
+        128,
+        3007,
+        496,
+        3023
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0096",
+      "section_id": "remaining-page",
+      "text_raw": "Remove Ul inconsistencies",
+      "bbox_px": [
+        642,
+        3009,
+        799,
+        3023
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0097",
+      "section_id": "remaining-page",
+      "text_raw": "Remove contentData from GraphQL API",
+      "bbox_px": [
+        959,
+        3009,
+        1189,
+        3023
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0098",
+      "section_id": "remaining-page",
+      "text_raw": "you haven't used it in a bit?",
+      "bbox_px": [
+        127,
+        3025,
+        316,
+        3046
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0099",
+      "section_id": "remaining-page",
+      "text_raw": "13 61039",
+      "bbox_px": [
+        990,
+        3051,
+        1037,
+        3065
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0100",
+      "section_id": "remaining-page",
+      "text_raw": "didier 12:34 PM",
+      "bbox_px": [
+        128,
+        3069,
+        235,
+        3086
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0101",
+      "section_id": "remaining-page",
+      "text_raw": "Yea, we're still blocking initial render on a full",
+      "bbox_px": [
+        127,
+        3092,
+        436,
+        3114
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0102",
+      "section_id": "remaining-page",
+      "text_raw": "TypeError: Cannot read properties",
+      "bbox_px": [
+        642,
+        3112,
+        841,
+        3127
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0103",
+      "section_id": "remaining-page",
+      "text_raw": "reams",
+      "bbox_px": [
+        535,
+        3114,
+        572,
+        3127
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0104",
+      "section_id": "remaining-page",
+      "text_raw": "Launch page assets",
+      "bbox_px": [
+        959,
+        3114,
+        1076,
+        3127
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0105",
+      "section_id": "remaining-page",
+      "text_raw": "vehicle_state sync every time...",
+      "bbox_px": [
+        128,
+        3116,
+        339,
+        3133
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0106",
+      "section_id": "remaining-page",
+      "text_raw": "• B4g",
+      "bbox_px": [
+        673,
+        3156,
+        706,
+        3168
+      ],
+      "ocr_confidence": 0.5,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0107",
+      "section_id": "remaining-page",
+      "text_raw": "• Design",
+      "bbox_px": [
+        990,
+        3156,
+        1037,
+        3169
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0108",
+      "section_id": "remaining-page",
+      "text_raw": "andreas 12:34 PM",
+      "bbox_px": [
+        128,
+        3159,
+        250,
+        3174
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0109",
+      "section_id": "remaining-page",
+      "text_raw": "Feels like we could render sooner and load the rest in",
+      "bbox_px": [
+        128,
+        3182,
+        493,
+        3198
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0110",
+      "section_id": "remaining-page",
+      "text_raw": "ENG-2187",
+      "bbox_px": [
+        959,
+        3198,
+        1008,
+        3211
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0111",
+      "section_id": "remaining-page",
+      "text_raw": "ENG-924",
+      "bbox_px": [
+        645,
+        3200,
+        689,
+        3213
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0112",
+      "section_id": "remaining-page",
+      "text_raw": "e",
+      "bbox_px": [
+        909,
+        3200,
+        927,
+        3215
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0113",
+      "section_id": "remaining-page",
+      "text_raw": "the background. Probably also worth tracking startup",
+      "bbox_px": [
+        128,
+        3203,
+        491,
+        3222
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0114",
+      "section_id": "remaining-page",
+      "text_raw": "Upgrade to Claude Opus 4.5",
+      "bbox_px": [
+        642,
+        3215,
+        810,
+        3234
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0115",
+      "section_id": "remaining-page",
+      "text_raw": "Prevent duplicate ride requests on poor..",
+      "bbox_px": [
+        958,
+        3216,
+        1194,
+        3234
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0116",
+      "section_id": "remaining-page",
+      "text_raw": "icle sync",
+      "bbox_px": [
+        535,
+        3218,
+        588,
+        3231
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0117",
+      "section_id": "remaining-page",
+      "text_raw": "timing so we know how often this happens!",
+      "bbox_px": [
+        128,
+        3226,
+        425,
+        3244
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0118",
+      "section_id": "remaining-page",
+      "text_raw": "• AI",
+      "bbox_px": [
+        676,
+        3259,
+        697,
+        3270
+      ],
+      "ocr_confidence": 0.5,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0119",
+      "section_id": "remaining-page",
+      "text_raw": "* Bug",
+      "bbox_px": [
+        990,
+        3260,
+        1024,
+        3273
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0120",
+      "section_id": "remaining-page",
+      "text_raw": "I) 62048",
+      "bbox_px": [
+        1037,
+        3260,
+        1089,
+        3273
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0121",
+      "section_id": "remaining-page",
+      "text_raw": "@Linear create urgent issues and assign to me",
+      "bbox_px": [
+        86,
+        3297,
+        418,
+        3314
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0122",
+      "section_id": "remaining-page",
+      "text_raw": "ENG-1882",
+      "bbox_px": [
+        645,
+        3302,
+        695,
+        3315
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0123",
+      "section_id": "remaining-page",
+      "text_raw": "Optimize load times",
+      "bbox_px": [
+        645,
+        3321,
+        760,
+        3334
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0124",
+      "section_id": "remaining-page",
+      "text_raw": "uting",
+      "bbox_px": [
+        540,
+        3322,
+        572,
+        3336
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0125",
+      "section_id": "remaining-page",
+      "text_raw": "outng",
+      "bbox_px": [
+        535,
+        3326,
+        569,
+        3334
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0126",
+      "section_id": "remaining-page",
+      "text_raw": "• Performance",
+      "bbox_px": [
+        671,
+        3364,
+        750,
+        3377
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0127",
+      "section_id": "remaining-page",
+      "text_raw": "a",
+      "bbox_px": [
+        193,
+        3396,
+        211,
+        3411
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0128",
+      "section_id": "remaining-page",
+      "text_raw": "1.1 Linear Agent",
+      "bbox_px": [
+        749,
+        3570,
+        878,
+        3590
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0129",
+      "section_id": "remaining-page",
+      "text_raw": "1.2 Triage",
+      "bbox_px": [
+        1107,
+        3571,
+        1192,
+        3589
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0130",
+      "section_id": "remaining-page",
+      "text_raw": "1.3 Customer Requests",
+      "bbox_px": [
+        749,
+        3599,
+        925,
+        3619
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0131",
+      "section_id": "remaining-page",
+      "text_raw": "1.4 Linear Asks",
+      "bbox_px": [
+        1108,
+        3599,
+        1228,
+        3615
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0132",
+      "section_id": "remaining-page",
+      "text_raw": "Define the",
+      "bbox_px": [
+        78,
+        3859,
+        290,
+        3903
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0133",
+      "section_id": "remaining-page",
+      "text_raw": "Plan and navigate from idea to launch. Align",
+      "bbox_px": [
+        750,
+        3861,
+        1215,
+        3888
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0134",
+      "section_id": "remaining-page",
+      "text_raw": "your team with product initiatives, strategic",
+      "bbox_px": [
+        750,
+        3895,
+        1204,
+        3917
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0135",
+      "section_id": "remaining-page",
+      "text_raw": "product direction",
+      "bbox_px": [
+        77,
+        3904,
+        426,
+        3956
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0136",
+      "section_id": "remaining-page",
+      "text_raw": "roadmaps, and clear, up-to-date PRDs.",
+      "bbox_px": [
+        749,
+        3924,
+        1163,
+        3952
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0137",
+      "section_id": "remaining-page",
+      "text_raw": "2.0 Plan →",
+      "bbox_px": [
+        750,
+        4005,
+        836,
+        4021
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0138",
+      "section_id": "remaining-page",
+      "text_raw": "MAR",
+      "bbox_px": [
+        240,
+        4147,
+        271,
+        4157
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0139",
+      "section_id": "remaining-page",
+      "text_raw": "APR",
+      "bbox_px": [
+        397,
+        4147,
+        428,
+        4160
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0140",
+      "section_id": "remaining-page",
+      "text_raw": "MAY",
+      "bbox_px": [
+        559,
+        4147,
+        590,
+        4160
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0141",
+      "section_id": "remaining-page",
+      "text_raw": "JUN",
+      "bbox_px": [
+        718,
+        4147,
+        747,
+        4160
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0142",
+      "section_id": "remaining-page",
+      "text_raw": "JUL",
+      "bbox_px": [
+        875,
+        4147,
+        904,
+        4160
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0143",
+      "section_id": "remaining-page",
+      "text_raw": "AUG",
+      "bbox_px": [
+        1037,
+        4147,
+        1068,
+        4160
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0144",
+      "section_id": "remaining-page",
+      "text_raw": "30",
+      "bbox_px": [
+        399,
+        4170,
+        420,
+        4183
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0145",
+      "section_id": "remaining-page",
+      "text_raw": "20",
+      "bbox_px": [
+        520,
+        4170,
+        540,
+        4183
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0146",
+      "section_id": "remaining-page",
+      "text_raw": "27",
+      "bbox_px": [
+        561,
+        4170,
+        580,
+        4183
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0147",
+      "section_id": "remaining-page",
+      "text_raw": "29",
+      "bbox_px": [
+        917,
+        4170,
+        940,
+        4183
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0148",
+      "section_id": "remaining-page",
+      "text_raw": "• 22",
+      "bbox_px": [
+        870,
+        4172,
+        896,
+        4181
+      ],
+      "ocr_confidence": 0.5,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0149",
+      "section_id": "remaining-page",
+      "text_raw": "23",
+      "bbox_px": [
+        360,
+        4173,
+        381,
+        4183
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0150",
+      "section_id": "remaining-page",
+      "text_raw": "25",
+      "bbox_px": [
+        721,
+        4173,
+        742,
+        4183
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0151",
+      "section_id": "remaining-page",
+      "text_raw": "20",
+      "bbox_px": [
+        1037,
+        4173,
+        1061,
+        4183
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0152",
+      "section_id": "remaining-page",
+      "text_raw": "27",
+      "bbox_px": [
+        1079,
+        4173,
+        1097,
+        4183
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0153",
+      "section_id": "remaining-page",
+      "text_raw": "Initiatives",
+      "bbox_px": [
+        78,
+        4230,
+        143,
+        4244
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0154",
+      "section_id": "remaining-page",
+      "text_raw": "* UI Refresh",
+      "bbox_px": [
+        637,
+        4248,
+        739,
+        4262
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0155",
+      "section_id": "remaining-page",
+      "text_raw": "Core Product",
+      "bbox_px": [
+        107,
+        4293,
+        193,
+        4309
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0156",
+      "section_id": "remaining-page",
+      "text_raw": "99",
+      "bbox_px": [
+        415,
+        4293,
+        436,
+        4309
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0157",
+      "section_id": "remaining-page",
+      "text_raw": "Core screens",
+      "bbox_px": [
+        763,
+        4306,
+        831,
+        4319
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0158",
+      "section_id": "remaining-page",
+      "text_raw": "Infra stability",
+      "bbox_px": [
+        104,
+        4348,
+        206,
+        4364
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0159",
+      "section_id": "remaining-page",
+      "text_raw": "28",
+      "bbox_px": [
+        415,
+        4348,
+        436,
+        4361
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0160",
+      "section_id": "remaining-page",
+      "text_raw": "• Split fares ~",
+      "bbox_px": [
+        509,
+        4355,
+        608,
+        4369
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0161",
+      "section_id": "remaining-page",
+      "text_raw": "Autonomous systems",
+      "bbox_px": [
+        125,
+        4400,
+        261,
+        4417
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0162",
+      "section_id": "remaining-page",
+      "text_raw": "16",
+      "bbox_px": [
+        418,
+        4400,
+        436,
+        4413
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0163",
+      "section_id": "remaining-page",
+      "text_raw": "Internal",
+      "bbox_px": [
+        648,
+        4413,
+        689,
+        4424
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0164",
+      "section_id": "remaining-page",
+      "text_raw": "Public Beta",
+      "bbox_px": [
+        953,
+        4413,
+        1014,
+        4427
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0165",
+      "section_id": "remaining-page",
+      "text_raw": "Mobile apps",
+      "bbox_px": [
+        125,
+        4450,
+        203,
+        4466
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0166",
+      "section_id": "remaining-page",
+      "text_raw": "• Autonomy status clarity",
+      "bbox_px": [
+        888,
+        4463,
+        1066,
+        4479
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0167",
+      "section_id": "remaining-page",
+      "text_raw": "APAC Expansion",
+      "bbox_px": [
+        107,
+        4521,
+        211,
+        4536
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0168",
+      "section_id": "remaining-page",
+      "text_raw": "21",
+      "bbox_px": [
+        418,
+        4523,
+        436,
+        4536
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0169",
+      "section_id": "remaining-page",
+      "text_raw": "Japan Launch",
+      "bbox_px": [
+        125,
+        4575,
+        216,
+        4592
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0170",
+      "section_id": "remaining-page",
+      "text_raw": "12",
+      "bbox_px": [
+        418,
+        4576,
+        436,
+        4589
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0171",
+      "section_id": "remaining-page",
+      "text_raw": "Customer-driven priorities",
+      "bbox_px": [
+        125,
+        4627,
+        290,
+        4641
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0172",
+      "section_id": "remaining-page",
+      "text_raw": "2.2 Documents",
+      "bbox_px": [
+        1107,
+        4778,
+        1226,
+        4799
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0173",
+      "section_id": "remaining-page",
+      "text_raw": "2.1",
+      "bbox_px": [
+        750,
+        4780,
+        778,
+        4795
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0174",
+      "section_id": "remaining-page",
+      "text_raw": "Projects",
+      "bbox_px": [
+        775,
+        4780,
+        844,
+        4799
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0175",
+      "section_id": "remaining-page",
+      "text_raw": "2.4 Visual planning",
+      "bbox_px": [
+        1107,
+        4806,
+        1252,
+        4827
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0176",
+      "section_id": "remaining-page",
+      "text_raw": "2.3 Initiatives",
+      "bbox_px": [
+        750,
+        4809,
+        854,
+        4825
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0177",
+      "section_id": "remaining-page",
+      "text_raw": "Move work forward",
+      "bbox_px": [
+        78,
+        5066,
+        475,
+        5111
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0178",
+      "section_id": "remaining-page",
+      "text_raw": "Build and deploy Al agents that work alongside",
+      "bbox_px": [
+        750,
+        5068,
+        1243,
+        5095
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0179",
+      "section_id": "remaining-page",
+      "text_raw": "your team. Work on complex tasks together",
+      "bbox_px": [
+        747,
+        5100,
+        1215,
+        5130
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0180",
+      "section_id": "remaining-page",
+      "text_raw": "across teams and agents",
+      "bbox_px": [
+        75,
+        5109,
+        591,
+        5168
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0181",
+      "section_id": "remaining-page",
+      "text_raw": "or delegate entire issues end-to-end.",
+      "bbox_px": [
+        750,
+        5134,
+        1144,
+        5158
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0182",
+      "section_id": "remaining-page",
+      "text_raw": "3.0 Build →",
+      "bbox_px": [
+        750,
+        5210,
+        841,
+        5226
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0183",
+      "section_id": "remaining-page",
+      "text_raw": "• Codex",
+      "bbox_px": [
+        83,
+        5354,
+        164,
+        5380
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0184",
+      "section_id": "remaining-page",
+      "text_raw": "Assign to...",
+      "bbox_px": [
+        760,
+        5391,
+        849,
+        5409
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0185",
+      "section_id": "remaining-page",
+      "text_raw": "On it! I've received your request.",
+      "bbox_px": [
+        88,
+        5427,
+        300,
+        5441
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0186",
+      "section_id": "remaining-page",
+      "text_raw": "Codex",
+      "bbox_px": [
+        757,
+        5461,
+        838,
+        5483
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0187",
+      "section_id": "remaining-page",
+      "text_raw": "Kicked off atask in kinetic/kinetic-iOS environment.",
+      "bbox_px": [
+        86,
+        5464,
+        486,
+        5480
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0188",
+      "section_id": "remaining-page",
+      "text_raw": "Agent",
+      "bbox_px": [
+        849,
+        5467,
+        888,
+        5480
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0189",
+      "section_id": "remaining-page",
+      "text_raw": "Searching for root AGENTS file",
+      "bbox_px": [
+        86,
+        5503,
+        290,
+        5519
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0190",
+      "section_id": "remaining-page",
+      "text_raw": "Steven",
+      "bbox_px": [
+        776,
+        5521,
+        841,
+        5535
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0191",
+      "section_id": "remaining-page",
+      "text_raw": "--files -giAGENTS.md'",
+      "bbox_px": [
+        399,
+        5537,
+        593,
+        5564
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0192",
+      "section_id": "remaining-page",
+      "text_raw": "kinetic/kinetic-iOS$ /bin/bash -lc rg",
+      "bbox_px": [
+        86,
+        5542,
+        402,
+        5558
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0193",
+      "section_id": "remaining-page",
+      "text_raw": "AGENTS.md",
+      "bbox_px": [
+        86,
+        5569,
+        164,
+        5582
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0194",
+      "section_id": "remaining-page",
+      "text_raw": "Ema",
+      "bbox_px": [
+        763,
+        5577,
+        823,
+        5592
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0195",
+      "section_id": "remaining-page",
+      "text_raw": "Locating initialization logic for vehicle_state",
+      "bbox_px": [
+        86,
+        5605,
+        397,
+        5622
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0196",
+      "section_id": "remaining-page",
+      "text_raw": "® GitHub Copilot Agent",
+      "bbox_px": [
+        757,
+        5628,
+        948,
+        5650
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0197",
+      "section_id": "remaining-page",
+      "text_raw": "Thinking...",
+      "bbox_px": [
+        88,
+        5639,
+        182,
+        5658
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0198",
+      "section_id": "remaining-page",
+      "text_raw": "• Cursor",
+      "bbox_px": [
+        757,
+        5686,
+        841,
+        5708
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0199",
+      "section_id": "remaining-page",
+      "text_raw": "Agent",
+      "bbox_px": [
+        841,
+        5692,
+        888,
+        5705
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0200",
+      "section_id": "remaining-page",
+      "text_raw": "• Meg",
+      "bbox_px": [
+        752,
+        5741,
+        823,
+        5766
+      ],
+      "ocr_confidence": 0.5,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0201",
+      "section_id": "remaining-page",
+      "text_raw": "3.1",
+      "bbox_px": [
+        747,
+        5914,
+        773,
+        5932
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0202",
+      "section_id": "remaining-page",
+      "text_raw": "Issues",
+      "bbox_px": [
+        783,
+        5916,
+        833,
+        5933
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0203",
+      "section_id": "remaining-page",
+      "text_raw": "3.2 Agents",
+      "bbox_px": [
+        1107,
+        5916,
+        1197,
+        5935
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0204",
+      "section_id": "remaining-page",
+      "text_raw": "3.3",
+      "bbox_px": [
+        750,
+        5943,
+        776,
+        5959
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0205",
+      "section_id": "remaining-page",
+      "text_raw": "Linear MCP",
+      "bbox_px": [
+        784,
+        5943,
+        870,
+        5959
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0206",
+      "section_id": "remaining-page",
+      "text_raw": "3.4 Git automations",
+      "bbox_px": [
+        1107,
+        5943,
+        1257,
+        5961
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0207",
+      "section_id": "remaining-page",
+      "text_raw": "3.5 Cycles",
+      "bbox_px": [
+        750,
+        5971,
+        836,
+        5990
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0208",
+      "section_id": "remaining-page",
+      "text_raw": "Review PRs and",
+      "bbox_px": [
+        78,
+        6233,
+        407,
+        6272
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0209",
+      "section_id": "remaining-page",
+      "text_raw": "Understand code changes at a glance with",
+      "bbox_px": [
+        750,
+        6233,
+        1212,
+        6260
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0210",
+      "section_id": "remaining-page",
+      "text_raw": "structural diffs for human and agent output.",
+      "bbox_px": [
+        747,
+        6263,
+        1207,
+        6292
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0211",
+      "section_id": "remaining-page",
+      "text_raw": "agent output",
+      "bbox_px": [
+        75,
+        6279,
+        345,
+        6332
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0212",
+      "section_id": "remaining-page",
+      "text_raw": "Review, discuss, and merge - all within Linear.",
+      "bbox_px": [
+        750,
+        6299,
+        1246,
+        6325
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0213",
+      "section_id": "remaining-page",
+      "text_raw": "4.0 Reviews (Coming soon) →",
+      "bbox_px": [
+        750,
+        6374,
+        972,
+        6393
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0214",
+      "section_id": "remaining-page",
+      "text_raw": "U kinetic-ios/src/screens/Home/HomeScreen.tsx",
+      "bbox_px": [
+        81,
+        6526,
+        475,
+        6542
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0215",
+      "section_id": "remaining-page",
+      "text_raw": "kinetic-ios/src/screens/Home/HomeScreen.tsx",
+      "bbox_px": [
+        109,
+        6528,
+        475,
+        6541
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0216",
+      "section_id": "remaining-page",
+      "text_raw": "React fromireact'",
+      "bbox_px": [
+        169,
+        6604,
+        324,
+        6622
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0217",
+      "section_id": "remaining-page",
+      "text_raw": "import React fromreact'",
+      "bbox_px": [
+        773,
+        6606,
+        985,
+        6622
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0218",
+      "section_id": "remaining-page",
+      "text_raw": "import",
+      "bbox_px": [
+        112,
+        6609,
+        169,
+        6622
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0219",
+      "section_id": "remaining-page",
+      "text_raw": "01",
+      "bbox_px": [
+        742,
+        6609,
+        763,
+        6619
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0220",
+      "section_id": "remaining-page",
+      "text_raw": "import { View, ActivityIndicator } from 'react-native'",
+      "bbox_px": [
+        770,
+        6627,
+        1228,
+        6649
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0221",
+      "section_id": "remaining-page",
+      "text_raw": "{ View,",
+      "bbox_px": [
+        169,
+        6629,
+        230,
+        6647
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0222",
+      "section_id": "remaining-page",
+      "text_raw": "ActivityIndicator } from 'react-native'",
+      "bbox_px": [
+        235,
+        6630,
+        567,
+        6646
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0223",
+      "section_id": "remaining-page",
+      "text_raw": "02",
+      "bbox_px": [
+        81,
+        6632,
+        99,
+        6645
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0224",
+      "section_id": "remaining-page",
+      "text_raw": "import",
+      "bbox_px": [
+        112,
+        6632,
+        167,
+        6645
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0225",
+      "section_id": "remaining-page",
+      "text_raw": "useVehicleState } from '@hooks/useVehicleState'",
+      "bbox_px": [
+        185,
+        6651,
+        582,
+        6673
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0226",
+      "section_id": "remaining-page",
+      "text_raw": "import { useVehicleState, SyncStatus } from '@hooks/useVehicleState'",
+      "bbox_px": [
+        773,
+        6653,
+        1345,
+        6672
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0227",
+      "section_id": "remaining-page",
+      "text_raw": "03",
+      "bbox_px": [
+        81,
+        6656,
+        101,
+        6669
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0228",
+      "section_id": "remaining-page",
+      "text_raw": "import",
+      "bbox_px": [
+        112,
+        6656,
+        164,
+        6669
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0229",
+      "section_id": "remaining-page",
+      "text_raw": "03",
+      "bbox_px": [
+        742,
+        6656,
+        763,
+        6669
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0230",
+      "section_id": "remaining-page",
+      "text_raw": "{ Dashboard } from '@components/Dashboard'",
+      "bbox_px": [
+        828,
+        6676,
+        1186,
+        6695
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0231",
+      "section_id": "remaining-page",
+      "text_raw": "{ Dashboard } from",
+      "bbox_px": [
+        169,
+        6677,
+        329,
+        6693
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0232",
+      "section_id": "remaining-page",
+      "text_raw": "'@components/Dashboard'",
+      "bbox_px": [
+        326,
+        6677,
+        525,
+        6693
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0233",
+      "section_id": "remaining-page",
+      "text_raw": "04",
+      "bbox_px": [
+        81,
+        6679,
+        101,
+        6693
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0234",
+      "section_id": "remaining-page",
+      "text_raw": "import",
+      "bbox_px": [
+        112,
+        6679,
+        167,
+        6693
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0235",
+      "section_id": "remaining-page",
+      "text_raw": "import",
+      "bbox_px": [
+        773,
+        6679,
+        831,
+        6693
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0236",
+      "section_id": "remaining-page",
+      "text_raw": "05",
+      "bbox_px": [
+        81,
+        6703,
+        99,
+        6716
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0237",
+      "section_id": "remaining-page",
+      "text_raw": "05",
+      "bbox_px": [
+        742,
+        6703,
+        763,
+        6716
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0238",
+      "section_id": "remaining-page",
+      "text_raw": "export const HomeScreen =",
+      "bbox_px": [
+        109,
+        6724,
+        326,
+        6743
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0239",
+      "section_id": "remaining-page",
+      "text_raw": "export const HomeScreen = () => {",
+      "bbox_px": [
+        773,
+        6727,
+        1053,
+        6742
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0240",
+      "section_id": "remaining-page",
+      "text_raw": "06",
+      "bbox_px": [
+        81,
+        6729,
+        101,
+        6740
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0241",
+      "section_id": "remaining-page",
+      "text_raw": "• =>",
+      "bbox_px": [
+        329,
+        6729,
+        373,
+        6740
+      ],
+      "ocr_confidence": 0.30000001192092896,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0242",
+      "section_id": "remaining-page",
+      "text_raw": "const { vehicleState,",
+      "bbox_px": [
+        127,
+        6748,
+        313,
+        6769
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0243",
+      "section_id": "remaining-page",
+      "text_raw": "07",
+      "bbox_px": [
+        81,
+        6750,
+        99,
+        6763
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0244",
+      "section_id": "remaining-page",
+      "text_raw": "isFullySynced }",
+      "bbox_px": [
+        310,
+        6750,
+        441,
+        6766
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0245",
+      "section_id": "remaining-page",
+      "text_raw": "= useVehicleState()",
+      "bbox_px": [
+        444,
+        6750,
+        606,
+        6766
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0246",
+      "section_id": "remaining-page",
+      "text_raw": "07",
+      "bbox_px": [
+        742,
+        6750,
+        763,
+        6763
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0247",
+      "section_id": "remaining-page",
+      "text_raw": "const { vehicleState, syncStatus } = useVehiclestate()",
+      "bbox_px": [
+        789,
+        6750,
+        1243,
+        6771
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0248",
+      "section_id": "remaining-page",
+      "text_raw": "08",
+      "bbox_px": [
+        81,
+        6776,
+        101,
+        6789
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0249",
+      "section_id": "remaining-page",
+      "text_raw": "08",
+      "bbox_px": [
+        742,
+        6776,
+        763,
+        6789
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0250",
+      "section_id": "remaining-page",
+      "text_raw": "if (!isFullySynced) {",
+      "bbox_px": [
+        128,
+        6797,
+        308,
+        6816
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0251",
+      "section_id": "remaining-page",
+      "text_raw": "if (syncStatus === SyncStatus.PENDING) 1",
+      "bbox_px": [
+        789,
+        6797,
+        1129,
+        6816
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0252",
+      "section_id": "remaining-page",
+      "text_raw": "09",
+      "bbox_px": [
+        81,
+        6800,
+        101,
+        6813
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0253",
+      "section_id": "remaining-page",
+      "text_raw": "09",
+      "bbox_px": [
+        742,
+        6800,
+        763,
+        6813
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0254",
+      "section_id": "remaining-page",
+      "text_raw": "return ‹ActivityIndicator size=\"large\" />",
+      "bbox_px": [
+        143,
+        6820,
+        491,
+        6842
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0255",
+      "section_id": "remaining-page",
+      "text_raw": "return ‹ActivityIndicator size=\"large\" />",
+      "bbox_px": [
+        807,
+        6820,
+        1152,
+        6842
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0256",
+      "section_id": "remaining-page",
+      "text_raw": "10",
+      "bbox_px": [
+        81,
+        6823,
+        101,
+        6836
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0257",
+      "section_id": "remaining-page",
+      "text_raw": "10",
+      "bbox_px": [
+        742,
+        6823,
+        763,
+        6836
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0258",
+      "section_id": "remaining-page",
+      "text_raw": "return (",
+      "bbox_px": [
+        789,
+        6894,
+        862,
+        6910
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0259",
+      "section_id": "remaining-page",
+      "text_raw": "return (",
+      "bbox_px": [
+        128,
+        6897,
+        198,
+        6910
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0260",
+      "section_id": "remaining-page",
+      "text_raw": "13",
+      "bbox_px": [
+        742,
+        6897,
+        763,
+        6910
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0261",
+      "section_id": "remaining-page",
+      "text_raw": "<View>",
+      "bbox_px": [
+        143,
+        6920,
+        196,
+        6933
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0262",
+      "section_id": "remaining-page",
+      "text_raw": "14",
+      "bbox_px": [
+        742,
+        6920,
+        763,
+        6931
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0263",
+      "section_id": "remaining-page",
+      "text_raw": "<View>",
+      "bbox_px": [
+        807,
+        6920,
+        859,
+        6933
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0264",
+      "section_id": "remaining-page",
+      "text_raw": "‹Dashboard state={vehicleState} /›",
+      "bbox_px": [
+        162,
+        6944,
+        449,
+        6957
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0265",
+      "section_id": "remaining-page",
+      "text_raw": "15",
+      "bbox_px": [
+        747,
+        6944,
+        763,
+        6957
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0266",
+      "section_id": "remaining-page",
+      "text_raw": "‹Dashboard state={vehicleState} syncStatus={syncStatus} /≥",
+      "bbox_px": [
+        825,
+        6944,
+        1311,
+        6960
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0267",
+      "section_id": "remaining-page",
+      "text_raw": "</View>",
+      "bbox_px": [
+        146,
+        6967,
+        206,
+        6980
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0268",
+      "section_id": "remaining-page",
+      "text_raw": "</View>",
+      "bbox_px": [
+        807,
+        6967,
+        867,
+        6980
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0269",
+      "section_id": "remaining-page",
+      "text_raw": "Understand",
+      "bbox_px": [
+        78,
+        7315,
+        324,
+        7354
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0270",
+      "section_id": "remaining-page",
+      "text_raw": "Take the guesswork out of product development",
+      "bbox_px": [
+        747,
+        7315,
+        1264,
+        7341
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0271",
+      "section_id": "remaining-page",
+      "text_raw": "with project updates, analytics, and dashboards",
+      "bbox_px": [
+        747,
+        7346,
+        1254,
+        7377
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0272",
+      "section_id": "remaining-page",
+      "text_raw": "progress at scale",
+      "bbox_px": [
+        77,
+        7361,
+        429,
+        7414
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0273",
+      "section_id": "remaining-page",
+      "text_raw": "that surface what needs your attention.",
+      "bbox_px": [
+        747,
+        7380,
+        1165,
+        7407
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0274",
+      "section_id": "remaining-page",
+      "text_raw": "5.0 Monitor →",
+      "bbox_px": [
+        750,
+        7456,
+        862,
+        7472
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0275",
+      "section_id": "remaining-page",
+      "text_raw": "Cycle time by agent",
+      "bbox_px": [
+        750,
+        7632,
+        883,
+        7647
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0276",
+      "section_id": "remaining-page",
+      "text_raw": "Weekly Pulse for Feb 16",
+      "bbox_px": [
+        78,
+        7663,
+        274,
+        7682
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0277",
+      "section_id": "remaining-page",
+      "text_raw": "Listen",
+      "bbox_px": [
+        462,
+        7666,
+        501,
+        7676
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0278",
+      "section_id": "remaining-page",
+      "text_raw": "18",
+      "bbox_px": [
+        666,
+        7705,
+        682,
+        7718
+      ],
+      "ocr_confidence": 0.5,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0279",
+      "section_id": "remaining-page",
+      "text_raw": "Projects",
+      "bbox_px": [
+        78,
+        7721,
+        133,
+        7734
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0280",
+      "section_id": "remaining-page",
+      "text_raw": "Ul refresh",
+      "bbox_px": [
+        78,
+        7775,
+        151,
+        7789
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0281",
+      "section_id": "remaining-page",
+      "text_raw": "14",
+      "bbox_px": [
+        666,
+        7784,
+        682,
+        7799
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0282",
+      "section_id": "remaining-page",
+      "text_raw": "At risk",
+      "bbox_px": [
+        104,
+        7804,
+        143,
+        7818
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0283",
+      "section_id": "remaining-page",
+      "text_raw": "By romain • 1 day ago",
+      "bbox_px": [
+        151,
+        7804,
+        284,
+        7820
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0284",
+      "section_id": "remaining-page",
+      "text_raw": "¡OS implementation is mostly complete, but Android",
+      "bbox_px": [
+        96,
+        7836,
+        460,
+        7857
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0285",
+      "section_id": "remaining-page",
+      "text_raw": "updates are still work in progress",
+      "bbox_px": [
+        99,
+        7862,
+        331,
+        7878
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0286",
+      "section_id": "remaining-page",
+      "text_raw": "•Risk of timeline slip if remaining design decisions aren't",
+      "bbox_px": [
+        83,
+        7893,
+        486,
+        7912
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0287",
+      "section_id": "remaining-page",
+      "text_raw": "finalized soon",
+      "bbox_px": [
+        99,
+        7916,
+        201,
+        7933
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0288",
+      "section_id": "remaining-page",
+      "text_raw": "Tokyo launch",
+      "bbox_px": [
+        78,
+        7969,
+        177,
+        7985
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0289",
+      "section_id": "remaining-page",
+      "text_raw": "~ On track By julian • 3 hours ago",
+      "bbox_px": [
+        81,
+        8000,
+        303,
+        8016
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0290",
+      "section_id": "remaining-page",
+      "text_raw": "On track By julian • 3 hours ago",
+      "bbox_px": [
+        101,
+        8000,
+        303,
+        8017
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0291",
+      "section_id": "remaining-page",
+      "text_raw": "• Localization efforts have been completed",
+      "bbox_px": [
+        83,
+        8031,
+        389,
+        8050
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0292",
+      "section_id": "remaining-page",
+      "text_raw": "• Everything else on track for launch in early September",
+      "bbox_px": [
+        83,
+        8063,
+        478,
+        8082
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0293",
+      "section_id": "remaining-page",
+      "text_raw": "•Everything else on track for launch in early September",
+      "bbox_px": [
+        83,
+        8065,
+        480,
+        8084
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0294",
+      "section_id": "remaining-page",
+      "text_raw": "Codex",
+      "bbox_px": [
+        1047,
+        8097,
+        1087,
+        8111
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0295",
+      "section_id": "remaining-page",
+      "text_raw": "No Agent",
+      "bbox_px": [
+        1264,
+        8098,
+        1322,
+        8112
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0296",
+      "section_id": "remaining-page",
+      "text_raw": "Cursor",
+      "bbox_px": [
+        820,
+        8099,
+        862,
+        8109
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0297",
+      "section_id": "remaining-page",
+      "text_raw": "1002>",
+      "bbox_px": [
+        1045,
+        8102,
+        1084,
+        8107
+      ],
+      "ocr_confidence": 0.30000001192092896,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0298",
+      "section_id": "remaining-page",
+      "text_raw": "5.2 Insights",
+      "bbox_px": [
+        1107,
+        8210,
+        1202,
+        8231
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0299",
+      "section_id": "remaining-page",
+      "text_raw": "5.1",
+      "bbox_px": [
+        750,
+        8211,
+        776,
+        8227
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0300",
+      "section_id": "remaining-page",
+      "text_raw": "Pulse",
+      "bbox_px": [
+        784,
+        8214,
+        825,
+        8227
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0301",
+      "section_id": "remaining-page",
+      "text_raw": "5.3",
+      "bbox_px": [
+        750,
+        8240,
+        776,
+        8256
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0302",
+      "section_id": "remaining-page",
+      "text_raw": "Dashboards",
+      "bbox_px": [
+        778,
+        8240,
+        872,
+        8256
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0303",
+      "section_id": "remaining-page",
+      "text_raw": "Changelog",
+      "bbox_px": [
+        75,
+        8558,
+        303,
+        8606
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0304",
+      "section_id": "remaining-page",
+      "text_raw": "Customizable Linear Mobile navigation",
+      "bbox_px": [
+        1084,
+        8753,
+        1361,
+        8774
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0305",
+      "section_id": "remaining-page",
+      "text_raw": "Advanced filters and share issues in private teams",
+      "bbox_px": [
+        78,
+        8754,
+        433,
+        8775
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0306",
+      "section_id": "remaining-page",
+      "text_raw": "Linear MCP for product management",
+      "bbox_px": [
+        491,
+        8754,
+        755,
+        8776
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0307",
+      "section_id": "remaining-page",
+      "text_raw": "Time in status",
+      "bbox_px": [
+        814,
+        8755,
+        917,
+        8774
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0308",
+      "section_id": "remaining-page",
+      "text_raw": "Refine your searches, views, and dashboards with",
+      "bbox_px": [
+        78,
+        8787,
+        428,
+        8806
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0309",
+      "section_id": "remaining-page",
+      "text_raw": "We've expanded Linear's MCP",
+      "bbox_px": [
+        493,
+        8787,
+        708,
+        8806
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0310",
+      "section_id": "remaining-page",
+      "text_raw": "Time spent in individual",
+      "bbox_px": [
+        815,
+        8787,
+        982,
+        8807
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0311",
+      "section_id": "remaining-page",
+      "text_raw": "Now you can customize Linear Mobile",
+      "bbox_px": [
+        1084,
+        8787,
+        1353,
+        8808
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0312",
+      "section_id": "remaining-page",
+      "text_raw": "advanced filters. Combine multiple AND/OR...",
+      "bbox_px": [
+        78,
+        8810,
+        397,
+        8832
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0313",
+      "section_id": "remaining-page",
+      "text_raw": "server with support for initiatives,...",
+      "bbox_px": [
+        493,
+        8810,
+        736,
+        8829
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0314",
+      "section_id": "remaining-page",
+      "text_raw": "statuses is now tracked and...",
+      "bbox_px": [
+        815,
+        8813,
+        1024,
+        8829
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0315",
+      "section_id": "remaining-page",
+      "text_raw": "to fit your daily workflow.",
+      "bbox_px": [
+        1084,
+        8813,
+        1264,
+        8829
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0316",
+      "section_id": "remaining-page",
+      "text_raw": "FEB 12, 2026",
+      "bbox_px": [
+        78,
+        8852,
+        169,
+        8869
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0317",
+      "section_id": "remaining-page",
+      "text_raw": "FEB 4, 2026",
+      "bbox_px": [
+        493,
+        8852,
+        577,
+        8869
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0318",
+      "section_id": "remaining-page",
+      "text_raw": "JAN 28, 2026",
+      "bbox_px": [
+        815,
+        8852,
+        906,
+        8869
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0319",
+      "section_id": "remaining-page",
+      "text_raw": "JAN 21, 2026",
+      "bbox_px": [
+        1084,
+        8852,
+        1176,
+        8869
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0320",
+      "section_id": "remaining-page",
+      "text_raw": "See all releases →",
+      "bbox_px": [
+        75,
+        8954,
+        206,
+        8970
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0321",
+      "section_id": "remaining-page",
+      "text_raw": "\"Our speed is intense",
+      "bbox_px": [
+        958,
+        9168,
+        1249,
+        9212
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0322",
+      "section_id": "remaining-page",
+      "text_raw": "\"You just have to use it and",
+      "bbox_px": [
+        75,
+        9171,
+        436,
+        9208
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0323",
+      "section_id": "remaining-page",
+      "text_raw": "you will see, you will just",
+      "bbox_px": [
+        88,
+        9210,
+        410,
+        9245
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0324",
+      "section_id": "remaining-page",
+      "text_raw": "and Linear helps us be",
+      "bbox_px": [
+        977,
+        9211,
+        1275,
+        9243
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0325",
+      "section_id": "remaining-page",
+      "text_raw": "action biasedẠại",
+      "bbox_px": [
+        974,
+        9242,
+        1173,
+        9274
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0326",
+      "section_id": "remaining-page",
+      "text_raw": "feel itiẠạỊi",
+      "bbox_px": [
+        88,
+        9245,
+        182,
+        9274
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0327",
+      "section_id": "remaining-page",
+      "text_raw": "Gabriel Peal",
+      "bbox_px": [
+        159,
+        9561,
+        243,
+        9577
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0328",
+      "section_id": "remaining-page",
+      "text_raw": "Nik Koblov",
+      "bbox_px": [
+        1045,
+        9561,
+        1121,
+        9577
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0329",
+      "section_id": "remaining-page",
+      "text_raw": "OpenAl",
+      "bbox_px": [
+        159,
+        9582,
+        211,
+        9598
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0330",
+      "section_id": "remaining-page",
+      "text_raw": "Head of Engineering, Ramp",
+      "bbox_px": [
+        1045,
+        9582,
+        1225,
+        9601
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0331",
+      "section_id": "remaining-page",
+      "text_raw": "Linear powers over 20,000 product teams. From ambitious startups to major enterprises.",
+      "bbox_px": [
+        78,
+        9674,
+        692,
+        9695
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0332",
+      "section_id": "remaining-page",
+      "text_raw": "Customer stories →",
+      "bbox_px": [
+        1220,
+        9676,
+        1358,
+        9693
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0333",
+      "section_id": "remaining-page",
+      "text_raw": "Built for the future.",
+      "bbox_px": [
+        440,
+        9923,
+        1007,
+        9995
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0334",
+      "section_id": "remaining-page",
+      "text_raw": "Available today.",
+      "bbox_px": [
+        459,
+        9986,
+        964,
+        10074
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0335",
+      "section_id": "remaining-page",
+      "text_raw": "Open app",
+      "bbox_px": [
+        627,
+        10117,
+        697,
+        10133
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0336",
+      "section_id": "remaining-page",
+      "text_raw": "Download",
+      "bbox_px": [
+        740,
+        10118,
+        816,
+        10130
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0337",
+      "section_id": "remaining-page",
+      "text_raw": "Connect",
+      "bbox_px": [
+        1197,
+        10423,
+        1257,
+        10444
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0338",
+      "section_id": "remaining-page",
+      "text_raw": "Resources",
+      "bbox_px": [
+        971,
+        10425,
+        1044,
+        10444
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0339",
+      "section_id": "remaining-page",
+      "text_raw": "Company",
+      "bbox_px": [
+        748,
+        10426,
+        814,
+        10445
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0340",
+      "section_id": "remaining-page",
+      "text_raw": "Product",
+      "bbox_px": [
+        299,
+        10427,
+        355,
+        10442
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0341",
+      "section_id": "remaining-page",
+      "text_raw": "Features",
+      "bbox_px": [
+        523,
+        10427,
+        583,
+        10444
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0342",
+      "section_id": "remaining-page",
+      "text_raw": "Switch",
+      "bbox_px": [
+        973,
+        10473,
+        1019,
+        10492
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0343",
+      "section_id": "remaining-page",
+      "text_raw": "Contact us",
+      "bbox_px": [
+        1197,
+        10473,
+        1268,
+        10492
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0344",
+      "section_id": "remaining-page",
+      "text_raw": "Intake",
+      "bbox_px": [
+        299,
+        10475,
+        343,
+        10492
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0345",
+      "section_id": "remaining-page",
+      "text_raw": "Asks",
+      "bbox_px": [
+        523,
+        10475,
+        560,
+        10492
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0346",
+      "section_id": "remaining-page",
+      "text_raw": "About",
+      "bbox_px": [
+        749,
+        10475,
+        791,
+        10492
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0347",
+      "section_id": "remaining-page",
+      "text_raw": "Plan",
+      "bbox_px": [
+        299,
+        10504,
+        332,
+        10521
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0348",
+      "section_id": "remaining-page",
+      "text_raw": "Customers",
+      "bbox_px": [
+        749,
+        10504,
+        820,
+        10521
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0349",
+      "section_id": "remaining-page",
+      "text_raw": "Download",
+      "bbox_px": [
+        971,
+        10504,
+        1040,
+        10521
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0350",
+      "section_id": "remaining-page",
+      "text_raw": "Community",
+      "bbox_px": [
+        1197,
+        10504,
+        1272,
+        10524
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0351",
+      "section_id": "remaining-page",
+      "text_raw": "Agents",
+      "bbox_px": [
+        525,
+        10506,
+        573,
+        10524
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0352",
+      "section_id": "remaining-page",
+      "text_raw": "Documentation",
+      "bbox_px": [
+        971,
+        10533,
+        1071,
+        10553
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0353",
+      "section_id": "remaining-page",
+      "text_raw": "Build",
+      "bbox_px": [
+        299,
+        10534,
+        336,
+        10550
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0354",
+      "section_id": "remaining-page",
+      "text_raw": "Customer Requests",
+      "bbox_px": [
+        525,
+        10534,
+        648,
+        10553
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0355",
+      "section_id": "remaining-page",
+      "text_raw": "Careers",
+      "bbox_px": [
+        749,
+        10534,
+        801,
+        10552
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0356",
+      "section_id": "remaining-page",
+      "text_raw": "X (Twitter)",
+      "bbox_px": [
+        1195,
+        10534,
+        1266,
+        10553
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0357",
+      "section_id": "remaining-page",
+      "text_raw": "Reviews",
+      "bbox_px": [
+        299,
+        10561,
+        355,
+        10582
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0358",
+      "section_id": "remaining-page",
+      "text_raw": "Insights",
+      "bbox_px": [
+        523,
+        10563,
+        577,
+        10582
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0359",
+      "section_id": "remaining-page",
+      "text_raw": "Blog",
+      "bbox_px": [
+        749,
+        10563,
+        780,
+        10584
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0360",
+      "section_id": "remaining-page",
+      "text_raw": "Developers",
+      "bbox_px": [
+        973,
+        10563,
+        1046,
+        10582
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0361",
+      "section_id": "remaining-page",
+      "text_raw": "GitHub",
+      "bbox_px": [
+        1197,
+        10563,
+        1245,
+        10582
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0362",
+      "section_id": "remaining-page",
+      "text_raw": "Mobile",
+      "bbox_px": [
+        525,
+        10592,
+        573,
+        10611
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0363",
+      "section_id": "remaining-page",
+      "text_raw": "YouTube",
+      "bbox_px": [
+        1195,
+        10592,
+        1255,
+        10611
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0364",
+      "section_id": "remaining-page",
+      "text_raw": "Monitor",
+      "bbox_px": [
+        299,
+        10594,
+        353,
+        10611
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0365",
+      "section_id": "remaining-page",
+      "text_raw": "Method",
+      "bbox_px": [
+        747,
+        10594,
+        801,
+        10611
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0366",
+      "section_id": "remaining-page",
+      "text_raw": "Status",
+      "bbox_px": [
+        973,
+        10594,
+        1017,
+        10611
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0367",
+      "section_id": "remaining-page",
+      "text_raw": "Quality",
+      "bbox_px": [
+        747,
+        10621,
+        798,
+        10646
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0368",
+      "section_id": "remaining-page",
+      "text_raw": "Integrations",
+      "bbox_px": [
+        523,
+        10623,
+        602,
+        10643
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0369",
+      "section_id": "remaining-page",
+      "text_raw": "Enterprise",
+      "bbox_px": [
+        973,
+        10623,
+        1040,
+        10643
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0370",
+      "section_id": "remaining-page",
+      "text_raw": "Pricing",
+      "bbox_px": [
+        301,
+        10625,
+        347,
+        10643
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0371",
+      "section_id": "remaining-page",
+      "text_raw": "Brand",
+      "bbox_px": [
+        749,
+        10653,
+        791,
+        10672
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0372",
+      "section_id": "remaining-page",
+      "text_raw": "Startups",
+      "bbox_px": [
+        973,
+        10653,
+        1029,
+        10674
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0373",
+      "section_id": "remaining-page",
+      "text_raw": "Security",
+      "bbox_px": [
+        301,
+        10655,
+        355,
+        10672
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0374",
+      "section_id": "remaining-page",
+      "text_raw": "Changelog",
+      "bbox_px": [
+        525,
+        10655,
+        596,
+        10674
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0375",
+      "section_id": "remaining-page",
+      "text_raw": "Privacy Terms DPA",
+      "bbox_px": [
+        303,
+        10757,
+        454,
+        10774
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    }
+  ]
+}

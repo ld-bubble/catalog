@@ -1,0 +1,76 @@
+✨ Looking for app inspiration? Check out SaaS Interface ✨
+Inspiration
+App Inspiration
+Templates
+Advertise
+Visit Website
+Patreon
+
+Patreon is a membership platform that makes it easy for artists and creators to get paid online. It operates as a marketplace allowing creatives to fund their work via one-off payments or subscriptions.
+
+Fonts
+Aktiv Grotesk, GTWalsheim
+Palette
+000000
+84b5ff
+Stacks
+GSAP, Next.js, React
+Tags
+Marketplace
+Categories
+Landing page
+Date
+March 2026
+Sponsored
+Inspiration
+Landing pages
+Pricing pages
+About Us pages
+Features pages
+Blog pages
+Testimonials pages
+FAQ pages
+Contact Us pages
+Templates
+Framer
+Webflow
+React
+HTML
+Next.js
+Tailwind CSS
+Vue
+View all
+Resources
+Blog
+Resources & Tools
+Popular stacks
+React
+Next.js
+Tailwind CSS
+Webflow
+GSAP
+Framer
+WordPress
+View all
+Popular tags
+Productivity
+AI
+Code Tool
+Finance
+Design Tool
+B2B
+FinTech
+View all
+Popular fonts
+Inter
+Graphik
+Geist Sans
+Suisse Int'l
+Roobert
+Geist Mono
+Tiempos Headline
+View all
+Advertise on SLP
+ Privacy Policy
+Day / Night toggle
+A project by Davide Pacilio.

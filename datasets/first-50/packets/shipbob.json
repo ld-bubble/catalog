@@ -1,0 +1,140 @@
+{
+  "id": "shipbob",
+  "name": "ShipBob",
+  "annotation_status": "pilot_partial",
+  "facets": {
+    "industry": "Commerce and logistics",
+    "audience": "Ecommerce businesses",
+    "conversion_goal": "get-quote",
+    "style": "testimonial-led",
+    "color_family": "blue",
+    "hero_layout": "split"
+  },
+  "observed_composition": "A left-aligned benefit headline and three bullets face a customer portrait with a testimonial card, followed by a logo strip.",
+  "copy_examples": [
+    {
+      "id": "copy-01",
+      "section_id": "top-window",
+      "role": "headline",
+      "text_verbatim": "Chaos-proof your fulfillment with ShipBob",
+      "visible_lines": [],
+      "evidence_ids": [
+        "hero-window",
+        "full"
+      ],
+      "reading_order": 0,
+      "transcription_status": "visually_verified",
+      "uncertainties": [
+        "Visual line wrapping is not transcribed; use the screenshot.",
+        "Reading order is grouped editorially by copy role, not a DOM reading-order measurement."
+      ]
+    },
+    {
+      "id": "copy-02",
+      "section_id": "top-window",
+      "role": "supporting_copy",
+      "text_verbatim": "Best-in-class fulfillment to add stability, protecting you from the never-ending changes across tariffs, de minimis values, and carrier surcharges.",
+      "visible_lines": [],
+      "evidence_ids": [
+        "hero-window",
+        "full"
+      ],
+      "reading_order": 1,
+      "transcription_status": "visually_verified",
+      "uncertainties": [
+        "Visual line wrapping is not transcribed; use the screenshot.",
+        "Reading order is grouped editorially by copy role, not a DOM reading-order measurement."
+      ]
+    },
+    {
+      "id": "copy-03",
+      "section_id": "top-window",
+      "role": "supporting_copy",
+      "text_verbatim": "Drive more revenue with fast delivery promises, beautiful unboxing experiences, and scalable omnichannel and global capabilities.",
+      "visible_lines": [],
+      "evidence_ids": [
+        "hero-window",
+        "full"
+      ],
+      "reading_order": 2,
+      "transcription_status": "visually_verified",
+      "uncertainties": [
+        "Visual line wrapping is not transcribed; use the screenshot.",
+        "Reading order is grouped editorially by copy role, not a DOM reading-order measurement."
+      ]
+    },
+    {
+      "id": "copy-04",
+      "section_id": "top-window",
+      "role": "supporting_copy",
+      "text_verbatim": "Save money by tapping into the scale of ShipBob, and having us distribute your inventory across our network to reduce costs and speeds.",
+      "visible_lines": [],
+      "evidence_ids": [
+        "hero-window",
+        "full"
+      ],
+      "reading_order": 3,
+      "transcription_status": "visually_verified",
+      "uncertainties": [
+        "Visual line wrapping is not transcribed; use the screenshot.",
+        "Reading order is grouped editorially by copy role, not a DOM reading-order measurement."
+      ]
+    },
+    {
+      "id": "copy-05",
+      "section_id": "top-window",
+      "role": "cta",
+      "text_verbatim": "Get A Quote",
+      "visible_lines": [],
+      "evidence_ids": [
+        "hero-window",
+        "full"
+      ],
+      "reading_order": 4,
+      "transcription_status": "visually_verified",
+      "uncertainties": [
+        "Visual line wrapping is not transcribed; use the screenshot.",
+        "Reading order is grouped editorially by copy role, not a DOM reading-order measurement."
+      ]
+    }
+  ],
+  "evidence_images": [
+    {
+      "id": "full",
+      "path": "screenshots/shipbob.png",
+      "sha256": "bd82e9bcbe59da5e722d4b21c7f4b3a32cd5bedad01c507cd0396f69647b41ea",
+      "width": 1440,
+      "height": 10107,
+      "role": "source",
+      "parent_id": null,
+      "bbox_px": null
+    },
+    {
+      "id": "hero-window",
+      "path": "crops/shipbob-hero.png",
+      "sha256": "70f8e8037fe6047d3e946f210e9d5c56ce0c7adc2b536f6e643abfea051f97ad",
+      "width": 1440,
+      "height": 1000,
+      "role": "crop",
+      "parent_id": "full",
+      "bbox_px": [
+        0,
+        0,
+        1440,
+        1000
+      ]
+    }
+  ],
+  "expand": {
+    "record": "records/shipbob.json",
+    "full_page_ocr": "ocr/shipbob.json"
+  },
+  "limitations": [
+    "No conversion-performance data; conversion_goal describes an intended visible action.",
+    "No verified mobile layout, animation, interaction, DOM, source code, font names, or CSS spacing values.",
+    "Screenshot capture date is unknown; gallery savedAt is the download date.",
+    "Full-page semantic section boundaries and body copy classification remain unreviewed.",
+    "The first 1000 pixels are an evidence window, not a browser viewport or exact hero boundary.",
+    "Copy text omits decorative icons; text punctuation is transcribed as visible, but font-specific glyph identity is not established."
+  ]
+}

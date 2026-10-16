@@ -1,0 +1,106 @@
+{
+  "id": "deel",
+  "name": "Deel",
+  "annotation_status": "pilot_partial",
+  "facets": {
+    "industry": "HR and employment",
+    "audience": "Global employers",
+    "conversion_goal": "book-demo",
+    "style": "photography-led",
+    "color_family": "black",
+    "hero_layout": "split"
+  },
+  "observed_composition": "A black copy panel with task-selection cards is paired with a large celebrity campaign photograph.",
+  "copy_examples": [
+    {
+      "id": "copy-01",
+      "section_id": "top-window",
+      "role": "headline",
+      "text_verbatim": "Hire, manage, pay, & equip anyone, anywhere.",
+      "visible_lines": [],
+      "evidence_ids": [
+        "hero-window",
+        "full"
+      ],
+      "reading_order": 0,
+      "transcription_status": "visually_verified",
+      "uncertainties": [
+        "Visual line wrapping is not transcribed; use the screenshot.",
+        "Reading order is grouped editorially by copy role, not a DOM reading-order measurement."
+      ]
+    },
+    {
+      "id": "copy-02",
+      "section_id": "top-window",
+      "role": "other",
+      "text_verbatim": "What would you like to do with Deel?",
+      "visible_lines": [],
+      "evidence_ids": [
+        "hero-window",
+        "full"
+      ],
+      "reading_order": 1,
+      "transcription_status": "visually_verified",
+      "uncertainties": [
+        "Visual line wrapping is not transcribed; use the screenshot.",
+        "Reading order is grouped editorially by copy role, not a DOM reading-order measurement."
+      ]
+    },
+    {
+      "id": "copy-03",
+      "section_id": "top-window",
+      "role": "cta",
+      "text_verbatim": "Book a demo",
+      "visible_lines": [],
+      "evidence_ids": [
+        "hero-window",
+        "full"
+      ],
+      "reading_order": 2,
+      "transcription_status": "visually_verified",
+      "uncertainties": [
+        "Visual line wrapping is not transcribed; use the screenshot.",
+        "Reading order is grouped editorially by copy role, not a DOM reading-order measurement."
+      ]
+    }
+  ],
+  "evidence_images": [
+    {
+      "id": "full",
+      "path": "screenshots/deel.png",
+      "sha256": "3804e687b38fd81cbf4c59e7ac62cfa6e9a23084f92030f9e5ada360bd78816f",
+      "width": 1440,
+      "height": 8528,
+      "role": "source",
+      "parent_id": null,
+      "bbox_px": null
+    },
+    {
+      "id": "hero-window",
+      "path": "crops/deel-hero.png",
+      "sha256": "bd678fb214661a04cf0ba2ea42a9d16f68ba17430c51f9b48ad708877646c84a",
+      "width": 1440,
+      "height": 1000,
+      "role": "crop",
+      "parent_id": "full",
+      "bbox_px": [
+        0,
+        0,
+        1440,
+        1000
+      ]
+    }
+  ],
+  "expand": {
+    "record": "records/deel.json",
+    "full_page_ocr": "ocr/deel.json"
+  },
+  "limitations": [
+    "No conversion-performance data; conversion_goal describes an intended visible action.",
+    "No verified mobile layout, animation, interaction, DOM, source code, font names, or CSS spacing values.",
+    "Screenshot capture date is unknown; gallery savedAt is the download date.",
+    "Full-page semantic section boundaries and body copy classification remain unreviewed.",
+    "The first 1000 pixels are an evidence window, not a browser viewport or exact hero boundary.",
+    "Copy text omits decorative icons; text punctuation is transcribed as visible, but font-specific glyph identity is not established."
+  ]
+}

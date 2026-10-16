@@ -1,0 +1,89 @@
+{
+  "id": "infermedica",
+  "name": "Infermedica",
+  "annotation_status": "pilot_partial",
+  "facets": {
+    "industry": "Healthcare",
+    "audience": "Healthcare organizations",
+    "conversion_goal": "book-meeting",
+    "style": "photography-and-interface",
+    "color_family": "purple",
+    "hero_layout": "centered"
+  },
+  "observed_composition": "A centered text-led hero highlights the product phrase in purple, above a patient photograph with symptom-interface overlays.",
+  "copy_examples": [
+    {
+      "id": "copy-01",
+      "section_id": "top-window",
+      "role": "headline",
+      "text_verbatim": "Provide the most accurate and efficient care with Infermedica's symptom checker and virtual triage",
+      "visible_lines": [],
+      "evidence_ids": [
+        "hero-window",
+        "full"
+      ],
+      "reading_order": 0,
+      "transcription_status": "visually_verified",
+      "uncertainties": [
+        "Visual line wrapping is not transcribed; use the screenshot.",
+        "Reading order is grouped editorially by copy role, not a DOM reading-order measurement."
+      ]
+    },
+    {
+      "id": "copy-02",
+      "section_id": "top-window",
+      "role": "cta",
+      "text_verbatim": "Schedule a meeting",
+      "visible_lines": [],
+      "evidence_ids": [
+        "hero-window",
+        "full"
+      ],
+      "reading_order": 1,
+      "transcription_status": "visually_verified",
+      "uncertainties": [
+        "Visual line wrapping is not transcribed; use the screenshot.",
+        "Reading order is grouped editorially by copy role, not a DOM reading-order measurement."
+      ]
+    }
+  ],
+  "evidence_images": [
+    {
+      "id": "full",
+      "path": "screenshots/infermedica.png",
+      "sha256": "8e6522ddfc777e88f79020b6e92390e2d86380fb2f2c63bdade4eef46303da65",
+      "width": 1440,
+      "height": 12247,
+      "role": "source",
+      "parent_id": null,
+      "bbox_px": null
+    },
+    {
+      "id": "hero-window",
+      "path": "crops/infermedica-hero.png",
+      "sha256": "7954b220d7d194c83c26d604468b445218e3be7a41bb3f1e847af3e43b6f0365",
+      "width": 1440,
+      "height": 1000,
+      "role": "crop",
+      "parent_id": "full",
+      "bbox_px": [
+        0,
+        0,
+        1440,
+        1000
+      ]
+    }
+  ],
+  "expand": {
+    "record": "records/infermedica.json",
+    "full_page_ocr": "ocr/infermedica.json"
+  },
+  "limitations": [
+    "No conversion-performance data; conversion_goal describes an intended visible action.",
+    "No verified mobile layout, animation, interaction, DOM, source code, font names, or CSS spacing values.",
+    "Screenshot capture date is unknown; gallery savedAt is the download date.",
+    "Full-page semantic section boundaries and body copy classification remain unreviewed.",
+    "The first 1000 pixels are an evidence window, not a browser viewport or exact hero boundary.",
+    "Copy text omits decorative icons; text punctuation is transcribed as visible, but font-specific glyph identity is not established."
+  ]
+}

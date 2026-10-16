@@ -1,0 +1,4389 @@
+[
+  {
+    "height": 10001,
+    "lines": [
+      {
+        "bbox_px": [
+          39,
+          41,
+          514,
+          65
+        ],
+        "confidence": 1,
+        "text": "ahrefs Tools v Our data Resources v Pricing"
+      },
+      {
+        "bbox_px": [
+          520,
+          47,
+          629,
+          62
+        ],
+        "confidence": 1,
+        "text": "Enterprise"
+      },
+      {
+        "bbox_px": [
+          1215,
+          43,
+          1275,
+          62
+        ],
+        "confidence": 1,
+        "text": "Sign in"
+      },
+      {
+        "bbox_px": [
+          1314,
+          43,
+          1380,
+          63
+        ],
+        "confidence": 1,
+        "text": "Sign up"
+      },
+      {
+        "bbox_px": [
+          182,
+          147,
+          948,
+          229
+        ],
+        "confidence": 1,
+        "text": "Everything you need"
+      },
+      {
+        "bbox_px": [
+          171,
+          229,
+          848,
+          317
+        ],
+        "confidence": 1,
+        "text": "to * rank higher"
+      },
+      {
+        "bbox_px": [
+          162,
+          295,
+          885,
+          403
+        ],
+        "confidence": 1,
+        "text": "& get more traffic"
+      },
+      {
+        "bbox_px": [
+          533,
+          452,
+          734,
+          471
+        ],
+        "confidence": 1,
+        "text": "Or get a free * Ahrefs"
+      },
+      {
+        "bbox_px": [
+          209,
+          463,
+          465,
+          492
+        ],
+        "confidence": 1,
+        "text": "Sign up for Ahrefs"
+      },
+      {
+        "bbox_px": [
+          533,
+          476,
+          776,
+          494
+        ],
+        "confidence": 1,
+        "text": "Webmaster Tools account →"
+      },
+      {
+        "bbox_px": [
+          959,
+          452,
+          1186,
+          471
+        ],
+        "confidence": 1,
+        "text": "15,789 users joined Ahrefs"
+      },
+      {
+        "bbox_px": [
+          959,
+          476,
+          1108,
+          494
+        ],
+        "confidence": 1,
+        "text": "in the last 7 days"
+      },
+      {
+        "bbox_px": [
+          177,
+          708,
+          731,
+          727
+        ],
+        "confidence": 1,
+        "text": "Ahrefs is used by marketers from the world's leading companies."
+      },
+      {
+        "bbox_px": [
+          180,
+          931,
+          556,
+          993
+        ],
+        "confidence": 1,
+        "text": "All-in-one"
+      },
+      {
+        "bbox_px": [
+          171,
+          1008,
+          788,
+          1098
+        ],
+        "confidence": 1,
+        "text": "SEO too set ‹›"
+      },
+      {
+        "bbox_px": [
+          174,
+          1153,
+          384,
+          1188
+        ],
+        "confidence": 1,
+        "text": "1 Analyze your"
+      },
+      {
+        "bbox_px": [
+          211,
+          1188,
+          389,
+          1219
+        ],
+        "confidence": 1,
+        "text": "competitors."
+      },
+      {
+        "bbox_px": [
+          208,
+          1226,
+          423,
+          1258
+        ],
+        "confidence": 1,
+        "text": "Site Explorer →"
+      },
+      {
+        "bbox_px": [
+          209,
+          1320,
+          441,
+          1344
+        ],
+        "confidence": 1,
+        "text": "Discover content"
+      },
+      {
+        "bbox_px": [
+          206,
+          1352,
+          402,
+          1379
+        ],
+        "confidence": 1,
+        "text": "ideas and link"
+      },
+      {
+        "bbox_px": [
+          211,
+          1386,
+          407,
+          1418
+        ],
+        "confidence": 1,
+        "text": "opportunities."
+      },
+      {
+        "bbox_px": [
+          211,
+          1425,
+          480,
+          1454
+        ],
+        "confidence": 1,
+        "text": "Content Explorer →"
+      },
+      {
+        "bbox_px": [
+          533,
+          1156,
+          791,
+          1183
+        ],
+        "confidence": 1,
+        "text": "2 Audit & optimize"
+      },
+      {
+        "bbox_px": [
+          564,
+          1189,
+          750,
+          1219
+        ],
+        "confidence": 1,
+        "text": "your website."
+      },
+      {
+        "bbox_px": [
+          564,
+          1227,
+          734,
+          1253
+        ],
+        "confidence": 1,
+        "text": "Site Audit →"
+      },
+      {
+        "bbox_px": [
+          535,
+          1317,
+          821,
+          1350
+        ],
+        "confidence": 1,
+        "text": "5 Track your ranking"
+      },
+      {
+        "bbox_px": [
+          566,
+          1356,
+          698,
+          1385
+        ],
+        "confidence": 1,
+        "text": "progress."
+      },
+      {
+        "bbox_px": [
+          567,
+          1391,
+          778,
+          1418
+        ],
+        "confidence": 1,
+        "text": "Rank Tracker →"
+      },
+      {
+        "bbox_px": [
+          888,
+          1156,
+          1186,
+          1185
+        ],
+        "confidence": 1,
+        "text": "3 Find keywords your"
+      },
+      {
+        "bbox_px": [
+          922,
+          1192,
+          1118,
+          1216
+        ],
+        "confidence": 1,
+        "text": "customers are"
+      },
+      {
+        "bbox_px": [
+          919,
+          1223,
+          1113,
+          1253
+        ],
+        "confidence": 1,
+        "text": "searching for."
+      },
+      {
+        "bbox_px": [
+          922,
+          1260,
+          1215,
+          1289
+        ],
+        "confidence": 1,
+        "text": "Keywords Explorer →"
+      },
+      {
+        "bbox_px": [
+          904,
+          1459,
+          959,
+          1473
+        ],
+        "confidence": 1,
+        "text": "Site Audit"
+      },
+      {
+        "bbox_px": [
+          193,
+          1530,
+          258,
+          1546
+        ],
+        "confidence": 1,
+        "text": "ahrers"
+      },
+      {
+        "bbox_px": [
+          271,
+          1533,
+          339,
+          1546
+        ],
+        "confidence": 1,
+        "text": "Dashboard"
+      },
+      {
+        "bbox_px": [
+          339,
+          1530,
+          784,
+          1546
+        ],
+        "confidence": 1,
+        "text": "Site Explorer Keywords Explorer Site Audit Rank Tracker Content Explorer"
+      },
+      {
+        "bbox_px": [
+          786,
+          1532,
+          831,
+          1546
+        ],
+        "confidence": 1,
+        "text": "More •"
+      },
+      {
+        "bbox_px": [
+          201,
+          1569,
+          282,
+          1583
+        ],
+        "confidence": 1,
+        "text": "http + https •"
+      },
+      {
+        "bbox_px": [
+          297,
+          1569,
+          389,
+          1580
+        ],
+        "confidence": 1,
+        "text": "wordcount.com/"
+      },
+      {
+        "bbox_px": [
+          203,
+          1629,
+          297,
+          1643
+        ],
+        "confidence": 1,
+        "text": "Backlink profile"
+      },
+      {
+        "bbox_px": [
+          253,
+          1653,
+          284,
+          1666
+        ],
+        "confidence": 1,
+        "text": "DRI"
+      },
+      {
+        "bbox_px": [
+          256,
+          1677,
+          305,
+          1695
+        ],
+        "confidence": 1,
+        "text": "47 +1"
+      },
+      {
+        "bbox_px": [
+          203,
+          1703,
+          313,
+          1716
+        ],
+        "confidence": 1,
+        "text": "AR 961,048 4 21,275"
+      },
+      {
+        "bbox_px": [
+          214,
+          1760,
+          258,
+          1773
+        ],
+        "confidence": 1,
+        "text": "Metrics"
+      },
+      {
+        "bbox_px": [
+          368,
+          1652,
+          397,
+          1666
+        ],
+        "confidence": 1,
+        "text": "UR I"
+      },
+      {
+        "bbox_px": [
+          368,
+          1677,
+          397,
+          1697
+        ],
+        "confidence": 1,
+        "text": "22"
+      },
+      {
+        "bbox_px": [
+          433,
+          1653,
+          496,
+          1666
+        ],
+        "confidence": 1,
+        "text": "Backlinks i"
+      },
+      {
+        "bbox_px": [
+          433,
+          1673,
+          509,
+          1700
+        ],
+        "confidence": 1,
+        "text": "3.9K -30"
+      },
+      {
+        "bbox_px": [
+          433,
+          1703,
+          501,
+          1716
+        ],
+        "confidence": 1,
+        "text": "All time 27K"
+      },
+      {
+        "bbox_px": [
+          525,
+          1652,
+          606,
+          1666
+        ],
+        "confidence": 1,
+        "text": "Ref. domains i"
+      },
+      {
+        "bbox_px": [
+          525,
+          1674,
+          569,
+          1697
+        ],
+        "confidence": 1,
+        "text": "338"
+      },
+      {
+        "bbox_px": [
+          567,
+          1682,
+          593,
+          1695
+        ],
+        "confidence": 1,
+        "text": "-47"
+      },
+      {
+        "bbox_px": [
+          527,
+          1702,
+          595,
+          1719
+        ],
+        "confidence": 1,
+        "text": "All time 1.3K"
+      },
+      {
+        "bbox_px": [
+          640,
+          1629,
+          731,
+          1643
+        ],
+        "confidence": 1,
+        "text": "Organic search"
+      },
+      {
+        "bbox_px": [
+          637,
+          1653,
+          703,
+          1669
+        ],
+        "confidence": 1,
+        "text": "Keywords"
+      },
+      {
+        "bbox_px": [
+          640,
+          1676,
+          713,
+          1697
+        ],
+        "confidence": 1,
+        "text": "1.1K +12"
+      },
+      {
+        "bbox_px": [
+          640,
+          1702,
+          695,
+          1718
+        ],
+        "confidence": 1,
+        "text": "Тоp 3 255"
+      },
+      {
+        "bbox_px": [
+          729,
+          1653,
+          773,
+          1666
+        ],
+        "confidence": 1,
+        "text": "Traffic"
+      },
+      {
+        "bbox_px": [
+          729,
+          1677,
+          818,
+          1695
+        ],
+        "confidence": 1,
+        "text": "100K -517"
+      },
+      {
+        "bbox_px": [
+          728,
+          1700,
+          831,
+          1719
+        ],
+        "confidence": 1,
+        "text": "Value $121K +1.3K"
+      },
+      {
+        "bbox_px": [
+          271,
+          1760,
+          355,
+          1773
+        ],
+        "confidence": 1,
+        "text": "Competitors •"
+      },
+      {
+        "bbox_px": [
+          371,
+          1760,
+          441,
+          1773
+        ],
+        "confidence": 1,
+        "text": "Countries •"
+      },
+      {
+        "bbox_px": [
+          452,
+          1760,
+          488,
+          1773
+        ],
+        "confidence": 1,
+        "text": "Years"
+      },
+      {
+        "bbox_px": [
+          635,
+          1758,
+          723,
+          1771
+        ],
+        "confidence": 1,
+        "text": "AM 1V 0V"
+      },
+      {
+        "bbox_px": [
+          1068,
+          1525,
+          1089,
+          1540
+        ],
+        "confidence": 1,
+        "text": "99"
+      },
+      {
+        "bbox_px": [
+          823,
+          1566,
+          891,
+          1582
+        ],
+        "confidence": 1,
+        "text": "* Settings"
+      },
+      {
+        "bbox_px": [
+          851,
+          1626,
+          922,
+          1644
+        ],
+        "confidence": 1,
+        "text": "Paid search"
+      },
+      {
+        "bbox_px": [
+          851,
+          1653,
+          917,
+          1669
+        ],
+        "confidence": 1,
+        "text": "Keywords"
+      },
+      {
+        "bbox_px": [
+          851,
+          1703,
+          888,
+          1716
+        ],
+        "confidence": 1,
+        "text": "Ads 0"
+      },
+      {
+        "bbox_px": [
+          940,
+          1653,
+          966,
+          1666
+        ],
+        "confidence": 1,
+        "text": "Traf"
+      },
+      {
+        "bbox_px": [
+          943,
+          1677,
+          956,
+          1692
+        ],
+        "confidence": 1,
+        "text": "O"
+      },
+      {
+        "bbox_px": [
+          911,
+          1760,
+          967,
+          1774
+        ],
+        "confidence": 1,
+        "text": "Traffic by"
+      },
+      {
+        "bbox_px": [
+          977,
+          1585,
+          1042,
+          1599
+        ],
+        "confidence": 1,
+        "text": "Kepword Dmfoulty o"
+      },
+      {
+        "bbox_px": [
+          1008,
+          1640,
+          1040,
+          1661
+        ],
+        "confidence": 1,
+        "text": "84"
+      },
+      {
+        "bbox_px": [
+          1210,
+          1590,
+          1267,
+          1596
+        ],
+        "confidence": 1,
+        "text": "Irome Fotenoa e"
+      },
+      {
+        "bbox_px": [
+          1210,
+          1601,
+          1238,
+          1611
+        ],
+        "confidence": 1,
+        "text": "4.0K"
+      },
+      {
+        "bbox_px": [
+          1092,
+          1601,
+          1123,
+          1611
+        ],
+        "confidence": 1,
+        "text": "4.9K"
+      },
+      {
+        "bbox_px": [
+          1094,
+          1620,
+          1192,
+          1643
+        ],
+        "confidence": 0.30000001192092896,
+        "text": "wanener"
+      },
+      {
+        "bbox_px": [
+          1092,
+          1600,
+          1123,
+          1613
+        ],
+        "confidence": 1,
+        "text": "4.9K"
+      },
+      {
+        "bbox_px": [
+          203,
+          1628,
+          297,
+          1641
+        ],
+        "confidence": 1,
+        "text": "Backlink profile"
+      },
+      {
+        "bbox_px": [
+          256,
+          1652,
+          284,
+          1665
+        ],
+        "confidence": 0.5,
+        "text": "DRi"
+      },
+      {
+        "bbox_px": [
+          252,
+          1673,
+          307,
+          1700
+        ],
+        "confidence": 1,
+        "text": "47 +1"
+      },
+      {
+        "bbox_px": [
+          203,
+          1704,
+          313,
+          1717
+        ],
+        "confidence": 1,
+        "text": "AR 961,048 4 21,275"
+      },
+      {
+        "bbox_px": [
+          271,
+          1759,
+          358,
+          1772
+        ],
+        "confidence": 1,
+        "text": "Competitors •"
+      },
+      {
+        "bbox_px": [
+          203,
+          1804,
+          279,
+          1817
+        ],
+        "confidence": 1,
+        "text": "Performance"
+      },
+      {
+        "bbox_px": [
+          368,
+          1652,
+          397,
+          1665
+        ],
+        "confidence": 1,
+        "text": "UR i"
+      },
+      {
+        "bbox_px": [
+          368,
+          1675,
+          399,
+          1696
+        ],
+        "confidence": 1,
+        "text": "22"
+      },
+      {
+        "bbox_px": [
+          120,
+          1848,
+          211,
+          1862
+        ],
+        "confidence": 1,
+        "text": "Content Explorer"
+      },
+      {
+        "bbox_px": [
+          433,
+          1652,
+          496,
+          1668
+        ],
+        "confidence": 1,
+        "text": "Backlinks"
+      },
+      {
+        "bbox_px": [
+          436,
+          1675,
+          509,
+          1696
+        ],
+        "confidence": 1,
+        "text": "3.9K -30"
+      },
+      {
+        "bbox_px": [
+          433,
+          1704,
+          501,
+          1717
+        ],
+        "confidence": 1,
+        "text": "All time 27K"
+      },
+      {
+        "bbox_px": [
+          525,
+          1654,
+          606,
+          1668
+        ],
+        "confidence": 1,
+        "text": "Ref. domains '"
+      },
+      {
+        "bbox_px": [
+          527,
+          1675,
+          593,
+          1697
+        ],
+        "confidence": 1,
+        "text": "338 -47"
+      },
+      {
+        "bbox_px": [
+          525,
+          1701,
+          595,
+          1717
+        ],
+        "confidence": 1,
+        "text": "All time 1.3K"
+      },
+      {
+        "bbox_px": [
+          640,
+          1628,
+          729,
+          1644
+        ],
+        "confidence": 1,
+        "text": "Organic search"
+      },
+      {
+        "bbox_px": [
+          637,
+          1654,
+          703,
+          1668
+        ],
+        "confidence": 1,
+        "text": "Keywords '"
+      },
+      {
+        "bbox_px": [
+          640,
+          1675,
+          713,
+          1696
+        ],
+        "confidence": 1,
+        "text": "1.1K +12"
+      },
+      {
+        "bbox_px": [
+          640,
+          1704,
+          695,
+          1718
+        ],
+        "confidence": 1,
+        "text": "Top 3 255"
+      },
+      {
+        "bbox_px": [
+          729,
+          1652,
+          773,
+          1668
+        ],
+        "confidence": 1,
+        "text": "Traffic i"
+      },
+      {
+        "bbox_px": [
+          731,
+          1674,
+          818,
+          1695
+        ],
+        "confidence": 1,
+        "text": "100K -517"
+      },
+      {
+        "bbox_px": [
+          729,
+          1704,
+          831,
+          1717
+        ],
+        "confidence": 1,
+        "text": "Value $121K +1.3K"
+      },
+      {
+        "bbox_px": [
+          452,
+          1759,
+          486,
+          1772
+        ],
+        "confidence": 1,
+        "text": "Years"
+      },
+      {
+        "bbox_px": [
+          598,
+          1759,
+          721,
+          1767
+        ],
+        "confidence": 1,
+        "text": "1M GM 1VOV"
+      },
+      {
+        "bbox_px": [
+          648,
+          1793,
+          820,
+          1817
+        ],
+        "confidence": 1,
+        "text": "Watch demo"
+      },
+      {
+        "bbox_px": [
+          446,
+          1835,
+          833,
+          1853
+        ],
+        "confidence": 1,
+        "text": "Avg. organic traffic • Avg. organic trattic value L Organic pages"
+      },
+      {
+        "bbox_px": [
+          791,
+          1864,
+          875,
+          1877
+        ],
+        "confidence": 1,
+        "text": "Avg. organic traffic"
+      },
+      {
+        "bbox_px": [
+          851,
+          1628,
+          922,
+          1641
+        ],
+        "confidence": 1,
+        "text": "Paid search"
+      },
+      {
+        "bbox_px": [
+          851,
+          1652,
+          917,
+          1668
+        ],
+        "confidence": 1,
+        "text": "Keywords"
+      },
+      {
+        "bbox_px": [
+          940,
+          1654,
+          966,
+          1665
+        ],
+        "confidence": 1,
+        "text": "Traf"
+      },
+      {
+        "bbox_px": [
+          851,
+          1704,
+          888,
+          1718
+        ],
+        "confidence": 1,
+        "text": "Ads 0"
+      },
+      {
+        "bbox_px": [
+          940,
+          1704,
+          964,
+          1715
+        ],
+        "confidence": 1,
+        "text": "Cos"
+      },
+      {
+        "bbox_px": [
+          912,
+          1759,
+          964,
+          1773
+        ],
+        "confidence": 1,
+        "text": "Traffic b"
+      },
+      {
+        "bbox_px": [
+          912,
+          1811,
+          959,
+          1824
+        ],
+        "confidence": 1,
+        "text": "Country"
+      },
+      {
+        "bbox_px": [
+          935,
+          1840,
+          956,
+          1851
+        ],
+        "confidence": 1,
+        "text": "US"
+      },
+      {
+        "bbox_px": [
+          938,
+          1869,
+          959,
+          1882
+        ],
+        "confidence": 1,
+        "text": "GB"
+      },
+      {
+        "bbox_px": [
+          935,
+          1898,
+          956,
+          1911
+        ],
+        "confidence": 1,
+        "text": "PH"
+      },
+      {
+        "bbox_px": [
+          935,
+          1929,
+          956,
+          1940
+        ],
+        "confidence": 1,
+        "text": "VN"
+      },
+      {
+        "bbox_px": [
+          912,
+          2052,
+          1021,
+          2066
+        ],
+        "confidence": 1,
+        "text": "Referring domains"
+      },
+      {
+        "bbox_px": [
+          1008,
+          1641,
+          1040,
+          1662
+        ],
+        "confidence": 1,
+        "text": "84"
+      },
+      {
+        "bbox_px": [
+          1006,
+          1662,
+          1042,
+          1673
+        ],
+        "confidence": 1,
+        "text": "Supar hard"
+      },
+      {
+        "bbox_px": [
+          1210,
+          1600,
+          1238,
+          1613
+        ],
+        "confidence": 1,
+        "text": "4.0K"
+      },
+      {
+        "bbox_px": [
+          1209,
+          1620,
+          1272,
+          1634
+        ],
+        "confidence": 1,
+        "text": "Top carking esuit O"
+      },
+      {
+        "bbox_px": [
+          1212,
+          1636,
+          1306,
+          1642
+        ],
+        "confidence": 0.30000001192092896,
+        "text": "mposre reo.comob.ccea-s"
+      },
+      {
+        "bbox_px": [
+          1210,
+          1647,
+          1246,
+          1652
+        ],
+        "confidence": 0.30000001192092896,
+        "text": "60-000"
+      },
+      {
+        "bbox_px": [
+          1210,
+          1662,
+          1257,
+          1673
+        ],
+        "confidence": 1,
+        "text": "Parent Topio ©"
+      },
+      {
+        "bbox_px": [
+          1212,
+          1677,
+          1241,
+          1683
+        ],
+        "confidence": 0.30000001192092896,
+        "text": "500 1008"
+      },
+      {
+        "bbox_px": [
+          1050,
+          1811,
+          1089,
+          1824
+        ],
+        "confidence": 1,
+        "text": "Traffic"
+      },
+      {
+        "bbox_px": [
+          1129,
+          1811,
+          1165,
+          1824
+        ],
+        "confidence": 1,
+        "text": "Share"
+      },
+      {
+        "bbox_px": [
+          1050,
+          1840,
+          1121,
+          1854
+        ],
+        "confidence": 1,
+        "text": "39.4K +874"
+      },
+      {
+        "bbox_px": [
+          1123,
+          1840,
+          1162,
+          1853
+        ],
+        "confidence": 1,
+        "text": "39.4%"
+      },
+      {
+        "bbox_px": [
+          1058,
+          1869,
+          1115,
+          1882
+        ],
+        "confidence": 1,
+        "text": "8.3K -180"
+      },
+      {
+        "bbox_px": [
+          1058,
+          1897,
+          1116,
+          1911
+        ],
+        "confidence": 1,
+        "text": "4.6K -173"
+      },
+      {
+        "bbox_px": [
+          1055,
+          1929,
+          1110,
+          1943
+        ],
+        "confidence": 1,
+        "text": "2.6K -76"
+      },
+      {
+        "bbox_px": [
+          1055,
+          1958,
+          1105,
+          1972
+        ],
+        "confidence": 1,
+        "text": "2.3K -1"
+      },
+      {
+        "bbox_px": [
+          1131,
+          1869,
+          1162,
+          1882
+        ],
+        "confidence": 1,
+        "text": "8.3%"
+      },
+      {
+        "bbox_px": [
+          1131,
+          1898,
+          1165,
+          1911
+        ],
+        "confidence": 1,
+        "text": "4.6%"
+      },
+      {
+        "bbox_px": [
+          1131,
+          1929,
+          1165,
+          1942
+        ],
+        "confidence": 1,
+        "text": "2.6%"
+      },
+      {
+        "bbox_px": [
+          1131,
+          1958,
+          1165,
+          1971
+        ],
+        "confidence": 1,
+        "text": "2.3%"
+      },
+      {
+        "bbox_px": [
+          993,
+          1995,
+          1123,
+          2011
+        ],
+        "confidence": 1,
+        "text": "Compare top 5 on chart"
+      },
+      {
+        "bbox_px": [
+          1173,
+          1811,
+          1230,
+          1825
+        ],
+        "confidence": 1,
+        "text": "Keywords"
+      },
+      {
+        "bbox_px": [
+          1183,
+          1869,
+          1210,
+          1882
+        ],
+        "confidence": 1,
+        "text": "233"
+      },
+      {
+        "bbox_px": [
+          1191,
+          1898,
+          1210,
+          1911
+        ],
+        "confidence": 1,
+        "text": "98"
+      },
+      {
+        "bbox_px": [
+          1189,
+          1932,
+          1223,
+          1940
+        ],
+        "confidence": 0.30000001192092896,
+        "text": "32-2"
+      },
+      {
+        "bbox_px": [
+          1191,
+          1958,
+          1225,
+          1972
+        ],
+        "confidence": 1,
+        "text": "61 -4"
+      },
+      {
+        "bbox_px": [
+          179,
+          2387,
+          667,
+          2454
+        ],
+        "confidence": 1,
+        "text": "Best in class"
+      },
+      {
+        "bbox_px": [
+          172,
+          2462,
+          749,
+          2537
+        ],
+        "confidence": 1,
+        "text": "SEO data ‹Dã›"
+      },
+      {
+        "bbox_px": [
+          277,
+          2625,
+          666,
+          2652
+        ],
+        "confidence": 1,
+        "text": "AhrefsBot is the most active"
+      },
+      {
+        "bbox_px": [
+          276,
+          2659,
+          653,
+          2690
+        ],
+        "confidence": 1,
+        "text": "web crawler among all SEO"
+      },
+      {
+        "bbox_px": [
+          277,
+          2696,
+          358,
+          2722
+        ],
+        "confidence": 1,
+        "text": "tools."
+      },
+      {
+        "bbox_px": [
+          297,
+          2771,
+          379,
+          2788
+        ],
+        "confidence": 1,
+        "text": "Rank Bot"
+      },
+      {
+        "bbox_px": [
+          538,
+          2772,
+          590,
+          2787
+        ],
+        "confidence": 1,
+        "text": "Owner"
+      },
+      {
+        "bbox_px": [
+          347,
+          2813,
+          439,
+          2829
+        ],
+        "confidence": 1,
+        "text": "AhrefsBot"
+      },
+      {
+        "bbox_px": [
+          538,
+          2813,
+          595,
+          2829
+        ],
+        "confidence": 1,
+        "text": "Ahrefs"
+      },
+      {
+        "bbox_px": [
+          321,
+          2857,
+          436,
+          2876
+        ],
+        "confidence": 1,
+        "text": "2 prerender"
+      },
+      {
+        "bbox_px": [
+          538,
+          2857,
+          661,
+          2876
+        ],
+        "confidence": 1,
+        "text": "Prerender, LLC"
+      },
+      {
+        "bbox_px": [
+          324,
+          2902,
+          444,
+          2921
+        ],
+        "confidence": 1,
+        "text": "3 Moz dotbot"
+      },
+      {
+        "bbox_px": [
+          535,
+          2902,
+          577,
+          2923
+        ],
+        "confidence": 1,
+        "text": "Moz"
+      },
+      {
+        "bbox_px": [
+          324,
+          2949,
+          426,
+          2968
+        ],
+        "confidence": 1,
+        "text": "4 BLEXBot"
+      },
+      {
+        "bbox_px": [
+          535,
+          2949,
+          629,
+          2971
+        ],
+        "confidence": 1,
+        "text": "WebMeUp"
+      },
+      {
+        "bbox_px": [
+          324,
+          2996,
+          488,
+          3013
+        ],
+        "confidence": 1,
+        "text": "5 Ahrefs Site Audit"
+      },
+      {
+        "bbox_px": [
+          535,
+          2997,
+          595,
+          3018
+        ],
+        "confidence": 1,
+        "text": "Ahrets"
+      },
+      {
+        "bbox_px": [
+          277,
+          3062,
+          449,
+          3078
+        ],
+        "confidence": 1,
+        "text": "Source: Cloudflare Radar"
+      },
+      {
+        "bbox_px": [
+          830,
+          2384,
+          1239,
+          2417
+        ],
+        "confidence": 1,
+        "text": "We've been crawling the web"
+      },
+      {
+        "bbox_px": [
+          831,
+          2424,
+          1215,
+          2453
+        ],
+        "confidence": 1,
+        "text": "for over 10 years, collecting"
+      },
+      {
+        "bbox_px": [
+          830,
+          2455,
+          1223,
+          2486
+        ],
+        "confidence": 1,
+        "text": "and processing petabytes of"
+      },
+      {
+        "bbox_px": [
+          831,
+          2491,
+          1047,
+          2518
+        ],
+        "confidence": 1,
+        "text": "data every day."
+      },
+      {
+        "bbox_px": [
+          833,
+          2538,
+          1040,
+          2554
+        ],
+        "confidence": 1,
+        "text": "Learn more about Ahrefs data"
+      },
+      {
+        "bbox_px": [
+          831,
+          2625,
+          1215,
+          2652
+        ],
+        "confidence": 1,
+        "text": "Our data & metrics are the"
+      },
+      {
+        "bbox_px": [
+          831,
+          2659,
+          1168,
+          2686
+        ],
+        "confidence": 1,
+        "text": "most trusted in the SEO"
+      },
+      {
+        "bbox_px": [
+          830,
+          2695,
+          962,
+          2720
+        ],
+        "confidence": 1,
+        "text": "industry."
+      },
+      {
+        "bbox_px": [
+          825,
+          2759,
+          982,
+          2827
+        ],
+        "confidence": 1,
+        "text": "64%"
+      },
+      {
+        "bbox_px": [
+          833,
+          2844,
+          1016,
+          2861
+        ],
+        "confidence": 1,
+        "text": "of SEO professionals trust"
+      },
+      {
+        "bbox_px": [
+          833,
+          2865,
+          1003,
+          2886
+        ],
+        "confidence": 1,
+        "text": "Ahrefs' link data over its"
+      },
+      {
+        "bbox_px": [
+          833,
+          2889,
+          987,
+          2906
+        ],
+        "confidence": 1,
+        "text": "competitors. The next"
+      },
+      {
+        "bbox_px": [
+          833,
+          2910,
+          1006,
+          2929
+        ],
+        "confidence": 1,
+        "text": "closest competitor (GSC)"
+      },
+      {
+        "bbox_px": [
+          833,
+          2933,
+          993,
+          2950
+        ],
+        "confidence": 1,
+        "text": "only had 14% of votes."
+      },
+      {
+        "bbox_px": [
+          1063,
+          2753,
+          1225,
+          2837
+        ],
+        "confidence": 1,
+        "text": "44%"
+      },
+      {
+        "bbox_px": [
+          1066,
+          2844,
+          1236,
+          2861
+        ],
+        "confidence": 1,
+        "text": "of SEO professionals use"
+      },
+      {
+        "bbox_px": [
+          1065,
+          2864,
+          1239,
+          2886
+        ],
+        "confidence": 1,
+        "text": "Ahrefs' Domain Rating as"
+      },
+      {
+        "bbox_px": [
+          1066,
+          2889,
+          1246,
+          2906
+        ],
+        "confidence": 1,
+        "text": "their SEO metric of choice."
+      },
+      {
+        "bbox_px": [
+          833,
+          2986,
+          1191,
+          3005
+        ],
+        "confidence": 1,
+        "text": "Source: Aira. The State of Link Building Report 2022"
+      },
+      {
+        "bbox_px": [
+          216,
+          3192,
+          617,
+          3255
+        ],
+        "confidence": 1,
+        "text": "Yep, we run our"
+      },
+      {
+        "bbox_px": [
+          219,
+          3246,
+          698,
+          3305
+        ],
+        "confidence": 1,
+        "text": "own search engine"
+      },
+      {
+        "bbox_px": [
+          977,
+          3222,
+          1076,
+          3238
+        ],
+        "confidence": 1,
+        "text": "Learn more"
+      },
+      {
+        "bbox_px": [
+          977,
+          3244,
+          1064,
+          3262
+        ],
+        "confidence": 1,
+        "text": "about Yep"
+      },
+      {
+        "bbox_px": [
+          1129,
+          3219,
+          1194,
+          3250
+        ],
+        "confidence": 1,
+        "text": "yep"
+      },
+      {
+        "bbox_px": [
+          1160,
+          3177,
+          1221,
+          3223
+        ],
+        "confidence": 1,
+        "text": "beta"
+      },
+      {
+        "bbox_px": [
+          219,
+          3200,
+          632,
+          3250
+        ],
+        "confidence": 1,
+        "text": "Yep, we run our"
+      },
+      {
+        "bbox_px": [
+          218,
+          3245,
+          698,
+          3307
+        ],
+        "confidence": 1,
+        "text": "own search engine"
+      },
+      {
+        "bbox_px": [
+          977,
+          3221,
+          1076,
+          3239
+        ],
+        "confidence": 1,
+        "text": "Learn more"
+      },
+      {
+        "bbox_px": [
+          977,
+          3246,
+          1063,
+          3263
+        ],
+        "confidence": 1,
+        "text": "about Yep"
+      },
+      {
+        "bbox_px": [
+          1129,
+          3218,
+          1196,
+          3252
+        ],
+        "confidence": 1,
+        "text": "yep"
+      },
+      {
+        "bbox_px": [
+          224,
+          3378,
+          1218,
+          3569
+        ],
+        "confidence": 1,
+        "text": "yeeeeep"
+      },
+      {
+        "bbox_px": [
+          216,
+          3641,
+          277,
+          3666
+        ],
+        "confidence": 1,
+        "text": "This"
+      },
+      {
+        "bbox_px": [
+          216,
+          3675,
+          295,
+          3702
+        ],
+        "confidence": 1,
+        "text": "helps"
+      },
+      {
+        "bbox_px": [
+          216,
+          3710,
+          308,
+          3733
+        ],
+        "confidence": 1,
+        "text": "Ahrefs"
+      },
+      {
+        "bbox_px": [
+          216,
+          3744,
+          261,
+          3772
+        ],
+        "confidence": 1,
+        "text": "by:"
+      },
+      {
+        "bbox_px": [
+          336,
+          3635,
+          860,
+          3672
+        ],
+        "confidence": 1,
+        "text": "v Providing high-end v Improving web"
+      },
+      {
+        "bbox_px": [
+          360,
+          3675,
+          595,
+          3699
+        ],
+        "confidence": 1,
+        "text": "infrastructure to"
+      },
+      {
+        "bbox_px": [
+          655,
+          3672,
+          920,
+          3704
+        ],
+        "confidence": 1,
+        "text": "crawling speed and"
+      },
+      {
+        "bbox_px": [
+          363,
+          3710,
+          629,
+          3736
+        ],
+        "confidence": 1,
+        "text": "power our services"
+      },
+      {
+        "bbox_px": [
+          655,
+          3709,
+          765,
+          3734
+        ],
+        "confidence": 1,
+        "text": "breadth"
+      },
+      {
+        "bbox_px": [
+          921,
+          3637,
+          1179,
+          3672
+        ],
+        "confidence": 1,
+        "text": "v Giving us deeper"
+      },
+      {
+        "bbox_px": [
+          948,
+          3672,
+          1176,
+          3703
+        ],
+        "confidence": 1,
+        "text": "expertise in how"
+      },
+      {
+        "bbox_px": [
+          948,
+          3709,
+          1189,
+          3733
+        ],
+        "confidence": 1,
+        "text": "search works and"
+      },
+      {
+        "bbox_px": [
+          948,
+          3744,
+          1149,
+          3770
+        ],
+        "confidence": 1,
+        "text": "what goes into"
+      },
+      {
+        "bbox_px": [
+          945,
+          3774,
+          1098,
+          3804
+        ],
+        "confidence": 1,
+        "text": "ranking #1"
+      },
+      {
+        "bbox_px": [
+          180,
+          4113,
+          919,
+          4176
+        ],
+        "confidence": 1,
+        "text": "Lots of educational"
+      },
+      {
+        "bbox_px": [
+          182,
+          4196,
+          538,
+          4257
+        ],
+        "confidence": 1,
+        "text": "materials"
+      },
+      {
+        "bbox_px": [
+          567,
+          4222,
+          598,
+          4249
+        ],
+        "confidence": 1,
+        "text": "<"
+      },
+      {
+        "bbox_px": [
+          211,
+          4421,
+          731,
+          4510
+        ],
+        "confidence": 1,
+        "text": "ahREFSp"
+      },
+      {
+        "bbox_px": [
+          209,
+          4510,
+          760,
+          4594
+        ],
+        "confidence": 0.30000001192092896,
+        "text": "аСЕмУ"
+      },
+      {
+        "bbox_px": [
+          830,
+          4335,
+          1009,
+          4364
+        ],
+        "confidence": 1,
+        "text": "Watch video"
+      },
+      {
+        "bbox_px": [
+          830,
+          4367,
+          1056,
+          4400
+        ],
+        "confidence": 1,
+        "text": "tutorials on our"
+      },
+      {
+        "bbox_px": [
+          830,
+          4403,
+          1095,
+          4432
+        ],
+        "confidence": 1,
+        "text": "Youtube channel →"
+      },
+      {
+        "bbox_px": [
+          830,
+          4484,
+          1069,
+          4517
+        ],
+        "confidence": 1,
+        "text": "Look for \"How to"
+      },
+      {
+        "bbox_px": [
+          831,
+          4520,
+          1087,
+          4553
+        ],
+        "confidence": 1,
+        "text": "use\" guides within"
+      },
+      {
+        "bbox_px": [
+          831,
+          4557,
+          1014,
+          4584
+        ],
+        "confidence": 1,
+        "text": "our interface"
+      },
+      {
+        "bbox_px": [
+          1149,
+          4493,
+          1247,
+          4522
+        ],
+        "confidence": 1,
+        "text": "How to"
+      },
+      {
+        "bbox_px": [
+          177,
+          4711,
+          420,
+          4738
+        ],
+        "confidence": 1,
+        "text": "Take free courses"
+      },
+      {
+        "bbox_px": [
+          174,
+          4741,
+          418,
+          4776
+        ],
+        "confidence": 1,
+        "text": "in our Academy →"
+      },
+      {
+        "bbox_px": [
+          831,
+          4641,
+          1024,
+          4667
+        ],
+        "confidence": 1,
+        "text": "Read detailed"
+      },
+      {
+        "bbox_px": [
+          830,
+          4673,
+          1056,
+          4704
+        ],
+        "confidence": 1,
+        "text": "guides and case"
+      },
+      {
+        "bbox_px": [
+          831,
+          4709,
+          1037,
+          4736
+        ],
+        "confidence": 1,
+        "text": "studies on our"
+      },
+      {
+        "bbox_px": [
+          830,
+          4744,
+          928,
+          4772
+        ],
+        "confidence": 1,
+        "text": "Blog →"
+      },
+      {
+        "bbox_px": [
+          187,
+          5028,
+          683,
+          5112
+        ],
+        "confidence": 1,
+        "text": "¿Community"
+      },
+      {
+        "bbox_px": [
+          169,
+          5102,
+          638,
+          5201
+        ],
+        "confidence": 1,
+        "text": "& support"
+      },
+      {
+        "bbox_px": [
+          775,
+          5035,
+          1233,
+          5072
+        ],
+        "confidence": 1,
+        "text": "Get access to Ahrefs Insider, our"
+      },
+      {
+        "bbox_px": [
+          776,
+          5077,
+          1243,
+          5103
+        ],
+        "confidence": 1,
+        "text": "private community, where you can"
+      },
+      {
+        "bbox_px": [
+          776,
+          5108,
+          1215,
+          5137
+        ],
+        "confidence": 1,
+        "text": "bounce ideas and questions off"
+      },
+      {
+        "bbox_px": [
+          776,
+          5142,
+          1254,
+          5169
+        ],
+        "confidence": 1,
+        "text": "SEO-obsessed marketers who have"
+      },
+      {
+        "bbox_px": [
+          775,
+          5175,
+          925,
+          5205
+        ],
+        "confidence": 1,
+        "text": "seen it all."
+      },
+      {
+        "bbox_px": [
+          776,
+          5271,
+          1178,
+          5302
+        ],
+        "confidence": 1,
+        "text": "Questions? Ask our customer"
+      },
+      {
+        "bbox_px": [
+          776,
+          5307,
+          1251,
+          5341
+        ],
+        "confidence": 1,
+        "text": "support team via live chat 24/5, or"
+      },
+      {
+        "bbox_px": [
+          773,
+          5340,
+          1189,
+          5372
+        ],
+        "confidence": 1,
+        "text": "Just poke us on Twitter. We're"
+      },
+      {
+        "bbox_px": [
+          776,
+          5377,
+          1076,
+          5406
+        ],
+        "confidence": 1,
+        "text": "always happy to help."
+      },
+      {
+        "bbox_px": [
+          775,
+          5425,
+          1035,
+          5457
+        ],
+        "confidence": 1,
+        "text": "Customer support"
+      },
+      {
+        "bbox_px": [
+          775,
+          5476,
+          899,
+          5504
+        ],
+        "confidence": 1,
+        "text": "@Ahrefs"
+      },
+      {
+        "bbox_px": [
+          177,
+          5513,
+          305,
+          5532
+        ],
+        "confidence": 1,
+        "text": "Join our SEO"
+      },
+      {
+        "bbox_px": [
+          177,
+          5545,
+          292,
+          5572
+        ],
+        "confidence": 1,
+        "text": "community"
+      },
+      {
+        "bbox_px": [
+          180,
+          6220,
+          368,
+          6262
+        ],
+        "confidence": 1,
+        "text": "You're ›"
+      },
+      {
+        "bbox_px": [
+          358,
+          6225,
+          556,
+          6272
+        ],
+        "confidence": 1,
+        "text": "*gonna"
+      },
+      {
+        "bbox_px": [
+          176,
+          6270,
+          513,
+          6331
+        ],
+        "confidence": 1,
+        "text": "love Ahrefs*"
+      },
+      {
+        "bbox_px": [
+          778,
+          6230,
+          1115,
+          6257
+        ],
+        "confidence": 1,
+        "text": "Marketers from all kinds"
+      },
+      {
+        "bbox_px": [
+          776,
+          6264,
+          1165,
+          6291
+        ],
+        "confidence": 1,
+        "text": "of businesses turn to Ahrefs"
+      },
+      {
+        "bbox_px": [
+          776,
+          6296,
+          1162,
+          6327
+        ],
+        "confidence": 1,
+        "text": "to grow their search traffic."
+      },
+      {
+        "bbox_px": [
+          180,
+          6395,
+          1210,
+          6427
+        ],
+        "confidence": 1,
+        "text": "Pro SEOs / Content marketers / Enterprise / Agencies / SaaS / Ecommerce"
+      },
+      {
+        "bbox_px": [
+          261,
+          6500,
+          1092,
+          6545
+        ],
+        "confidence": 1,
+        "text": "Ahrefs has been a must-have"
+      },
+      {
+        "bbox_px": [
+          297,
+          6563,
+          1032,
+          6597
+        ],
+        "confidence": 1,
+        "text": "in mv marketing toolkit fon"
+      },
+      {
+        "bbox_px": [
+          1181,
+          6505,
+          1217,
+          6542
+        ],
+        "confidence": 1,
+        "text": "→"
+      },
+      {
+        "bbox_px": [
+          177,
+          6400,
+          1215,
+          6426
+        ],
+        "confidence": 1,
+        "text": "Pro SEOS / Content marketers / Enterprise / Agencies / Saas / Ecommerce"
+      },
+      {
+        "bbox_px": [
+          214,
+          6498,
+          1225,
+          6543
+        ],
+        "confidence": 1,
+        "text": "+ Ahrefs has been a must-have →"
+      },
+      {
+        "bbox_px": [
+          295,
+          6562,
+          1032,
+          6625
+        ],
+        "confidence": 1,
+        "text": "in my marketing toolkit for"
+      },
+      {
+        "bbox_px": [
+          303,
+          6634,
+          632,
+          6679
+        ],
+        "confidence": 1,
+        "text": "many years."
+      },
+      {
+        "bbox_px": [
+          409,
+          6720,
+          543,
+          6740
+        ],
+        "confidence": 1,
+        "text": "Irina Maltseva,"
+      },
+      {
+        "bbox_px": [
+          412,
+          6742,
+          580,
+          6766
+        ],
+        "confidence": 1,
+        "text": "Head of Marketing,"
+      },
+      {
+        "bbox_px": [
+          410,
+          6770,
+          470,
+          6787
+        ],
+        "confidence": 1,
+        "text": "Hunter"
+      },
+      {
+        "bbox_px": [
+          303,
+          7033,
+          376,
+          7051
+        ],
+        "confidence": 0.30000001192092896,
+        "text": "...."
+      },
+      {
+        "bbox_px": [
+          318,
+          7186,
+          439,
+          7214
+        ],
+        "confidence": 1,
+        "text": "Capterra"
+      },
+      {
+        "bbox_px": [
+          760,
+          7184,
+          906,
+          7211
+        ],
+        "confidence": 1,
+        "text": "R TrustRadius"
+      },
+      {
+        "bbox_px": [
+          995,
+          7184,
+          1126,
+          7213
+        ],
+        "confidence": 1,
+        "text": "( crozdesk"
+      },
+      {
+        "bbox_px": [
+          352,
+          7315,
+          405,
+          7336
+        ],
+        "confidence": 1,
+        "text": "4.7/5"
+      },
+      {
+        "bbox_px": [
+          580,
+          7315,
+          632,
+          7334
+        ],
+        "confidence": 1,
+        "text": "4.6 /5"
+      },
+      {
+        "bbox_px": [
+          804,
+          7318,
+          862,
+          7334
+        ],
+        "confidence": 1,
+        "text": "8.7 /10"
+      },
+      {
+        "bbox_px": [
+          603,
+          7381,
+          836,
+          7397
+        ],
+        "confidence": 1,
+        "text": "Data supplied as of March 1, 2023"
+      },
+      {
+        "bbox_px": [
+          1034,
+          7317,
+          1084,
+          7334
+        ],
+        "confidence": 1,
+        "text": "4.6 /5"
+      },
+      {
+        "bbox_px": [
+          177,
+          7657,
+          956,
+          7710
+        ],
+        "confidence": 1,
+        "text": "Get started. Pick a plan that"
+      },
+      {
+        "bbox_px": [
+          177,
+          7720,
+          1006,
+          7788
+        ],
+        "confidence": 1,
+        "text": "suits your needs, and we'll see"
+      },
+      {
+        "bbox_px": [
+          177,
+          7784,
+          778,
+          7839
+        ],
+        "confidence": 1,
+        "text": "you on the other side."
+      },
+      {
+        "bbox_px": [
+          1081,
+          7712,
+          1194,
+          7731
+        ],
+        "confidence": 1,
+        "text": "15,789 users"
+      },
+      {
+        "bbox_px": [
+          1081,
+          7736,
+          1199,
+          7755
+        ],
+        "confidence": 1,
+        "text": "joined Ahrefs"
+      },
+      {
+        "bbox_px": [
+          1081,
+          7759,
+          1176,
+          7778
+        ],
+        "confidence": 1,
+        "text": "in the last"
+      },
+      {
+        "bbox_px": [
+          1084,
+          7785,
+          1137,
+          7802
+        ],
+        "confidence": 1,
+        "text": "7 days"
+      },
+      {
+        "bbox_px": [
+          209,
+          7940,
+          248,
+          7956
+        ],
+        "confidence": 1,
+        "text": "AWT"
+      },
+      {
+        "bbox_px": [
+          209,
+          7966,
+          378,
+          7982
+        ],
+        "confidence": 1,
+        "text": "Ahrefs Webmaster Tools"
+      },
+      {
+        "bbox_px": [
+          211,
+          7993,
+          324,
+          8035
+        ],
+        "confidence": 1,
+        "text": "Free"
+      },
+      {
+        "bbox_px": [
+          227,
+          8068,
+          332,
+          8088
+        ],
+        "confidence": 1,
+        "text": "Learn more"
+      },
+      {
+        "bbox_px": [
+          209,
+          8110,
+          360,
+          8127
+        ],
+        "confidence": 1,
+        "text": "Free limited access to"
+      },
+      {
+        "bbox_px": [
+          209,
+          8134,
+          358,
+          8150
+        ],
+        "confidence": 1,
+        "text": "Site Explorer and Site"
+      },
+      {
+        "bbox_px": [
+          209,
+          8155,
+          256,
+          8171
+        ],
+        "confidence": 1,
+        "text": "Audit."
+      },
+      {
+        "bbox_px": [
+          433,
+          7940,
+          465,
+          7956
+        ],
+        "confidence": 1,
+        "text": "Lite"
+      },
+      {
+        "bbox_px": [
+          433,
+          7963,
+          507,
+          7985
+        ],
+        "confidence": 1,
+        "text": "Starts at i"
+      },
+      {
+        "bbox_px": [
+          421,
+          7977,
+          570,
+          8051
+        ],
+        "confidence": 1,
+        "text": "€891mo"
+      },
+      {
+        "bbox_px": [
+          449,
+          8069,
+          540,
+          8087
+        ],
+        "confidence": 1,
+        "text": "Subscribe"
+      },
+      {
+        "bbox_px": [
+          433,
+          8110,
+          595,
+          8127
+        ],
+        "confidence": 1,
+        "text": "Essential data for small"
+      },
+      {
+        "bbox_px": [
+          433,
+          8134,
+          588,
+          8150
+        ],
+        "confidence": 1,
+        "text": "businesses and hobby"
+      },
+      {
+        "bbox_px": [
+          433,
+          8158,
+          496,
+          8171
+        ],
+        "confidence": 1,
+        "text": "projects."
+      },
+      {
+        "bbox_px": [
+          637,
+          7940,
+          705,
+          7954
+        ],
+        "confidence": 1,
+        "text": "Standard"
+      },
+      {
+        "bbox_px": [
+          637,
+          7965,
+          708,
+          7983
+        ],
+        "confidence": 1,
+        "text": "Starts at i"
+      },
+      {
+        "bbox_px": [
+          634,
+          7992,
+          787,
+          8042
+        ],
+        "confidence": 1,
+        "text": "€179 /mo"
+      },
+      {
+        "bbox_px": [
+          653,
+          8069,
+          744,
+          8087
+        ],
+        "confidence": 1,
+        "text": "Subscribe"
+      },
+      {
+        "bbox_px": [
+          637,
+          8110,
+          818,
+          8127
+        ],
+        "confidence": 1,
+        "text": "Perfect for freelance SEOs"
+      },
+      {
+        "bbox_px": [
+          637,
+          8134,
+          739,
+          8150
+        ],
+        "confidence": 1,
+        "text": "and marketing"
+      },
+      {
+        "bbox_px": [
+          637,
+          8158,
+          723,
+          8171
+        ],
+        "confidence": 1,
+        "text": "consultants."
+      },
+      {
+        "bbox_px": [
+          841,
+          7940,
+          914,
+          7956
+        ],
+        "confidence": 1,
+        "text": "Advanced"
+      },
+      {
+        "bbox_px": [
+          838,
+          7964,
+          912,
+          7984
+        ],
+        "confidence": 1,
+        "text": "Starts at i"
+      },
+      {
+        "bbox_px": [
+          836,
+          7990,
+          1003,
+          8038
+        ],
+        "confidence": 1,
+        "text": "€369 /mo"
+      },
+      {
+        "bbox_px": [
+          857,
+          8068,
+          948,
+          8088
+        ],
+        "confidence": 1,
+        "text": "Subscribe"
+      },
+      {
+        "bbox_px": [
+          841,
+          8110,
+          1003,
+          8127
+        ],
+        "confidence": 1,
+        "text": "More tools and data for"
+      },
+      {
+        "bbox_px": [
+          841,
+          8134,
+          1008,
+          8150
+        ],
+        "confidence": 1,
+        "text": "lean in-house marketing"
+      },
+      {
+        "bbox_px": [
+          838,
+          8154,
+          892,
+          8173
+        ],
+        "confidence": 1,
+        "text": "teams.."
+      },
+      {
+        "bbox_px": [
+          1045,
+          7937,
+          1123,
+          7957
+        ],
+        "confidence": 1,
+        "text": "Enterprise"
+      },
+      {
+        "bbox_px": [
+          1045,
+          7966,
+          1115,
+          7982
+        ],
+        "confidence": 1,
+        "text": "Starts at i"
+      },
+      {
+        "bbox_px": [
+          1041,
+          7990,
+          1208,
+          8041
+        ],
+        "confidence": 1,
+        "text": "€899/mo"
+      },
+      {
+        "bbox_px": [
+          1060,
+          8070,
+          1150,
+          8088
+        ],
+        "confidence": 1,
+        "text": "Talk to us"
+      },
+      {
+        "bbox_px": [
+          1045,
+          8111,
+          1199,
+          8129
+        ],
+        "confidence": 1,
+        "text": "Ideal for agencies and"
+      },
+      {
+        "bbox_px": [
+          1045,
+          8133,
+          1129,
+          8151
+        ],
+        "confidence": 1,
+        "text": "enterprises."
+      },
+      {
+        "bbox_px": [
+          211,
+          8000,
+          324,
+          8034
+        ],
+        "confidence": 1,
+        "text": "Free"
+      },
+      {
+        "bbox_px": [
+          227,
+          8070,
+          331,
+          8086
+        ],
+        "confidence": 1,
+        "text": "Learn more"
+      },
+      {
+        "bbox_px": [
+          209,
+          8112,
+          360,
+          8126
+        ],
+        "confidence": 1,
+        "text": "Free limited access to"
+      },
+      {
+        "bbox_px": [
+          209,
+          8132,
+          358,
+          8149
+        ],
+        "confidence": 1,
+        "text": "Site Explorer and Site"
+      },
+      {
+        "bbox_px": [
+          209,
+          8156,
+          256,
+          8172
+        ],
+        "confidence": 1,
+        "text": "Audit."
+      },
+      {
+        "bbox_px": [
+          431,
+          8000,
+          564,
+          8039
+        ],
+        "confidence": 0.30000001192092896,
+        "text": "09/mo"
+      },
+      {
+        "bbox_px": [
+          449,
+          8070,
+          540,
+          8086
+        ],
+        "confidence": 1,
+        "text": "Subscribe"
+      },
+      {
+        "bbox_px": [
+          433,
+          8109,
+          595,
+          8125
+        ],
+        "confidence": 1,
+        "text": "Essential data for small"
+      },
+      {
+        "bbox_px": [
+          433,
+          8130,
+          588,
+          8151
+        ],
+        "confidence": 1,
+        "text": "businesses and hobby"
+      },
+      {
+        "bbox_px": [
+          433,
+          8156,
+          496,
+          8172
+        ],
+        "confidence": 1,
+        "text": "projects."
+      },
+      {
+        "bbox_px": [
+          433,
+          8229,
+          585,
+          8248
+        ],
+        "confidence": 1,
+        "text": "Compare plans →"
+      },
+      {
+        "bbox_px": [
+          635,
+          8000,
+          784,
+          8039
+        ],
+        "confidence": 1,
+        "text": "1/9 /mo"
+      },
+      {
+        "bbox_px": [
+          653,
+          8070,
+          744,
+          8086
+        ],
+        "confidence": 1,
+        "text": "Subscribe"
+      },
+      {
+        "bbox_px": [
+          637,
+          8112,
+          818,
+          8126
+        ],
+        "confidence": 1,
+        "text": "Perfect for freelance SEOs"
+      },
+      {
+        "bbox_px": [
+          637,
+          8132,
+          739,
+          8151
+        ],
+        "confidence": 1,
+        "text": "and marketing"
+      },
+      {
+        "bbox_px": [
+          637,
+          8156,
+          723,
+          8172
+        ],
+        "confidence": 1,
+        "text": "consultants."
+      },
+      {
+        "bbox_px": [
+          838,
+          8000,
+          1000,
+          8039
+        ],
+        "confidence": 1,
+        "text": "369 /mo"
+      },
+      {
+        "bbox_px": [
+          857,
+          8070,
+          948,
+          8086
+        ],
+        "confidence": 1,
+        "text": "Subscribe"
+      },
+      {
+        "bbox_px": [
+          841,
+          8109,
+          1003,
+          8131
+        ],
+        "confidence": 1,
+        "text": "More tools and data for"
+      },
+      {
+        "bbox_px": [
+          841,
+          8130,
+          1009,
+          8151
+        ],
+        "confidence": 1,
+        "text": "lean in-house marketing"
+      },
+      {
+        "bbox_px": [
+          838,
+          8156,
+          891,
+          8172
+        ],
+        "confidence": 1,
+        "text": "teams."
+      },
+      {
+        "bbox_px": [
+          1042,
+          8000,
+          1207,
+          8039
+        ],
+        "confidence": 0.30000001192092896,
+        "text": "099/mo"
+      },
+      {
+        "bbox_px": [
+          1061,
+          8070,
+          1149,
+          8086
+        ],
+        "confidence": 1,
+        "text": "Talk to us"
+      },
+      {
+        "bbox_px": [
+          1045,
+          8109,
+          1197,
+          8129
+        ],
+        "confidence": 1,
+        "text": "Ideal for agencies and"
+      },
+      {
+        "bbox_px": [
+          1045,
+          8133,
+          1129,
+          8149
+        ],
+        "confidence": 1,
+        "text": "enterprises."
+      },
+      {
+        "bbox_px": [
+          175,
+          8575,
+          431,
+          8640
+        ],
+        "confidence": 1,
+        "text": "ahrers"
+      },
+      {
+        "bbox_px": [
+          177,
+          8666,
+          655,
+          8695
+        ],
+        "confidence": 1,
+        "text": "Bootstrapped by a small team with"
+      },
+      {
+        "bbox_px": [
+          177,
+          8701,
+          603,
+          8730
+        ],
+        "confidence": 1,
+        "text": "a big passion for tech and SEO."
+      },
+      {
+        "bbox_px": [
+          207,
+          8854,
+          382,
+          8978
+        ],
+        "confidence": 1,
+        "text": "ahrefs"
+      },
+      {
+        "bbox_px": [
+          177,
+          9059,
+          318,
+          9077
+        ],
+        "confidence": 1,
+        "text": "Join the Team →"
+      },
+      {
+        "bbox_px": [
+          778,
+          8671,
+          1178,
+          8690
+        ],
+        "confidence": 1,
+        "text": "Big Internet companies are making suboptimal"
+      },
+      {
+        "bbox_px": [
+          776,
+          8695,
+          1233,
+          8714
+        ],
+        "confidence": 1,
+        "text": "decisions to push market valuation. We see more and"
+      },
+      {
+        "bbox_px": [
+          778,
+          8718,
+          1246,
+          8737
+        ],
+        "confidence": 1,
+        "text": "more ads in search results, in news feeds, everywhere,"
+      },
+      {
+        "bbox_px": [
+          778,
+          8742,
+          1230,
+          8761
+        ],
+        "confidence": 1,
+        "text": "and not enough care for the people who are actually"
+      },
+      {
+        "bbox_px": [
+          778,
+          8769,
+          925,
+          8785
+        ],
+        "confidence": 1,
+        "text": "creating content."
+      },
+      {
+        "bbox_px": [
+          778,
+          8807,
+          1194,
+          8824
+        ],
+        "confidence": 1,
+        "text": "Ahrefs intends to stay independent and focus on"
+      },
+      {
+        "bbox_px": [
+          778,
+          8831,
+          1236,
+          8850
+        ],
+        "confidence": 1,
+        "text": "helping people to make useful content and to make it"
+      },
+      {
+        "bbox_px": [
+          778,
+          8855,
+          1225,
+          8873
+        ],
+        "confidence": 1,
+        "text": "more accessible, with the ultimate goal of building a"
+      },
+      {
+        "bbox_px": [
+          778,
+          8879,
+          1251,
+          8897
+        ],
+        "confidence": 1,
+        "text": "search engine that shares profit with content creators."
+      },
+      {
+        "bbox_px": [
+          778,
+          8917,
+          1249,
+          8939
+        ],
+        "confidence": 1,
+        "text": "The tools we provide help you to improve your website,"
+      },
+      {
+        "bbox_px": [
+          776,
+          8941,
+          1257,
+          8963
+        ],
+        "confidence": 1,
+        "text": "to find topics to write about and to track your website's"
+      },
+      {
+        "bbox_px": [
+          778,
+          8967,
+          1236,
+          8986
+        ],
+        "confidence": 1,
+        "text": "performance. We guide you each step of the way with"
+      },
+      {
+        "bbox_px": [
+          776,
+          8991,
+          1225,
+          9009
+        ],
+        "confidence": 1,
+        "text": "learning materials on our blog and Youtube channel."
+      },
+      {
+        "bbox_px": [
+          778,
+          9015,
+          1241,
+          9033
+        ],
+        "confidence": 1,
+        "text": "While all our learning materials and some of our tools"
+      },
+      {
+        "bbox_px": [
+          778,
+          9038,
+          1246,
+          9061
+        ],
+        "confidence": 1,
+        "text": "will stay free, consider supporting us by subscribing to"
+      },
+      {
+        "bbox_px": [
+          888,
+          9122,
+          1076,
+          9141
+        ],
+        "confidence": 1,
+        "text": "Dmytro Gerasymenko,"
+      },
+      {
+        "bbox_px": [
+          888,
+          9145,
+          1105,
+          9166
+        ],
+        "confidence": 1,
+        "text": "Founder & CEO at Ahrefs"
+      },
+      {
+        "bbox_px": [
+          888,
+          9169,
+          1011,
+          9190
+        ],
+        "confidence": 1,
+        "text": "@botsbreeder"
+      },
+      {
+        "bbox_px": [
+          177,
+          9310,
+          248,
+          9326
+        ],
+        "confidence": 1,
+        "text": "Language"
+      },
+      {
+        "bbox_px": [
+          196,
+          9355,
+          263,
+          9376
+        ],
+        "confidence": 1,
+        "text": "English"
+      },
+      {
+        "bbox_px": [
+          284,
+          9357,
+          300,
+          9373
+        ],
+        "confidence": 1,
+        "text": "v"
+      },
+      {
+        "bbox_px": [
+          355,
+          9307,
+          431,
+          9323
+        ],
+        "confidence": 1,
+        "text": "Core tools"
+      },
+      {
+        "bbox_px": [
+          355,
+          9339,
+          449,
+          9355
+        ],
+        "confidence": 1,
+        "text": "Dashboard"
+      },
+      {
+        "bbox_px": [
+          355,
+          9373,
+          473,
+          9392
+        ],
+        "confidence": 1,
+        "text": "Site Explorer"
+      },
+      {
+        "bbox_px": [
+          352,
+          9407,
+          520,
+          9428
+        ],
+        "confidence": 1,
+        "text": "Keywords Explorer"
+      },
+      {
+        "bbox_px": [
+          355,
+          9441,
+          444,
+          9457
+        ],
+        "confidence": 1,
+        "text": "Site Audit"
+      },
+      {
+        "bbox_px": [
+          355,
+          9475,
+          473,
+          9494
+        ],
+        "confidence": 1,
+        "text": "Rank Tracker"
+      },
+      {
+        "bbox_px": [
+          355,
+          9509,
+          507,
+          9527
+        ],
+        "confidence": 1,
+        "text": "Content Explorer"
+      },
+      {
+        "bbox_px": [
+          538,
+          9305,
+          658,
+          9327
+        ],
+        "confidence": 1,
+        "text": "Free SEO tools →"
+      },
+      {
+        "bbox_px": [
+          540,
+          9339,
+          687,
+          9355
+        ],
+        "confidence": 1,
+        "text": "Webmaster Tools"
+      },
+      {
+        "bbox_px": [
+          540,
+          9373,
+          689,
+          9389
+        ],
+        "confidence": 1,
+        "text": "Backlink Checker"
+      },
+      {
+        "bbox_px": [
+          538,
+          9407,
+          718,
+          9425
+        ],
+        "confidence": 1,
+        "text": "Broken Link Checker"
+      },
+      {
+        "bbox_px": [
+          540,
+          9441,
+          773,
+          9459
+        ],
+        "confidence": 1,
+        "text": "Website Authority Checker"
+      },
+      {
+        "bbox_px": [
+          538,
+          9475,
+          708,
+          9494
+        ],
+        "confidence": 1,
+        "text": "Keyword Generator"
+      },
+      {
+        "bbox_px": [
+          538,
+          9506,
+          731,
+          9529
+        ],
+        "confidence": 1,
+        "text": "YouTube Keyword Tool"
+      },
+      {
+        "bbox_px": [
+          538,
+          9543,
+          729,
+          9561
+        ],
+        "confidence": 1,
+        "text": "Amazon Keyword Tool"
+      },
+      {
+        "bbox_px": [
+          540,
+          9577,
+          700,
+          9596
+        ],
+        "confidence": 1,
+        "text": "Bing Keyword Tool"
+      },
+      {
+        "bbox_px": [
+          540,
+          9611,
+          661,
+          9627
+        ],
+        "confidence": 1,
+        "text": "SERP Checker"
+      },
+      {
+        "bbox_px": [
+          540,
+          9645,
+          645,
+          9661
+        ],
+        "confidence": 1,
+        "text": "SEO Toolbar"
+      },
+      {
+        "bbox_px": [
+          540,
+          9679,
+          692,
+          9697
+        ],
+        "confidence": 1,
+        "text": "WordPress Plugin"
+      },
+      {
+        "bbox_px": [
+          538,
+          9713,
+          736,
+          9732
+        ],
+        "confidence": 1,
+        "text": "Keyword Rank Checker"
+      },
+      {
+        "bbox_px": [
+          538,
+          9747,
+          773,
+          9766
+        ],
+        "confidence": 1,
+        "text": "Keyword Difficulty Checker"
+      },
+      {
+        "bbox_px": [
+          540,
+          9781,
+          687,
+          9797
+        ],
+        "confidence": 1,
+        "text": "Website Checker"
+      },
+      {
+        "bbox_px": [
+          810,
+          9310,
+          969,
+          9323
+        ],
+        "confidence": 1,
+        "text": "Extra tools & features"
+      },
+      {
+        "bbox_px": [
+          810,
+          9339,
+          985,
+          9358
+        ],
+        "confidence": 1,
+        "text": "Domain Comparison"
+      },
+      {
+        "bbox_px": [
+          810,
+          9373,
+          938,
+          9392
+        ],
+        "confidence": 1,
+        "text": "Batch Analysis"
+      },
+      {
+        "bbox_px": [
+          810,
+          9407,
+          935,
+          9423
+        ],
+        "confidence": 1,
+        "text": "Link Intersect"
+      },
+      {
+        "bbox_px": [
+          810,
+          9441,
+          922,
+          9460
+        ],
+        "confidence": 1,
+        "text": "Content Gap"
+      },
+      {
+        "bbox_px": [
+          810,
+          9475,
+          917,
+          9491
+        ],
+        "confidence": 1,
+        "text": "Email Alerts"
+      },
+      {
+        "bbox_px": [
+          810,
+          9509,
+          925,
+          9525
+        ],
+        "confidence": 1,
+        "text": "SEO Checker"
+      },
+      {
+        "bbox_px": [
+          807,
+          9540,
+          919,
+          9561
+        ],
+        "confidence": 1,
+        "text": "Word Count"
+      },
+      {
+        "bbox_px": [
+          810,
+          9577,
+          946,
+          9593
+        ],
+        "confidence": 1,
+        "text": "Traffic Checker"
+      },
+      {
+        "bbox_px": [
+          809,
+          9608,
+          954,
+          9630
+        ],
+        "confidence": 1,
+        "text": "GDS Connectors"
+      },
+      {
+        "bbox_px": [
+          1003,
+          9308,
+          1063,
+          9323
+        ],
+        "confidence": 1,
+        "text": "Product"
+      },
+      {
+        "bbox_px": [
+          1000,
+          9339,
+          1066,
+          9360
+        ],
+        "confidence": 1,
+        "text": "Pricing"
+      },
+      {
+        "bbox_px": [
+          1003,
+          9373,
+          1082,
+          9389
+        ],
+        "confidence": 1,
+        "text": "Our data"
+      },
+      {
+        "bbox_px": [
+          1003,
+          9407,
+          1092,
+          9423
+        ],
+        "confidence": 1,
+        "text": "AhrefsBot"
+      },
+      {
+        "bbox_px": [
+          1000,
+          9441,
+          1040,
+          9459
+        ],
+        "confidence": 1,
+        "text": "АPІ"
+      },
+      {
+        "bbox_px": [
+          1003,
+          9474,
+          1097,
+          9494
+        ],
+        "confidence": 1,
+        "text": "Enterprise"
+      },
+      {
+        "bbox_px": [
+          1002,
+          9529,
+          1072,
+          9548
+        ],
+        "confidence": 1,
+        "text": "Company"
+      },
+      {
+        "bbox_px": [
+          1000,
+          9559,
+          1058,
+          9577
+        ],
+        "confidence": 1,
+        "text": "About"
+      },
+      {
+        "bbox_px": [
+          1002,
+          9594,
+          1053,
+          9610
+        ],
+        "confidence": 1,
+        "text": "Team"
+      },
+      {
+        "bbox_px": [
+          1000,
+          9627,
+          1047,
+          9645
+        ],
+        "confidence": 1,
+        "text": "Jobs"
+      },
+      {
+        "bbox_px": [
+          1003,
+          9661,
+          1087,
+          9677
+        ],
+        "confidence": 1,
+        "text": "Media kit"
+      },
+      {
+        "bbox_px": [
+          1003,
+          9694,
+          1100,
+          9711
+        ],
+        "confidence": 1,
+        "text": "Contact us"
+      },
+      {
+        "bbox_px": [
+          1003,
+          9729,
+          1089,
+          9748
+        ],
+        "confidence": 1,
+        "text": "Legal info"
+      },
+      {
+        "bbox_px": [
+          1000,
+          9763,
+          1063,
+          9781
+        ],
+        "confidence": 1,
+        "text": "Events"
+      },
+      {
+        "bbox_px": [
+          1118,
+          9308,
+          1196,
+          9323
+        ],
+        "confidence": 1,
+        "text": "Resources"
+      },
+      {
+        "bbox_px": [
+          1115,
+          9339,
+          1160,
+          9360
+        ],
+        "confidence": 1,
+        "text": "Blog"
+      },
+      {
+        "bbox_px": [
+          1121,
+          9373,
+          1204,
+          9391
+        ],
+        "confidence": 1,
+        "text": "Tech blog"
+      },
+      {
+        "bbox_px": [
+          1118,
+          9407,
+          1212,
+          9423
+        ],
+        "confidence": 1,
+        "text": "SEO Guide"
+      },
+      {
+        "bbox_px": [
+          1118,
+          9441,
+          1225,
+          9460
+        ],
+        "confidence": 1,
+        "text": "Help center"
+      },
+      {
+        "bbox_px": [
+          1118,
+          9475,
+          1199,
+          9493
+        ],
+        "confidence": 1,
+        "text": "Academy"
+      },
+      {
+        "bbox_px": [
+          1118,
+          9509,
+          1225,
+          9525
+        ],
+        "confidence": 1,
+        "text": "Alternatives"
+      },
+      {
+        "bbox_px": [
+          1115,
+          9541,
+          1236,
+          9565
+        ],
+        "confidence": 1,
+        "text": "SEO Agencies"
+      },
+      {
+        "bbox_px": [
+          1115,
+          9577,
+          1178,
+          9598
+        ],
+        "confidence": 1,
+        "text": "Digest"
+      },
+      {
+        "bbox_px": [
+          1118,
+          9632,
+          1165,
+          9645
+        ],
+        "confidence": 1,
+        "text": "Social"
+      },
+      {
+        "bbox_px": [
+          1121,
+          9661,
+          1186,
+          9677
+        ],
+        "confidence": 1,
+        "text": "Twitter"
+      },
+      {
+        "bbox_px": [
+          1115,
+          9692,
+          1191,
+          9713
+        ],
+        "confidence": 1,
+        "text": "Youtube"
+      },
+      {
+        "bbox_px": [
+          1118,
+          9728,
+          1215,
+          9748
+        ],
+        "confidence": 1,
+        "text": "Instagram"
+      },
+      {
+        "bbox_px": [
+          1115,
+          9762,
+          1204,
+          9782
+        ],
+        "confidence": 1,
+        "text": "Facebook"
+      },
+      {
+        "bbox_px": [
+          537,
+          9609,
+          663,
+          9631
+        ],
+        "confidence": 1,
+        "text": "SERP Checker"
+      },
+      {
+        "bbox_px": [
+          537,
+          9643,
+          648,
+          9665
+        ],
+        "confidence": 1,
+        "text": "SEO Toolbar"
+      },
+      {
+        "bbox_px": [
+          539,
+          9679,
+          694,
+          9700
+        ],
+        "confidence": 1,
+        "text": "WordPress Plugin"
+      },
+      {
+        "bbox_px": [
+          537,
+          9712,
+          738,
+          9733
+        ],
+        "confidence": 1,
+        "text": "Keyword Rank Checker"
+      },
+      {
+        "bbox_px": [
+          537,
+          9743,
+          778,
+          9769
+        ],
+        "confidence": 1,
+        "text": "Keyword Difficulty Checker"
+      },
+      {
+        "bbox_px": [
+          537,
+          9777,
+          690,
+          9803
+        ],
+        "confidence": 1,
+        "text": "Website Checker"
+      },
+      {
+        "bbox_px": [
+          809,
+          9609,
+          954,
+          9631
+        ],
+        "confidence": 1,
+        "text": "GDS Connectors"
+      },
+      {
+        "bbox_px": [
+          1008,
+          9600,
+          1052,
+          9610
+        ],
+        "confidence": 0.5,
+        "text": "ream"
+      },
+      {
+        "bbox_px": [
+          1002,
+          9627,
+          1048,
+          9645
+        ],
+        "confidence": 1,
+        "text": "Jobs"
+      },
+      {
+        "bbox_px": [
+          1004,
+          9660,
+          1088,
+          9679
+        ],
+        "confidence": 1,
+        "text": "Media kit"
+      },
+      {
+        "bbox_px": [
+          1004,
+          9695,
+          1100,
+          9712
+        ],
+        "confidence": 1,
+        "text": "Contact us"
+      },
+      {
+        "bbox_px": [
+          1002,
+          9729,
+          1090,
+          9748
+        ],
+        "confidence": 1,
+        "text": "Legal info"
+      },
+      {
+        "bbox_px": [
+          1004,
+          9762,
+          1065,
+          9781
+        ],
+        "confidence": 1,
+        "text": "Events"
+      },
+      {
+        "bbox_px": [
+          177,
+          9915,
+          1042,
+          9938
+        ],
+        "confidence": 1,
+        "text": "© 2023 Ahrefs Pte. Ltd. (201227417H) 16 Raffles Quay, #33-03 Hong Leong Building, Singapore 048581"
+      },
+      {
+        "bbox_px": [
+          1119,
+          9631,
+          1167,
+          9648
+        ],
+        "confidence": 1,
+        "text": "Social"
+      },
+      {
+        "bbox_px": [
+          1119,
+          9660,
+          1186,
+          9679
+        ],
+        "confidence": 1,
+        "text": "Twitter"
+      },
+      {
+        "bbox_px": [
+          1119,
+          9693,
+          1191,
+          9713
+        ],
+        "confidence": 1,
+        "text": "Youtube"
+      },
+      {
+        "bbox_px": [
+          1119,
+          9729,
+          1212,
+          9749
+        ],
+        "confidence": 1,
+        "text": "Instagram"
+      },
+      {
+        "bbox_px": [
+          1119,
+          9762,
+          1203,
+          9781
+        ],
+        "confidence": 1,
+        "text": "Facebook"
+      },
+      {
+        "bbox_px": [
+          1119,
+          9798,
+          1195,
+          9815
+        ],
+        "confidence": 1,
+        "text": "Linkedin"
+      }
+    ],
+    "path": "screenshots/ahrefs.png",
+    "width": 1440
+  }
+]

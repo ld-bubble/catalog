@@ -1,0 +1,77 @@
+✨ Looking for app inspiration? Check out SaaS Interface ✨
+Inspiration
+App Inspiration
+Templates
+Advertise
+Visit Website
+Claude
+
+Claude is an advanced AI assistant that solves complex tasks, reasons through ideas, and generates content with precision. Whether it’s writing, researching, or coding, Claude integrates seamlessly into any workflow to help teams work faster.
+
+Fonts
+Anthropic Sans, Anthropic Serif
+Palette
+141413
+c96542
+FAF9F5
+Stacks
+Webflow
+Tags
+AI, Productivity
+Categories
+Landing page
+Date
+November 2025
+Sponsored
+Inspiration
+Landing pages
+Pricing pages
+About Us pages
+Features pages
+Blog pages
+Testimonials pages
+FAQ pages
+Contact Us pages
+Templates
+Framer
+Webflow
+React
+HTML
+Next.js
+Tailwind CSS
+Vue
+View all
+Resources
+Blog
+Resources & Tools
+Popular stacks
+React
+Next.js
+Tailwind CSS
+Webflow
+GSAP
+Framer
+WordPress
+View all
+Popular tags
+Productivity
+AI
+Code Tool
+Finance
+Design Tool
+B2B
+FinTech
+View all
+Popular fonts
+Inter
+Graphik
+Geist Sans
+Suisse Int'l
+Roobert
+Geist Mono
+Tiempos Headline
+View all
+Advertise on SLP
+ Privacy Policy
+Day / Night toggle
+A project by Davide Pacilio.

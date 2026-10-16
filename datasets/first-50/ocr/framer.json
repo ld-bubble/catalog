@@ -1,0 +1,5099 @@
+[
+  {
+    "height": 11260,
+    "lines": [
+      {
+        "bbox_px": [
+          164,
+          26,
+          219,
+          39
+        ],
+        "confidence": 1,
+        "text": "Product"
+      },
+      {
+        "bbox_px": [
+          232,
+          26,
+          316,
+          41
+        ],
+        "confidence": 1,
+        "text": "Community"
+      },
+      {
+        "bbox_px": [
+          331,
+          26,
+          405,
+          39
+        ],
+        "confidence": 1,
+        "text": "Resources"
+      },
+      {
+        "bbox_px": [
+          425,
+          26,
+          493,
+          41
+        ],
+        "confidence": 1,
+        "text": "Enterprise"
+      },
+      {
+        "bbox_px": [
+          514,
+          26,
+          561,
+          41
+        ],
+        "confidence": 1,
+        "text": "Pricing"
+      },
+      {
+        "bbox_px": [
+          120,
+          164,
+          436,
+          181
+        ],
+        "confidence": 1,
+        "text": "Framer 3.0 is here See everything we shipped →"
+      },
+      {
+        "bbox_px": [
+          122,
+          214,
+          567,
+          267
+        ],
+        "confidence": 1,
+        "text": "Design with agents."
+      },
+      {
+        "bbox_px": [
+          119,
+          266,
+          598,
+          316
+        ],
+        "confidence": 1,
+        "text": "Refine on the canvas."
+      },
+      {
+        "bbox_px": [
+          117,
+          321,
+          588,
+          374
+        ],
+        "confidence": 1,
+        "text": "Ship with your team."
+      },
+      {
+        "bbox_px": [
+          133,
+          405,
+          258,
+          421
+        ],
+        "confidence": 1,
+        "text": "Get started for free"
+      },
+      {
+        "bbox_px": [
+          292,
+          405,
+          389,
+          421
+        ],
+        "confidence": 1,
+        "text": "Download app"
+      },
+      {
+        "bbox_px": [
+          138,
+          504,
+          219,
+          523
+        ],
+        "confidence": 1,
+        "text": "* Canvas ~"
+      },
+      {
+        "bbox_px": [
+          138,
+          558,
+          183,
+          573
+        ],
+        "confidence": 1,
+        "text": "Pages"
+      },
+      {
+        "bbox_px": [
+          198,
+          559,
+          250,
+          572
+        ],
+        "confidence": 1,
+        "text": "Layers"
+      },
+      {
+        "bbox_px": [
+          253,
+          557,
+          303,
+          570
+        ],
+        "confidence": 1,
+        "text": "Assets"
+      },
+      {
+        "bbox_px": [
+          138,
+          605,
+          217,
+          623
+        ],
+        "confidence": 1,
+        "text": "Q Search..."
+      },
+      {
+        "bbox_px": [
+          132,
+          655,
+          175,
+          674
+        ],
+        "confidence": 1,
+        "text": "Pages"
+      },
+      {
+        "bbox_px": [
+          154,
+          695,
+          214,
+          711
+        ],
+        "confidence": 1,
+        "text": "Q Home"
+      },
+      {
+        "bbox_px": [
+          172,
+          727,
+          214,
+          740
+        ],
+        "confidence": 1,
+        "text": "/work"
+      },
+      {
+        "bbox_px": [
+          193,
+          758,
+          271,
+          772
+        ],
+        "confidence": 1,
+        "text": "Work Pages"
+      },
+      {
+        "bbox_px": [
+          175,
+          787,
+          235,
+          800
+        ],
+        "confidence": 1,
+        "text": "/services"
+      },
+      {
+        "bbox_px": [
+          156,
+          816,
+          219,
+          832
+        ],
+        "confidence": 1,
+        "text": "• /about"
+      },
+      {
+        "bbox_px": [
+          156,
+          847,
+          229,
+          861
+        ],
+        "confidence": 1,
+        "text": "• /contact"
+      },
+      {
+        "bbox_px": [
+          153,
+          875,
+          217,
+          893
+        ],
+        "confidence": 1,
+        "text": "• /news"
+      },
+      {
+        "bbox_px": [
+          138,
+          907,
+          172,
+          920
+        ],
+        "confidence": 0.30000001192092896,
+        "text": "• 0"
+      },
+      {
+        "bbox_px": [
+          172,
+          907,
+          214,
+          923
+        ],
+        "confidence": 1,
+        "text": "/legal"
+      },
+      {
+        "bbox_px": [
+          190,
+          938,
+          248,
+          953
+        ],
+        "confidence": 1,
+        "text": "/priv›1cy"
+      },
+      {
+        "bbox_px": [
+          190,
+          968,
+          237,
+          981
+        ],
+        "confidence": 1,
+        "text": "/terms"
+      },
+      {
+        "bbox_px": [
+          674,
+          507,
+          757,
+          520
+        ],
+        "confidence": 1,
+        "text": "Site • 1° main"
+      },
+      {
+        "bbox_px": [
+          1189,
+          507,
+          1228,
+          520
+        ],
+        "confidence": 1,
+        "text": "Invite"
+      },
+      {
+        "bbox_px": [
+          1251,
+          507,
+          1298,
+          520
+        ],
+        "confidence": 1,
+        "text": "Publish"
+      },
+      {
+        "bbox_px": [
+          462,
+          606,
+          564,
+          622
+        ],
+        "confidence": 1,
+        "text": "Desktop 1200"
+      },
+      {
+        "bbox_px": [
+          470,
+          648,
+          522,
+          661
+        ],
+        "confidence": 1,
+        "text": "Haus"
+      },
+      {
+        "bbox_px": [
+          470,
+          745,
+          773,
+          774
+        ],
+        "confidence": 1,
+        "text": "We are a multidisciplinary"
+      },
+      {
+        "bbox_px": [
+          470,
+          777,
+          789,
+          803
+        ],
+        "confidence": 1,
+        "text": "creative studio specializing"
+      },
+      {
+        "bbox_px": [
+          467,
+          805,
+          726,
+          829
+        ],
+        "confidence": 1,
+        "text": "in digital experiences."
+      },
+      {
+        "bbox_px": [
+          812,
+          648,
+          966,
+          662
+        ],
+        "confidence": 1,
+        "text": "Work Services About Getin Touch"
+      },
+      {
+        "bbox_px": [
+          1076,
+          557,
+          1115,
+          572
+        ],
+        "confidence": 1,
+        "text": "Agent"
+      },
+      {
+        "bbox_px": [
+          1131,
+          557,
+          1165,
+          572
+        ],
+        "confidence": 1,
+        "text": "Style"
+      },
+      {
+        "bbox_px": [
+          1076,
+          606,
+          1176,
+          620
+        ],
+        "confidence": 1,
+        "text": "New Hero Ticker"
+      },
+      {
+        "bbox_px": [
+          1076,
+          658,
+          1243,
+          675
+        ],
+        "confidence": 1,
+        "text": "Add a 3D image ticker to the"
+      },
+      {
+        "bbox_px": [
+          1073,
+          677,
+          1251,
+          695
+        ],
+        "confidence": 1,
+        "text": "hero section and write a short"
+      },
+      {
+        "bbox_px": [
+          1074,
+          695,
+          1259,
+          709
+        ],
+        "confidence": 1,
+        "text": "introduction about Haus studio."
+      },
+      {
+        "bbox_px": [
+          912,
+          821,
+          966,
+          826
+        ],
+        "confidence": 0.30000001192092896,
+        "text": "(sçro.. cown)"
+      },
+      {
+        "bbox_px": [
+          470,
+          1169,
+          522,
+          1182
+        ],
+        "confidence": 1,
+        "text": "Services"
+      },
+      {
+        "bbox_px": [
+          632,
+          1169,
+          710,
+          1183
+        ],
+        "confidence": 1,
+        "text": "Brand Identity"
+      },
+      {
+        "bbox_px": [
+          770,
+          1245,
+          828,
+          1261
+        ],
+        "confidence": 1,
+        "text": "100% v"
+      },
+      {
+        "bbox_px": [
+          1076,
+          790,
+          1155,
+          803
+        ],
+        "confidence": 1,
+        "text": "Thought 12s"
+      },
+      {
+        "bbox_px": [
+          1076,
+          813,
+          1225,
+          827
+        ],
+        "confidence": 1,
+        "text": "Analyzed hero section 3s"
+      },
+      {
+        "bbox_px": [
+          1074,
+          839,
+          1270,
+          856
+        ],
+        "confidence": 1,
+        "text": "Ill replace the selected text area"
+      },
+      {
+        "bbox_px": [
+          1076,
+          858,
+          1285,
+          871
+        ],
+        "confidence": 1,
+        "text": "with a Haus intro and add an image"
+      },
+      {
+        "bbox_px": [
+          1074,
+          873,
+          1277,
+          889
+        ],
+        "confidence": 1,
+        "text": "ticker using your attoched images."
+      },
+      {
+        "bbox_px": [
+          1076,
+          905,
+          1199,
+          926
+        ],
+        "confidence": 1,
+        "text": "E Adding Images..."
+      },
+      {
+        "bbox_px": [
+          1076,
+          941,
+          1275,
+          958
+        ],
+        "confidence": 1,
+        "text": "Done. I replaced the selected text"
+      },
+      {
+        "bbox_px": [
+          1074,
+          959,
+          1254,
+          973
+        ],
+        "confidence": 1,
+        "text": "block with Haus focused copy"
+      },
+      {
+        "bbox_px": [
+          1076,
+          975,
+          1251,
+          988
+        ],
+        "confidence": 1,
+        "text": "and added a horizontal image"
+      },
+      {
+        "bbox_px": [
+          1074,
+          994,
+          1270,
+          1007
+        ],
+        "confidence": 1,
+        "text": "ticker using the provided images."
+      },
+      {
+        "bbox_px": [
+          1074,
+          1019,
+          1293,
+          1036
+        ],
+        "confidence": 1,
+        "text": "Do you want to add tablet and phone"
+      },
+      {
+        "bbox_px": [
+          1076,
+          1038,
+          1280,
+          1052
+        ],
+        "confidence": 1,
+        "text": "breakpoints to make it responsive?"
+      },
+      {
+        "bbox_px": [
+          1076,
+          1075,
+          1131,
+          1090
+        ],
+        "confidence": 1,
+        "text": "Changes"
+      },
+      {
+        "bbox_px": [
+          1259,
+          1075,
+          1293,
+          1088
+        ],
+        "confidence": 1,
+        "text": "Undo"
+      },
+      {
+        "bbox_px": [
+          1076,
+          1111,
+          1136,
+          1128
+        ],
+        "confidence": 1,
+        "text": "Q Home"
+      },
+      {
+        "bbox_px": [
+          1238,
+          1111,
+          1298,
+          1125
+        ],
+        "confidence": 1,
+        "text": "17 Layers"
+      },
+      {
+        "bbox_px": [
+          1074,
+          1168,
+          1170,
+          1185
+        ],
+        "confidence": 1,
+        "text": "Add follow up..."
+      },
+      {
+        "bbox_px": [
+          1076,
+          1250,
+          1139,
+          1266
+        ],
+        "confidence": 1,
+        "text": "GPT 5.5 v"
+      },
+      {
+        "bbox_px": [
+          117,
+          1493,
+          501,
+          1538
+        ],
+        "confidence": 1,
+        "text": "Shipped with Framer"
+      },
+      {
+        "bbox_px": [
+          488,
+          1575,
+          619,
+          1588
+        ],
+        "confidence": 1,
+        "text": "London 13:42:42 New York 08:42:42"
+      },
+      {
+        "bbox_px": [
+          465,
+          1603,
+          501,
+          1614
+        ],
+        "confidence": 1,
+        "text": "Book a cal"
+      },
+      {
+        "bbox_px": [
+          815,
+          1606,
+          851,
+          1619
+        ],
+        "confidence": 0.30000001192092896,
+        "text": "1BCOaLE"
+      },
+      {
+        "bbox_px": [
+          896,
+          1602,
+          980,
+          1638
+        ],
+        "confidence": 1,
+        "text": "ORO"
+      },
+      {
+        "bbox_px": [
+          1194,
+          1506,
+          1306,
+          1520
+        ],
+        "confidence": 1,
+        "text": "See Framer sites"
+      },
+      {
+        "bbox_px": [
+          1264,
+          1601,
+          1322,
+          1632
+        ],
+        "confidence": 1,
+        "text": "ORC"
+      },
+      {
+        "bbox_px": [
+          128,
+          1796,
+          210,
+          1878
+        ],
+        "confidence": 1,
+        "text": "H100"
+      },
+      {
+        "bbox_px": [
+          117,
+          1950,
+          146,
+          1971
+        ],
+        "confidence": 1,
+        "text": "ps"
+      },
+      {
+        "bbox_px": [
+          232,
+          2133,
+          337,
+          2149
+        ],
+        "confidence": 1,
+        "text": "Oo Tripadvisor"
+      },
+      {
+        "bbox_px": [
+          227,
+          2190,
+          334,
+          2228
+        ],
+        "confidence": 1,
+        "text": "Ch1se"
+      },
+      {
+        "bbox_px": [
+          201,
+          2229,
+          365,
+          2259
+        ],
+        "confidence": 1,
+        "text": "the Match"
+      },
+      {
+        "bbox_px": [
+          435,
+          2399,
+          539,
+          2435
+        ],
+        "confidence": 1,
+        "text": "Dribbble"
+      },
+      {
+        "bbox_px": [
+          439,
+          2473,
+          535,
+          2497
+        ],
+        "confidence": 1,
+        "text": "Cal.com"
+      },
+      {
+        "bbox_px": [
+          588,
+          2405,
+          687,
+          2429
+        ],
+        "confidence": 1,
+        "text": "LEGORA"
+      },
+      {
+        "bbox_px": [
+          587,
+          2476,
+          690,
+          2500
+        ],
+        "confidence": 1,
+        "text": "mixpanel"
+      },
+      {
+        "bbox_px": [
+          120,
+          2803,
+          619,
+          2848
+        ],
+        "confidence": 1,
+        "text": "Agents that work alongside"
+      },
+      {
+        "bbox_px": [
+          119,
+          2848,
+          541,
+          2898
+        ],
+        "confidence": 1,
+        "text": "you, not instead of you"
+      },
+      {
+        "bbox_px": [
+          182,
+          2999,
+          253,
+          3012
+        ],
+        "confidence": 1,
+        "text": "Exploration"
+      },
+      {
+        "bbox_px": [
+          451,
+          2996,
+          590,
+          3016
+        ],
+        "confidence": 1,
+        "text": "Exploration - Big Intro"
+      },
+      {
+        "bbox_px": [
+          206,
+          3050,
+          410,
+          3101
+        ],
+        "confidence": 1,
+        "text": "Haus"
+      },
+      {
+        "bbox_px": [
+          896,
+          1605,
+          980,
+          1636
+        ],
+        "confidence": 1,
+        "text": "ORO"
+      },
+      {
+        "bbox_px": [
+          1264,
+          1600,
+          1325,
+          1631
+        ],
+        "confidence": 1,
+        "text": "OR("
+      },
+      {
+        "bbox_px": [
+          802,
+          1675,
+          851,
+          1717
+        ],
+        "confidence": 1,
+        "text": "LE,"
+      },
+      {
+        "bbox_px": [
+          759,
+          1738,
+          852,
+          1784
+        ],
+        "confidence": 0.5,
+        "text": "ĚLLē"
+      },
+      {
+        "bbox_px": [
+          893,
+          1916,
+          1061,
+          1932
+        ],
+        "confidence": 1,
+        "text": "Your data is the most valuable"
+      },
+      {
+        "bbox_px": [
+          896,
+          1932,
+          1061,
+          1947
+        ],
+        "confidence": 1,
+        "text": "commodity in the Al world. It's"
+      },
+      {
+        "bbox_px": [
+          875,
+          1947,
+          1045,
+          1961
+        ],
+        "confidence": 1,
+        "text": "time you get rewarded tor it"
+      },
+      {
+        "bbox_px": [
+          729,
+          2039,
+          778,
+          2052
+        ],
+        "confidence": 1,
+        "text": "LEGORA"
+      },
+      {
+        "bbox_px": [
+          1126,
+          1989,
+          1162,
+          2005
+        ],
+        "confidence": 1,
+        "text": "ORO"
+      },
+      {
+        "bbox_px": [
+          1115,
+          2039,
+          1155,
+          2055
+        ],
+        "confidence": 1,
+        "text": "rogo"
+      },
+      {
+        "bbox_px": [
+          1149,
+          2182,
+          1288,
+          2210
+        ],
+        "confidence": 1,
+        "text": "For the most"
+      },
+      {
+        "bbox_px": [
+          1133,
+          2205,
+          1299,
+          2238
+        ],
+        "confidence": 1,
+        "text": "ambitious firms"
+      },
+      {
+        "bbox_px": [
+          1173,
+          2232,
+          1288,
+          2251
+        ],
+        "confidence": 1,
+        "text": "in finance"
+      },
+      {
+        "bbox_px": [
+          1157,
+          2264,
+          1288,
+          2277
+        ],
+        "confidence": 1,
+        "text": "Rogo is the trusted Al partner to the"
+      },
+      {
+        "bbox_px": [
+          752,
+          2405,
+          841,
+          2429
+        ],
+        "confidence": 1,
+        "text": "_zapier"
+      },
+      {
+        "bbox_px": [
+          752,
+          2470,
+          841,
+          2499
+        ],
+        "confidence": 1,
+        "text": "M miro"
+      },
+      {
+        "bbox_px": [
+          896,
+          2405,
+          1006,
+          2432
+        ],
+        "confidence": 1,
+        "text": "W perplexity"
+      },
+      {
+        "bbox_px": [
+          899,
+          2478,
+          1014,
+          2494
+        ],
+        "confidence": 1,
+        "text": "→ DOORDASH"
+      },
+      {
+        "bbox_px": [
+          1193,
+          2860,
+          1307,
+          2880
+        ],
+        "confidence": 1,
+        "text": "Start with agents"
+      },
+      {
+        "bbox_px": [
+          723,
+          2997,
+          865,
+          3013
+        ],
+        "confidence": 1,
+        "text": "Exploration - Side Nav"
+      },
+      {
+        "bbox_px": [
+          1079,
+          2954,
+          1147,
+          2971
+        ],
+        "confidence": 1,
+        "text": "• Desktop"
+      },
+      {
+        "bbox_px": [
+          1147,
+          2955,
+          1267,
+          2971
+        ],
+        "confidence": 1,
+        "text": "Create a few layout"
+      },
+      {
+        "bbox_px": [
+          1076,
+          2973,
+          1233,
+          2989
+        ],
+        "confidence": 1,
+        "text": "variations of my site. Keep"
+      },
+      {
+        "bbox_px": [
+          1076,
+          2991,
+          1223,
+          3005
+        ],
+        "confidence": 1,
+        "text": "the content but try some"
+      },
+      {
+        "bbox_px": [
+          1076,
+          3007,
+          1215,
+          3023
+        ],
+        "confidence": 1,
+        "text": "different compositions."
+      },
+      {
+        "bbox_px": [
+          1075,
+          3049,
+          1142,
+          3068
+        ],
+        "confidence": 1,
+        "text": "Thinking..."
+      },
+      {
+        "bbox_px": [
+          1076,
+          3082,
+          1231,
+          3100
+        ],
+        "confidence": 1,
+        "text": "• Created a design plan"
+      },
+      {
+        "bbox_px": [
+          1076,
+          3116,
+          1296,
+          3133
+        ],
+        "confidence": 1,
+        "text": "Placing layout variations side by side."
+      },
+      {
+        "bbox_px": [
+          146,
+          3445,
+          321,
+          3466
+        ],
+        "confidence": 1,
+        "text": "Design with an agent"
+      },
+      {
+        "bbox_px": [
+          146,
+          3474,
+          616,
+          3496
+        ],
+        "confidence": 1,
+        "text": "A professional design agent, native to the canvas. It works"
+      },
+      {
+        "bbox_px": [
+          146,
+          3498,
+          598,
+          3521
+        ],
+        "confidence": 1,
+        "text": "directly on your site to generate and refine in place, with"
+      },
+      {
+        "bbox_px": [
+          143,
+          3523,
+          582,
+          3542
+        ],
+        "confidence": 1,
+        "text": "every change visible, editable, and under your control."
+      },
+      {
+        "bbox_px": [
+          1073,
+          3451,
+          1171,
+          3470
+        ],
+        "confidence": 1,
+        "text": "Add follow up..."
+      },
+      {
+        "bbox_px": [
+          1076,
+          3537,
+          1139,
+          3551
+        ],
+        "confidence": 1,
+        "text": "GPT 5.5 v"
+      },
+      {
+        "bbox_px": [
+          193,
+          3707,
+          261,
+          3723
+        ],
+        "confidence": 1,
+        "text": "* CMS ~"
+      },
+      {
+        "bbox_px": [
+          603,
+          3707,
+          687,
+          3723
+        ],
+        "confidence": 1,
+        "text": "Site • 19 main"
+      },
+      {
+        "bbox_px": [
+          193,
+          3759,
+          263,
+          3772
+        ],
+        "confidence": 1,
+        "text": "Collections"
+      },
+      {
+        "bbox_px": [
+          276,
+          3758,
+          321,
+          3773
+        ],
+        "confidence": 1,
+        "text": "Fields"
+      },
+      {
+        "bbox_px": [
+          331,
+          3759,
+          381,
+          3772
+        ],
+        "confidence": 1,
+        "text": "Plugins"
+      },
+      {
+        "bbox_px": [
+          193,
+          3809,
+          290,
+          3823
+        ],
+        "confidence": 1,
+        "text": "› • Academy"
+      },
+      {
+        "bbox_px": [
+          193,
+          3838,
+          261,
+          3854
+        ],
+        "confidence": 1,
+        "text": "• B Blog"
+      },
+      {
+        "bbox_px": [
+          229,
+          3869,
+          300,
+          3883
+        ],
+        "confidence": 1,
+        "text": "• Articles"
+      },
+      {
+        "bbox_px": [
+          253,
+          3898,
+          305,
+          3911
+        ],
+        "confidence": 1,
+        "text": "Creators"
+      },
+      {
+        "bbox_px": [
+          245,
+          3928,
+          321,
+          3943
+        ],
+        "confidence": 1,
+        "text": "Categories"
+      },
+      {
+        "bbox_px": [
+          229,
+          3957,
+          292,
+          3972
+        ],
+        "confidence": 1,
+        "text": "g Styles"
+      },
+      {
+        "bbox_px": [
+          203,
+          3987,
+          300,
+          4003
+        ],
+        "confidence": 1,
+        "text": "B Developers"
+      },
+      {
+        "bbox_px": [
+          193,
+          4018,
+          284,
+          4031
+        ],
+        "confidence": 1,
+        "text": "› • Startups"
+      },
+      {
+        "bbox_px": [
+          193,
+          4047,
+          261,
+          4063
+        ],
+        "confidence": 1,
+        "text": "› B Help"
+      },
+      {
+        "bbox_px": [
+          449,
+          3757,
+          574,
+          3775
+        ],
+        "confidence": 0.30000001192092896,
+        "text": "+N=Q"
+      },
+      {
+        "bbox_px": [
+          514,
+          3809,
+          546,
+          3822
+        ],
+        "confidence": 1,
+        "text": "Title"
+      },
+      {
+        "bbox_px": [
+          514,
+          3858,
+          689,
+          3875
+        ],
+        "confidence": 1,
+        "text": "Designing calmer interfac..."
+      },
+      {
+        "bbox_px": [
+          720,
+          3807,
+          766,
+          3825
+        ],
+        "confidence": 1,
+        "text": "Image"
+      },
+      {
+        "bbox_px": [
+          392,
+          3869,
+          418,
+          3880
+        ],
+        "confidence": 1,
+        "text": "320"
+      },
+      {
+        "bbox_px": [
+          392,
+          3898,
+          418,
+          3911
+        ],
+        "confidence": 1,
+        "text": "256"
+      },
+      {
+        "bbox_px": [
+          399,
+          3927,
+          418,
+          3940
+        ],
+        "confidence": 1,
+        "text": "18"
+      },
+      {
+        "bbox_px": [
+          514,
+          3909,
+          692,
+          3925
+        ],
+        "confidence": 1,
+        "text": "Organic shapes and natur..."
+      },
+      {
+        "bbox_px": [
+          514,
+          3958,
+          658,
+          3974
+        ],
+        "confidence": 1,
+        "text": "Earthy color palettes..."
+      },
+      {
+        "bbox_px": [
+          514,
+          4007,
+          689,
+          4024
+        ],
+        "confidence": 1,
+        "text": "Designing with growth: ho..."
+      },
+      {
+        "bbox_px": [
+          514,
+          4058,
+          658,
+          4074
+        ],
+        "confidence": 1,
+        "text": "From forests to pixels:."
+      },
+      {
+        "bbox_px": [
+          815,
+          3807,
+          878,
+          3825
+        ],
+        "confidence": 1,
+        "text": "Category"
+      },
+      {
+        "bbox_px": [
+          823,
+          3856,
+          909,
+          3872
+        ],
+        "confidence": 1,
+        "text": "Inspiration v"
+      },
+      {
+        "bbox_px": [
+          823,
+          3906,
+          891,
+          3922
+        ],
+        "confidence": 1,
+        "text": "Product v"
+      },
+      {
+        "bbox_px": [
+          823,
+          3958,
+          909,
+          3972
+        ],
+        "confidence": 1,
+        "text": "Inspiration v"
+      },
+      {
+        "bbox_px": [
+          825,
+          4008,
+          880,
+          4022
+        ],
+        "confidence": 1,
+        "text": "Guide ~"
+      },
+      {
+        "bbox_px": [
+          823,
+          4058,
+          885,
+          4074
+        ],
+        "confidence": 1,
+        "text": "Design ~"
+      },
+      {
+        "bbox_px": [
+          943,
+          3806,
+          985,
+          3822
+        ],
+        "confidence": 1,
+        "text": "Status"
+      },
+      {
+        "bbox_px": [
+          951,
+          3858,
+          993,
+          3872
+        ],
+        "confidence": 1,
+        "text": "Live y"
+      },
+      {
+        "bbox_px": [
+          951,
+          3908,
+          993,
+          3922
+        ],
+        "confidence": 1,
+        "text": "Live y"
+      },
+      {
+        "bbox_px": [
+          951,
+          3958,
+          993,
+          3972
+        ],
+        "confidence": 1,
+        "text": "Live y"
+      },
+      {
+        "bbox_px": [
+          951,
+          4008,
+          993,
+          4022
+        ],
+        "confidence": 1,
+        "text": "Live y"
+      },
+      {
+        "bbox_px": [
+          146,
+          4146,
+          384,
+          4165
+        ],
+        "confidence": 1,
+        "text": "Run your CMS with an agent"
+      },
+      {
+        "bbox_px": [
+          146,
+          4175,
+          585,
+          4194
+        ],
+        "confidence": 1,
+        "text": "Manage more. Publish faster. The CMS agent sets up,"
+      },
+      {
+        "bbox_px": [
+          148,
+          4198,
+          588,
+          4220
+        ],
+        "confidence": 1,
+        "text": "organizes, and updates your entire CMS, connecting it"
+      },
+      {
+        "bbox_px": [
+          146,
+          4225,
+          608,
+          4244
+        ],
+        "confidence": 1,
+        "text": "directly to the canvas so content and design stay in sync."
+      },
+      {
+        "bbox_px": [
+          138,
+          4368,
+          217,
+          4386
+        ],
+        "confidence": 1,
+        "text": "ImageWheel"
+      },
+      {
+        "bbox_px": [
+          148,
+          4845,
+          311,
+          4867
+        ],
+        "confidence": 1,
+        "text": "Code with an agent"
+      },
+      {
+        "bbox_px": [
+          146,
+          4872,
+          473,
+          4896
+        ],
+        "confidence": 1,
+        "text": "Agents turn your wildest ideas into code"
+      },
+      {
+        "bbox_px": [
+          146,
+          4900,
+          462,
+          4919
+        ],
+        "confidence": 1,
+        "text": "and put them on your site. From simple"
+      },
+      {
+        "bbox_px": [
+          146,
+          4923,
+          467,
+          4944
+        ],
+        "confidence": 1,
+        "text": "custom effects to complex interactions."
+      },
+      {
+        "bbox_px": [
+          148,
+          4846,
+          310,
+          4865
+        ],
+        "confidence": 1,
+        "text": "Code with an agent"
+      },
+      {
+        "bbox_px": [
+          146,
+          4875,
+          473,
+          4894
+        ],
+        "confidence": 1,
+        "text": "Agents turn your wildest ideas into code"
+      },
+      {
+        "bbox_px": [
+          146,
+          4898,
+          462,
+          4917
+        ],
+        "confidence": 1,
+        "text": "and put them on your site. From simple"
+      },
+      {
+        "bbox_px": [
+          146,
+          4922,
+          467,
+          4941
+        ],
+        "confidence": 1,
+        "text": "custom effects to complex interactions."
+      },
+      {
+        "bbox_px": [
+          256,
+          5105,
+          381,
+          5114
+        ],
+        "confidence": 1,
+        "text": "Framing product wortas"
+      },
+      {
+        "bbox_px": [
+          256,
+          5116,
+          373,
+          5130
+        ],
+        "confidence": 1,
+        "text": "through a language of"
+      },
+      {
+        "bbox_px": [
+          253,
+          5129,
+          373,
+          5142
+        ],
+        "confidence": 1,
+        "text": "light, glass and speed"
+      },
+      {
+        "bbox_px": [
+          428,
+          5105,
+          540,
+          5114
+        ],
+        "confidence": 1,
+        "text": "Letting Dlur ana color"
+      },
+      {
+        "bbox_px": [
+          428,
+          5116,
+          546,
+          5130
+        ],
+        "confidence": 1,
+        "text": "carry the entire mood"
+      },
+      {
+        "bbox_px": [
+          428,
+          5129,
+          517,
+          5142
+        ],
+        "confidence": 1,
+        "text": "of a living brand"
+      },
+      {
+        "bbox_px": [
+          425,
+          5147,
+          467,
+          5161
+        ],
+        "confidence": 1,
+        "text": "Dec 2025"
+      },
+      {
+        "bbox_px": [
+          601,
+          5105,
+          721,
+          5114
+        ],
+        "confidence": 1,
+        "text": "Designing speea Into a"
+      },
+      {
+        "bbox_px": [
+          598,
+          5116,
+          729,
+          5130
+        ],
+        "confidence": 1,
+        "text": "sharp, performance-led"
+      },
+      {
+        "bbox_px": [
+          601,
+          5129,
+          718,
+          5142
+        ],
+        "confidence": 1,
+        "text": "visual identity system"
+      },
+      {
+        "bbox_px": [
+          601,
+          5147,
+          640,
+          5161
+        ],
+        "confidence": 1,
+        "text": "Nov 2025"
+      },
+      {
+        "bbox_px": [
+          253,
+          5351,
+          384,
+          5365
+        ],
+        "confidence": 1,
+        "text": "How the camera quietly"
+      },
+      {
+        "bbox_px": [
+          253,
+          5367,
+          365,
+          5375
+        ],
+        "confidence": 1,
+        "text": "becomes a character"
+      },
+      {
+        "bbox_px": [
+          253,
+          5380,
+          373,
+          5394
+        ],
+        "confidence": 1,
+        "text": "within the wider story"
+      },
+      {
+        "bbox_px": [
+          256,
+          5401,
+          290,
+          5407
+        ],
+        "confidence": 1,
+        "text": "0ct 2025"
+      },
+      {
+        "bbox_px": [
+          256,
+          5445,
+          324,
+          5456
+        ],
+        "confidence": 1,
+        "text": "02026 Haus Studid"
+      },
+      {
+        "bbox_px": [
+          428,
+          5351,
+          540,
+          5365
+        ],
+        "confidence": 1,
+        "text": "Finding beauty in the"
+      },
+      {
+        "bbox_px": [
+          428,
+          5365,
+          533,
+          5378
+        ],
+        "confidence": 1,
+        "text": "blurred frames that"
+      },
+      {
+        "bbox_px": [
+          425,
+          5380,
+          535,
+          5394
+        ],
+        "confidence": 1,
+        "text": "most cameras miss"
+      },
+      {
+        "bbox_px": [
+          428,
+          5396,
+          467,
+          5410
+        ],
+        "confidence": 1,
+        "text": "Sep 2025"
+      },
+      {
+        "bbox_px": [
+          601,
+          5351,
+          729,
+          5365
+        ],
+        "confidence": 1,
+        "text": "Turning everyday digital"
+      },
+      {
+        "bbox_px": [
+          601,
+          5364,
+          710,
+          5378
+        ],
+        "confidence": 1,
+        "text": "tools into cinematic,"
+      },
+      {
+        "bbox_px": [
+          598,
+          5380,
+          713,
+          5394
+        ],
+        "confidence": 1,
+        "text": "atmospheric scenes"
+      },
+      {
+        "bbox_px": [
+          601,
+          5396,
+          640,
+          5410
+        ],
+        "confidence": 1,
+        "text": "Aug 2025"
+      },
+      {
+        "bbox_px": [
+          154,
+          5548,
+          300,
+          5567
+        ],
+        "confidence": 1,
+        "text": "Connect to any Al"
+      },
+      {
+        "bbox_px": [
+          151,
+          5577,
+          679,
+          5595
+        ],
+        "confidence": 1,
+        "text": "Take action on your site from anywhere. Update copy from Slack."
+      },
+      {
+        "bbox_px": [
+          154,
+          5600,
+          729,
+          5619
+        ],
+        "confidence": 1,
+        "text": "Trigger CMS changes from the terminal. Ship from a GitHub PR. Drive it"
+      },
+      {
+        "bbox_px": [
+          151,
+          5623,
+          721,
+          5645
+        ],
+        "confidence": 1,
+        "text": "all from your Terminal, Codex, Claude Code, Cursor, or any external Al."
+      },
+      {
+        "bbox_px": [
+          119,
+          5957,
+          379,
+          6006
+        ],
+        "confidence": 1,
+        "text": "Not just vibes,"
+      },
+      {
+        "bbox_px": [
+          119,
+          6006,
+          379,
+          6054
+        ],
+        "confidence": 1,
+        "text": "a full platform"
+      },
+      {
+        "bbox_px": [
+          169,
+          6193,
+          279,
+          6210
+        ],
+        "confidence": 1,
+        "text": "Core Web Vitals"
+      },
+      {
+        "bbox_px": [
+          167,
+          6238,
+          217,
+          6255
+        ],
+        "confidence": 1,
+        "text": "LCP 0"
+      },
+      {
+        "bbox_px": [
+          164,
+          6301,
+          211,
+          6320
+        ],
+        "confidence": 1,
+        "text": "INP ©"
+      },
+      {
+        "bbox_px": [
+          167,
+          6364,
+          216,
+          6383
+        ],
+        "confidence": 1,
+        "text": "CLS ®"
+      },
+      {
+        "bbox_px": [
+          428,
+          6197,
+          467,
+          6210
+        ],
+        "confidence": 1,
+        "text": "GOOD"
+      },
+      {
+        "bbox_px": [
+          446,
+          6241,
+          473,
+          6254
+        ],
+        "confidence": 1,
+        "text": "1.1s"
+      },
+      {
+        "bbox_px": [
+          428,
+          6301,
+          473,
+          6317
+        ],
+        "confidence": 1,
+        "text": "95ms"
+      },
+      {
+        "bbox_px": [
+          441,
+          6364,
+          473,
+          6380
+        ],
+        "confidence": 1,
+        "text": "0.01"
+      },
+      {
+        "bbox_px": [
+          143,
+          6515,
+          271,
+          6534
+        ],
+        "confidence": 1,
+        "text": "Performance →"
+      },
+      {
+        "bbox_px": [
+          582,
+          6150,
+          655,
+          6163
+        ],
+        "confidence": 1,
+        "text": "Collections"
+      },
+      {
+        "bbox_px": [
+          671,
+          6150,
+          713,
+          6163
+        ],
+        "confidence": 1,
+        "text": "Fields"
+      },
+      {
+        "bbox_px": [
+          582,
+          6199,
+          656,
+          6215
+        ],
+        "confidence": 1,
+        "text": "› • Blog"
+      },
+      {
+        "bbox_px": [
+          588,
+          6227,
+          676,
+          6244
+        ],
+        "confidence": 1,
+        "text": "› B Careers"
+      },
+      {
+        "bbox_px": [
+          582,
+          6259,
+          669,
+          6273
+        ],
+        "confidence": 1,
+        "text": "• B Events"
+      },
+      {
+        "bbox_px": [
+          644,
+          6288,
+          716,
+          6306
+        ],
+        "confidence": 1,
+        "text": "Categories"
+      },
+      {
+        "bbox_px": [
+          627,
+          6319,
+          705,
+          6333
+        ],
+        "confidence": 1,
+        "text": "• Speakers"
+      },
+      {
+        "bbox_px": [
+          624,
+          6348,
+          682,
+          6364
+        ],
+        "confidence": 1,
+        "text": "9 Talks"
+      },
+      {
+        "bbox_px": [
+          585,
+          6379,
+          679,
+          6393
+        ],
+        "confidence": 1,
+        "text": "› B Startups"
+      },
+      {
+        "bbox_px": [
+          582,
+          6409,
+          658,
+          6425
+        ],
+        "confidence": 1,
+        "text": "› B Help"
+      },
+      {
+        "bbox_px": [
+          603,
+          6440,
+          663,
+          6453
+        ],
+        "confidence": 1,
+        "text": "+ Add..."
+      },
+      {
+        "bbox_px": [
+          540,
+          6516,
+          606,
+          6537
+        ],
+        "confidence": 1,
+        "text": "CMS →"
+      },
+      {
+        "bbox_px": [
+          794,
+          6288,
+          812,
+          6301
+        ],
+        "confidence": 1,
+        "text": "13"
+      },
+      {
+        "bbox_px": [
+          794,
+          6320,
+          812,
+          6333
+        ],
+        "confidence": 1,
+        "text": "18"
+      },
+      {
+        "bbox_px": [
+          794,
+          6348,
+          812,
+          6361
+        ],
+        "confidence": 1,
+        "text": "89"
+      },
+      {
+        "bbox_px": [
+          1055,
+          5048,
+          1149,
+          5064
+        ],
+        "confidence": 1,
+        "text": "framer-agent"
+      },
+      {
+        "bbox_px": [
+          922,
+          5080,
+          993,
+          5098
+        ],
+        "confidence": 1,
+        "text": "* claude"
+      },
+      {
+        "bbox_px": [
+          1050,
+          5082,
+          1121,
+          5098
+        ],
+        "confidence": 1,
+        "text": "• cursor"
+      },
+      {
+        "bbox_px": [
+          938,
+          5134,
+          1095,
+          5150
+        ],
+        "confidence": 1,
+        "text": "Claude Code v2.1.170"
+      },
+      {
+        "bbox_px": [
+          974,
+          5166,
+          1230,
+          5182
+        ],
+        "confidence": 1,
+        "text": "Sonnet 4.6 • Claude Team • Framer"
+      },
+      {
+        "bbox_px": [
+          901,
+          5255,
+          1165,
+          5271
+        ],
+        "confidence": 1,
+        "text": "• Initializing WordPress importer..."
+      },
+      {
+        "bbox_px": [
+          917,
+          5270,
+          1092,
+          5284
+        ],
+        "confidence": 1,
+        "text": "L WP REST API detected."
+      },
+      {
+        "bbox_px": [
+          917,
+          5286,
+          1092,
+          5304
+        ],
+        "confidence": 1,
+        "text": "L Framer CMS connected."
+      },
+      {
+        "bbox_px": [
+          901,
+          5322,
+          1123,
+          5339
+        ],
+        "confidence": 1,
+        "text": "• Skil1(check-wordpress-auth)"
+      },
+      {
+        "bbox_px": [
+          917,
+          5339,
+          1168,
+          5352
+        ],
+        "confidence": 1,
+        "text": "L WordPress credentials verified."
+      },
+      {
+        "bbox_px": [
+          917,
+          5354,
+          1199,
+          5372
+        ],
+        "confidence": 1,
+        "text": "L Connected to Framer CMS collection."
+      },
+      {
+        "bbox_px": [
+          901,
+          5391,
+          1215,
+          5407
+        ],
+        "confidence": 1,
+        "text": "• Bash(GET /wp-json/wp/v2/posts?per_page)"
+      },
+      {
+        "bbox_px": [
+          917,
+          5406,
+          1278,
+          5425
+        ],
+        "confidence": 1,
+        "text": "L 47 posts returned • 47 mapped to Blog schema."
+      },
+      {
+        "bbox_px": [
+          899,
+          5443,
+          1183,
+          5459
+        ],
+        "confidence": 1,
+        "text": "• Bash(GET /wp-json/wp/v2/media x 47)"
+      },
+      {
+        "bbox_px": [
+          917,
+          5461,
+          1191,
+          5474
+        ],
+        "confidence": 1,
+        "text": "L titles, slugs, authors, dates, and"
+      },
+      {
+        "bbox_px": [
+          914,
+          5477,
+          1087,
+          5491
+        ],
+        "confidence": 1,
+        "text": "cover images resolved."
+      },
+      {
+        "bbox_px": [
+          901,
+          5509,
+          1110,
+          5527
+        ],
+        "confidence": 1,
+        "text": "• Import complete • 47 blog"
+      },
+      {
+        "bbox_px": [
+          914,
+          5527,
+          1162,
+          5543
+        ],
+        "confidence": 1,
+        "text": "entries published to Framer CMS."
+      },
+      {
+        "bbox_px": [
+          914,
+          5631,
+          1079,
+          5647
+        ],
+        "confidence": 1,
+        "text": "Copy install prompt"
+      },
+      {
+        "bbox_px": [
+          1272,
+          5631,
+          1288,
+          5645
+        ],
+        "confidence": 1,
+        "text": "o"
+      },
+      {
+        "bbox_px": [
+          833,
+          6141,
+          967,
+          6166
+        ],
+        "confidence": 0.30000001192092896,
+        "text": "+Ti = Q"
+      },
+      {
+        "bbox_px": [
+          891,
+          6199,
+          940,
+          6212
+        ],
+        "confidence": 1,
+        "text": "Title"
+      },
+      {
+        "bbox_px": [
+          838,
+          6298,
+          883,
+          6315
+        ],
+        "confidence": 1,
+        "text": "# О"
+      },
+      {
+        "bbox_px": [
+          909,
+          6249,
+          1087,
+          6265
+        ],
+        "confidence": 1,
+        "text": "Generative design rooted i..."
+      },
+      {
+        "bbox_px": [
+          909,
+          6298,
+          1087,
+          6315
+        ],
+        "confidence": 1,
+        "text": "Designing Al tools that fee..."
+      },
+      {
+        "bbox_px": [
+          909,
+          6348,
+          1053,
+          6364
+        ],
+        "confidence": 1,
+        "text": "Living systems: data..."
+      },
+      {
+        "bbox_px": [
+          909,
+          6400,
+          1087,
+          6417
+        ],
+        "confidence": 1,
+        "text": "Sustainoble interfaces for .."
+      },
+      {
+        "bbox_px": [
+          906,
+          6448,
+          1071,
+          6468
+        ],
+        "confidence": 1,
+        "text": "Learning from nature to..."
+      },
+      {
+        "bbox_px": [
+          1115,
+          6202,
+          1157,
+          6215
+        ],
+        "confidence": 1,
+        "text": "Image"
+      },
+      {
+        "bbox_px": [
+          1209,
+          6200,
+          1270,
+          6215
+        ],
+        "confidence": 1,
+        "text": "Category"
+      },
+      {
+        "bbox_px": [
+          1217,
+          6249,
+          1264,
+          6265
+        ],
+        "confidence": 1,
+        "text": "Design"
+      },
+      {
+        "bbox_px": [
+          1217,
+          6299,
+          1233,
+          6314
+        ],
+        "confidence": 1,
+        "text": "AI"
+      },
+      {
+        "bbox_px": [
+          1254,
+          6299,
+          1285,
+          6312
+        ],
+        "confidence": 1,
+        "text": "Blog"
+      },
+      {
+        "bbox_px": [
+          1217,
+          6348,
+          1251,
+          6361
+        ],
+        "confidence": 1,
+        "text": "Data"
+      },
+      {
+        "bbox_px": [
+          1268,
+          6346,
+          1303,
+          6366
+        ],
+        "confidence": 1,
+        "text": "Blog"
+      },
+      {
+        "bbox_px": [
+          1217,
+          6398,
+          1294,
+          6416
+        ],
+        "confidence": 1,
+        "text": "Engineering"
+      },
+      {
+        "bbox_px": [
+          1251,
+          6448,
+          1285,
+          6461
+        ],
+        "confidence": 1,
+        "text": "Blod"
+      },
+      {
+        "bbox_px": [
+          143,
+          6515,
+          271,
+          6533
+        ],
+        "confidence": 1,
+        "text": "Performance →"
+      },
+      {
+        "bbox_px": [
+          198,
+          6640,
+          298,
+          6662
+        ],
+        "confidence": 1,
+        "text": "Site Settings"
+      },
+      {
+        "bbox_px": [
+          198,
+          6690,
+          229,
+          6706
+        ],
+        "confidence": 1,
+        "text": "Title"
+      },
+      {
+        "bbox_px": [
+          423,
+          6693,
+          449,
+          6703
+        ],
+        "confidence": 1,
+        "text": "URL"
+      },
+      {
+        "bbox_px": [
+          208,
+          6722,
+          379,
+          6740
+        ],
+        "confidence": 1,
+        "text": "Comet Browser: a Personal..."
+      },
+      {
+        "bbox_px": [
+          433,
+          6724,
+          478,
+          6737
+        ],
+        "confidence": 1,
+        "text": "/comet|"
+      },
+      {
+        "bbox_px": [
+          198,
+          6776,
+          300,
+          6792
+        ],
+        "confidence": 1,
+        "text": "Page Description"
+      },
+      {
+        "bbox_px": [
+          209,
+          6810,
+          467,
+          6823
+        ],
+        "confidence": 1,
+        "text": "Comet browser by Perplexity is the Al browse"
+      },
+      {
+        "bbox_px": [
+          206,
+          6825,
+          467,
+          6844
+        ],
+        "confidence": 1,
+        "text": "assistant. Automate tasks, research the web,"
+      },
+      {
+        "bbox_px": [
+          206,
+          6844,
+          337,
+          6858
+        ],
+        "confidence": 1,
+        "text": "and more with Comet."
+      },
+      {
+        "bbox_px": [
+          198,
+          6930,
+          287,
+          6944
+        ],
+        "confidence": 1,
+        "text": "Social Preview"
+      },
+      {
+        "bbox_px": [
+          201,
+          6954,
+          300,
+          6962
+        ],
+        "confidence": 1,
+        "text": "1zuu x osu pixeis."
+      },
+      {
+        "bbox_px": [
+          141,
+          6996,
+          203,
+          7017
+        ],
+        "confidence": 1,
+        "text": "SEO →"
+      },
+      {
+        "bbox_px": [
+          195,
+          7124,
+          290,
+          7148
+        ],
+        "confidence": 1,
+        "text": "Analytics"
+      },
+      {
+        "bbox_px": [
+          198,
+          7200,
+          282,
+          7216
+        ],
+        "confidence": 1,
+        "text": "Live Visitors®"
+      },
+      {
+        "bbox_px": [
+          198,
+          7224,
+          240,
+          7245
+        ],
+        "confidence": 1,
+        "text": "400"
+      },
+      {
+        "bbox_px": [
+          381,
+          7202,
+          473,
+          7218
+        ],
+        "confidence": 1,
+        "text": "Unique Visitors"
+      },
+      {
+        "bbox_px": [
+          378,
+          7224,
+          433,
+          7247
+        ],
+        "confidence": 1,
+        "text": "1.7M"
+      },
+      {
+        "bbox_px": [
+          198,
+          7292,
+          232,
+          7307
+        ],
+        "confidence": 1,
+        "text": "330k"
+      },
+      {
+        "bbox_px": [
+          141,
+          7475,
+          243,
+          7499
+        ],
+        "confidence": 1,
+        "text": "Analytics →"
+      },
+      {
+        "bbox_px": [
+          588,
+          6409,
+          658,
+          6423
+        ],
+        "confidence": 1,
+        "text": "› • Help"
+      },
+      {
+        "bbox_px": [
+          605,
+          6437,
+          664,
+          6455
+        ],
+        "confidence": 1,
+        "text": "+ Add..."
+      },
+      {
+        "bbox_px": [
+          540,
+          6514,
+          606,
+          6536
+        ],
+        "confidence": 1,
+        "text": "CMS →"
+      },
+      {
+        "bbox_px": [
+          595,
+          6601,
+          658,
+          6617
+        ],
+        "confidence": 1,
+        "text": "Branches"
+      },
+      {
+        "bbox_px": [
+          648,
+          6640,
+          684,
+          6653
+        ],
+        "confidence": 1,
+        "text": "Main"
+      },
+      {
+        "bbox_px": [
+          674,
+          6698,
+          739,
+          6713
+        ],
+        "confidence": 1,
+        "text": "publishing"
+      },
+      {
+        "bbox_px": [
+          676,
+          6729,
+          723,
+          6742
+        ],
+        "confidence": 1,
+        "text": "content"
+      },
+      {
+        "bbox_px": [
+          543,
+          6755,
+          676,
+          6774
+        ],
+        "confidence": 1,
+        "text": "Collaboration →"
+      },
+      {
+        "bbox_px": [
+          595,
+          6842,
+          648,
+          6855
+        ],
+        "confidence": 1,
+        "text": "Locales"
+      },
+      {
+        "bbox_px": [
+          611,
+          6878,
+          637,
+          6894
+        ],
+        "confidence": 1,
+        "text": "NL"
+      },
+      {
+        "bbox_px": [
+          640,
+          6881,
+          679,
+          6894
+        ],
+        "confidence": 1,
+        "text": "Dutch"
+      },
+      {
+        "bbox_px": [
+          640,
+          6912,
+          679,
+          6925
+        ],
+        "confidence": 1,
+        "text": "Italian"
+      },
+      {
+        "bbox_px": [
+          614,
+          6944,
+          632,
+          6957
+        ],
+        "confidence": 1,
+        "text": "CN"
+      },
+      {
+        "bbox_px": [
+          640,
+          6944,
+          692,
+          6957
+        ],
+        "confidence": 1,
+        "text": "Chinese"
+      },
+      {
+        "bbox_px": [
+          538,
+          6996,
+          666,
+          7017
+        ],
+        "confidence": 1,
+        "text": "Localization →"
+      },
+      {
+        "bbox_px": [
+          909,
+          6398,
+          1087,
+          6415
+        ],
+        "confidence": 1,
+        "text": "Sustainable interfaces for ..-"
+      },
+      {
+        "bbox_px": [
+          906,
+          6449,
+          1071,
+          6465
+        ],
+        "confidence": 1,
+        "text": "Learning from nature to..."
+      },
+      {
+        "bbox_px": [
+          1217,
+          6400,
+          1294,
+          6416
+        ],
+        "confidence": 1,
+        "text": "Engineering"
+      },
+      {
+        "bbox_px": [
+          1251,
+          6449,
+          1283,
+          6462
+        ],
+        "confidence": 1,
+        "text": "Blog"
+      },
+      {
+        "bbox_px": [
+          810,
+          6640,
+          831,
+          6653
+        ],
+        "confidence": 1,
+        "text": "1m"
+      },
+      {
+        "bbox_px": [
+          810,
+          6672,
+          831,
+          6682
+        ],
+        "confidence": 1,
+        "text": "1m"
+      },
+      {
+        "bbox_px": [
+          810,
+          6700,
+          833,
+          6711
+        ],
+        "confidence": 1,
+        "text": "8m"
+      },
+      {
+        "bbox_px": [
+          804,
+          6881,
+          831,
+          6891
+        ],
+        "confidence": 1,
+        "text": "35%"
+      },
+      {
+        "bbox_px": [
+          1034,
+          6609,
+          1202,
+          6659
+        ],
+        "confidence": 1,
+        "text": "99.99%"
+      },
+      {
+        "bbox_px": [
+          1039,
+          6653,
+          1197,
+          6697
+        ],
+        "confidence": 1,
+        "text": "uptime"
+      },
+      {
+        "bbox_px": [
+          564,
+          7201,
+          661,
+          7218
+        ],
+        "confidence": 1,
+        "text": "Total Pageviews"
+      },
+      {
+        "bbox_px": [
+          561,
+          7224,
+          614,
+          7245
+        ],
+        "confidence": 1,
+        "text": "2.2M"
+      },
+      {
+        "bbox_px": [
+          608,
+          7302,
+          687,
+          7316
+        ],
+        "confidence": 1,
+        "text": "Jun 18, 2026"
+      },
+      {
+        "bbox_px": [
+          608,
+          7335,
+          692,
+          7353
+        ],
+        "confidence": 1,
+        "text": "• Pageviews"
+      },
+      {
+        "bbox_px": [
+          627,
+          7362,
+          674,
+          7373
+        ],
+        "confidence": 1,
+        "text": "Visitors"
+      },
+      {
+        "bbox_px": [
+          744,
+          7203,
+          820,
+          7216
+        ],
+        "confidence": 1,
+        "text": "Bounce Rate"
+      },
+      {
+        "bbox_px": [
+          742,
+          7224,
+          807,
+          7247
+        ],
+        "confidence": 1,
+        "text": "40.9%"
+      },
+      {
+        "bbox_px": [
+          729,
+          7336,
+          784,
+          7349
+        ],
+        "confidence": 1,
+        "text": "135,535"
+      },
+      {
+        "bbox_px": [
+          736,
+          7360,
+          781,
+          7373
+        ],
+        "confidence": 1,
+        "text": "54,817"
+      },
+      {
+        "bbox_px": [
+          938,
+          6755,
+          1029,
+          6779
+        ],
+        "confidence": 1,
+        "text": "Hosting →"
+      },
+      {
+        "bbox_px": [
+          993,
+          6902,
+          1011,
+          6918
+        ],
+        "confidence": 1,
+        "text": "→"
+      },
+      {
+        "bbox_px": [
+          940,
+          6995,
+          1032,
+          7015
+        ],
+        "confidence": 1,
+        "text": "Security →"
+      },
+      {
+        "bbox_px": [
+          966,
+          7090,
+          1037,
+          7104
+        ],
+        "confidence": 1,
+        "text": "View Home"
+      },
+      {
+        "bbox_px": [
+          964,
+          7114,
+          1006,
+          7135
+        ],
+        "confidence": 1,
+        "text": "400"
+      },
+      {
+        "bbox_px": [
+          966,
+          7289,
+          1014,
+          7302
+        ],
+        "confidence": 1,
+        "text": "Variant"
+      },
+      {
+        "bbox_px": [
+          966,
+          7330,
+          1089,
+          7347
+        ],
+        "confidence": 1,
+        "text": "• Home Page 2026"
+      },
+      {
+        "bbox_px": [
+          966,
+          7372,
+          1055,
+          7386
+        ],
+        "confidence": 1,
+        "text": "• Home Page"
+      },
+      {
+        "bbox_px": [
+          940,
+          7474,
+          1058,
+          7496
+        ],
+        "confidence": 1,
+        "text": "A/B Testing →"
+      },
+      {
+        "bbox_px": [
+          1108,
+          6902,
+          1293,
+          6920
+        ],
+        "confidence": 1,
+        "text": "https://www.framer.co"
+      },
+      {
+        "bbox_px": [
+          1164,
+          7288,
+          1205,
+          7306
+        ],
+        "confidence": 1,
+        "text": "Views"
+      },
+      {
+        "bbox_px": [
+          1168,
+          7331,
+          1204,
+          7347
+        ],
+        "confidence": 1,
+        "text": "4,916"
+      },
+      {
+        "bbox_px": [
+          1170,
+          7373,
+          1204,
+          7386
+        ],
+        "confidence": 1,
+        "text": "4,799"
+      },
+      {
+        "bbox_px": [
+          1241,
+          7292,
+          1280,
+          7299
+        ],
+        "confidence": 1,
+        "text": "•Eventi"
+      },
+      {
+        "bbox_px": [
+          1259,
+          7373,
+          1285,
+          7383
+        ],
+        "confidence": 1,
+        "text": "719"
+      },
+      {
+        "bbox_px": [
+          119,
+          7765,
+          596,
+          7810
+        ],
+        "confidence": 1,
+        "text": "Built on a community that"
+      },
+      {
+        "bbox_px": [
+          117,
+          7814,
+          501,
+          7859
+        ],
+        "confidence": 1,
+        "text": "isn't going anywhere"
+      },
+      {
+        "bbox_px": [
+          167,
+          7967,
+          214,
+          7980
+        ],
+        "confidence": 1,
+        "text": "Davide"
+      },
+      {
+        "bbox_px": [
+          138,
+          8016,
+          216,
+          8030
+        ],
+        "confidence": 1,
+        "text": "Q Search..."
+      },
+      {
+        "bbox_px": [
+          133,
+          8066,
+          182,
+          8082
+        ],
+        "confidence": 1,
+        "text": "Explore"
+      },
+      {
+        "bbox_px": [
+          141,
+          8105,
+          193,
+          8122
+        ],
+        "confidence": 1,
+        "text": "4 Feed"
+      },
+      {
+        "bbox_px": [
+          135,
+          8136,
+          196,
+          8150
+        ],
+        "confidence": 1,
+        "text": "•l Hype"
+      },
+      {
+        "bbox_px": [
+          138,
+          8165,
+          209,
+          8181
+        ],
+        "confidence": 1,
+        "text": "1 Activity"
+      },
+      {
+        "bbox_px": [
+          397,
+          7963,
+          447,
+          7980
+        ],
+        "confidence": 1,
+        "text": "For You"
+      },
+      {
+        "bbox_px": [
+          459,
+          7967,
+          522,
+          7982
+        ],
+        "confidence": 1,
+        "text": "Following"
+      },
+      {
+        "bbox_px": [
+          454,
+          8000,
+          786,
+          8017
+        ],
+        "confidence": 1,
+        "text": "is cross browser and mobile friendly. Sound on"
+      },
+      {
+        "bbox_px": [
+          1016,
+          7824,
+          1131,
+          7841
+        ],
+        "confidence": 1,
+        "text": "12,447 Resources"
+      },
+      {
+        "bbox_px": [
+          1155,
+          7825,
+          1306,
+          7842
+        ],
+        "confidence": 1,
+        "text": "Browse the community"
+      },
+      {
+        "bbox_px": [
+          1270,
+          7967,
+          1298,
+          7980
+        ],
+        "confidence": 1,
+        "text": "Post"
+      },
+      {
+        "bbox_px": [
+          1021,
+          8032,
+          1100,
+          8043
+        ],
+        "confidence": 1,
+        "text": "Marketplace"
+      },
+      {
+        "bbox_px": [
+          1081,
+          8068,
+          1183,
+          8082
+        ],
+        "confidence": 1,
+        "text": "Claude + Framer"
+      },
+      {
+        "bbox_px": [
+          1081,
+          8084,
+          1194,
+          8098
+        ],
+        "confidence": 1,
+        "text": "Tutorial • 1.3K likes"
+      },
+      {
+        "bbox_px": [
+          1081,
+          8118,
+          1129,
+          8131
+        ],
+        "confidence": 1,
+        "text": "Recraft"
+      },
+      {
+        "bbox_px": [
+          1079,
+          8134,
+          1176,
+          8150
+        ],
+        "confidence": 1,
+        "text": "Plugin • 32 likes"
+      },
+      {
+        "bbox_px": [
+          1079,
+          8168,
+          1157,
+          8184
+        ],
+        "confidence": 1,
+        "text": "Kinetic Type"
+      },
+      {
+        "bbox_px": [
+          1081,
+          8183,
+          1183,
+          8197
+        ],
+        "confidence": 1,
+        "text": "Plugin • 862 likes"
+      },
+      {
+        "bbox_px": [
+          454,
+          8000,
+          786,
+          8018
+        ],
+        "confidence": 1,
+        "text": "is cross browser and mobile friendly. Sound on"
+      },
+      {
+        "bbox_px": [
+          156,
+          8016,
+          214,
+          8030
+        ],
+        "confidence": 1,
+        "text": "Search..."
+      },
+      {
+        "bbox_px": [
+          133,
+          8068,
+          182,
+          8081
+        ],
+        "confidence": 1,
+        "text": "Explore"
+      },
+      {
+        "bbox_px": [
+          159,
+          8104,
+          193,
+          8120
+        ],
+        "confidence": 1,
+        "text": "Feed"
+      },
+      {
+        "bbox_px": [
+          135,
+          8135,
+          196,
+          8152
+        ],
+        "confidence": 1,
+        "text": "•lI• Hype"
+      },
+      {
+        "bbox_px": [
+          141,
+          8166,
+          209,
+          8180
+        ],
+        "confidence": 1,
+        "text": "1 Activity"
+      },
+      {
+        "bbox_px": [
+          133,
+          8217,
+          203,
+          8230
+        ],
+        "confidence": 1,
+        "text": "Community"
+      },
+      {
+        "bbox_px": [
+          138,
+          8255,
+          237,
+          8269
+        ],
+        "confidence": 1,
+        "text": "• Marketplace"
+      },
+      {
+        "bbox_px": [
+          158,
+          8284,
+          207,
+          8301
+        ],
+        "confidence": 1,
+        "text": "Gallery"
+      },
+      {
+        "bbox_px": [
+          159,
+          8313,
+          219,
+          8329
+        ],
+        "confidence": 1,
+        "text": "Members"
+      },
+      {
+        "bbox_px": [
+          158,
+          8344,
+          217,
+          8361
+        ],
+        "confidence": 1,
+        "text": "Contests"
+      },
+      {
+        "bbox_px": [
+          590,
+          8107,
+          629,
+          8120
+        ],
+        "confidence": 0.5,
+        "text": "рит"
+      },
+      {
+        "bbox_px": [
+          590,
+          8214,
+          755,
+          8227
+        ],
+        "confidence": 1,
+        "text": "Influential French electronic music duo"
+      },
+      {
+        "bbox_px": [
+          590,
+          8227,
+          765,
+          8241
+        ],
+        "confidence": 1,
+        "text": "formed in 1993 by Thomas Bangalter and"
+      },
+      {
+        "bbox_px": [
+          590,
+          8240,
+          729,
+          8254
+        ],
+        "confidence": 1,
+        "text": "Guy-Manuel de Homem-Christo"
+      },
+      {
+        "bbox_px": [
+          454,
+          8334,
+          496,
+          8350
+        ],
+        "confidence": 0.5,
+        "text": "O 30"
+      },
+      {
+        "bbox_px": [
+          501,
+          8334,
+          538,
+          8350
+        ],
+        "confidence": 1,
+        "text": "05"
+      },
+      {
+        "bbox_px": [
+          452,
+          8389,
+          721,
+          8402
+        ],
+        "confidence": 1,
+        "text": "Gustave Flowbert PRO in Morketplace • 12m"
+      },
+      {
+        "bbox_px": [
+          542,
+          8581,
+          884,
+          8646
+        ],
+        "confidence": 1,
+        "text": "Billie Duvalle"
+      },
+      {
+        "bbox_px": [
+          116,
+          8975,
+          437,
+          9035
+        ],
+        "confidence": 1,
+        "text": "Trusted by teams"
+      },
+      {
+        "bbox_px": [
+          117,
+          9030,
+          439,
+          9075
+        ],
+        "confidence": 1,
+        "text": "shipping big sites"
+      },
+      {
+        "bbox_px": [
+          99,
+          9341,
+          209,
+          9378
+        ],
+        "confidence": 1,
+        "text": "I miro"
+      },
+      {
+        "bbox_px": [
+          462,
+          9341,
+          619,
+          9381
+        ],
+        "confidence": 1,
+        "text": "FLORA"
+      },
+      {
+        "bbox_px": [
+          799,
+          9339,
+          977,
+          9384
+        ],
+        "confidence": 1,
+        "text": "mixpanel"
+      },
+      {
+        "bbox_px": [
+          91,
+          9539,
+          206,
+          9564
+        ],
+        "confidence": 1,
+        "text": "Read story >"
+      },
+      {
+        "bbox_px": [
+          459,
+          9540,
+          574,
+          9564
+        ],
+        "confidence": 1,
+        "text": "Read story >"
+      },
+      {
+        "bbox_px": [
+          828,
+          9538,
+          946,
+          9563
+        ],
+        "confidence": 1,
+        "text": "Read story >"
+      },
+      {
+        "bbox_px": [
+          1021,
+          8031,
+          1100,
+          8044
+        ],
+        "confidence": 1,
+        "text": "Morketplace"
+      },
+      {
+        "bbox_px": [
+          1081,
+          8068,
+          1181,
+          8081
+        ],
+        "confidence": 1,
+        "text": "Claude + Framer"
+      },
+      {
+        "bbox_px": [
+          1081,
+          8083,
+          1194,
+          8099
+        ],
+        "confidence": 1,
+        "text": "Tutorial • 1.3K likes"
+      },
+      {
+        "bbox_px": [
+          1081,
+          8120,
+          1129,
+          8130
+        ],
+        "confidence": 1,
+        "text": "Recraft"
+      },
+      {
+        "bbox_px": [
+          1079,
+          8136,
+          1176,
+          8149
+        ],
+        "confidence": 1,
+        "text": "Plugin • 32 likes"
+      },
+      {
+        "bbox_px": [
+          1079,
+          8166,
+          1157,
+          8183
+        ],
+        "confidence": 1,
+        "text": "Kinetic Type"
+      },
+      {
+        "bbox_px": [
+          1078,
+          8182,
+          1184,
+          8201
+        ],
+        "confidence": 1,
+        "text": "Plugin • 862 likes"
+      },
+      {
+        "bbox_px": [
+          1081,
+          8219,
+          1199,
+          8233
+        ],
+        "confidence": 1,
+        "text": "Digital Rotary Radio"
+      },
+      {
+        "bbox_px": [
+          1081,
+          8234,
+          1207,
+          8248
+        ],
+        "confidence": 1,
+        "text": "Component • 76 likes"
+      },
+      {
+        "bbox_px": [
+          1079,
+          8266,
+          1121,
+          8283
+        ],
+        "confidence": 1,
+        "text": "Fuel X"
+      },
+      {
+        "bbox_px": [
+          1081,
+          8284,
+          1202,
+          8298
+        ],
+        "confidence": 1,
+        "text": "Template • 1.3K likes"
+      },
+      {
+        "bbox_px": [
+          1021,
+          8349,
+          1082,
+          8366
+        ],
+        "confidence": 1,
+        "text": "Members"
+      },
+      {
+        "bbox_px": [
+          1021,
+          8389,
+          1053,
+          8408
+        ],
+        "confidence": 1,
+        "text": "AG"
+      },
+      {
+        "bbox_px": [
+          1061,
+          8384,
+          1139,
+          8398
+        ],
+        "confidence": 1,
+        "text": "Asia Gawron"
+      },
+      {
+        "bbox_px": [
+          1063,
+          8400,
+          1152,
+          8415
+        ],
+        "confidence": 1,
+        "text": "@asia_gawron"
+      },
+      {
+        "bbox_px": [
+          1061,
+          8426,
+          1118,
+          8439
+        ],
+        "confidence": 1,
+        "text": "Benjamin"
+      },
+      {
+        "bbox_px": [
+          1061,
+          8442,
+          1173,
+          8455
+        ],
+        "confidence": 1,
+        "text": "@benjaminnathan"
+      },
+      {
+        "bbox_px": [
+          1061,
+          8465,
+          1087,
+          8478
+        ],
+        "confidence": 1,
+        "text": "27b"
+      },
+      {
+        "bbox_px": [
+          1061,
+          8481,
+          1136,
+          8497
+        ],
+        "confidence": 1,
+        "text": "@27b.ureau"
+      },
+      {
+        "bbox_px": [
+          1061,
+          8507,
+          1110,
+          8520
+        ],
+        "confidence": 1,
+        "text": "Victoria"
+      },
+      {
+        "bbox_px": [
+          1061,
+          8523,
+          1165,
+          8538
+        ],
+        "confidence": 1,
+        "text": "@victoria_framer"
+      },
+      {
+        "bbox_px": [
+          1061,
+          8548,
+          1152,
+          8562
+        ],
+        "confidence": 1,
+        "text": "Ryan Hayward"
+      },
+      {
+        "bbox_px": [
+          1061,
+          8565,
+          1173,
+          8580
+        ],
+        "confidence": 1,
+        "text": "@theryanhayward"
+      },
+      {
+        "bbox_px": [
+          1241,
+          8392,
+          1285,
+          8405
+        ],
+        "confidence": 1,
+        "text": "Follow"
+      },
+      {
+        "bbox_px": [
+          1225,
+          8434,
+          1285,
+          8447
+        ],
+        "confidence": 1,
+        "text": "Following"
+      },
+      {
+        "bbox_px": [
+          1241,
+          8476,
+          1285,
+          8489
+        ],
+        "confidence": 1,
+        "text": "Follow"
+      },
+      {
+        "bbox_px": [
+          1241,
+          8515,
+          1285,
+          8528
+        ],
+        "confidence": 1,
+        "text": "Follow"
+      },
+      {
+        "bbox_px": [
+          1241,
+          8557,
+          1285,
+          8570
+        ],
+        "confidence": 1,
+        "text": "Follow"
+      },
+      {
+        "bbox_px": [
+          1223,
+          9043,
+          1309,
+          9056
+        ],
+        "confidence": 1,
+        "text": "Read stories"
+      },
+      {
+        "bbox_px": [
+          1164,
+          9334,
+          1354,
+          9381
+        ],
+        "confidence": 1,
+        "text": "* perplexity"
+      },
+      {
+        "bbox_px": [
+          1199,
+          9536,
+          1314,
+          9564
+        ],
+        "confidence": 1,
+        "text": "Read story >"
+      },
+      {
+        "bbox_px": [
+          558,
+          9874,
+          880,
+          9934
+        ],
+        "confidence": 1,
+        "text": "Get started"
+      },
+      {
+        "bbox_px": [
+          554,
+          9946,
+          890,
+          9998
+        ],
+        "confidence": 1,
+        "text": "with Framer"
+      },
+      {
+        "bbox_px": [
+          590,
+          10031,
+          716,
+          10046
+        ],
+        "confidence": 1,
+        "text": "Get started for free"
+      },
+      {
+        "bbox_px": [
+          750,
+          10031,
+          846,
+          10046
+        ],
+        "confidence": 1,
+        "text": "Download app"
+      },
+      {
+        "bbox_px": [
+          381,
+          10195,
+          1056,
+          10261
+        ],
+        "confidence": 1,
+        "text": "Canvas ~ +& T ^"
+      },
+      {
+        "bbox_px": [
+          324,
+          10376,
+          449,
+          10416
+        ],
+        "confidence": 1,
+        "text": "Pages"
+      },
+      {
+        "bbox_px": [
+          507,
+          10376,
+          639,
+          10417
+        ],
+        "confidence": 1,
+        "text": "Layers"
+      },
+      {
+        "bbox_px": [
+          682,
+          10372,
+          827,
+          10410
+        ],
+        "confidence": 1,
+        "text": "Assets"
+      },
+      {
+        "bbox_px": [
+          327,
+          10533,
+          572,
+          10572
+        ],
+        "confidence": 1,
+        "text": "Q Search..."
+      },
+      {
+        "bbox_px": [
+          233,
+          10709,
+          294,
+          10729
+        ],
+        "confidence": 1,
+        "text": "Product"
+      },
+      {
+        "bbox_px": [
+          236,
+          10738,
+          279,
+          10753
+        ],
+        "confidence": 1,
+        "text": "AI NEW"
+      },
+      {
+        "bbox_px": [
+          233,
+          10765,
+          311,
+          10782
+        ],
+        "confidence": 1,
+        "text": "Agents (NEW)"
+      },
+      {
+        "bbox_px": [
+          233,
+          10791,
+          366,
+          10809
+        ],
+        "confidence": 1,
+        "text": "External Agents (NEW"
+      },
+      {
+        "bbox_px": [
+          233,
+          10818,
+          282,
+          10835
+        ],
+        "confidence": 1,
+        "text": "Design"
+      },
+      {
+        "bbox_px": [
+          233,
+          10845,
+          340,
+          10859
+        ],
+        "confidence": 1,
+        "text": "Collaborate NEW"
+      },
+      {
+        "bbox_px": [
+          236,
+          10871,
+          267,
+          10886
+        ],
+        "confidence": 1,
+        "text": "CMS"
+      },
+      {
+        "bbox_px": [
+          233,
+          10900,
+          287,
+          10917
+        ],
+        "confidence": 1,
+        "text": "Hosting"
+      },
+      {
+        "bbox_px": [
+          233,
+          10927,
+          320,
+          10941
+        ],
+        "confidence": 1,
+        "text": "Performance"
+      },
+      {
+        "bbox_px": [
+          233,
+          10953,
+          265,
+          10968
+        ],
+        "confidence": 1,
+        "text": "SEO"
+      },
+      {
+        "bbox_px": [
+          233,
+          10980,
+          289,
+          10994
+        ],
+        "confidence": 1,
+        "text": "Convert"
+      },
+      {
+        "bbox_px": [
+          233,
+          11009,
+          287,
+          11021
+        ],
+        "confidence": 1,
+        "text": "Publish"
+      },
+      {
+        "bbox_px": [
+          233,
+          11035,
+          291,
+          11050
+        ],
+        "confidence": 1,
+        "text": "Updates"
+      },
+      {
+        "bbox_px": [
+          419,
+          10710,
+          506,
+          10730
+        ],
+        "confidence": 1,
+        "text": "Community"
+      },
+      {
+        "bbox_px": [
+          419,
+          10738,
+          506,
+          10753
+        ],
+        "confidence": 1,
+        "text": "Marketplace"
+      },
+      {
+        "bbox_px": [
+          422,
+          10765,
+          492,
+          10779
+        ],
+        "confidence": 1,
+        "text": "Templates"
+      },
+      {
+        "bbox_px": [
+          421,
+          10791,
+          506,
+          10809
+        ],
+        "confidence": 1,
+        "text": "Components"
+      },
+      {
+        "bbox_px": [
+          422,
+          10818,
+          472,
+          10835
+        ],
+        "confidence": 1,
+        "text": "Plugins"
+      },
+      {
+        "bbox_px": [
+          422,
+          10845,
+          475,
+          10861
+        ],
+        "confidence": 1,
+        "text": "Vectors"
+      },
+      {
+        "bbox_px": [
+          419,
+          10873,
+          458,
+          10888
+        ],
+        "confidence": 1,
+        "text": "Feed"
+      },
+      {
+        "bbox_px": [
+          422,
+          10900,
+          460,
+          10917
+        ],
+        "confidence": 1,
+        "text": "Hype"
+      },
+      {
+        "bbox_px": [
+          418,
+          10924,
+          471,
+          10947
+        ],
+        "confidence": 1,
+        "text": "Gallery"
+      },
+      {
+        "bbox_px": [
+          422,
+          10953,
+          482,
+          10968
+        ],
+        "confidence": 1,
+        "text": "Contests"
+      },
+      {
+        "bbox_px": [
+          422,
+          10979,
+          487,
+          10994
+        ],
+        "confidence": 1,
+        "text": "Members"
+      },
+      {
+        "bbox_px": [
+          422,
+          11009,
+          482,
+          11023
+        ],
+        "confidence": 1,
+        "text": "Meetups"
+      },
+      {
+        "bbox_px": [
+          605,
+          10709,
+          687,
+          10729
+        ],
+        "confidence": 1,
+        "text": "Resources"
+      },
+      {
+        "bbox_px": [
+          607,
+          10738,
+          673,
+          10753
+        ],
+        "confidence": 1,
+        "text": "Academy"
+      },
+      {
+        "bbox_px": [
+          610,
+          10765,
+          658,
+          10779
+        ],
+        "confidence": 1,
+        "text": "Guides"
+      },
+      {
+        "bbox_px": [
+          607,
+          10791,
+          685,
+          10806
+        ],
+        "confidence": 1,
+        "text": "Downloads"
+      },
+      {
+        "bbox_px": [
+          605,
+          10818,
+          641,
+          10837
+        ],
+        "confidence": 1,
+        "text": "Blog"
+      },
+      {
+        "bbox_px": [
+          605,
+          10844,
+          680,
+          10864
+        ],
+        "confidence": 1,
+        "text": "Newsletter"
+      },
+      {
+        "bbox_px": [
+          607,
+          10873,
+          656,
+          10888
+        ],
+        "confidence": 1,
+        "text": "Stories"
+      },
+      {
+        "bbox_px": [
+          607,
+          10899,
+          685,
+          10915
+        ],
+        "confidence": 1,
+        "text": "Developers"
+      },
+      {
+        "bbox_px": [
+          607,
+          10927,
+          668,
+          10941
+        ],
+        "confidence": 1,
+        "text": "Creators"
+      },
+      {
+        "bbox_px": [
+          607,
+          10953,
+          660,
+          10970
+        ],
+        "confidence": 1,
+        "text": "Experts"
+      },
+      {
+        "bbox_px": [
+          607,
+          10979,
+          670,
+          10995
+        ],
+        "confidence": 1,
+        "text": "Students"
+      },
+      {
+        "bbox_px": [
+          607,
+          11009,
+          701,
+          11023
+        ],
+        "confidence": 1,
+        "text": "Ambassadors"
+      },
+      {
+        "bbox_px": [
+          607,
+          11035,
+          697,
+          11050
+        ],
+        "confidence": 1,
+        "text": "State of Sites"
+      },
+      {
+        "bbox_px": [
+          605,
+          11061,
+          663,
+          11082
+        ],
+        "confidence": 1,
+        "text": "Support"
+      },
+      {
+        "bbox_px": [
+          610,
+          11088,
+          665,
+          11103
+        ],
+        "confidence": 1,
+        "text": "Contact"
+      },
+      {
+        "bbox_px": [
+          795,
+          10709,
+          836,
+          10726
+        ],
+        "confidence": 1,
+        "text": "Tools"
+      },
+      {
+        "bbox_px": [
+          795,
+          10737,
+          897,
+          10756
+        ],
+        "confidence": 1,
+        "text": "Figma to HTML"
+      },
+      {
+        "bbox_px": [
+          795,
+          10764,
+          885,
+          10779
+        ],
+        "confidence": 1,
+        "text": "Meta checker"
+      },
+      {
+        "bbox_px": [
+          795,
+          10791,
+          882,
+          10806
+        ],
+        "confidence": 1,
+        "text": "AEO scanner"
+      },
+      {
+        "bbox_px": [
+          795,
+          10818,
+          885,
+          10833
+        ],
+        "confidence": 1,
+        "text": "Free domains"
+      },
+      {
+        "bbox_px": [
+          795,
+          10881,
+          865,
+          10895
+        ],
+        "confidence": 1,
+        "text": "Solutions"
+      },
+      {
+        "bbox_px": [
+          793,
+          10907,
+          897,
+          10927
+        ],
+        "confidence": 1,
+        "text": "Website builder"
+      },
+      {
+        "bbox_px": [
+          795,
+          10933,
+          895,
+          10952
+        ],
+        "confidence": 1,
+        "text": "Landing pages"
+      },
+      {
+        "bbox_px": [
+          795,
+          10959,
+          897,
+          10978
+        ],
+        "confidence": 1,
+        "text": "Portfolio maker"
+      },
+      {
+        "bbox_px": [
+          795,
+          10989,
+          882,
+          11004
+        ],
+        "confidence": 1,
+        "text": "UI/UX design"
+      },
+      {
+        "bbox_px": [
+          795,
+          11016,
+          856,
+          11030
+        ],
+        "confidence": 1,
+        "text": "No-code"
+      },
+      {
+        "bbox_px": [
+          981,
+          10709,
+          1051,
+          10729
+        ],
+        "confidence": 1,
+        "text": "Compare"
+      },
+      {
+        "bbox_px": [
+          981,
+          10736,
+          1017,
+          10750
+        ],
+        "confidence": 1,
+        "text": "AEM"
+      },
+      {
+        "bbox_px": [
+          980,
+          10762,
+          1028,
+          10780
+        ],
+        "confidence": 1,
+        "text": "Sanity"
+      },
+      {
+        "bbox_px": [
+          984,
+          10791,
+          1068,
+          10806
+        ],
+        "confidence": 1,
+        "text": "Claude Code"
+      },
+      {
+        "bbox_px": [
+          981,
+          10818,
+          1070,
+          10832
+        ],
+        "confidence": 1,
+        "text": "Squarespace"
+      },
+      {
+        "bbox_px": [
+          979,
+          10844,
+          1056,
+          10862
+        ],
+        "confidence": 1,
+        "text": "WordPress"
+      },
+      {
+        "bbox_px": [
+          984,
+          10871,
+          1044,
+          10886
+        ],
+        "confidence": 1,
+        "text": "Webflow"
+      },
+      {
+        "bbox_px": [
+          979,
+          10898,
+          1037,
+          10917
+        ],
+        "confidence": 1,
+        "text": "Lovable"
+      },
+      {
+        "bbox_px": [
+          981,
+          10927,
+          1027,
+          10943
+        ],
+        "confidence": 1,
+        "text": "Figma"
+      },
+      {
+        "bbox_px": [
+          979,
+          10951,
+          1013,
+          10970
+        ],
+        "confidence": 1,
+        "text": "Wix"
+      },
+      {
+        "bbox_px": [
+          981,
+          10980,
+          1027,
+          10994
+        ],
+        "confidence": 1,
+        "text": "Codex"
+      },
+      {
+        "bbox_px": [
+          984,
+          11006,
+          1051,
+          11021
+        ],
+        "confidence": 1,
+        "text": "Unbounce"
+      },
+      {
+        "bbox_px": [
+          981,
+          11032,
+          1054,
+          11050
+        ],
+        "confidence": 1,
+        "text": "Contentful"
+      },
+      {
+        "bbox_px": [
+          984,
+          11062,
+          1025,
+          11074
+        ],
+        "confidence": 1,
+        "text": "Ceros"
+      },
+      {
+        "bbox_px": [
+          979,
+          11088,
+          1054,
+          11107
+        ],
+        "confidence": 1,
+        "text": "Readymag"
+      },
+      {
+        "bbox_px": [
+          1167,
+          10709,
+          1237,
+          10729
+        ],
+        "confidence": 1,
+        "text": "Business"
+      },
+      {
+        "bbox_px": [
+          1169,
+          10738,
+          1218,
+          10755
+        ],
+        "confidence": 1,
+        "text": "Pricing"
+      },
+      {
+        "bbox_px": [
+          1169,
+          10765,
+          1237,
+          10779
+        ],
+        "confidence": 1,
+        "text": "Enterprise"
+      },
+      {
+        "bbox_px": [
+          1167,
+          10791,
+          1259,
+          10806
+        ],
+        "confidence": 1,
+        "text": "Infrastructure"
+      },
+      {
+        "bbox_px": [
+          1169,
+          10819,
+          1228,
+          10835
+        ],
+        "confidence": 1,
+        "text": "Startups"
+      },
+      {
+        "bbox_px": [
+          1169,
+          10844,
+          1232,
+          10862
+        ],
+        "confidence": 1,
+        "text": "Agencies"
+      },
+      {
+        "bbox_px": [
+          1169,
+          10873,
+          1218,
+          10886
+        ],
+        "confidence": 1,
+        "text": "Switch"
+      },
+      {
+        "bbox_px": [
+          1169,
+          10933,
+          1242,
+          10952
+        ],
+        "confidence": 1,
+        "text": "Company"
+      },
+      {
+        "bbox_px": [
+          1169,
+          10961,
+          1225,
+          10976
+        ],
+        "confidence": 1,
+        "text": "Careers"
+      },
+      {
+        "bbox_px": [
+          1169,
+          10989,
+          1213,
+          11004
+        ],
+        "confidence": 1,
+        "text": "Brand"
+      },
+      {
+        "bbox_px": [
+          1169,
+          11016,
+          1208,
+          11030
+        ],
+        "confidence": 1,
+        "text": "Store"
+      },
+      {
+        "bbox_px": [
+          1169,
+          11042,
+          1228,
+          11060
+        ],
+        "confidence": 1,
+        "text": "Security"
+      },
+      {
+        "bbox_px": [
+          1169,
+          11071,
+          1215,
+          11083
+        ],
+        "confidence": 1,
+        "text": "Abuse"
+      },
+      {
+        "bbox_px": [
+          1165,
+          11095,
+          1210,
+          11115
+        ],
+        "confidence": 1,
+        "text": "Legal"
+      },
+      {
+        "bbox_px": [
+          1169,
+          11124,
+          1206,
+          11139
+        ],
+        "confidence": 1,
+        "text": "Trust"
+      },
+      {
+        "bbox_px": [
+          118,
+          11204,
+          176,
+          11219
+        ],
+        "confidence": 1,
+        "text": "Follow us"
+      },
+      {
+        "bbox_px": [
+          429,
+          11204,
+          496,
+          11219
+        ],
+        "confidence": 1,
+        "text": "Al summary"
+      },
+      {
+        "bbox_px": [
+          513,
+          11204,
+          528,
+          11218
+        ],
+        "confidence": 1,
+        "text": "S"
+      },
+      {
+        "bbox_px": [
+          697,
+          11204,
+          757,
+          11219
+        ],
+        "confidence": 1,
+        "text": "Trusted by"
+      },
+      {
+        "bbox_px": [
+          998,
+          11204,
+          1116,
+          11219
+        ],
+        "confidence": 1,
+        "text": "• All services online"
+      },
+      {
+        "bbox_px": [
+          1225,
+          11204,
+          1321,
+          11219
+        ],
+        "confidence": 1,
+        "text": "© 2026 Framer"
+      },
+      {
+        "bbox_px": [
+          115,
+          11202,
+          316,
+          11223
+        ],
+        "confidence": 0.5,
+        "text": "Followus X D • B €"
+      },
+      {
+        "bbox_px": [
+          425,
+          11200,
+          599,
+          11235
+        ],
+        "confidence": 0.5,
+        "text": "Al summary 8 * #"
+      },
+      {
+        "bbox_px": [
+          694,
+          11200,
+          860,
+          11222
+        ],
+        "confidence": 0.30000001192092896,
+        "text": "Trustedby om Ace"
+      },
+      {
+        "bbox_px": [
+          996,
+          11201,
+          1117,
+          11220
+        ],
+        "confidence": 1,
+        "text": "• All services online"
+      },
+      {
+        "bbox_px": [
+          1224,
+          11200,
+          1322,
+          11221
+        ],
+        "confidence": 1,
+        "text": "© 2026 Framer"
+      }
+    ],
+    "path": "screenshots/framer.png",
+    "width": 1440
+  }
+]

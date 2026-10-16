@@ -1,0 +1,8525 @@
+{
+  "schema_version": "0.1",
+  "id": "framer",
+  "annotation": {
+    "status": "pilot_partial",
+    "method": "Assistant visual inspection of all 50 overview/full-page thumbnails and readable top-window crops; manual hero-copy transcription; local Apple Vision OCR of full screenshots.",
+    "coverage": [
+      "Visible headline and selected actions",
+      "Supporting hero copy where recorded",
+      "Industry/audience/intended action retrieval facets",
+      "Observed desktop composition and evidence images"
+    ],
+    "unreviewed": [
+      "Full-page OCR transcription candidates",
+      "Precise semantic body-section segmentation",
+      "Runtime and responsive behavior"
+    ]
+  },
+  "provenance": {
+    "gallery_url": "https://saaslandingpage.com/framer",
+    "gallery_saved_at": "2026-09-29T15:03:17.869Z",
+    "original_site_url": null,
+    "screenshot_captured_at": null,
+    "gallery_meta_path": "provenance/framer-meta.json",
+    "gallery_text_path": "provenance/framer-gallery.txt"
+  },
+  "images": [
+    {
+      "id": "full",
+      "path": "screenshots/framer.png",
+      "sha256": "ad214a45b0a4d4c15b457888e70750da33b1c197f472ad1ead0b974852ea287e",
+      "width": 1440,
+      "height": 11260,
+      "role": "source",
+      "parent_id": null,
+      "bbox_px": null
+    },
+    {
+      "id": "hero-window",
+      "path": "crops/framer-hero.png",
+      "sha256": "40403d935b3c4b1f79bd801aaee2a9a13f06b21157964b95b69470f6de3c0247",
+      "width": 1440,
+      "height": 1000,
+      "role": "crop",
+      "parent_id": "full",
+      "bbox_px": [
+        0,
+        0,
+        1440,
+        1000
+      ]
+    }
+  ],
+  "retrieval": {
+    "page_kind": "landing-page",
+    "summary": "Three short lines of light type on black sit above a large website-editor screenshot.",
+    "tags": [
+      "industry:Design and website building",
+      "audience:Designers and web teams",
+      "conversion_goal:signup",
+      "style:interface-led",
+      "color_family:black",
+      "hero_layout:left"
+    ]
+  },
+  "claims": [
+    {
+      "field": "industry",
+      "value": "Design and website building",
+      "basis": "interpretation",
+      "confidence": "medium",
+      "evidence_ids": [
+        "hero-window",
+        "full"
+      ]
+    },
+    {
+      "field": "audience",
+      "value": "Designers and web teams",
+      "basis": "interpretation",
+      "confidence": "medium",
+      "evidence_ids": [
+        "hero-window",
+        "full"
+      ]
+    },
+    {
+      "field": "conversion_goal",
+      "value": "signup",
+      "basis": "interpretation",
+      "confidence": "medium",
+      "evidence_ids": [
+        "hero-window",
+        "full"
+      ]
+    },
+    {
+      "field": "style",
+      "value": "interface-led",
+      "basis": "interpretation",
+      "confidence": "medium",
+      "evidence_ids": [
+        "hero-window",
+        "full"
+      ]
+    },
+    {
+      "field": "color_family",
+      "value": "black",
+      "basis": "screenshot_observation",
+      "confidence": "high",
+      "evidence_ids": [
+        "hero-window",
+        "full"
+      ]
+    },
+    {
+      "field": "hero_layout",
+      "value": "left",
+      "basis": "screenshot_observation",
+      "confidence": "high",
+      "evidence_ids": [
+        "hero-window",
+        "full"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "id": "top-window",
+      "order": 0,
+      "role": "top-page-evidence-window",
+      "pattern": "left",
+      "takeaway": "Design with agents. Refine on the canvas. Ship with your team.",
+      "evidence_ids": [
+        "hero-window",
+        "full"
+      ],
+      "observations": [
+        "Three short lines of light type on black sit above a large website-editor screenshot.",
+        "Window includes the page header and may include the start of subsequent content."
+      ],
+      "visible_affordances": [
+        "Get started for free",
+        "Download app"
+      ],
+      "runtime_verified": false
+    },
+    {
+      "id": "remaining-page",
+      "order": 1,
+      "role": "unsegmented-page-body",
+      "pattern": "unclassified",
+      "takeaway": "Inspect the full screenshot; detailed body annotation is pending.",
+      "evidence_ids": [
+        "full"
+      ],
+      "observations": [
+        "Full-page visual evidence and unreviewed OCR are retained."
+      ],
+      "visible_affordances": [],
+      "runtime_verified": false
+    }
+  ],
+  "recipes": [],
+  "unknowns": [
+    "No conversion-performance data; conversion_goal describes an intended visible action.",
+    "No verified mobile layout, animation, interaction, DOM, source code, font names, or CSS spacing values.",
+    "Screenshot capture date is unknown; gallery savedAt is the download date.",
+    "Full-page semantic section boundaries and body copy classification remain unreviewed.",
+    "The first 1000 pixels are an evidence window, not a browser viewport or exact hero boundary.",
+    "Copy text omits decorative icons; text punctuation is transcribed as visible, but font-specific glyph identity is not established."
+  ],
+  "copy_blocks": [
+    {
+      "id": "copy-01",
+      "section_id": "top-window",
+      "role": "headline",
+      "text_verbatim": "Design with agents. Refine on the canvas. Ship with your team.",
+      "visible_lines": [],
+      "evidence_ids": [
+        "hero-window",
+        "full"
+      ],
+      "reading_order": 0,
+      "transcription_status": "visually_verified",
+      "uncertainties": [
+        "Visual line wrapping is not transcribed; use the screenshot.",
+        "Reading order is grouped editorially by copy role, not a DOM reading-order measurement."
+      ]
+    },
+    {
+      "id": "copy-02",
+      "section_id": "top-window",
+      "role": "cta",
+      "text_verbatim": "Get started for free",
+      "visible_lines": [],
+      "evidence_ids": [
+        "hero-window",
+        "full"
+      ],
+      "reading_order": 1,
+      "transcription_status": "visually_verified",
+      "uncertainties": [
+        "Visual line wrapping is not transcribed; use the screenshot.",
+        "Reading order is grouped editorially by copy role, not a DOM reading-order measurement."
+      ]
+    },
+    {
+      "id": "copy-03",
+      "section_id": "top-window",
+      "role": "cta",
+      "text_verbatim": "Download app",
+      "visible_lines": [],
+      "evidence_ids": [
+        "hero-window",
+        "full"
+      ],
+      "reading_order": 2,
+      "transcription_status": "visually_verified",
+      "uncertainties": [
+        "Visual line wrapping is not transcribed; use the screenshot.",
+        "Reading order is grouped editorially by copy role, not a DOM reading-order measurement."
+      ]
+    }
+  ],
+  "transcription_candidates": [
+    {
+      "id": "ocr-0001",
+      "section_id": "top-window",
+      "text_raw": "Product",
+      "bbox_px": [
+        164,
+        26,
+        219,
+        39
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0002",
+      "section_id": "top-window",
+      "text_raw": "Community",
+      "bbox_px": [
+        232,
+        26,
+        316,
+        41
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0003",
+      "section_id": "top-window",
+      "text_raw": "Resources",
+      "bbox_px": [
+        331,
+        26,
+        405,
+        39
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0004",
+      "section_id": "top-window",
+      "text_raw": "Enterprise",
+      "bbox_px": [
+        425,
+        26,
+        493,
+        41
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0005",
+      "section_id": "top-window",
+      "text_raw": "Pricing",
+      "bbox_px": [
+        514,
+        26,
+        561,
+        41
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0006",
+      "section_id": "top-window",
+      "text_raw": "Framer 3.0 is here See everything we shipped →",
+      "bbox_px": [
+        120,
+        164,
+        436,
+        181
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0007",
+      "section_id": "top-window",
+      "text_raw": "Design with agents.",
+      "bbox_px": [
+        122,
+        214,
+        567,
+        267
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0008",
+      "section_id": "top-window",
+      "text_raw": "Refine on the canvas.",
+      "bbox_px": [
+        119,
+        266,
+        598,
+        316
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0009",
+      "section_id": "top-window",
+      "text_raw": "Ship with your team.",
+      "bbox_px": [
+        117,
+        321,
+        588,
+        374
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0010",
+      "section_id": "top-window",
+      "text_raw": "Get started for free",
+      "bbox_px": [
+        133,
+        405,
+        258,
+        421
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0011",
+      "section_id": "top-window",
+      "text_raw": "Download app",
+      "bbox_px": [
+        292,
+        405,
+        389,
+        421
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0012",
+      "section_id": "top-window",
+      "text_raw": "* Canvas ~",
+      "bbox_px": [
+        138,
+        504,
+        219,
+        523
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0013",
+      "section_id": "top-window",
+      "text_raw": "Site • 1° main",
+      "bbox_px": [
+        674,
+        507,
+        757,
+        520
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0014",
+      "section_id": "top-window",
+      "text_raw": "Invite",
+      "bbox_px": [
+        1189,
+        507,
+        1228,
+        520
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0015",
+      "section_id": "top-window",
+      "text_raw": "Publish",
+      "bbox_px": [
+        1251,
+        507,
+        1298,
+        520
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0016",
+      "section_id": "top-window",
+      "text_raw": "Assets",
+      "bbox_px": [
+        253,
+        557,
+        303,
+        570
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0017",
+      "section_id": "top-window",
+      "text_raw": "Agent",
+      "bbox_px": [
+        1076,
+        557,
+        1115,
+        572
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0018",
+      "section_id": "top-window",
+      "text_raw": "Style",
+      "bbox_px": [
+        1131,
+        557,
+        1165,
+        572
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0019",
+      "section_id": "top-window",
+      "text_raw": "Pages",
+      "bbox_px": [
+        138,
+        558,
+        183,
+        573
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0020",
+      "section_id": "top-window",
+      "text_raw": "Layers",
+      "bbox_px": [
+        198,
+        559,
+        250,
+        572
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0021",
+      "section_id": "top-window",
+      "text_raw": "Q Search...",
+      "bbox_px": [
+        138,
+        605,
+        217,
+        623
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0022",
+      "section_id": "top-window",
+      "text_raw": "Desktop 1200",
+      "bbox_px": [
+        462,
+        606,
+        564,
+        622
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0023",
+      "section_id": "top-window",
+      "text_raw": "New Hero Ticker",
+      "bbox_px": [
+        1076,
+        606,
+        1176,
+        620
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0024",
+      "section_id": "top-window",
+      "text_raw": "Haus",
+      "bbox_px": [
+        470,
+        648,
+        522,
+        661
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0025",
+      "section_id": "top-window",
+      "text_raw": "Work Services About Getin Touch",
+      "bbox_px": [
+        812,
+        648,
+        966,
+        662
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0026",
+      "section_id": "top-window",
+      "text_raw": "Pages",
+      "bbox_px": [
+        132,
+        655,
+        175,
+        674
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0027",
+      "section_id": "top-window",
+      "text_raw": "Add a 3D image ticker to the",
+      "bbox_px": [
+        1076,
+        658,
+        1243,
+        675
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0028",
+      "section_id": "top-window",
+      "text_raw": "hero section and write a short",
+      "bbox_px": [
+        1073,
+        677,
+        1251,
+        695
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0029",
+      "section_id": "top-window",
+      "text_raw": "Q Home",
+      "bbox_px": [
+        154,
+        695,
+        214,
+        711
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0030",
+      "section_id": "top-window",
+      "text_raw": "introduction about Haus studio.",
+      "bbox_px": [
+        1074,
+        695,
+        1259,
+        709
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0031",
+      "section_id": "top-window",
+      "text_raw": "/work",
+      "bbox_px": [
+        172,
+        727,
+        214,
+        740
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0032",
+      "section_id": "top-window",
+      "text_raw": "We are a multidisciplinary",
+      "bbox_px": [
+        470,
+        745,
+        773,
+        774
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0033",
+      "section_id": "top-window",
+      "text_raw": "Work Pages",
+      "bbox_px": [
+        193,
+        758,
+        271,
+        772
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0034",
+      "section_id": "top-window",
+      "text_raw": "creative studio specializing",
+      "bbox_px": [
+        470,
+        777,
+        789,
+        803
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0035",
+      "section_id": "top-window",
+      "text_raw": "/services",
+      "bbox_px": [
+        175,
+        787,
+        235,
+        800
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0036",
+      "section_id": "top-window",
+      "text_raw": "Thought 12s",
+      "bbox_px": [
+        1076,
+        790,
+        1155,
+        803
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0037",
+      "section_id": "top-window",
+      "text_raw": "in digital experiences.",
+      "bbox_px": [
+        467,
+        805,
+        726,
+        829
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0038",
+      "section_id": "top-window",
+      "text_raw": "Analyzed hero section 3s",
+      "bbox_px": [
+        1076,
+        813,
+        1225,
+        827
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0039",
+      "section_id": "top-window",
+      "text_raw": "• /about",
+      "bbox_px": [
+        156,
+        816,
+        219,
+        832
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0040",
+      "section_id": "top-window",
+      "text_raw": "(sçro.. cown)",
+      "bbox_px": [
+        912,
+        821,
+        966,
+        826
+      ],
+      "ocr_confidence": 0.30000001192092896,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0041",
+      "section_id": "top-window",
+      "text_raw": "Ill replace the selected text area",
+      "bbox_px": [
+        1074,
+        839,
+        1270,
+        856
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0042",
+      "section_id": "top-window",
+      "text_raw": "• /contact",
+      "bbox_px": [
+        156,
+        847,
+        229,
+        861
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0043",
+      "section_id": "top-window",
+      "text_raw": "with a Haus intro and add an image",
+      "bbox_px": [
+        1076,
+        858,
+        1285,
+        871
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0044",
+      "section_id": "top-window",
+      "text_raw": "ticker using your attoched images.",
+      "bbox_px": [
+        1074,
+        873,
+        1277,
+        889
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0045",
+      "section_id": "top-window",
+      "text_raw": "• /news",
+      "bbox_px": [
+        153,
+        875,
+        217,
+        893
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0046",
+      "section_id": "top-window",
+      "text_raw": "E Adding Images...",
+      "bbox_px": [
+        1076,
+        905,
+        1199,
+        926
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0047",
+      "section_id": "top-window",
+      "text_raw": "• 0",
+      "bbox_px": [
+        138,
+        907,
+        172,
+        920
+      ],
+      "ocr_confidence": 0.30000001192092896,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0048",
+      "section_id": "top-window",
+      "text_raw": "/legal",
+      "bbox_px": [
+        172,
+        907,
+        214,
+        923
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0049",
+      "section_id": "top-window",
+      "text_raw": "/priv›1cy",
+      "bbox_px": [
+        190,
+        938,
+        248,
+        953
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0050",
+      "section_id": "top-window",
+      "text_raw": "Done. I replaced the selected text",
+      "bbox_px": [
+        1076,
+        941,
+        1275,
+        958
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0051",
+      "section_id": "top-window",
+      "text_raw": "block with Haus focused copy",
+      "bbox_px": [
+        1074,
+        959,
+        1254,
+        973
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0052",
+      "section_id": "top-window",
+      "text_raw": "/terms",
+      "bbox_px": [
+        190,
+        968,
+        237,
+        981
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0053",
+      "section_id": "top-window",
+      "text_raw": "and added a horizontal image",
+      "bbox_px": [
+        1076,
+        975,
+        1251,
+        988
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0054",
+      "section_id": "top-window",
+      "text_raw": "ticker using the provided images.",
+      "bbox_px": [
+        1074,
+        994,
+        1270,
+        1007
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0055",
+      "section_id": "remaining-page",
+      "text_raw": "Do you want to add tablet and phone",
+      "bbox_px": [
+        1074,
+        1019,
+        1293,
+        1036
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0056",
+      "section_id": "remaining-page",
+      "text_raw": "breakpoints to make it responsive?",
+      "bbox_px": [
+        1076,
+        1038,
+        1280,
+        1052
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0057",
+      "section_id": "remaining-page",
+      "text_raw": "Changes",
+      "bbox_px": [
+        1076,
+        1075,
+        1131,
+        1090
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0058",
+      "section_id": "remaining-page",
+      "text_raw": "Undo",
+      "bbox_px": [
+        1259,
+        1075,
+        1293,
+        1088
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0059",
+      "section_id": "remaining-page",
+      "text_raw": "Q Home",
+      "bbox_px": [
+        1076,
+        1111,
+        1136,
+        1128
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0060",
+      "section_id": "remaining-page",
+      "text_raw": "17 Layers",
+      "bbox_px": [
+        1238,
+        1111,
+        1298,
+        1125
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0061",
+      "section_id": "remaining-page",
+      "text_raw": "Add follow up...",
+      "bbox_px": [
+        1074,
+        1168,
+        1170,
+        1185
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0062",
+      "section_id": "remaining-page",
+      "text_raw": "Services",
+      "bbox_px": [
+        470,
+        1169,
+        522,
+        1182
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0063",
+      "section_id": "remaining-page",
+      "text_raw": "Brand Identity",
+      "bbox_px": [
+        632,
+        1169,
+        710,
+        1183
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0064",
+      "section_id": "remaining-page",
+      "text_raw": "100% v",
+      "bbox_px": [
+        770,
+        1245,
+        828,
+        1261
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0065",
+      "section_id": "remaining-page",
+      "text_raw": "GPT 5.5 v",
+      "bbox_px": [
+        1076,
+        1250,
+        1139,
+        1266
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0066",
+      "section_id": "remaining-page",
+      "text_raw": "Shipped with Framer",
+      "bbox_px": [
+        117,
+        1493,
+        501,
+        1538
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0067",
+      "section_id": "remaining-page",
+      "text_raw": "See Framer sites",
+      "bbox_px": [
+        1194,
+        1506,
+        1306,
+        1520
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0068",
+      "section_id": "remaining-page",
+      "text_raw": "London 13:42:42 New York 08:42:42",
+      "bbox_px": [
+        488,
+        1575,
+        619,
+        1588
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0069",
+      "section_id": "remaining-page",
+      "text_raw": "OR(",
+      "bbox_px": [
+        1264,
+        1600,
+        1325,
+        1631
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0070",
+      "section_id": "remaining-page",
+      "text_raw": "ORC",
+      "bbox_px": [
+        1264,
+        1601,
+        1322,
+        1632
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0071",
+      "section_id": "remaining-page",
+      "text_raw": "ORO",
+      "bbox_px": [
+        896,
+        1602,
+        980,
+        1638
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0072",
+      "section_id": "remaining-page",
+      "text_raw": "Book a cal",
+      "bbox_px": [
+        465,
+        1603,
+        501,
+        1614
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0073",
+      "section_id": "remaining-page",
+      "text_raw": "1BCOaLE",
+      "bbox_px": [
+        815,
+        1606,
+        851,
+        1619
+      ],
+      "ocr_confidence": 0.30000001192092896,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0074",
+      "section_id": "remaining-page",
+      "text_raw": "LE,",
+      "bbox_px": [
+        802,
+        1675,
+        851,
+        1717
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0075",
+      "section_id": "remaining-page",
+      "text_raw": "ĚLLē",
+      "bbox_px": [
+        759,
+        1738,
+        852,
+        1784
+      ],
+      "ocr_confidence": 0.5,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0076",
+      "section_id": "remaining-page",
+      "text_raw": "H100",
+      "bbox_px": [
+        128,
+        1796,
+        210,
+        1878
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0077",
+      "section_id": "remaining-page",
+      "text_raw": "Your data is the most valuable",
+      "bbox_px": [
+        893,
+        1916,
+        1061,
+        1932
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0078",
+      "section_id": "remaining-page",
+      "text_raw": "commodity in the Al world. It's",
+      "bbox_px": [
+        896,
+        1932,
+        1061,
+        1947
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0079",
+      "section_id": "remaining-page",
+      "text_raw": "time you get rewarded tor it",
+      "bbox_px": [
+        875,
+        1947,
+        1045,
+        1961
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0080",
+      "section_id": "remaining-page",
+      "text_raw": "ps",
+      "bbox_px": [
+        117,
+        1950,
+        146,
+        1971
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0081",
+      "section_id": "remaining-page",
+      "text_raw": "ORO",
+      "bbox_px": [
+        1126,
+        1989,
+        1162,
+        2005
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0082",
+      "section_id": "remaining-page",
+      "text_raw": "LEGORA",
+      "bbox_px": [
+        729,
+        2039,
+        778,
+        2052
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0083",
+      "section_id": "remaining-page",
+      "text_raw": "rogo",
+      "bbox_px": [
+        1115,
+        2039,
+        1155,
+        2055
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0084",
+      "section_id": "remaining-page",
+      "text_raw": "Oo Tripadvisor",
+      "bbox_px": [
+        232,
+        2133,
+        337,
+        2149
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0085",
+      "section_id": "remaining-page",
+      "text_raw": "For the most",
+      "bbox_px": [
+        1149,
+        2182,
+        1288,
+        2210
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0086",
+      "section_id": "remaining-page",
+      "text_raw": "Ch1se",
+      "bbox_px": [
+        227,
+        2190,
+        334,
+        2228
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0087",
+      "section_id": "remaining-page",
+      "text_raw": "ambitious firms",
+      "bbox_px": [
+        1133,
+        2205,
+        1299,
+        2238
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0088",
+      "section_id": "remaining-page",
+      "text_raw": "the Match",
+      "bbox_px": [
+        201,
+        2229,
+        365,
+        2259
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0089",
+      "section_id": "remaining-page",
+      "text_raw": "in finance",
+      "bbox_px": [
+        1173,
+        2232,
+        1288,
+        2251
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0090",
+      "section_id": "remaining-page",
+      "text_raw": "Rogo is the trusted Al partner to the",
+      "bbox_px": [
+        1157,
+        2264,
+        1288,
+        2277
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0091",
+      "section_id": "remaining-page",
+      "text_raw": "Dribbble",
+      "bbox_px": [
+        435,
+        2399,
+        539,
+        2435
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0092",
+      "section_id": "remaining-page",
+      "text_raw": "LEGORA",
+      "bbox_px": [
+        588,
+        2405,
+        687,
+        2429
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0093",
+      "section_id": "remaining-page",
+      "text_raw": "_zapier",
+      "bbox_px": [
+        752,
+        2405,
+        841,
+        2429
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0094",
+      "section_id": "remaining-page",
+      "text_raw": "W perplexity",
+      "bbox_px": [
+        896,
+        2405,
+        1006,
+        2432
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0095",
+      "section_id": "remaining-page",
+      "text_raw": "M miro",
+      "bbox_px": [
+        752,
+        2470,
+        841,
+        2499
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0096",
+      "section_id": "remaining-page",
+      "text_raw": "Cal.com",
+      "bbox_px": [
+        439,
+        2473,
+        535,
+        2497
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0097",
+      "section_id": "remaining-page",
+      "text_raw": "mixpanel",
+      "bbox_px": [
+        587,
+        2476,
+        690,
+        2500
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0098",
+      "section_id": "remaining-page",
+      "text_raw": "→ DOORDASH",
+      "bbox_px": [
+        899,
+        2478,
+        1014,
+        2494
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0099",
+      "section_id": "remaining-page",
+      "text_raw": "Agents that work alongside",
+      "bbox_px": [
+        120,
+        2803,
+        619,
+        2848
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0100",
+      "section_id": "remaining-page",
+      "text_raw": "you, not instead of you",
+      "bbox_px": [
+        119,
+        2848,
+        541,
+        2898
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0101",
+      "section_id": "remaining-page",
+      "text_raw": "Start with agents",
+      "bbox_px": [
+        1193,
+        2860,
+        1307,
+        2880
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0102",
+      "section_id": "remaining-page",
+      "text_raw": "• Desktop",
+      "bbox_px": [
+        1079,
+        2954,
+        1147,
+        2971
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0103",
+      "section_id": "remaining-page",
+      "text_raw": "Create a few layout",
+      "bbox_px": [
+        1147,
+        2955,
+        1267,
+        2971
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0104",
+      "section_id": "remaining-page",
+      "text_raw": "variations of my site. Keep",
+      "bbox_px": [
+        1076,
+        2973,
+        1233,
+        2989
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0105",
+      "section_id": "remaining-page",
+      "text_raw": "the content but try some",
+      "bbox_px": [
+        1076,
+        2991,
+        1223,
+        3005
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0106",
+      "section_id": "remaining-page",
+      "text_raw": "Exploration - Big Intro",
+      "bbox_px": [
+        451,
+        2996,
+        590,
+        3016
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0107",
+      "section_id": "remaining-page",
+      "text_raw": "Exploration - Side Nav",
+      "bbox_px": [
+        723,
+        2997,
+        865,
+        3013
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0108",
+      "section_id": "remaining-page",
+      "text_raw": "Exploration",
+      "bbox_px": [
+        182,
+        2999,
+        253,
+        3012
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0109",
+      "section_id": "remaining-page",
+      "text_raw": "different compositions.",
+      "bbox_px": [
+        1076,
+        3007,
+        1215,
+        3023
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0110",
+      "section_id": "remaining-page",
+      "text_raw": "Thinking...",
+      "bbox_px": [
+        1075,
+        3049,
+        1142,
+        3068
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0111",
+      "section_id": "remaining-page",
+      "text_raw": "Haus",
+      "bbox_px": [
+        206,
+        3050,
+        410,
+        3101
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0112",
+      "section_id": "remaining-page",
+      "text_raw": "• Created a design plan",
+      "bbox_px": [
+        1076,
+        3082,
+        1231,
+        3100
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0113",
+      "section_id": "remaining-page",
+      "text_raw": "Placing layout variations side by side.",
+      "bbox_px": [
+        1076,
+        3116,
+        1296,
+        3133
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0114",
+      "section_id": "remaining-page",
+      "text_raw": "Design with an agent",
+      "bbox_px": [
+        146,
+        3445,
+        321,
+        3466
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0115",
+      "section_id": "remaining-page",
+      "text_raw": "Add follow up...",
+      "bbox_px": [
+        1073,
+        3451,
+        1171,
+        3470
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0116",
+      "section_id": "remaining-page",
+      "text_raw": "A professional design agent, native to the canvas. It works",
+      "bbox_px": [
+        146,
+        3474,
+        616,
+        3496
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0117",
+      "section_id": "remaining-page",
+      "text_raw": "directly on your site to generate and refine in place, with",
+      "bbox_px": [
+        146,
+        3498,
+        598,
+        3521
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0118",
+      "section_id": "remaining-page",
+      "text_raw": "every change visible, editable, and under your control.",
+      "bbox_px": [
+        143,
+        3523,
+        582,
+        3542
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0119",
+      "section_id": "remaining-page",
+      "text_raw": "GPT 5.5 v",
+      "bbox_px": [
+        1076,
+        3537,
+        1139,
+        3551
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0120",
+      "section_id": "remaining-page",
+      "text_raw": "* CMS ~",
+      "bbox_px": [
+        193,
+        3707,
+        261,
+        3723
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0121",
+      "section_id": "remaining-page",
+      "text_raw": "Site • 19 main",
+      "bbox_px": [
+        603,
+        3707,
+        687,
+        3723
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0122",
+      "section_id": "remaining-page",
+      "text_raw": "+N=Q",
+      "bbox_px": [
+        449,
+        3757,
+        574,
+        3775
+      ],
+      "ocr_confidence": 0.30000001192092896,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0123",
+      "section_id": "remaining-page",
+      "text_raw": "Fields",
+      "bbox_px": [
+        276,
+        3758,
+        321,
+        3773
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0124",
+      "section_id": "remaining-page",
+      "text_raw": "Collections",
+      "bbox_px": [
+        193,
+        3759,
+        263,
+        3772
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0125",
+      "section_id": "remaining-page",
+      "text_raw": "Plugins",
+      "bbox_px": [
+        331,
+        3759,
+        381,
+        3772
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0126",
+      "section_id": "remaining-page",
+      "text_raw": "Status",
+      "bbox_px": [
+        943,
+        3806,
+        985,
+        3822
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0127",
+      "section_id": "remaining-page",
+      "text_raw": "Image",
+      "bbox_px": [
+        720,
+        3807,
+        766,
+        3825
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0128",
+      "section_id": "remaining-page",
+      "text_raw": "Category",
+      "bbox_px": [
+        815,
+        3807,
+        878,
+        3825
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0129",
+      "section_id": "remaining-page",
+      "text_raw": "› • Academy",
+      "bbox_px": [
+        193,
+        3809,
+        290,
+        3823
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0130",
+      "section_id": "remaining-page",
+      "text_raw": "Title",
+      "bbox_px": [
+        514,
+        3809,
+        546,
+        3822
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0131",
+      "section_id": "remaining-page",
+      "text_raw": "• B Blog",
+      "bbox_px": [
+        193,
+        3838,
+        261,
+        3854
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0132",
+      "section_id": "remaining-page",
+      "text_raw": "Inspiration v",
+      "bbox_px": [
+        823,
+        3856,
+        909,
+        3872
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0133",
+      "section_id": "remaining-page",
+      "text_raw": "Designing calmer interfac...",
+      "bbox_px": [
+        514,
+        3858,
+        689,
+        3875
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0134",
+      "section_id": "remaining-page",
+      "text_raw": "Live y",
+      "bbox_px": [
+        951,
+        3858,
+        993,
+        3872
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0135",
+      "section_id": "remaining-page",
+      "text_raw": "• Articles",
+      "bbox_px": [
+        229,
+        3869,
+        300,
+        3883
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0136",
+      "section_id": "remaining-page",
+      "text_raw": "320",
+      "bbox_px": [
+        392,
+        3869,
+        418,
+        3880
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0137",
+      "section_id": "remaining-page",
+      "text_raw": "Creators",
+      "bbox_px": [
+        253,
+        3898,
+        305,
+        3911
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0138",
+      "section_id": "remaining-page",
+      "text_raw": "256",
+      "bbox_px": [
+        392,
+        3898,
+        418,
+        3911
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0139",
+      "section_id": "remaining-page",
+      "text_raw": "Product v",
+      "bbox_px": [
+        823,
+        3906,
+        891,
+        3922
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0140",
+      "section_id": "remaining-page",
+      "text_raw": "Live y",
+      "bbox_px": [
+        951,
+        3908,
+        993,
+        3922
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0141",
+      "section_id": "remaining-page",
+      "text_raw": "Organic shapes and natur...",
+      "bbox_px": [
+        514,
+        3909,
+        692,
+        3925
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0142",
+      "section_id": "remaining-page",
+      "text_raw": "18",
+      "bbox_px": [
+        399,
+        3927,
+        418,
+        3940
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0143",
+      "section_id": "remaining-page",
+      "text_raw": "Categories",
+      "bbox_px": [
+        245,
+        3928,
+        321,
+        3943
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0144",
+      "section_id": "remaining-page",
+      "text_raw": "g Styles",
+      "bbox_px": [
+        229,
+        3957,
+        292,
+        3972
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0145",
+      "section_id": "remaining-page",
+      "text_raw": "Earthy color palettes...",
+      "bbox_px": [
+        514,
+        3958,
+        658,
+        3974
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0146",
+      "section_id": "remaining-page",
+      "text_raw": "Inspiration v",
+      "bbox_px": [
+        823,
+        3958,
+        909,
+        3972
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0147",
+      "section_id": "remaining-page",
+      "text_raw": "Live y",
+      "bbox_px": [
+        951,
+        3958,
+        993,
+        3972
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0148",
+      "section_id": "remaining-page",
+      "text_raw": "B Developers",
+      "bbox_px": [
+        203,
+        3987,
+        300,
+        4003
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0149",
+      "section_id": "remaining-page",
+      "text_raw": "Designing with growth: ho...",
+      "bbox_px": [
+        514,
+        4007,
+        689,
+        4024
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0150",
+      "section_id": "remaining-page",
+      "text_raw": "Guide ~",
+      "bbox_px": [
+        825,
+        4008,
+        880,
+        4022
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0151",
+      "section_id": "remaining-page",
+      "text_raw": "Live y",
+      "bbox_px": [
+        951,
+        4008,
+        993,
+        4022
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0152",
+      "section_id": "remaining-page",
+      "text_raw": "› • Startups",
+      "bbox_px": [
+        193,
+        4018,
+        284,
+        4031
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0153",
+      "section_id": "remaining-page",
+      "text_raw": "› B Help",
+      "bbox_px": [
+        193,
+        4047,
+        261,
+        4063
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0154",
+      "section_id": "remaining-page",
+      "text_raw": "From forests to pixels:.",
+      "bbox_px": [
+        514,
+        4058,
+        658,
+        4074
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0155",
+      "section_id": "remaining-page",
+      "text_raw": "Design ~",
+      "bbox_px": [
+        823,
+        4058,
+        885,
+        4074
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0156",
+      "section_id": "remaining-page",
+      "text_raw": "Run your CMS with an agent",
+      "bbox_px": [
+        146,
+        4146,
+        384,
+        4165
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0157",
+      "section_id": "remaining-page",
+      "text_raw": "Manage more. Publish faster. The CMS agent sets up,",
+      "bbox_px": [
+        146,
+        4175,
+        585,
+        4194
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0158",
+      "section_id": "remaining-page",
+      "text_raw": "organizes, and updates your entire CMS, connecting it",
+      "bbox_px": [
+        148,
+        4198,
+        588,
+        4220
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0159",
+      "section_id": "remaining-page",
+      "text_raw": "directly to the canvas so content and design stay in sync.",
+      "bbox_px": [
+        146,
+        4225,
+        608,
+        4244
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0160",
+      "section_id": "remaining-page",
+      "text_raw": "ImageWheel",
+      "bbox_px": [
+        138,
+        4368,
+        217,
+        4386
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0161",
+      "section_id": "remaining-page",
+      "text_raw": "Code with an agent",
+      "bbox_px": [
+        148,
+        4845,
+        311,
+        4867
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0162",
+      "section_id": "remaining-page",
+      "text_raw": "Agents turn your wildest ideas into code",
+      "bbox_px": [
+        146,
+        4872,
+        473,
+        4896
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0163",
+      "section_id": "remaining-page",
+      "text_raw": "and put them on your site. From simple",
+      "bbox_px": [
+        146,
+        4898,
+        462,
+        4917
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0164",
+      "section_id": "remaining-page",
+      "text_raw": "custom effects to complex interactions.",
+      "bbox_px": [
+        146,
+        4922,
+        467,
+        4941
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0165",
+      "section_id": "remaining-page",
+      "text_raw": "framer-agent",
+      "bbox_px": [
+        1055,
+        5048,
+        1149,
+        5064
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0166",
+      "section_id": "remaining-page",
+      "text_raw": "* claude",
+      "bbox_px": [
+        922,
+        5080,
+        993,
+        5098
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0167",
+      "section_id": "remaining-page",
+      "text_raw": "• cursor",
+      "bbox_px": [
+        1050,
+        5082,
+        1121,
+        5098
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0168",
+      "section_id": "remaining-page",
+      "text_raw": "Framing product wortas",
+      "bbox_px": [
+        256,
+        5105,
+        381,
+        5114
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0169",
+      "section_id": "remaining-page",
+      "text_raw": "Letting Dlur ana color",
+      "bbox_px": [
+        428,
+        5105,
+        540,
+        5114
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0170",
+      "section_id": "remaining-page",
+      "text_raw": "Designing speea Into a",
+      "bbox_px": [
+        601,
+        5105,
+        721,
+        5114
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0171",
+      "section_id": "remaining-page",
+      "text_raw": "through a language of",
+      "bbox_px": [
+        256,
+        5116,
+        373,
+        5130
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0172",
+      "section_id": "remaining-page",
+      "text_raw": "carry the entire mood",
+      "bbox_px": [
+        428,
+        5116,
+        546,
+        5130
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0173",
+      "section_id": "remaining-page",
+      "text_raw": "sharp, performance-led",
+      "bbox_px": [
+        598,
+        5116,
+        729,
+        5130
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0174",
+      "section_id": "remaining-page",
+      "text_raw": "light, glass and speed",
+      "bbox_px": [
+        253,
+        5129,
+        373,
+        5142
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0175",
+      "section_id": "remaining-page",
+      "text_raw": "of a living brand",
+      "bbox_px": [
+        428,
+        5129,
+        517,
+        5142
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0176",
+      "section_id": "remaining-page",
+      "text_raw": "visual identity system",
+      "bbox_px": [
+        601,
+        5129,
+        718,
+        5142
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0177",
+      "section_id": "remaining-page",
+      "text_raw": "Claude Code v2.1.170",
+      "bbox_px": [
+        938,
+        5134,
+        1095,
+        5150
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0178",
+      "section_id": "remaining-page",
+      "text_raw": "Dec 2025",
+      "bbox_px": [
+        425,
+        5147,
+        467,
+        5161
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0179",
+      "section_id": "remaining-page",
+      "text_raw": "Nov 2025",
+      "bbox_px": [
+        601,
+        5147,
+        640,
+        5161
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0180",
+      "section_id": "remaining-page",
+      "text_raw": "Sonnet 4.6 • Claude Team • Framer",
+      "bbox_px": [
+        974,
+        5166,
+        1230,
+        5182
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0181",
+      "section_id": "remaining-page",
+      "text_raw": "• Initializing WordPress importer...",
+      "bbox_px": [
+        901,
+        5255,
+        1165,
+        5271
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0182",
+      "section_id": "remaining-page",
+      "text_raw": "L WP REST API detected.",
+      "bbox_px": [
+        917,
+        5270,
+        1092,
+        5284
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0183",
+      "section_id": "remaining-page",
+      "text_raw": "L Framer CMS connected.",
+      "bbox_px": [
+        917,
+        5286,
+        1092,
+        5304
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0184",
+      "section_id": "remaining-page",
+      "text_raw": "• Skil1(check-wordpress-auth)",
+      "bbox_px": [
+        901,
+        5322,
+        1123,
+        5339
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0185",
+      "section_id": "remaining-page",
+      "text_raw": "L WordPress credentials verified.",
+      "bbox_px": [
+        917,
+        5339,
+        1168,
+        5352
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0186",
+      "section_id": "remaining-page",
+      "text_raw": "How the camera quietly",
+      "bbox_px": [
+        253,
+        5351,
+        384,
+        5365
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0187",
+      "section_id": "remaining-page",
+      "text_raw": "Finding beauty in the",
+      "bbox_px": [
+        428,
+        5351,
+        540,
+        5365
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0188",
+      "section_id": "remaining-page",
+      "text_raw": "Turning everyday digital",
+      "bbox_px": [
+        601,
+        5351,
+        729,
+        5365
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0189",
+      "section_id": "remaining-page",
+      "text_raw": "L Connected to Framer CMS collection.",
+      "bbox_px": [
+        917,
+        5354,
+        1199,
+        5372
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0190",
+      "section_id": "remaining-page",
+      "text_raw": "tools into cinematic,",
+      "bbox_px": [
+        601,
+        5364,
+        710,
+        5378
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0191",
+      "section_id": "remaining-page",
+      "text_raw": "blurred frames that",
+      "bbox_px": [
+        428,
+        5365,
+        533,
+        5378
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0192",
+      "section_id": "remaining-page",
+      "text_raw": "becomes a character",
+      "bbox_px": [
+        253,
+        5367,
+        365,
+        5375
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0193",
+      "section_id": "remaining-page",
+      "text_raw": "within the wider story",
+      "bbox_px": [
+        253,
+        5380,
+        373,
+        5394
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0194",
+      "section_id": "remaining-page",
+      "text_raw": "most cameras miss",
+      "bbox_px": [
+        425,
+        5380,
+        535,
+        5394
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0195",
+      "section_id": "remaining-page",
+      "text_raw": "atmospheric scenes",
+      "bbox_px": [
+        598,
+        5380,
+        713,
+        5394
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0196",
+      "section_id": "remaining-page",
+      "text_raw": "• Bash(GET /wp-json/wp/v2/posts?per_page)",
+      "bbox_px": [
+        901,
+        5391,
+        1215,
+        5407
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0197",
+      "section_id": "remaining-page",
+      "text_raw": "Sep 2025",
+      "bbox_px": [
+        428,
+        5396,
+        467,
+        5410
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0198",
+      "section_id": "remaining-page",
+      "text_raw": "Aug 2025",
+      "bbox_px": [
+        601,
+        5396,
+        640,
+        5410
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0199",
+      "section_id": "remaining-page",
+      "text_raw": "0ct 2025",
+      "bbox_px": [
+        256,
+        5401,
+        290,
+        5407
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0200",
+      "section_id": "remaining-page",
+      "text_raw": "L 47 posts returned • 47 mapped to Blog schema.",
+      "bbox_px": [
+        917,
+        5406,
+        1278,
+        5425
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0201",
+      "section_id": "remaining-page",
+      "text_raw": "• Bash(GET /wp-json/wp/v2/media x 47)",
+      "bbox_px": [
+        899,
+        5443,
+        1183,
+        5459
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0202",
+      "section_id": "remaining-page",
+      "text_raw": "02026 Haus Studid",
+      "bbox_px": [
+        256,
+        5445,
+        324,
+        5456
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0203",
+      "section_id": "remaining-page",
+      "text_raw": "L titles, slugs, authors, dates, and",
+      "bbox_px": [
+        917,
+        5461,
+        1191,
+        5474
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0204",
+      "section_id": "remaining-page",
+      "text_raw": "cover images resolved.",
+      "bbox_px": [
+        914,
+        5477,
+        1087,
+        5491
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0205",
+      "section_id": "remaining-page",
+      "text_raw": "• Import complete • 47 blog",
+      "bbox_px": [
+        901,
+        5509,
+        1110,
+        5527
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0206",
+      "section_id": "remaining-page",
+      "text_raw": "entries published to Framer CMS.",
+      "bbox_px": [
+        914,
+        5527,
+        1162,
+        5543
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0207",
+      "section_id": "remaining-page",
+      "text_raw": "Connect to any Al",
+      "bbox_px": [
+        154,
+        5548,
+        300,
+        5567
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0208",
+      "section_id": "remaining-page",
+      "text_raw": "Take action on your site from anywhere. Update copy from Slack.",
+      "bbox_px": [
+        151,
+        5577,
+        679,
+        5595
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0209",
+      "section_id": "remaining-page",
+      "text_raw": "Trigger CMS changes from the terminal. Ship from a GitHub PR. Drive it",
+      "bbox_px": [
+        154,
+        5600,
+        729,
+        5619
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0210",
+      "section_id": "remaining-page",
+      "text_raw": "all from your Terminal, Codex, Claude Code, Cursor, or any external Al.",
+      "bbox_px": [
+        151,
+        5623,
+        721,
+        5645
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0211",
+      "section_id": "remaining-page",
+      "text_raw": "Copy install prompt",
+      "bbox_px": [
+        914,
+        5631,
+        1079,
+        5647
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0212",
+      "section_id": "remaining-page",
+      "text_raw": "o",
+      "bbox_px": [
+        1272,
+        5631,
+        1288,
+        5645
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0213",
+      "section_id": "remaining-page",
+      "text_raw": "Not just vibes,",
+      "bbox_px": [
+        119,
+        5957,
+        379,
+        6006
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0214",
+      "section_id": "remaining-page",
+      "text_raw": "a full platform",
+      "bbox_px": [
+        119,
+        6006,
+        379,
+        6054
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0215",
+      "section_id": "remaining-page",
+      "text_raw": "+Ti = Q",
+      "bbox_px": [
+        833,
+        6141,
+        967,
+        6166
+      ],
+      "ocr_confidence": 0.30000001192092896,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0216",
+      "section_id": "remaining-page",
+      "text_raw": "Collections",
+      "bbox_px": [
+        582,
+        6150,
+        655,
+        6163
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0217",
+      "section_id": "remaining-page",
+      "text_raw": "Fields",
+      "bbox_px": [
+        671,
+        6150,
+        713,
+        6163
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0218",
+      "section_id": "remaining-page",
+      "text_raw": "Core Web Vitals",
+      "bbox_px": [
+        169,
+        6193,
+        279,
+        6210
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0219",
+      "section_id": "remaining-page",
+      "text_raw": "GOOD",
+      "bbox_px": [
+        428,
+        6197,
+        467,
+        6210
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0220",
+      "section_id": "remaining-page",
+      "text_raw": "› • Blog",
+      "bbox_px": [
+        582,
+        6199,
+        656,
+        6215
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0221",
+      "section_id": "remaining-page",
+      "text_raw": "Title",
+      "bbox_px": [
+        891,
+        6199,
+        940,
+        6212
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0222",
+      "section_id": "remaining-page",
+      "text_raw": "Category",
+      "bbox_px": [
+        1209,
+        6200,
+        1270,
+        6215
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0223",
+      "section_id": "remaining-page",
+      "text_raw": "Image",
+      "bbox_px": [
+        1115,
+        6202,
+        1157,
+        6215
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0224",
+      "section_id": "remaining-page",
+      "text_raw": "› B Careers",
+      "bbox_px": [
+        588,
+        6227,
+        676,
+        6244
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0225",
+      "section_id": "remaining-page",
+      "text_raw": "LCP 0",
+      "bbox_px": [
+        167,
+        6238,
+        217,
+        6255
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0226",
+      "section_id": "remaining-page",
+      "text_raw": "1.1s",
+      "bbox_px": [
+        446,
+        6241,
+        473,
+        6254
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0227",
+      "section_id": "remaining-page",
+      "text_raw": "Generative design rooted i...",
+      "bbox_px": [
+        909,
+        6249,
+        1087,
+        6265
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0228",
+      "section_id": "remaining-page",
+      "text_raw": "Design",
+      "bbox_px": [
+        1217,
+        6249,
+        1264,
+        6265
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0229",
+      "section_id": "remaining-page",
+      "text_raw": "• B Events",
+      "bbox_px": [
+        582,
+        6259,
+        669,
+        6273
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0230",
+      "section_id": "remaining-page",
+      "text_raw": "Categories",
+      "bbox_px": [
+        644,
+        6288,
+        716,
+        6306
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0231",
+      "section_id": "remaining-page",
+      "text_raw": "13",
+      "bbox_px": [
+        794,
+        6288,
+        812,
+        6301
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0232",
+      "section_id": "remaining-page",
+      "text_raw": "# О",
+      "bbox_px": [
+        838,
+        6298,
+        883,
+        6315
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0233",
+      "section_id": "remaining-page",
+      "text_raw": "Designing Al tools that fee...",
+      "bbox_px": [
+        909,
+        6298,
+        1087,
+        6315
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0234",
+      "section_id": "remaining-page",
+      "text_raw": "AI",
+      "bbox_px": [
+        1217,
+        6299,
+        1233,
+        6314
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0235",
+      "section_id": "remaining-page",
+      "text_raw": "Blog",
+      "bbox_px": [
+        1254,
+        6299,
+        1285,
+        6312
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0236",
+      "section_id": "remaining-page",
+      "text_raw": "INP ©",
+      "bbox_px": [
+        164,
+        6301,
+        211,
+        6320
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0237",
+      "section_id": "remaining-page",
+      "text_raw": "95ms",
+      "bbox_px": [
+        428,
+        6301,
+        473,
+        6317
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0238",
+      "section_id": "remaining-page",
+      "text_raw": "• Speakers",
+      "bbox_px": [
+        627,
+        6319,
+        705,
+        6333
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0239",
+      "section_id": "remaining-page",
+      "text_raw": "18",
+      "bbox_px": [
+        794,
+        6320,
+        812,
+        6333
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0240",
+      "section_id": "remaining-page",
+      "text_raw": "Blog",
+      "bbox_px": [
+        1268,
+        6346,
+        1303,
+        6366
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0241",
+      "section_id": "remaining-page",
+      "text_raw": "9 Talks",
+      "bbox_px": [
+        624,
+        6348,
+        682,
+        6364
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0242",
+      "section_id": "remaining-page",
+      "text_raw": "89",
+      "bbox_px": [
+        794,
+        6348,
+        812,
+        6361
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0243",
+      "section_id": "remaining-page",
+      "text_raw": "Living systems: data...",
+      "bbox_px": [
+        909,
+        6348,
+        1053,
+        6364
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0244",
+      "section_id": "remaining-page",
+      "text_raw": "Data",
+      "bbox_px": [
+        1217,
+        6348,
+        1251,
+        6361
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0245",
+      "section_id": "remaining-page",
+      "text_raw": "CLS ®",
+      "bbox_px": [
+        167,
+        6364,
+        216,
+        6383
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0246",
+      "section_id": "remaining-page",
+      "text_raw": "0.01",
+      "bbox_px": [
+        441,
+        6364,
+        473,
+        6380
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0247",
+      "section_id": "remaining-page",
+      "text_raw": "› B Startups",
+      "bbox_px": [
+        585,
+        6379,
+        679,
+        6393
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0248",
+      "section_id": "remaining-page",
+      "text_raw": "Sustainable interfaces for ..-",
+      "bbox_px": [
+        909,
+        6398,
+        1087,
+        6415
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0249",
+      "section_id": "remaining-page",
+      "text_raw": "Engineering",
+      "bbox_px": [
+        1217,
+        6398,
+        1294,
+        6416
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0250",
+      "section_id": "remaining-page",
+      "text_raw": "Sustainoble interfaces for ..",
+      "bbox_px": [
+        909,
+        6400,
+        1087,
+        6417
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0251",
+      "section_id": "remaining-page",
+      "text_raw": "› B Help",
+      "bbox_px": [
+        582,
+        6409,
+        658,
+        6425
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0252",
+      "section_id": "remaining-page",
+      "text_raw": "› • Help",
+      "bbox_px": [
+        588,
+        6409,
+        658,
+        6423
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0253",
+      "section_id": "remaining-page",
+      "text_raw": "+ Add...",
+      "bbox_px": [
+        605,
+        6437,
+        664,
+        6455
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0254",
+      "section_id": "remaining-page",
+      "text_raw": "Learning from nature to...",
+      "bbox_px": [
+        906,
+        6448,
+        1071,
+        6468
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0255",
+      "section_id": "remaining-page",
+      "text_raw": "Blod",
+      "bbox_px": [
+        1251,
+        6448,
+        1285,
+        6461
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0256",
+      "section_id": "remaining-page",
+      "text_raw": "Blog",
+      "bbox_px": [
+        1251,
+        6449,
+        1283,
+        6462
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0257",
+      "section_id": "remaining-page",
+      "text_raw": "CMS →",
+      "bbox_px": [
+        540,
+        6514,
+        606,
+        6536
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0258",
+      "section_id": "remaining-page",
+      "text_raw": "Performance →",
+      "bbox_px": [
+        143,
+        6515,
+        271,
+        6534
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0259",
+      "section_id": "remaining-page",
+      "text_raw": "Branches",
+      "bbox_px": [
+        595,
+        6601,
+        658,
+        6617
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0260",
+      "section_id": "remaining-page",
+      "text_raw": "99.99%",
+      "bbox_px": [
+        1034,
+        6609,
+        1202,
+        6659
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0261",
+      "section_id": "remaining-page",
+      "text_raw": "Site Settings",
+      "bbox_px": [
+        198,
+        6640,
+        298,
+        6662
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0262",
+      "section_id": "remaining-page",
+      "text_raw": "Main",
+      "bbox_px": [
+        648,
+        6640,
+        684,
+        6653
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0263",
+      "section_id": "remaining-page",
+      "text_raw": "1m",
+      "bbox_px": [
+        810,
+        6640,
+        831,
+        6653
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0264",
+      "section_id": "remaining-page",
+      "text_raw": "uptime",
+      "bbox_px": [
+        1039,
+        6653,
+        1197,
+        6697
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0265",
+      "section_id": "remaining-page",
+      "text_raw": "1m",
+      "bbox_px": [
+        810,
+        6672,
+        831,
+        6682
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0266",
+      "section_id": "remaining-page",
+      "text_raw": "Title",
+      "bbox_px": [
+        198,
+        6690,
+        229,
+        6706
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0267",
+      "section_id": "remaining-page",
+      "text_raw": "URL",
+      "bbox_px": [
+        423,
+        6693,
+        449,
+        6703
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0268",
+      "section_id": "remaining-page",
+      "text_raw": "publishing",
+      "bbox_px": [
+        674,
+        6698,
+        739,
+        6713
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0269",
+      "section_id": "remaining-page",
+      "text_raw": "8m",
+      "bbox_px": [
+        810,
+        6700,
+        833,
+        6711
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0270",
+      "section_id": "remaining-page",
+      "text_raw": "Comet Browser: a Personal...",
+      "bbox_px": [
+        208,
+        6722,
+        379,
+        6740
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0271",
+      "section_id": "remaining-page",
+      "text_raw": "/comet|",
+      "bbox_px": [
+        433,
+        6724,
+        478,
+        6737
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0272",
+      "section_id": "remaining-page",
+      "text_raw": "content",
+      "bbox_px": [
+        676,
+        6729,
+        723,
+        6742
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0273",
+      "section_id": "remaining-page",
+      "text_raw": "Collaboration →",
+      "bbox_px": [
+        543,
+        6755,
+        676,
+        6774
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0274",
+      "section_id": "remaining-page",
+      "text_raw": "Hosting →",
+      "bbox_px": [
+        938,
+        6755,
+        1029,
+        6779
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0275",
+      "section_id": "remaining-page",
+      "text_raw": "Page Description",
+      "bbox_px": [
+        198,
+        6776,
+        300,
+        6792
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0276",
+      "section_id": "remaining-page",
+      "text_raw": "Comet browser by Perplexity is the Al browse",
+      "bbox_px": [
+        209,
+        6810,
+        467,
+        6823
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0277",
+      "section_id": "remaining-page",
+      "text_raw": "assistant. Automate tasks, research the web,",
+      "bbox_px": [
+        206,
+        6825,
+        467,
+        6844
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0278",
+      "section_id": "remaining-page",
+      "text_raw": "Locales",
+      "bbox_px": [
+        595,
+        6842,
+        648,
+        6855
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0279",
+      "section_id": "remaining-page",
+      "text_raw": "and more with Comet.",
+      "bbox_px": [
+        206,
+        6844,
+        337,
+        6858
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0280",
+      "section_id": "remaining-page",
+      "text_raw": "NL",
+      "bbox_px": [
+        611,
+        6878,
+        637,
+        6894
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0281",
+      "section_id": "remaining-page",
+      "text_raw": "Dutch",
+      "bbox_px": [
+        640,
+        6881,
+        679,
+        6894
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0282",
+      "section_id": "remaining-page",
+      "text_raw": "35%",
+      "bbox_px": [
+        804,
+        6881,
+        831,
+        6891
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0283",
+      "section_id": "remaining-page",
+      "text_raw": "→",
+      "bbox_px": [
+        993,
+        6902,
+        1011,
+        6918
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0284",
+      "section_id": "remaining-page",
+      "text_raw": "https://www.framer.co",
+      "bbox_px": [
+        1108,
+        6902,
+        1293,
+        6920
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0285",
+      "section_id": "remaining-page",
+      "text_raw": "Italian",
+      "bbox_px": [
+        640,
+        6912,
+        679,
+        6925
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0286",
+      "section_id": "remaining-page",
+      "text_raw": "Social Preview",
+      "bbox_px": [
+        198,
+        6930,
+        287,
+        6944
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0287",
+      "section_id": "remaining-page",
+      "text_raw": "CN",
+      "bbox_px": [
+        614,
+        6944,
+        632,
+        6957
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0288",
+      "section_id": "remaining-page",
+      "text_raw": "Chinese",
+      "bbox_px": [
+        640,
+        6944,
+        692,
+        6957
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0289",
+      "section_id": "remaining-page",
+      "text_raw": "1zuu x osu pixeis.",
+      "bbox_px": [
+        201,
+        6954,
+        300,
+        6962
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0290",
+      "section_id": "remaining-page",
+      "text_raw": "Security →",
+      "bbox_px": [
+        940,
+        6995,
+        1032,
+        7015
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0291",
+      "section_id": "remaining-page",
+      "text_raw": "SEO →",
+      "bbox_px": [
+        141,
+        6996,
+        203,
+        7017
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0292",
+      "section_id": "remaining-page",
+      "text_raw": "Localization →",
+      "bbox_px": [
+        538,
+        6996,
+        666,
+        7017
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0293",
+      "section_id": "remaining-page",
+      "text_raw": "View Home",
+      "bbox_px": [
+        966,
+        7090,
+        1037,
+        7104
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0294",
+      "section_id": "remaining-page",
+      "text_raw": "400",
+      "bbox_px": [
+        964,
+        7114,
+        1006,
+        7135
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0295",
+      "section_id": "remaining-page",
+      "text_raw": "Analytics",
+      "bbox_px": [
+        195,
+        7124,
+        290,
+        7148
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0296",
+      "section_id": "remaining-page",
+      "text_raw": "Live Visitors®",
+      "bbox_px": [
+        198,
+        7200,
+        282,
+        7216
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0297",
+      "section_id": "remaining-page",
+      "text_raw": "Total Pageviews",
+      "bbox_px": [
+        564,
+        7201,
+        661,
+        7218
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0298",
+      "section_id": "remaining-page",
+      "text_raw": "Unique Visitors",
+      "bbox_px": [
+        381,
+        7202,
+        473,
+        7218
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0299",
+      "section_id": "remaining-page",
+      "text_raw": "Bounce Rate",
+      "bbox_px": [
+        744,
+        7203,
+        820,
+        7216
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0300",
+      "section_id": "remaining-page",
+      "text_raw": "400",
+      "bbox_px": [
+        198,
+        7224,
+        240,
+        7245
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0301",
+      "section_id": "remaining-page",
+      "text_raw": "1.7M",
+      "bbox_px": [
+        378,
+        7224,
+        433,
+        7247
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0302",
+      "section_id": "remaining-page",
+      "text_raw": "2.2M",
+      "bbox_px": [
+        561,
+        7224,
+        614,
+        7245
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0303",
+      "section_id": "remaining-page",
+      "text_raw": "40.9%",
+      "bbox_px": [
+        742,
+        7224,
+        807,
+        7247
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0304",
+      "section_id": "remaining-page",
+      "text_raw": "Views",
+      "bbox_px": [
+        1164,
+        7288,
+        1205,
+        7306
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0305",
+      "section_id": "remaining-page",
+      "text_raw": "Variant",
+      "bbox_px": [
+        966,
+        7289,
+        1014,
+        7302
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0306",
+      "section_id": "remaining-page",
+      "text_raw": "330k",
+      "bbox_px": [
+        198,
+        7292,
+        232,
+        7307
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0307",
+      "section_id": "remaining-page",
+      "text_raw": "•Eventi",
+      "bbox_px": [
+        1241,
+        7292,
+        1280,
+        7299
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0308",
+      "section_id": "remaining-page",
+      "text_raw": "Jun 18, 2026",
+      "bbox_px": [
+        608,
+        7302,
+        687,
+        7316
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0309",
+      "section_id": "remaining-page",
+      "text_raw": "• Home Page 2026",
+      "bbox_px": [
+        966,
+        7330,
+        1089,
+        7347
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0310",
+      "section_id": "remaining-page",
+      "text_raw": "4,916",
+      "bbox_px": [
+        1168,
+        7331,
+        1204,
+        7347
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0311",
+      "section_id": "remaining-page",
+      "text_raw": "• Pageviews",
+      "bbox_px": [
+        608,
+        7335,
+        692,
+        7353
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0312",
+      "section_id": "remaining-page",
+      "text_raw": "135,535",
+      "bbox_px": [
+        729,
+        7336,
+        784,
+        7349
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0313",
+      "section_id": "remaining-page",
+      "text_raw": "54,817",
+      "bbox_px": [
+        736,
+        7360,
+        781,
+        7373
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0314",
+      "section_id": "remaining-page",
+      "text_raw": "Visitors",
+      "bbox_px": [
+        627,
+        7362,
+        674,
+        7373
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0315",
+      "section_id": "remaining-page",
+      "text_raw": "• Home Page",
+      "bbox_px": [
+        966,
+        7372,
+        1055,
+        7386
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0316",
+      "section_id": "remaining-page",
+      "text_raw": "4,799",
+      "bbox_px": [
+        1170,
+        7373,
+        1204,
+        7386
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0317",
+      "section_id": "remaining-page",
+      "text_raw": "719",
+      "bbox_px": [
+        1259,
+        7373,
+        1285,
+        7383
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0318",
+      "section_id": "remaining-page",
+      "text_raw": "A/B Testing →",
+      "bbox_px": [
+        940,
+        7474,
+        1058,
+        7496
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0319",
+      "section_id": "remaining-page",
+      "text_raw": "Analytics →",
+      "bbox_px": [
+        141,
+        7475,
+        243,
+        7499
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0320",
+      "section_id": "remaining-page",
+      "text_raw": "Built on a community that",
+      "bbox_px": [
+        119,
+        7765,
+        596,
+        7810
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0321",
+      "section_id": "remaining-page",
+      "text_raw": "isn't going anywhere",
+      "bbox_px": [
+        117,
+        7814,
+        501,
+        7859
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0322",
+      "section_id": "remaining-page",
+      "text_raw": "12,447 Resources",
+      "bbox_px": [
+        1016,
+        7824,
+        1131,
+        7841
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0323",
+      "section_id": "remaining-page",
+      "text_raw": "Browse the community",
+      "bbox_px": [
+        1155,
+        7825,
+        1306,
+        7842
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0324",
+      "section_id": "remaining-page",
+      "text_raw": "For You",
+      "bbox_px": [
+        397,
+        7963,
+        447,
+        7980
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0325",
+      "section_id": "remaining-page",
+      "text_raw": "Davide",
+      "bbox_px": [
+        167,
+        7967,
+        214,
+        7980
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0326",
+      "section_id": "remaining-page",
+      "text_raw": "Following",
+      "bbox_px": [
+        459,
+        7967,
+        522,
+        7982
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0327",
+      "section_id": "remaining-page",
+      "text_raw": "Post",
+      "bbox_px": [
+        1270,
+        7967,
+        1298,
+        7980
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0328",
+      "section_id": "remaining-page",
+      "text_raw": "is cross browser and mobile friendly. Sound on",
+      "bbox_px": [
+        454,
+        8000,
+        786,
+        8017
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0329",
+      "section_id": "remaining-page",
+      "text_raw": "Q Search...",
+      "bbox_px": [
+        138,
+        8016,
+        216,
+        8030
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0330",
+      "section_id": "remaining-page",
+      "text_raw": "Search...",
+      "bbox_px": [
+        156,
+        8016,
+        214,
+        8030
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0331",
+      "section_id": "remaining-page",
+      "text_raw": "Morketplace",
+      "bbox_px": [
+        1021,
+        8031,
+        1100,
+        8044
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0332",
+      "section_id": "remaining-page",
+      "text_raw": "Marketplace",
+      "bbox_px": [
+        1021,
+        8032,
+        1100,
+        8043
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0333",
+      "section_id": "remaining-page",
+      "text_raw": "Explore",
+      "bbox_px": [
+        133,
+        8066,
+        182,
+        8082
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0334",
+      "section_id": "remaining-page",
+      "text_raw": "Claude + Framer",
+      "bbox_px": [
+        1081,
+        8068,
+        1183,
+        8082
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0335",
+      "section_id": "remaining-page",
+      "text_raw": "Tutorial • 1.3K likes",
+      "bbox_px": [
+        1081,
+        8083,
+        1194,
+        8099
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0336",
+      "section_id": "remaining-page",
+      "text_raw": "Feed",
+      "bbox_px": [
+        159,
+        8104,
+        193,
+        8120
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0337",
+      "section_id": "remaining-page",
+      "text_raw": "4 Feed",
+      "bbox_px": [
+        141,
+        8105,
+        193,
+        8122
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0338",
+      "section_id": "remaining-page",
+      "text_raw": "рит",
+      "bbox_px": [
+        590,
+        8107,
+        629,
+        8120
+      ],
+      "ocr_confidence": 0.5,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0339",
+      "section_id": "remaining-page",
+      "text_raw": "Recraft",
+      "bbox_px": [
+        1081,
+        8118,
+        1129,
+        8131
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0340",
+      "section_id": "remaining-page",
+      "text_raw": "Plugin • 32 likes",
+      "bbox_px": [
+        1079,
+        8134,
+        1176,
+        8150
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0341",
+      "section_id": "remaining-page",
+      "text_raw": "•lI• Hype",
+      "bbox_px": [
+        135,
+        8135,
+        196,
+        8152
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0342",
+      "section_id": "remaining-page",
+      "text_raw": "•l Hype",
+      "bbox_px": [
+        135,
+        8136,
+        196,
+        8150
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0343",
+      "section_id": "remaining-page",
+      "text_raw": "1 Activity",
+      "bbox_px": [
+        138,
+        8165,
+        209,
+        8181
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0344",
+      "section_id": "remaining-page",
+      "text_raw": "Kinetic Type",
+      "bbox_px": [
+        1079,
+        8166,
+        1157,
+        8183
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0345",
+      "section_id": "remaining-page",
+      "text_raw": "Plugin • 862 likes",
+      "bbox_px": [
+        1078,
+        8182,
+        1184,
+        8201
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0346",
+      "section_id": "remaining-page",
+      "text_raw": "Influential French electronic music duo",
+      "bbox_px": [
+        590,
+        8214,
+        755,
+        8227
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0347",
+      "section_id": "remaining-page",
+      "text_raw": "Community",
+      "bbox_px": [
+        133,
+        8217,
+        203,
+        8230
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0348",
+      "section_id": "remaining-page",
+      "text_raw": "Digital Rotary Radio",
+      "bbox_px": [
+        1081,
+        8219,
+        1199,
+        8233
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0349",
+      "section_id": "remaining-page",
+      "text_raw": "formed in 1993 by Thomas Bangalter and",
+      "bbox_px": [
+        590,
+        8227,
+        765,
+        8241
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0350",
+      "section_id": "remaining-page",
+      "text_raw": "Component • 76 likes",
+      "bbox_px": [
+        1081,
+        8234,
+        1207,
+        8248
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0351",
+      "section_id": "remaining-page",
+      "text_raw": "Guy-Manuel de Homem-Christo",
+      "bbox_px": [
+        590,
+        8240,
+        729,
+        8254
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0352",
+      "section_id": "remaining-page",
+      "text_raw": "• Marketplace",
+      "bbox_px": [
+        138,
+        8255,
+        237,
+        8269
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0353",
+      "section_id": "remaining-page",
+      "text_raw": "Fuel X",
+      "bbox_px": [
+        1079,
+        8266,
+        1121,
+        8283
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0354",
+      "section_id": "remaining-page",
+      "text_raw": "Gallery",
+      "bbox_px": [
+        158,
+        8284,
+        207,
+        8301
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0355",
+      "section_id": "remaining-page",
+      "text_raw": "Template • 1.3K likes",
+      "bbox_px": [
+        1081,
+        8284,
+        1202,
+        8298
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0356",
+      "section_id": "remaining-page",
+      "text_raw": "Members",
+      "bbox_px": [
+        159,
+        8313,
+        219,
+        8329
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0357",
+      "section_id": "remaining-page",
+      "text_raw": "O 30",
+      "bbox_px": [
+        454,
+        8334,
+        496,
+        8350
+      ],
+      "ocr_confidence": 0.5,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0358",
+      "section_id": "remaining-page",
+      "text_raw": "05",
+      "bbox_px": [
+        501,
+        8334,
+        538,
+        8350
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0359",
+      "section_id": "remaining-page",
+      "text_raw": "Contests",
+      "bbox_px": [
+        158,
+        8344,
+        217,
+        8361
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0360",
+      "section_id": "remaining-page",
+      "text_raw": "Members",
+      "bbox_px": [
+        1021,
+        8349,
+        1082,
+        8366
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0361",
+      "section_id": "remaining-page",
+      "text_raw": "Asia Gawron",
+      "bbox_px": [
+        1061,
+        8384,
+        1139,
+        8398
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0362",
+      "section_id": "remaining-page",
+      "text_raw": "Gustave Flowbert PRO in Morketplace • 12m",
+      "bbox_px": [
+        452,
+        8389,
+        721,
+        8402
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0363",
+      "section_id": "remaining-page",
+      "text_raw": "AG",
+      "bbox_px": [
+        1021,
+        8389,
+        1053,
+        8408
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0364",
+      "section_id": "remaining-page",
+      "text_raw": "Follow",
+      "bbox_px": [
+        1241,
+        8392,
+        1285,
+        8405
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0365",
+      "section_id": "remaining-page",
+      "text_raw": "@asia_gawron",
+      "bbox_px": [
+        1063,
+        8400,
+        1152,
+        8415
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0366",
+      "section_id": "remaining-page",
+      "text_raw": "Benjamin",
+      "bbox_px": [
+        1061,
+        8426,
+        1118,
+        8439
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0367",
+      "section_id": "remaining-page",
+      "text_raw": "Following",
+      "bbox_px": [
+        1225,
+        8434,
+        1285,
+        8447
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0368",
+      "section_id": "remaining-page",
+      "text_raw": "@benjaminnathan",
+      "bbox_px": [
+        1061,
+        8442,
+        1173,
+        8455
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0369",
+      "section_id": "remaining-page",
+      "text_raw": "27b",
+      "bbox_px": [
+        1061,
+        8465,
+        1087,
+        8478
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0370",
+      "section_id": "remaining-page",
+      "text_raw": "Follow",
+      "bbox_px": [
+        1241,
+        8476,
+        1285,
+        8489
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0371",
+      "section_id": "remaining-page",
+      "text_raw": "@27b.ureau",
+      "bbox_px": [
+        1061,
+        8481,
+        1136,
+        8497
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0372",
+      "section_id": "remaining-page",
+      "text_raw": "Victoria",
+      "bbox_px": [
+        1061,
+        8507,
+        1110,
+        8520
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0373",
+      "section_id": "remaining-page",
+      "text_raw": "Follow",
+      "bbox_px": [
+        1241,
+        8515,
+        1285,
+        8528
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0374",
+      "section_id": "remaining-page",
+      "text_raw": "@victoria_framer",
+      "bbox_px": [
+        1061,
+        8523,
+        1165,
+        8538
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0375",
+      "section_id": "remaining-page",
+      "text_raw": "Ryan Hayward",
+      "bbox_px": [
+        1061,
+        8548,
+        1152,
+        8562
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0376",
+      "section_id": "remaining-page",
+      "text_raw": "Follow",
+      "bbox_px": [
+        1241,
+        8557,
+        1285,
+        8570
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0377",
+      "section_id": "remaining-page",
+      "text_raw": "@theryanhayward",
+      "bbox_px": [
+        1061,
+        8565,
+        1173,
+        8580
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0378",
+      "section_id": "remaining-page",
+      "text_raw": "Billie Duvalle",
+      "bbox_px": [
+        542,
+        8581,
+        884,
+        8646
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0379",
+      "section_id": "remaining-page",
+      "text_raw": "Trusted by teams",
+      "bbox_px": [
+        116,
+        8975,
+        437,
+        9035
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0380",
+      "section_id": "remaining-page",
+      "text_raw": "shipping big sites",
+      "bbox_px": [
+        117,
+        9030,
+        439,
+        9075
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0381",
+      "section_id": "remaining-page",
+      "text_raw": "Read stories",
+      "bbox_px": [
+        1223,
+        9043,
+        1309,
+        9056
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0382",
+      "section_id": "remaining-page",
+      "text_raw": "* perplexity",
+      "bbox_px": [
+        1164,
+        9334,
+        1354,
+        9381
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0383",
+      "section_id": "remaining-page",
+      "text_raw": "mixpanel",
+      "bbox_px": [
+        799,
+        9339,
+        977,
+        9384
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0384",
+      "section_id": "remaining-page",
+      "text_raw": "I miro",
+      "bbox_px": [
+        99,
+        9341,
+        209,
+        9378
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0385",
+      "section_id": "remaining-page",
+      "text_raw": "FLORA",
+      "bbox_px": [
+        462,
+        9341,
+        619,
+        9381
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0386",
+      "section_id": "remaining-page",
+      "text_raw": "Read story >",
+      "bbox_px": [
+        1199,
+        9536,
+        1314,
+        9564
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0387",
+      "section_id": "remaining-page",
+      "text_raw": "Read story >",
+      "bbox_px": [
+        828,
+        9538,
+        946,
+        9563
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0388",
+      "section_id": "remaining-page",
+      "text_raw": "Read story >",
+      "bbox_px": [
+        91,
+        9539,
+        206,
+        9564
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0389",
+      "section_id": "remaining-page",
+      "text_raw": "Read story >",
+      "bbox_px": [
+        459,
+        9540,
+        574,
+        9564
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0390",
+      "section_id": "remaining-page",
+      "text_raw": "Get started",
+      "bbox_px": [
+        558,
+        9874,
+        880,
+        9934
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0391",
+      "section_id": "remaining-page",
+      "text_raw": "with Framer",
+      "bbox_px": [
+        554,
+        9946,
+        890,
+        9998
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0392",
+      "section_id": "remaining-page",
+      "text_raw": "Get started for free",
+      "bbox_px": [
+        590,
+        10031,
+        716,
+        10046
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0393",
+      "section_id": "remaining-page",
+      "text_raw": "Download app",
+      "bbox_px": [
+        750,
+        10031,
+        846,
+        10046
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0394",
+      "section_id": "remaining-page",
+      "text_raw": "Canvas ~ +& T ^",
+      "bbox_px": [
+        381,
+        10195,
+        1056,
+        10261
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0395",
+      "section_id": "remaining-page",
+      "text_raw": "Assets",
+      "bbox_px": [
+        682,
+        10372,
+        827,
+        10410
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0396",
+      "section_id": "remaining-page",
+      "text_raw": "Pages",
+      "bbox_px": [
+        324,
+        10376,
+        449,
+        10416
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0397",
+      "section_id": "remaining-page",
+      "text_raw": "Layers",
+      "bbox_px": [
+        507,
+        10376,
+        639,
+        10417
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0398",
+      "section_id": "remaining-page",
+      "text_raw": "Q Search...",
+      "bbox_px": [
+        327,
+        10533,
+        572,
+        10572
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0399",
+      "section_id": "remaining-page",
+      "text_raw": "Product",
+      "bbox_px": [
+        233,
+        10709,
+        294,
+        10729
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0400",
+      "section_id": "remaining-page",
+      "text_raw": "Resources",
+      "bbox_px": [
+        605,
+        10709,
+        687,
+        10729
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0401",
+      "section_id": "remaining-page",
+      "text_raw": "Tools",
+      "bbox_px": [
+        795,
+        10709,
+        836,
+        10726
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0402",
+      "section_id": "remaining-page",
+      "text_raw": "Compare",
+      "bbox_px": [
+        981,
+        10709,
+        1051,
+        10729
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0403",
+      "section_id": "remaining-page",
+      "text_raw": "Business",
+      "bbox_px": [
+        1167,
+        10709,
+        1237,
+        10729
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0404",
+      "section_id": "remaining-page",
+      "text_raw": "Community",
+      "bbox_px": [
+        419,
+        10710,
+        506,
+        10730
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0405",
+      "section_id": "remaining-page",
+      "text_raw": "AEM",
+      "bbox_px": [
+        981,
+        10736,
+        1017,
+        10750
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0406",
+      "section_id": "remaining-page",
+      "text_raw": "Figma to HTML",
+      "bbox_px": [
+        795,
+        10737,
+        897,
+        10756
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0407",
+      "section_id": "remaining-page",
+      "text_raw": "AI NEW",
+      "bbox_px": [
+        236,
+        10738,
+        279,
+        10753
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0408",
+      "section_id": "remaining-page",
+      "text_raw": "Marketplace",
+      "bbox_px": [
+        419,
+        10738,
+        506,
+        10753
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0409",
+      "section_id": "remaining-page",
+      "text_raw": "Academy",
+      "bbox_px": [
+        607,
+        10738,
+        673,
+        10753
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0410",
+      "section_id": "remaining-page",
+      "text_raw": "Pricing",
+      "bbox_px": [
+        1169,
+        10738,
+        1218,
+        10755
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0411",
+      "section_id": "remaining-page",
+      "text_raw": "Sanity",
+      "bbox_px": [
+        980,
+        10762,
+        1028,
+        10780
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0412",
+      "section_id": "remaining-page",
+      "text_raw": "Meta checker",
+      "bbox_px": [
+        795,
+        10764,
+        885,
+        10779
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0413",
+      "section_id": "remaining-page",
+      "text_raw": "Agents (NEW)",
+      "bbox_px": [
+        233,
+        10765,
+        311,
+        10782
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0414",
+      "section_id": "remaining-page",
+      "text_raw": "Templates",
+      "bbox_px": [
+        422,
+        10765,
+        492,
+        10779
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0415",
+      "section_id": "remaining-page",
+      "text_raw": "Guides",
+      "bbox_px": [
+        610,
+        10765,
+        658,
+        10779
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0416",
+      "section_id": "remaining-page",
+      "text_raw": "Enterprise",
+      "bbox_px": [
+        1169,
+        10765,
+        1237,
+        10779
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0417",
+      "section_id": "remaining-page",
+      "text_raw": "External Agents (NEW",
+      "bbox_px": [
+        233,
+        10791,
+        366,
+        10809
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0418",
+      "section_id": "remaining-page",
+      "text_raw": "Components",
+      "bbox_px": [
+        421,
+        10791,
+        506,
+        10809
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0419",
+      "section_id": "remaining-page",
+      "text_raw": "Downloads",
+      "bbox_px": [
+        607,
+        10791,
+        685,
+        10806
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0420",
+      "section_id": "remaining-page",
+      "text_raw": "AEO scanner",
+      "bbox_px": [
+        795,
+        10791,
+        882,
+        10806
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0421",
+      "section_id": "remaining-page",
+      "text_raw": "Claude Code",
+      "bbox_px": [
+        984,
+        10791,
+        1068,
+        10806
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0422",
+      "section_id": "remaining-page",
+      "text_raw": "Infrastructure",
+      "bbox_px": [
+        1167,
+        10791,
+        1259,
+        10806
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0423",
+      "section_id": "remaining-page",
+      "text_raw": "Design",
+      "bbox_px": [
+        233,
+        10818,
+        282,
+        10835
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0424",
+      "section_id": "remaining-page",
+      "text_raw": "Plugins",
+      "bbox_px": [
+        422,
+        10818,
+        472,
+        10835
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0425",
+      "section_id": "remaining-page",
+      "text_raw": "Blog",
+      "bbox_px": [
+        605,
+        10818,
+        641,
+        10837
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0426",
+      "section_id": "remaining-page",
+      "text_raw": "Free domains",
+      "bbox_px": [
+        795,
+        10818,
+        885,
+        10833
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0427",
+      "section_id": "remaining-page",
+      "text_raw": "Squarespace",
+      "bbox_px": [
+        981,
+        10818,
+        1070,
+        10832
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0428",
+      "section_id": "remaining-page",
+      "text_raw": "Startups",
+      "bbox_px": [
+        1169,
+        10819,
+        1228,
+        10835
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0429",
+      "section_id": "remaining-page",
+      "text_raw": "Newsletter",
+      "bbox_px": [
+        605,
+        10844,
+        680,
+        10864
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0430",
+      "section_id": "remaining-page",
+      "text_raw": "WordPress",
+      "bbox_px": [
+        979,
+        10844,
+        1056,
+        10862
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0431",
+      "section_id": "remaining-page",
+      "text_raw": "Agencies",
+      "bbox_px": [
+        1169,
+        10844,
+        1232,
+        10862
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0432",
+      "section_id": "remaining-page",
+      "text_raw": "Collaborate NEW",
+      "bbox_px": [
+        233,
+        10845,
+        340,
+        10859
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0433",
+      "section_id": "remaining-page",
+      "text_raw": "Vectors",
+      "bbox_px": [
+        422,
+        10845,
+        475,
+        10861
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0434",
+      "section_id": "remaining-page",
+      "text_raw": "CMS",
+      "bbox_px": [
+        236,
+        10871,
+        267,
+        10886
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0435",
+      "section_id": "remaining-page",
+      "text_raw": "Webflow",
+      "bbox_px": [
+        984,
+        10871,
+        1044,
+        10886
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0436",
+      "section_id": "remaining-page",
+      "text_raw": "Feed",
+      "bbox_px": [
+        419,
+        10873,
+        458,
+        10888
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0437",
+      "section_id": "remaining-page",
+      "text_raw": "Stories",
+      "bbox_px": [
+        607,
+        10873,
+        656,
+        10888
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0438",
+      "section_id": "remaining-page",
+      "text_raw": "Switch",
+      "bbox_px": [
+        1169,
+        10873,
+        1218,
+        10886
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0439",
+      "section_id": "remaining-page",
+      "text_raw": "Solutions",
+      "bbox_px": [
+        795,
+        10881,
+        865,
+        10895
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0440",
+      "section_id": "remaining-page",
+      "text_raw": "Lovable",
+      "bbox_px": [
+        979,
+        10898,
+        1037,
+        10917
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0441",
+      "section_id": "remaining-page",
+      "text_raw": "Developers",
+      "bbox_px": [
+        607,
+        10899,
+        685,
+        10915
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0442",
+      "section_id": "remaining-page",
+      "text_raw": "Hosting",
+      "bbox_px": [
+        233,
+        10900,
+        287,
+        10917
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0443",
+      "section_id": "remaining-page",
+      "text_raw": "Hype",
+      "bbox_px": [
+        422,
+        10900,
+        460,
+        10917
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0444",
+      "section_id": "remaining-page",
+      "text_raw": "Website builder",
+      "bbox_px": [
+        793,
+        10907,
+        897,
+        10927
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0445",
+      "section_id": "remaining-page",
+      "text_raw": "Gallery",
+      "bbox_px": [
+        418,
+        10924,
+        471,
+        10947
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0446",
+      "section_id": "remaining-page",
+      "text_raw": "Performance",
+      "bbox_px": [
+        233,
+        10927,
+        320,
+        10941
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0447",
+      "section_id": "remaining-page",
+      "text_raw": "Creators",
+      "bbox_px": [
+        607,
+        10927,
+        668,
+        10941
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0448",
+      "section_id": "remaining-page",
+      "text_raw": "Figma",
+      "bbox_px": [
+        981,
+        10927,
+        1027,
+        10943
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0449",
+      "section_id": "remaining-page",
+      "text_raw": "Landing pages",
+      "bbox_px": [
+        795,
+        10933,
+        895,
+        10952
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0450",
+      "section_id": "remaining-page",
+      "text_raw": "Company",
+      "bbox_px": [
+        1169,
+        10933,
+        1242,
+        10952
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0451",
+      "section_id": "remaining-page",
+      "text_raw": "Wix",
+      "bbox_px": [
+        979,
+        10951,
+        1013,
+        10970
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0452",
+      "section_id": "remaining-page",
+      "text_raw": "SEO",
+      "bbox_px": [
+        233,
+        10953,
+        265,
+        10968
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0453",
+      "section_id": "remaining-page",
+      "text_raw": "Contests",
+      "bbox_px": [
+        422,
+        10953,
+        482,
+        10968
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0454",
+      "section_id": "remaining-page",
+      "text_raw": "Experts",
+      "bbox_px": [
+        607,
+        10953,
+        660,
+        10970
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0455",
+      "section_id": "remaining-page",
+      "text_raw": "Portfolio maker",
+      "bbox_px": [
+        795,
+        10959,
+        897,
+        10978
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0456",
+      "section_id": "remaining-page",
+      "text_raw": "Careers",
+      "bbox_px": [
+        1169,
+        10961,
+        1225,
+        10976
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0457",
+      "section_id": "remaining-page",
+      "text_raw": "Members",
+      "bbox_px": [
+        422,
+        10979,
+        487,
+        10994
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0458",
+      "section_id": "remaining-page",
+      "text_raw": "Students",
+      "bbox_px": [
+        607,
+        10979,
+        670,
+        10995
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0459",
+      "section_id": "remaining-page",
+      "text_raw": "Convert",
+      "bbox_px": [
+        233,
+        10980,
+        289,
+        10994
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0460",
+      "section_id": "remaining-page",
+      "text_raw": "Codex",
+      "bbox_px": [
+        981,
+        10980,
+        1027,
+        10994
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0461",
+      "section_id": "remaining-page",
+      "text_raw": "UI/UX design",
+      "bbox_px": [
+        795,
+        10989,
+        882,
+        11004
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0462",
+      "section_id": "remaining-page",
+      "text_raw": "Brand",
+      "bbox_px": [
+        1169,
+        10989,
+        1213,
+        11004
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0463",
+      "section_id": "remaining-page",
+      "text_raw": "Unbounce",
+      "bbox_px": [
+        984,
+        11006,
+        1051,
+        11021
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0464",
+      "section_id": "remaining-page",
+      "text_raw": "Publish",
+      "bbox_px": [
+        233,
+        11009,
+        287,
+        11021
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0465",
+      "section_id": "remaining-page",
+      "text_raw": "Meetups",
+      "bbox_px": [
+        422,
+        11009,
+        482,
+        11023
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0466",
+      "section_id": "remaining-page",
+      "text_raw": "Ambassadors",
+      "bbox_px": [
+        607,
+        11009,
+        701,
+        11023
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0467",
+      "section_id": "remaining-page",
+      "text_raw": "No-code",
+      "bbox_px": [
+        795,
+        11016,
+        856,
+        11030
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0468",
+      "section_id": "remaining-page",
+      "text_raw": "Store",
+      "bbox_px": [
+        1169,
+        11016,
+        1208,
+        11030
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0469",
+      "section_id": "remaining-page",
+      "text_raw": "Contentful",
+      "bbox_px": [
+        981,
+        11032,
+        1054,
+        11050
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0470",
+      "section_id": "remaining-page",
+      "text_raw": "Updates",
+      "bbox_px": [
+        233,
+        11035,
+        291,
+        11050
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0471",
+      "section_id": "remaining-page",
+      "text_raw": "State of Sites",
+      "bbox_px": [
+        607,
+        11035,
+        697,
+        11050
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0472",
+      "section_id": "remaining-page",
+      "text_raw": "Security",
+      "bbox_px": [
+        1169,
+        11042,
+        1228,
+        11060
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0473",
+      "section_id": "remaining-page",
+      "text_raw": "Support",
+      "bbox_px": [
+        605,
+        11061,
+        663,
+        11082
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0474",
+      "section_id": "remaining-page",
+      "text_raw": "Ceros",
+      "bbox_px": [
+        984,
+        11062,
+        1025,
+        11074
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0475",
+      "section_id": "remaining-page",
+      "text_raw": "Abuse",
+      "bbox_px": [
+        1169,
+        11071,
+        1215,
+        11083
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0476",
+      "section_id": "remaining-page",
+      "text_raw": "Contact",
+      "bbox_px": [
+        610,
+        11088,
+        665,
+        11103
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0477",
+      "section_id": "remaining-page",
+      "text_raw": "Readymag",
+      "bbox_px": [
+        979,
+        11088,
+        1054,
+        11107
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0478",
+      "section_id": "remaining-page",
+      "text_raw": "Legal",
+      "bbox_px": [
+        1165,
+        11095,
+        1210,
+        11115
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0479",
+      "section_id": "remaining-page",
+      "text_raw": "Trust",
+      "bbox_px": [
+        1169,
+        11124,
+        1206,
+        11139
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0480",
+      "section_id": "remaining-page",
+      "text_raw": "Al summary 8 * #",
+      "bbox_px": [
+        425,
+        11200,
+        599,
+        11235
+      ],
+      "ocr_confidence": 0.5,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0481",
+      "section_id": "remaining-page",
+      "text_raw": "Trustedby om Ace",
+      "bbox_px": [
+        694,
+        11200,
+        860,
+        11222
+      ],
+      "ocr_confidence": 0.30000001192092896,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0482",
+      "section_id": "remaining-page",
+      "text_raw": "© 2026 Framer",
+      "bbox_px": [
+        1224,
+        11200,
+        1322,
+        11221
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0483",
+      "section_id": "remaining-page",
+      "text_raw": "• All services online",
+      "bbox_px": [
+        996,
+        11201,
+        1117,
+        11220
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0484",
+      "section_id": "remaining-page",
+      "text_raw": "Followus X D • B €",
+      "bbox_px": [
+        115,
+        11202,
+        316,
+        11223
+      ],
+      "ocr_confidence": 0.5,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0485",
+      "section_id": "remaining-page",
+      "text_raw": "Follow us",
+      "bbox_px": [
+        118,
+        11204,
+        176,
+        11219
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0486",
+      "section_id": "remaining-page",
+      "text_raw": "Al summary",
+      "bbox_px": [
+        429,
+        11204,
+        496,
+        11219
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0487",
+      "section_id": "remaining-page",
+      "text_raw": "S",
+      "bbox_px": [
+        513,
+        11204,
+        528,
+        11218
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0488",
+      "section_id": "remaining-page",
+      "text_raw": "Trusted by",
+      "bbox_px": [
+        697,
+        11204,
+        757,
+        11219
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    }
+  ]
+}

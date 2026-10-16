@@ -1,0 +1,4079 @@
+[
+  {
+    "height": 11517,
+    "lines": [
+      {
+        "bbox_px": [
+          88,
+          28,
+          729,
+          47
+        ],
+        "confidence": 1,
+        "text": "Platform - Solutions - Resources - Open Source - Enterprise - Pricing"
+      },
+      {
+        "bbox_px": [
+          1108,
+          31,
+          1160,
+          44
+        ],
+        "confidence": 1,
+        "text": "Search"
+      },
+      {
+        "bbox_px": [
+          1317,
+          31,
+          1395,
+          44
+        ],
+        "confidence": 1,
+        "text": "Dashboard"
+      },
+      {
+        "bbox_px": [
+          440,
+          239,
+          999,
+          309
+        ],
+        "confidence": 1,
+        "text": "The future of building"
+      },
+      {
+        "bbox_px": [
+          477,
+          316,
+          964,
+          381
+        ],
+        "confidence": 1,
+        "text": "happens together"
+      },
+      {
+        "bbox_px": [
+          446,
+          400,
+          998,
+          421
+        ],
+        "confidence": 1,
+        "text": "Tools ond trends evolve, but collaboration endures. With GitHub,"
+      },
+      {
+        "bbox_px": [
+          454,
+          425,
+          982,
+          447
+        ],
+        "confidence": 1,
+        "text": "developers, agents, and code come together on one plotform."
+      },
+      {
+        "bbox_px": [
+          548,
+          493,
+          726,
+          512
+        ],
+        "confidence": 1,
+        "text": "Start a 30 day free trial"
+      },
+      {
+        "bbox_px": [
+          781,
+          493,
+          891,
+          510
+        ],
+        "confidence": 1,
+        "text": "Contact sales"
+      },
+      {
+        "bbox_px": [
+          180,
+          957,
+          310,
+          971
+        ],
+        "confidence": 1,
+        "text": "GITHUB COPILOT: CHAT"
+      },
+      {
+        "bbox_px": [
+          209,
+          1001,
+          297,
+          1015
+        ],
+        "confidence": 1,
+        "text": "GitHub Copilot"
+      },
+      {
+        "bbox_px": [
+          180,
+          1036,
+          394,
+          1049
+        ],
+        "confidence": 1,
+        "text": "Hi @monalisa, how can I help you?"
+      },
+      {
+        "bbox_px": [
+          180,
+          1072,
+          603,
+          1085
+        ],
+        "confidence": 1,
+        "text": "I'm powered by Al, so surprises and mistakes are possible. Make sure"
+      },
+      {
+        "bbox_px": [
+          182,
+          1090,
+          595,
+          1106
+        ],
+        "confidence": 1,
+        "text": "to verify any generated code or suggestions, and share feedback so"
+      },
+      {
+        "bbox_px": [
+          180,
+          1108,
+          368,
+          1122
+        ],
+        "confidence": 1,
+        "text": "that we can learn and improve."
+      },
+      {
+        "bbox_px": [
+          640,
+          956,
+          724,
+          974
+        ],
+        "confidence": 1,
+        "text": "lrs game.ts x"
+      },
+      {
+        "bbox_px": [
+          648,
+          1083,
+          666,
+          1096
+        ],
+        "confidence": 1,
+        "text": "63"
+      },
+      {
+        "bbox_px": [
+          645,
+          1117,
+          666,
+          1130
+        ],
+        "confidence": 1,
+        "text": "65"
+      },
+      {
+        "bbox_px": [
+          648,
+          1135,
+          663,
+          1148
+        ],
+        "confidence": 1,
+        "text": "66"
+      },
+      {
+        "bbox_px": [
+          645,
+          1169,
+          663,
+          1182
+        ],
+        "confidence": 1,
+        "text": "81"
+      },
+      {
+        "bbox_px": [
+          645,
+          1187,
+          663,
+          1200
+        ],
+        "confidence": 1,
+        "text": "82"
+      },
+      {
+        "bbox_px": [
+          747,
+          957,
+          919,
+          973
+        ],
+        "confidence": 1,
+        "text": "# characters.module.css X"
+      },
+      {
+        "bbox_px": [
+          943,
+          957,
+          1068,
+          973
+        ],
+        "confidence": 1,
+        "text": "s bonus-level.ts x"
+      },
+      {
+        "bbox_px": [
+          718,
+          996,
+          870,
+          1009
+        ],
+        "confidence": 1,
+        "text": "// Create score texts"
+      },
+      {
+        "bbox_px": [
+          718,
+          1012,
+          1314,
+          1028
+        ],
+        "confidence": 1,
+        "text": "this.player1ScoreText = this.add.text(16, 16, 'Player 1: 0', { fontSize: '32px' });"
+      },
+      {
+        "bbox_px": [
+          716,
+          1030,
+          1319,
+          1047
+        ],
+        "confidence": 1,
+        "text": "this.player2ScoreText = this.add.text(300, 16, 'Player 2: 0', { fontSize: 32px' });"
+      },
+      {
+        "bbox_px": [
+          716,
+          1046,
+          993,
+          1062
+        ],
+        "confidence": 1,
+        "text": "// Add collision detection for scoring"
+      },
+      {
+        "bbox_px": [
+          718,
+          1064,
+          982,
+          1080
+        ],
+        "confidence": 1,
+        "text": "this.physics.world.on(\"worldbounds\","
+      },
+      {
+        "bbox_px": [
+          980,
+          1064,
+          1068,
+          1077
+        ],
+        "confidence": 1,
+        "text": "(body) => {"
+      },
+      {
+        "bbox_px": [
+          734,
+          1080,
+          998,
+          1096
+        ],
+        "confidence": 1,
+        "text": "if (body.gameObject === this.ball) {"
+      },
+      {
+        "bbox_px": [
+          747,
+          1098,
+          925,
+          1114
+        ],
+        "confidence": 1,
+        "text": "if (body.blocked.left) {"
+      },
+      {
+        "bbox_px": [
+          763,
+          1116,
+          930,
+          1130
+        ],
+        "confidence": 1,
+        "text": "this.player2Score += 1;"
+      },
+      {
+        "bbox_px": [
+          763,
+          1132,
+          1225,
+          1149
+        ],
+        "confidence": 1,
+        "text": "this.player2ScoreText.setText('Player 2: ${this.player2Scorei;"
+      },
+      {
+        "bbox_px": [
+          747,
+          1150,
+          982,
+          1167
+        ],
+        "confidence": 1,
+        "text": "} else if (body.blocked.right) {"
+      },
+      {
+        "bbox_px": [
+          716,
+          1168,
+          784,
+          1185
+        ],
+        "confidence": 1,
+        "text": "} else {"
+      },
+      {
+        "bbox_px": [
+          731,
+          1187,
+          943,
+          1203
+        ],
+        "confidence": 1,
+        "text": "this.player1.setVelocityx(0);"
+      },
+      {
+        "bbox_px": [
+          193,
+          1538,
+          431,
+          1554
+        ],
+        "confidence": 1,
+        "text": "Ask a question or type \"' for commands"
+      },
+      {
+        "bbox_px": [
+          645,
+          1255,
+          666,
+          1268
+        ],
+        "confidence": 1,
+        "text": "86"
+      },
+      {
+        "bbox_px": [
+          645,
+          1308,
+          666,
+          1321
+        ],
+        "confidence": 1,
+        "text": "89"
+      },
+      {
+        "bbox_px": [
+          645,
+          1329,
+          663,
+          1336
+        ],
+        "confidence": 1,
+        "text": "98"
+      },
+      {
+        "bbox_px": [
+          645,
+          1360,
+          663,
+          1373
+        ],
+        "confidence": 1,
+        "text": "92"
+      },
+      {
+        "bbox_px": [
+          645,
+          1378,
+          666,
+          1391
+        ],
+        "confidence": 1,
+        "text": "93"
+      },
+      {
+        "bbox_px": [
+          648,
+          1431,
+          666,
+          1444
+        ],
+        "confidence": 1,
+        "text": "96"
+      },
+      {
+        "bbox_px": [
+          645,
+          1465,
+          663,
+          1478
+        ],
+        "confidence": 1,
+        "text": "98"
+      },
+      {
+        "bbox_px": [
+          640,
+          1517,
+          663,
+          1530
+        ],
+        "confidence": 1,
+        "text": "101"
+      },
+      {
+        "bbox_px": [
+          640,
+          1535,
+          663,
+          1546
+        ],
+        "confidence": 1,
+        "text": "102"
+      },
+      {
+        "bbox_px": [
+          640,
+          1569,
+          663,
+          1582
+        ],
+        "confidence": 1,
+        "text": "104"
+      },
+      {
+        "bbox_px": [
+          716,
+          1237,
+          930,
+          1253
+        ],
+        "confidence": 1,
+        "text": "if (this.cursors.up.isDown) {"
+      },
+      {
+        "bbox_px": [
+          731,
+          1258,
+          964,
+          1271
+        ],
+        "confidence": 1,
+        "text": "this.player1.setVelocityY(-200);"
+      },
+      {
+        "bbox_px": [
+          716,
+          1274,
+          993,
+          1289
+        ],
+        "confidence": 1,
+        "text": "} else if (this.cursors.down.isDown) f"
+      },
+      {
+        "bbox_px": [
+          731,
+          1292,
+          956,
+          1305
+        ],
+        "confidence": 1,
+        "text": "this.player1.setVelocityY(200);"
+      },
+      {
+        "bbox_px": [
+          716,
+          1308,
+          778,
+          1324
+        ],
+        "confidence": 1,
+        "text": "} else {"
+      },
+      {
+        "bbox_px": [
+          731,
+          1326,
+          943,
+          1339
+        ],
+        "confidence": 1,
+        "text": "this.player1.setVelocityY(0);"
+      },
+      {
+        "bbox_px": [
+          718,
+          1378,
+          862,
+          1391
+        ],
+        "confidence": 1,
+        "text": "// Player 2 controls"
+      },
+      {
+        "bbox_px": [
+          716,
+          1393,
+          885,
+          1410
+        ],
+        "confidence": 1,
+        "text": "if (this.aKey.isDown) {"
+      },
+      {
+        "bbox_px": [
+          731,
+          1412,
+          964,
+          1428
+        ],
+        "confidence": 1,
+        "text": "this.player2.setVelocityx(-200);"
+      },
+      {
+        "bbox_px": [
+          716,
+          1430,
+          935,
+          1444
+        ],
+        "confidence": 1,
+        "text": "} else if (this.dKey.isDown) {"
+      },
+      {
+        "bbox_px": [
+          731,
+          1449,
+          956,
+          1462
+        ],
+        "confidence": 1,
+        "text": "this.player2.setVelocityx(200);"
+      },
+      {
+        "bbox_px": [
+          716,
+          1465,
+          778,
+          1478
+        ],
+        "confidence": 1,
+        "text": "} else {"
+      },
+      {
+        "bbox_px": [
+          731,
+          1483,
+          943,
+          1496
+        ],
+        "confidence": 1,
+        "text": "this.player2.setVelocityx(0);"
+      },
+      {
+        "bbox_px": [
+          716,
+          1533,
+          885,
+          1549
+        ],
+        "confidence": 1,
+        "text": "if (this.wKey.isDown) {"
+      },
+      {
+        "bbox_px": [
+          731,
+          1554,
+          964,
+          1567
+        ],
+        "confidence": 1,
+        "text": "this.player2.setVelocityY(-200);"
+      },
+      {
+        "bbox_px": [
+          718,
+          1566,
+          935,
+          1584
+        ],
+        "confidence": 1,
+        "text": "1 else & (this.sKev.isDown) f"
+      },
+      {
+        "bbox_px": [
+          1267,
+          1548,
+          1291,
+          1569
+        ],
+        "confidence": 1,
+        "text": "00"
+      },
+      {
+        "bbox_px": [
+          431,
+          1653,
+          475,
+          1671
+        ],
+        "confidence": 1,
+        "text": "Code"
+      },
+      {
+        "bbox_px": [
+          565,
+          1652,
+          607,
+          1674
+        ],
+        "confidence": 1,
+        "text": "Plan"
+      },
+      {
+        "bbox_px": [
+          674,
+          1656,
+          765,
+          1671
+        ],
+        "confidence": 1,
+        "text": "Collaborate"
+      },
+      {
+        "bbox_px": [
+          812,
+          1656,
+          893,
+          1671
+        ],
+        "confidence": 1,
+        "text": "Automate"
+      },
+      {
+        "bbox_px": [
+          956,
+          1656,
+          1016,
+          1671
+        ],
+        "confidence": 1,
+        "text": "Secure"
+      },
+      {
+        "bbox_px": [
+          418,
+          1718,
+          1019,
+          1737
+        ],
+        "confidence": 1,
+        "text": "Write, test, and fix code quickly with GitHub Copilot, from simple boilerplate to"
+      },
+      {
+        "bbox_px": [
+          650,
+          1742,
+          786,
+          1758
+        ],
+        "confidence": 1,
+        "text": "complex features."
+      },
+      {
+        "bbox_px": [
+          428,
+          1654,
+          473,
+          1670
+        ],
+        "confidence": 1,
+        "text": "Code"
+      },
+      {
+        "bbox_px": [
+          567,
+          1654,
+          606,
+          1670
+        ],
+        "confidence": 1,
+        "text": "Plan"
+      },
+      {
+        "bbox_px": [
+          671,
+          1654,
+          765,
+          1670
+        ],
+        "confidence": 1,
+        "text": "Collaborate"
+      },
+      {
+        "bbox_px": [
+          812,
+          1654,
+          893,
+          1670
+        ],
+        "confidence": 1,
+        "text": "Automate"
+      },
+      {
+        "bbox_px": [
+          956,
+          1652,
+          1016,
+          1670
+        ],
+        "confidence": 1,
+        "text": "Secure"
+      },
+      {
+        "bbox_px": [
+          418,
+          1717,
+          1019,
+          1736
+        ],
+        "confidence": 1,
+        "text": "Write, test, and fix code quickly with GitHub Copilot, from simple boilerplate to"
+      },
+      {
+        "bbox_px": [
+          648,
+          1743,
+          786,
+          1759
+        ],
+        "confidence": 1,
+        "text": "complex features."
+      },
+      {
+        "bbox_px": [
+          0,
+          1903,
+          180,
+          1922
+        ],
+        "confidence": 1,
+        "text": "American Airlines"
+      },
+      {
+        "bbox_px": [
+          307,
+          1890,
+          452,
+          1928
+        ],
+        "confidence": 1,
+        "text": "duolingo"
+      },
+      {
+        "bbox_px": [
+          841,
+          1888,
+          938,
+          1931
+        ],
+        "confidence": 1,
+        "text": "Infosys"
+      },
+      {
+        "bbox_px": [
+          1024,
+          1895,
+          1105,
+          1913
+        ],
+        "confidence": 1,
+        "text": "mercado"
+      },
+      {
+        "bbox_px": [
+          1040,
+          1911,
+          1087,
+          1929
+        ],
+        "confidence": 1,
+        "text": "libre"
+      },
+      {
+        "bbox_px": [
+          1236,
+          1903,
+          1322,
+          1916
+        ],
+        "confidence": 1,
+        "text": "Mercedes-Benz"
+      },
+      {
+        "bbox_px": [
+          431,
+          2233,
+          1011,
+          2275
+        ],
+        "confidence": 1,
+        "text": "Accelerate your entire workflow"
+      },
+      {
+        "bbox_px": [
+          436,
+          2292,
+          1003,
+          2316
+        ],
+        "confidence": 1,
+        "text": "From your first line of code to final deployment, GitHub"
+      },
+      {
+        "bbox_px": [
+          412,
+          2324,
+          1027,
+          2348
+        ],
+        "confidence": 1,
+        "text": "provides Al and outomation tools to help you build and ship"
+      },
+      {
+        "bbox_px": [
+          601,
+          2356,
+          836,
+          2380
+        ],
+        "confidence": 1,
+        "text": "better software faster."
+      },
+      {
+        "bbox_px": [
+          512,
+          2541,
+          906,
+          2558
+        ],
+        "confidence": 1,
+        "text": "The search functionality is now fully implemented. Users can:"
+      },
+      {
+        "bbox_px": [
+          522,
+          2575,
+          896,
+          2592
+        ],
+        "confidence": 1,
+        "text": "1. Search for running races by name using the search box"
+      },
+      {
+        "bbox_px": [
+          522,
+          2596,
+          841,
+          2616
+        ],
+        "confidence": 1,
+        "text": "2. See filtered results matching their search term"
+      },
+      {
+        "bbox_px": [
+          522,
+          2619,
+          815,
+          2636
+        ],
+        "confidence": 1,
+        "text": "3. Navigate through paginated search results"
+      },
+      {
+        "bbox_px": [
+          522,
+          2641,
+          896,
+          2657
+        ],
+        "confidence": 1,
+        "text": "4. The search term is preserved when navigating between"
+      },
+      {
+        "bbox_px": [
+          538,
+          2664,
+          582,
+          2677
+        ],
+        "confidence": 1,
+        "text": "pages"
+      },
+      {
+        "bbox_px": [
+          512,
+          2693,
+          906,
+          2714
+        ],
+        "confidence": 1,
+        "text": "Is there anything specific about the implementation you'd like"
+      },
+      {
+        "bbox_px": [
+          512,
+          2714,
+          888,
+          2730
+        ],
+        "confidence": 1,
+        "text": "me to explain or would you like to update and run tests for"
+      },
+      {
+        "bbox_px": [
+          512,
+          2735,
+          585,
+          2748
+        ],
+        "confidence": 1,
+        "text": "validation?"
+      },
+      {
+        "bbox_px": [
+          525,
+          2826,
+          614,
+          2840
+        ],
+        "confidence": 1,
+        "text": "3 files changed"
+      },
+      {
+        "bbox_px": [
+          525,
+          2855,
+          726,
+          2869
+        ],
+        "confidence": 1,
+        "text": "TS race-service.ts src/lib/data"
+      },
+      {
+        "bbox_px": [
+          525,
+          2881,
+          723,
+          2897
+        ],
+        "confidence": 1,
+        "text": "TS +page.server.ts src/routes"
+      },
+      {
+        "bbox_px": [
+          527,
+          2907,
+          708,
+          2926
+        ],
+        "confidence": 1,
+        "text": "S +page.svelte src/routes"
+      },
+      {
+        "bbox_px": [
+          527,
+          2947,
+          630,
+          2966
+        ],
+        "confidence": 1,
+        "text": "1 Add Context..."
+      },
+      {
+        "bbox_px": [
+          520,
+          2980,
+          794,
+          2997
+        ],
+        "confidence": 1,
+        "text": "Edit files in your workspace in agent mode"
+      },
+      {
+        "bbox_px": [
+          655,
+          3012,
+          867,
+          3028
+        ],
+        "confidence": 1,
+        "text": "Agent v Claude 3.5 Sonnet v"
+      },
+      {
+        "bbox_px": [
+          854,
+          2827,
+          888,
+          2840
+        ],
+        "confidence": 1,
+        "text": "Undo"
+      },
+      {
+        "bbox_px": [
+          128,
+          3190,
+          700,
+          3212
+        ],
+        "confidence": 1,
+        "text": "Your Al partner everywhere. Copilot is ready to work with"
+      },
+      {
+        "bbox_px": [
+          128,
+          3218,
+          689,
+          3243
+        ],
+        "confidence": 1,
+        "text": "you at each step of the software development lifecycle."
+      },
+      {
+        "bbox_px": [
+          130,
+          3273,
+          344,
+          3292
+        ],
+        "confidence": 1,
+        "text": "Explore GitHub Copilot ›"
+      },
+      {
+        "bbox_px": [
+          898,
+          3186,
+          1011,
+          3214
+        ],
+        "confidence": 1,
+        "text": ", duolingo"
+      },
+      {
+        "bbox_px": [
+          872,
+          3248,
+          1267,
+          3269
+        ],
+        "confidence": 1,
+        "text": "Duolingo boosts developer speed by 25% with"
+      },
+      {
+        "bbox_px": [
+          872,
+          3277,
+          1006,
+          3295
+        ],
+        "confidence": 1,
+        "text": "GitHub Copilot"
+      },
+      {
+        "bbox_px": [
+          872,
+          3318,
+          1071,
+          3342
+        ],
+        "confidence": 1,
+        "text": "Read customer story ›"
+      },
+      {
+        "bbox_px": [
+          130,
+          3200,
+          700,
+          3213
+        ],
+        "confidence": 0.30000001192092896,
+        "text": "nou n patne eveywnere oopretns eudy e wern wrtn"
+      },
+      {
+        "bbox_px": [
+          128,
+          3220,
+          689,
+          3242
+        ],
+        "confidence": 1,
+        "text": "you at each step of the software development lifecycle."
+      },
+      {
+        "bbox_px": [
+          130,
+          3275,
+          344,
+          3294
+        ],
+        "confidence": 1,
+        "text": "Explore GitHub Copilot ›"
+      },
+      {
+        "bbox_px": [
+          872,
+          3249,
+          1267,
+          3268
+        ],
+        "confidence": 1,
+        "text": "Duolingo boosts developer speed by 25% with"
+      },
+      {
+        "bbox_px": [
+          872,
+          3275,
+          1006,
+          3294
+        ],
+        "confidence": 1,
+        "text": "GitHub Copilot"
+      },
+      {
+        "bbox_px": [
+          872,
+          3317,
+          1071,
+          3339
+        ],
+        "confidence": 1,
+        "text": "Read customer story ›"
+      },
+      {
+        "bbox_px": [
+          872,
+          3469,
+          1016,
+          3506
+        ],
+        "confidence": 1,
+        "text": "Gartner"
+      },
+      {
+        "bbox_px": [
+          872,
+          3534,
+          1215,
+          3556
+        ],
+        "confidence": 1,
+        "text": "2025 Gartner® Magic Quadrant™ for Al"
+      },
+      {
+        "bbox_px": [
+          872,
+          3563,
+          1016,
+          3582
+        ],
+        "confidence": 1,
+        "text": "Code Assistants"
+      },
+      {
+        "bbox_px": [
+          872,
+          3607,
+          1068,
+          3626
+        ],
+        "confidence": 1,
+        "text": "Read industry report ›"
+      },
+      {
+        "bbox_px": [
+          125,
+          3793,
+          483,
+          3823
+        ],
+        "confidence": 1,
+        "text": "Automate your path to production"
+      },
+      {
+        "bbox_px": [
+          125,
+          3827,
+          457,
+          3854
+        ],
+        "confidence": 1,
+        "text": "Ship faster with secure, reliable CI/CD."
+      },
+      {
+        "bbox_px": [
+          125,
+          3872,
+          347,
+          3896
+        ],
+        "confidence": 1,
+        "text": "Explore GitHub Actions ›"
+      },
+      {
+        "bbox_px": [
+          125,
+          3945,
+          444,
+          3978
+        ],
+        "confidence": 1,
+        "text": "Code instantly from anywhere"
+      },
+      {
+        "bbox_px": [
+          122,
+          4026,
+          410,
+          4058
+        ],
+        "confidence": 1,
+        "text": "Keep momentum on the go"
+      },
+      {
+        "bbox_px": [
+          125,
+          4104,
+          353,
+          4139
+        ],
+        "confidence": 1,
+        "text": "Shape your toolchain"
+      },
+      {
+        "bbox_px": [
+          815,
+          3819,
+          935,
+          3833
+        ],
+        "confidence": 1,
+        "text": "45,167 workflow runs"
+      },
+      {
+        "bbox_px": [
+          1047,
+          3819,
+          1095,
+          3835
+        ],
+        "confidence": 1,
+        "text": "Event -"
+      },
+      {
+        "bbox_px": [
+          1102,
+          3820,
+          1149,
+          3833
+        ],
+        "confidence": 1,
+        "text": "Status •"
+      },
+      {
+        "bbox_px": [
+          833,
+          3861,
+          972,
+          3874
+        ],
+        "confidence": 1,
+        "text": "Fix IE12 incompatibilities"
+      },
+      {
+        "bbox_px": [
+          833,
+          3877,
+          1176,
+          3895
+        ],
+        "confidence": 1,
+        "text": "Build, test and deploy #15078: pull request #239122 synchronize by mona"
+      },
+      {
+        "bbox_px": [
+          833,
+          3922,
+          938,
+          3935
+        ],
+        "confidence": 1,
+        "text": "Accessibility tests"
+      },
+      {
+        "bbox_px": [
+          833,
+          3937,
+          1176,
+          3951
+        ],
+        "confidence": 1,
+        "text": "Build, test and deploy #15078: pull request #239122 synchronize by mona"
+      },
+      {
+        "bbox_px": [
+          833,
+          3979,
+          1037,
+          3992
+        ],
+        "confidence": 1,
+        "text": "Update changelog and release notes"
+      },
+      {
+        "bbox_px": [
+          833,
+          3997,
+          1173,
+          4011
+        ],
+        "confidence": 1,
+        "text": "Build, test and deploy #15078: pull request #239122 synchronize by mona"
+      },
+      {
+        "bbox_px": [
+          833,
+          4039,
+          985,
+          4052
+        ],
+        "confidence": 1,
+        "text": "Migrate to latest Storybook"
+      },
+      {
+        "bbox_px": [
+          833,
+          4055,
+          1176,
+          4073
+        ],
+        "confidence": 1,
+        "text": "Build, test and deploy #15078: pull request #239122 synchronize by mona"
+      },
+      {
+        "bbox_px": [
+          833,
+          4096,
+          972,
+          4110
+        ],
+        "confidence": 1,
+        "text": "Fix IE11 incompatibilities"
+      },
+      {
+        "bbox_px": [
+          833,
+          4115,
+          1176,
+          4128
+        ],
+        "confidence": 1,
+        "text": "Build, test and deploy #15078: pull request #239122 synchronize by mona"
+      },
+      {
+        "bbox_px": [
+          1157,
+          3819,
+          1215,
+          3835
+        ],
+        "confidence": 1,
+        "text": "Branch -"
+      },
+      {
+        "bbox_px": [
+          1220,
+          3819,
+          1262,
+          3835
+        ],
+        "confidence": 1,
+        "text": "Actor -"
+      },
+      {
+        "bbox_px": [
+          1191,
+          3858,
+          1262,
+          3875
+        ],
+        "confidence": 1,
+        "text": "• 1 hour ago"
+      },
+      {
+        "bbox_px": [
+          1191,
+          3877,
+          1249,
+          3893
+        ],
+        "confidence": 1,
+        "text": "Ở 5m 40s"
+      },
+      {
+        "bbox_px": [
+          1191,
+          3916,
+          1262,
+          3933
+        ],
+        "confidence": 1,
+        "text": "• 1 hour ago"
+      },
+      {
+        "bbox_px": [
+          1191,
+          3937,
+          1249,
+          3951
+        ],
+        "confidence": 1,
+        "text": "• 5m 40s"
+      },
+      {
+        "bbox_px": [
+          1191,
+          3976,
+          1262,
+          3993
+        ],
+        "confidence": 1,
+        "text": "• 1 hour ago"
+      },
+      {
+        "bbox_px": [
+          1191,
+          3995,
+          1249,
+          4011
+        ],
+        "confidence": 1,
+        "text": "Ở 5m 40s"
+      },
+      {
+        "bbox_px": [
+          1191,
+          4036,
+          1262,
+          4053
+        ],
+        "confidence": 1,
+        "text": "• 1 hour ago"
+      },
+      {
+        "bbox_px": [
+          1191,
+          4055,
+          1249,
+          4071
+        ],
+        "confidence": 1,
+        "text": "• 5m 40s"
+      },
+      {
+        "bbox_px": [
+          1191,
+          4094,
+          1262,
+          4110
+        ],
+        "confidence": 1,
+        "text": "• 1 hour ago"
+      },
+      {
+        "bbox_px": [
+          1191,
+          4115,
+          1249,
+          4129
+        ],
+        "confidence": 1,
+        "text": "• 5m 40s"
+      },
+      {
+        "bbox_px": [
+          467,
+          4507,
+          972,
+          4549
+        ],
+        "confidence": 1,
+        "text": "Built-in pplication security"
+      },
+      {
+        "bbox_px": [
+          486,
+          4557,
+          951,
+          4592
+        ],
+        "confidence": 1,
+        "text": "where found means fixed"
+      },
+      {
+        "bbox_px": [
+          420,
+          4618,
+          1019,
+          4639
+        ],
+        "confidence": 1,
+        "text": "Use Al to find and fix vulnerabilities so your team can ship"
+      },
+      {
+        "bbox_px": [
+          572,
+          4646,
+          867,
+          4670
+        ],
+        "confidence": 1,
+        "text": "more secure software faster."
+      },
+      {
+        "bbox_px": [
+          140,
+          4955,
+          501,
+          4984
+        ],
+        "confidence": 1,
+        "text": "Apply fixes in seconds. Spend less"
+      },
+      {
+        "bbox_px": [
+          750,
+          4868,
+          966,
+          4887
+        ],
+        "confidence": 1,
+        "text": "• github-advanced-security bot"
+      },
+      {
+        "bbox_px": [
+          750,
+          4908,
+          1267,
+          4922
+        ],
+        "confidence": 1,
+        "text": "The vulnerability in the code is due to the fact that user-provided input is directly used in"
+      },
+      {
+        "bbox_px": [
+          750,
+          4924,
+          1243,
+          4940
+        ],
+        "confidence": 1,
+        "text": "HTTP response without any sanitization. This can lead to a cross-site scripting (XSS)"
+      },
+      {
+        "bbox_px": [
+          750,
+          4941,
+          1037,
+          4958
+        ],
+        "confidence": 1,
+        "text": "attack if the user input contains malicious scripts."
+      },
+      {
+        "bbox_px": [
+          750,
+          4978,
+          1254,
+          4994
+        ],
+        "confidence": 1,
+        "text": "To fix this, we need to sanitize the input before using it in the HTTP response. One way"
+      },
+      {
+        "bbox_px": [
+          143,
+          4959,
+          501,
+          4980
+        ],
+        "confidence": 1,
+        "text": "Apply fixes in seconds. Spend less"
+      },
+      {
+        "bbox_px": [
+          143,
+          4990,
+          465,
+          5012
+        ],
+        "confidence": 1,
+        "text": "time debugging and more time"
+      },
+      {
+        "bbox_px": [
+          141,
+          5022,
+          538,
+          5046
+        ],
+        "confidence": 1,
+        "text": "building features with Copilot Autofix."
+      },
+      {
+        "bbox_px": [
+          143,
+          5076,
+          459,
+          5095
+        ],
+        "confidence": 1,
+        "text": "Explore GitHub Advanced Security >"
+      },
+      {
+        "bbox_px": [
+          750,
+          4868,
+          966,
+          4886
+        ],
+        "confidence": 1,
+        "text": "• github-advanced-security bot"
+      },
+      {
+        "bbox_px": [
+          750,
+          4907,
+          1267,
+          4922
+        ],
+        "confidence": 1,
+        "text": "The vulnerability in the code is due to the fact that user-provided input is directly used in"
+      },
+      {
+        "bbox_px": [
+          747,
+          4921,
+          1241,
+          4941
+        ],
+        "confidence": 1,
+        "text": "HTTP response without any sanitization. This can lead to a cross-site scripting (XSS)"
+      },
+      {
+        "bbox_px": [
+          750,
+          4941,
+          1037,
+          4957
+        ],
+        "confidence": 1,
+        "text": "attack if the user input contains malicious scripts."
+      },
+      {
+        "bbox_px": [
+          747,
+          4977,
+          1254,
+          4994
+        ],
+        "confidence": 1,
+        "text": "To fix this, we need to sanitize the input before using it in the HTTP response. One way"
+      },
+      {
+        "bbox_px": [
+          750,
+          4996,
+          1249,
+          5011
+        ],
+        "confidence": 1,
+        "text": "to do this is to use the escape-html library, which can escape any special characters."
+      },
+      {
+        "bbox_px": [
+          760,
+          5035,
+          901,
+          5051
+        ],
+        "confidence": 1,
+        "text": "8 Copilot Autofix Al"
+      },
+      {
+        "bbox_px": [
+          763,
+          5072,
+          784,
+          5085
+        ],
+        "confidence": 1,
+        "text": "14"
+      },
+      {
+        "bbox_px": [
+          765,
+          5103,
+          784,
+          5113
+        ],
+        "confidence": 1,
+        "text": "15"
+      },
+      {
+        "bbox_px": [
+          765,
+          5132,
+          784,
+          5145
+        ],
+        "confidence": 1,
+        "text": "15"
+      },
+      {
+        "bbox_px": [
+          823,
+          5071,
+          1037,
+          5088
+        ],
+        "confidence": 1,
+        "text": "app.get('/',(req, res) => {"
+      },
+      {
+        "bbox_px": [
+          846,
+          5099,
+          1136,
+          5119
+        ],
+        "confidence": 1,
+        "text": "res.send('Hello ${req.query.name)!');"
+      },
+      {
+        "bbox_px": [
+          846,
+          5132,
+          1199,
+          5147
+        ],
+        "confidence": 1,
+        "text": "res.send('Hello S{escape(req.query.name)}!');"
+      },
+      {
+        "bbox_px": [
+          765,
+          5163,
+          786,
+          5176
+        ],
+        "confidence": 1,
+        "text": "16"
+      },
+      {
+        "bbox_px": [
+          128,
+          5375,
+          467,
+          5396
+        ],
+        "confidence": 1,
+        "text": "Security debt, solved. Leverage security"
+      },
+      {
+        "bbox_px": [
+          128,
+          5401,
+          483,
+          5420
+        ],
+        "confidence": 1,
+        "text": "campaigns and Copilot Autofix to reduce"
+      },
+      {
+        "bbox_px": [
+          127,
+          5428,
+          355,
+          5449
+        ],
+        "confidence": 1,
+        "text": "applicotion vulnerabilities."
+      },
+      {
+        "bbox_px": [
+          125,
+          5480,
+          412,
+          5496
+        ],
+        "confidence": 1,
+        "text": "Learn about GitHub Code Security ›"
+      },
+      {
+        "bbox_px": [
+          554,
+          5375,
+          851,
+          5396
+        ],
+        "confidence": 1,
+        "text": "Dependencies you can depend on."
+      },
+      {
+        "bbox_px": [
+          554,
+          5401,
+          878,
+          5420
+        ],
+        "confidence": 1,
+        "text": "Update vulnerable dependencies with"
+      },
+      {
+        "bbox_px": [
+          551,
+          5430,
+          878,
+          5448
+        ],
+        "confidence": 1,
+        "text": "supported fixes for breaking changes."
+      },
+      {
+        "bbox_px": [
+          551,
+          5479,
+          765,
+          5498
+        ],
+        "confidence": 1,
+        "text": "Learn about Dependabot ›"
+      },
+      {
+        "bbox_px": [
+          977,
+          5375,
+          1283,
+          5394
+        ],
+        "confidence": 1,
+        "text": "Your secrets, your business. Detect,"
+      },
+      {
+        "bbox_px": [
+          977,
+          5401,
+          1306,
+          5420
+        ],
+        "confidence": 1,
+        "text": "prevent, and remediate leaked secrets"
+      },
+      {
+        "bbox_px": [
+          977,
+          5430,
+          1196,
+          5449
+        ],
+        "confidence": 1,
+        "text": "across your organization."
+      },
+      {
+        "bbox_px": [
+          977,
+          5479,
+          1288,
+          5498
+        ],
+        "confidence": 1,
+        "text": "Learn about GitHub Secret Protection ›"
+      },
+      {
+        "bbox_px": [
+          148,
+          5561,
+          509,
+          5582
+        ],
+        "confidence": 1,
+        "text": "Prevent leaderboard exploits campaig"
+      },
+      {
+        "bbox_px": [
+          148,
+          5621,
+          292,
+          5641
+        ],
+        "confidence": 1,
+        "text": "Campaign progress"
+      },
+      {
+        "bbox_px": [
+          148,
+          5652,
+          250,
+          5669
+        ],
+        "confidence": 1,
+        "text": "97% (701 alerts)"
+      },
+      {
+        "bbox_px": [
+          154,
+          5689,
+          344,
+          5705
+        ],
+        "confidence": 1,
+        "text": "• 701 closed • 13 in progress"
+      },
+      {
+        "bbox_px": [
+          148,
+          5713,
+          337,
+          5728
+        ],
+        "confidence": 1,
+        "text": "Campaign started 20 days ago"
+      },
+      {
+        "bbox_px": [
+          148,
+          5768,
+          201,
+          5781
+        ],
+        "confidence": 1,
+        "text": "Status"
+      },
+      {
+        "bbox_px": [
+          148,
+          5798,
+          264,
+          5826
+        ],
+        "confidence": 1,
+        "text": "7 days left"
+      },
+      {
+        "bbox_px": [
+          148,
+          5832,
+          371,
+          5849
+        ],
+        "confidence": 1,
+        "text": "Due date date is November 15, 2024"
+      },
+      {
+        "bbox_px": [
+          415,
+          5652,
+          496,
+          5666
+        ],
+        "confidence": 1,
+        "text": "23 alerts left"
+      },
+      {
+        "bbox_px": [
+          600,
+          5550,
+          904,
+          5568
+        ],
+        "confidence": 1,
+        "text": "Dependencies defined in pypi/requirements.txt 13"
+      },
+      {
+        "bbox_px": [
+          606,
+          5710,
+          624,
+          5731
+        ],
+        "confidence": 1,
+        "text": "dj"
+      },
+      {
+        "bbox_px": [
+          640,
+          5602,
+          870,
+          5618
+        ],
+        "confidence": 1,
+        "text": "diaphanousfrog / old-glamorous-stew"
+      },
+      {
+        "bbox_px": [
+          878,
+          5603,
+          930,
+          5616
+        ],
+        "confidence": 1,
+        "text": "Glamoro"
+      },
+      {
+        "bbox_px": [
+          640,
+          5655,
+          888,
+          5673
+        ],
+        "confidence": 1,
+        "text": "cypherscroll / cypherscroll CypherScroll"
+      },
+      {
+        "bbox_px": [
+          640,
+          5712,
+          739,
+          5726
+        ],
+        "confidence": 1,
+        "text": "django / django"
+      },
+      {
+        "bbox_px": [
+          640,
+          5767,
+          854,
+          5783
+        ],
+        "confidence": 1,
+        "text": "django-haystack / django-haystack"
+      },
+      {
+        "bbox_px": [
+          640,
+          5822,
+          857,
+          5839
+        ],
+        "confidence": 1,
+        "text": "wgilbert91 / cypherscroll-extensions"
+      },
+      {
+        "bbox_px": [
+          998,
+          5563,
+          1353,
+          5580
+        ],
+        "confidence": 1,
+        "text": "» ~/octoinvaders git:(leaderboard-fetchPlayers) git"
+      },
+      {
+        "bbox_px": [
+          998,
+          5605,
+          1358,
+          5619
+        ],
+        "confidence": 1,
+        "text": "remote: error GH009: Secrets detected! This push fai"
+      },
+      {
+        "bbox_px": [
+          1136,
+          5647,
+          1291,
+          5660
+        ],
+        "confidence": 1,
+        "text": "GITHUB PUSH PROTECTION"
+      },
+      {
+        "bbox_px": [
+          1000,
+          5689,
+          1050,
+          5702
+        ],
+        "confidence": 1,
+        "text": "remote:"
+      },
+      {
+        "bbox_px": [
+          1061,
+          5689,
+          1358,
+          5702
+        ],
+        "confidence": 1,
+        "text": "Resolve the following secrets before pushir"
+      },
+      {
+        "bbox_px": [
+          1016,
+          5741,
+          1097,
+          5755
+        ],
+        "confidence": 1,
+        "text": "Active secret"
+      },
+      {
+        "bbox_px": [
+          1016,
+          5760,
+          1243,
+          5776
+        ],
+        "confidence": 1,
+        "text": "GitHub confirmed this secret is active"
+      },
+      {
+        "bbox_px": [
+          1032,
+          5804,
+          1275,
+          5820
+        ],
+        "confidence": 1,
+        "text": "aio_aJGa51KeeHZZzWG1sAFpRL1NUOP"
+      },
+      {
+        "bbox_px": [
+          125,
+          5969,
+          517,
+          6006
+        ],
+        "confidence": 1,
+        "text": "70% MTTR reduction"
+      },
+      {
+        "bbox_px": [
+          125,
+          6023,
+          310,
+          6042
+        ],
+        "confidence": 1,
+        "text": "with Copilot Autofix 1"
+      },
+      {
+        "bbox_px": [
+          765,
+          5968,
+          1251,
+          6011
+        ],
+        "confidence": 1,
+        "text": "8.3M secret leaks stopped"
+      },
+      {
+        "bbox_px": [
+          765,
+          6021,
+          1142,
+          6042
+        ],
+        "confidence": 1,
+        "text": "in the past 12 months with push protection 1"
+      },
+      {
+        "bbox_px": [
+          457,
+          6395,
+          985,
+          6445
+        ],
+        "confidence": 1,
+        "text": "Work together, achieve more"
+      },
+      {
+        "bbox_px": [
+          410,
+          6458,
+          1029,
+          6479
+        ],
+        "confidence": 1,
+        "text": "From planning and discussion to code review, GitHub keeps"
+      },
+      {
+        "bbox_px": [
+          425,
+          6486,
+          1014,
+          6514
+        ],
+        "confidence": 1,
+        "text": "your team's conversation and context next to your code."
+      },
+      {
+        "bbox_px": [
+          457,
+          6400,
+          985,
+          6441
+        ],
+        "confidence": 1,
+        "text": "Work together, achieve more"
+      },
+      {
+        "bbox_px": [
+          410,
+          6457,
+          1029,
+          6481
+        ],
+        "confidence": 1,
+        "text": "From plnning and discussion to code review, GitHub keeps"
+      },
+      {
+        "bbox_px": [
+          425,
+          6488,
+          1014,
+          6512
+        ],
+        "confidence": 1,
+        "text": "your team's conversation and context next to your code."
+      },
+      {
+        "bbox_px": [
+          211,
+          6682,
+          397,
+          6701
+        ],
+        "confidence": 1,
+        "text": "* OctoArcade Invaders"
+      },
+      {
+        "bbox_px": [
+          224,
+          6727,
+          360,
+          6742
+        ],
+        "confidence": 1,
+        "text": "• Feature planning •"
+      },
+      {
+        "bbox_px": [
+          386,
+          6726,
+          452,
+          6743
+        ],
+        "confidence": 1,
+        "text": "By area"
+      },
+      {
+        "bbox_px": [
+          235,
+          6758,
+          261,
+          6771
+        ],
+        "confidence": 1,
+        "text": "Title"
+      },
+      {
+        "bbox_px": [
+          232,
+          6789,
+          342,
+          6810
+        ],
+        "confidence": 1,
+        "text": "• Prototype"
+      },
+      {
+        "bbox_px": [
+          235,
+          6823,
+          402,
+          6839
+        ],
+        "confidence": 1,
+        "text": "• Game brief and go-no-go"
+      },
+      {
+        "bbox_px": [
+          235,
+          6855,
+          470,
+          6871
+        ],
+        "confidence": 1,
+        "text": "• Engine prototype (physics, rendering)"
+      },
+      {
+        "bbox_px": [
+          235,
+          6886,
+          358,
+          6902
+        ],
+        "confidence": 1,
+        "text": "• Initial concept art"
+      },
+      {
+        "bbox_px": [
+          235,
+          6920,
+          308,
+          6934
+        ],
+        "confidence": 1,
+        "text": "+ Add item"
+      },
+      {
+        "bbox_px": [
+          232,
+          6966,
+          303,
+          6984
+        ],
+        "confidence": 1,
+        "text": "• Beta 1"
+      },
+      {
+        "bbox_px": [
+          235,
+          7001,
+          457,
+          7017
+        ],
+        "confidence": 1,
+        "text": "• Integrate with Leaderboard Service"
+      },
+      {
+        "bbox_px": [
+          235,
+          7033,
+          501,
+          7049
+        ],
+        "confidence": 1,
+        "text": "• Creative design update to aliens for variety"
+      },
+      {
+        "bbox_px": [
+          235,
+          7064,
+          540,
+          7080
+        ],
+        "confidence": 1,
+        "text": "1: Updates to alien, beam, bomb and cannon sprites"
+      },
+      {
+        "bbox_px": [
+          235,
+          7095,
+          392,
+          7111
+        ],
+        "confidence": 1,
+        "text": "1* Update to colision logic"
+      },
+      {
+        "bbox_px": [
+          235,
+          7126,
+          410,
+          7143
+        ],
+        "confidence": 1,
+        "text": "• Improve alien respawn rate"
+      },
+      {
+        "bbox_px": [
+          235,
+          7161,
+          308,
+          7174
+        ],
+        "confidence": 1,
+        "text": "+ Add item"
+      },
+      {
+        "bbox_px": [
+          235,
+          7207,
+          344,
+          7224
+        ],
+        "confidence": 1,
+        "text": "• Launch & 4"
+      },
+      {
+        "bbox_px": [
+          253,
+          7245,
+          423,
+          7256
+        ],
+        "confidence": 1,
+        "text": "Interviews with media outlets"
+      },
+      {
+        "bbox_px": [
+          478,
+          6726,
+          580,
+          6743
+        ],
+        "confidence": 1,
+        "text": "• Current sprint"
+      },
+      {
+        "bbox_px": [
+          601,
+          6727,
+          679,
+          6740
+        ],
+        "confidence": 1,
+        "text": "+ New view"
+      },
+      {
+        "bbox_px": [
+          567,
+          6758,
+          598,
+          6771
+        ],
+        "confidence": 1,
+        "text": "Area"
+      },
+      {
+        "bbox_px": [
+          574,
+          6823,
+          646,
+          6841
+        ],
+        "confidence": 1,
+        "text": "Producers"
+      },
+      {
+        "bbox_px": [
+          574,
+          6854,
+          630,
+          6873
+        ],
+        "confidence": 1,
+        "text": "Engine •"
+      },
+      {
+        "bbox_px": [
+          723,
+          6758,
+          760,
+          6771
+        ],
+        "confidence": 1,
+        "text": "Status"
+      },
+      {
+        "bbox_px": [
+          728,
+          6824,
+          797,
+          6840
+        ],
+        "confidence": 1,
+        "text": "Complete"
+      },
+      {
+        "bbox_px": [
+          731,
+          6854,
+          797,
+          6871
+        ],
+        "confidence": 1,
+        "text": "Complete"
+      },
+      {
+        "bbox_px": [
+          731,
+          6886,
+          797,
+          6902
+        ],
+        "confidence": 1,
+        "text": "Complete"
+      },
+      {
+        "bbox_px": [
+          870,
+          6758,
+          919,
+          6771
+        ],
+        "confidence": 1,
+        "text": "Assignee"
+      },
+      {
+        "bbox_px": [
+          872,
+          6823,
+          982,
+          6839
+        ],
+        "confidence": 1,
+        "text": "9 lucid-jellybean"
+      },
+      {
+        "bbox_px": [
+          875,
+          6855,
+          964,
+          6871
+        ],
+        "confidence": 1,
+        "text": "(* aidengarcia"
+      },
+      {
+        "bbox_px": [
+          872,
+          6886,
+          956,
+          6902
+        ],
+        "confidence": 1,
+        "text": "d amerejess"
+      },
+      {
+        "bbox_px": [
+          1037,
+          6760,
+          1139,
+          6771
+        ],
+        "confidence": 1,
+        "text": "Sub-issue progress"
+      },
+      {
+        "bbox_px": [
+          574,
+          7001,
+          650,
+          7015
+        ],
+        "confidence": 1,
+        "text": "Game Loop A"
+      },
+      {
+        "bbox_px": [
+          574,
+          7064,
+          608,
+          7077
+        ],
+        "confidence": 1,
+        "text": "Art"
+      },
+      {
+        "bbox_px": [
+          574,
+          7096,
+          630,
+          7112
+        ],
+        "confidence": 1,
+        "text": "Engine •"
+      },
+      {
+        "bbox_px": [
+          574,
+          7126,
+          651,
+          7145
+        ],
+        "confidence": 1,
+        "text": "Game Loop f"
+      },
+      {
+        "bbox_px": [
+          729,
+          7001,
+          807,
+          7015
+        ],
+        "confidence": 1,
+        "text": "Not Started •"
+      },
+      {
+        "bbox_px": [
+          729,
+          7033,
+          791,
+          7049
+        ],
+        "confidence": 1,
+        "text": "Planning La"
+      },
+      {
+        "bbox_px": [
+          728,
+          7063,
+          792,
+          7082
+        ],
+        "confidence": 1,
+        "text": "Building f"
+      },
+      {
+        "bbox_px": [
+          728,
+          7096,
+          792,
+          7112
+        ],
+        "confidence": 1,
+        "text": "Building f"
+      },
+      {
+        "bbox_px": [
+          729,
+          7129,
+          781,
+          7140
+        ],
+        "confidence": 1,
+        "text": "Behind >"
+      },
+      {
+        "bbox_px": [
+          872,
+          7001,
+          966,
+          7017
+        ],
+        "confidence": 1,
+        "text": "() dareal-daryl"
+      },
+      {
+        "bbox_px": [
+          875,
+          7033,
+          980,
+          7049
+        ],
+        "confidence": 1,
+        "text": "• novablaster00"
+      },
+      {
+        "bbox_px": [
+          872,
+          7066,
+          972,
+          7080
+        ],
+        "confidence": 1,
+        "text": ") itsjessicabell"
+      },
+      {
+        "bbox_px": [
+          872,
+          7098,
+          987,
+          7112
+        ],
+        "confidence": 1,
+        "text": "(•) helios-ackmore"
+      },
+      {
+        "bbox_px": [
+          875,
+          7126,
+          966,
+          7143
+        ],
+        "confidence": 1,
+        "text": "* aidengarcia"
+      },
+      {
+        "bbox_px": [
+          1181,
+          7001,
+          1207,
+          7014
+        ],
+        "confidence": 1,
+        "text": "54%"
+      },
+      {
+        "bbox_px": [
+          574,
+          7242,
+          645,
+          7255
+        ],
+        "confidence": 1,
+        "text": "Producers"
+      },
+      {
+        "bbox_px": [
+          729,
+          7241,
+          810,
+          7255
+        ],
+        "confidence": 1,
+        "text": "Not Started •"
+      },
+      {
+        "bbox_px": [
+          870,
+          7242,
+          966,
+          7258
+        ],
+        "confidence": 1,
+        "text": "(G) exactlymyra"
+      },
+      {
+        "bbox_px": [
+          130,
+          7338,
+          556,
+          7365
+        ],
+        "confidence": 1,
+        "text": "Plan with clarity. Organize everything from"
+      },
+      {
+        "bbox_px": [
+          130,
+          7373,
+          530,
+          7394
+        ],
+        "confidence": 1,
+        "text": "high-level roadmaps to everyday tasks."
+      },
+      {
+        "bbox_px": [
+          130,
+          7425,
+          352,
+          7444
+        ],
+        "confidence": 1,
+        "text": "Explore GitHub Projects ›"
+      },
+      {
+        "bbox_px": [
+          768,
+          7386,
+          1293,
+          7407
+        ],
+        "confidence": 1,
+        "text": "It helps us onboard new software engineers and get"
+      },
+      {
+        "bbox_px": [
+          765,
+          7412,
+          1288,
+          7436
+        ],
+        "confidence": 1,
+        "text": "them productive right away. We have all our source"
+      },
+      {
+        "bbox_px": [
+          768,
+          7436,
+          1298,
+          7463
+        ],
+        "confidence": 1,
+        "text": "code, issues, and pull requests in one place... GitHub"
+      },
+      {
+        "bbox_px": [
+          765,
+          7464,
+          1257,
+          7485
+        ],
+        "confidence": 1,
+        "text": "is a complete platform that frees us from menial"
+      },
+      {
+        "bbox_px": [
+          765,
+          7493,
+          1189,
+          7511
+        ],
+        "confidence": 1,
+        "text": "tasks and enables us to do our best work."
+      },
+      {
+        "bbox_px": [
+          765,
+          7543,
+          930,
+          7559
+        ],
+        "confidence": 1,
+        "text": "FABIAN FAULHABER"
+      },
+      {
+        "bbox_px": [
+          765,
+          7566,
+          1071,
+          7585
+        ],
+        "confidence": 1,
+        "text": "Application manager at Mercedes-Benz"
+      },
+      {
+        "bbox_px": [
+          122,
+          7734,
+          379,
+          7765
+        ],
+        "confidence": 1,
+        "text": "Keep track of your tasks"
+      },
+      {
+        "bbox_px": [
+          125,
+          7768,
+          635,
+          7796
+        ],
+        "confidence": 1,
+        "text": "Create issues and manage projects with tools that adapt to"
+      },
+      {
+        "bbox_px": [
+          122,
+          7797,
+          219,
+          7822
+        ],
+        "confidence": 1,
+        "text": "your code."
+      },
+      {
+        "bbox_px": [
+          122,
+          7838,
+          337,
+          7865
+        ],
+        "confidence": 1,
+        "text": "Explore GitHub Issues ›"
+      },
+      {
+        "bbox_px": [
+          125,
+          7914,
+          447,
+          7947
+        ],
+        "confidence": 1,
+        "text": "Share ideas and ask questions"
+      },
+      {
+        "bbox_px": [
+          125,
+          7998,
+          449,
+          8025
+        ],
+        "confidence": 1,
+        "text": "Review code changes together"
+      },
+      {
+        "bbox_px": [
+          125,
+          8073,
+          407,
+          8108
+        ],
+        "confidence": 1,
+        "text": "Fund open source projects"
+      },
+      {
+        "bbox_px": [
+          836,
+          7750,
+          1121,
+          7774
+        ],
+        "confidence": 1,
+        "text": "New rendering engine #920"
+      },
+      {
+        "bbox_px": [
+          849,
+          7783,
+          891,
+          7799
+        ],
+        "confidence": 1,
+        "text": "© Open"
+      },
+      {
+        "bbox_px": [
+          912,
+          7783,
+          1000,
+          7797
+        ],
+        "confidence": 1,
+        "text": "• 1/3 sub-issues"
+      },
+      {
+        "bbox_px": [
+          885,
+          7838,
+          1061,
+          7852
+        ],
+        "confidence": 1,
+        "text": "exactlymyra commented 5 days ago"
+      },
+      {
+        "bbox_px": [
+          885,
+          7869,
+          1016,
+          7886
+        ],
+        "confidence": 1,
+        "text": "Epic description"
+      },
+      {
+        "bbox_px": [
+          885,
+          7906,
+          1215,
+          7920
+        ],
+        "confidence": 1,
+        "text": "Now that we've decided on our new rendering engine (see #824), we"
+      },
+      {
+        "bbox_px": [
+          885,
+          7919,
+          1215,
+          7933
+        ],
+        "confidence": 1,
+        "text": "have some follow-up work to do. Let's use this issue for tracking. I've"
+      },
+      {
+        "bbox_px": [
+          885,
+          7935,
+          1100,
+          7948
+        ],
+        "confidence": 1,
+        "text": "taken a first pass at outstanding to-dos here."
+      },
+      {
+        "bbox_px": [
+          885,
+          7967,
+          995,
+          7980
+        ],
+        "confidence": 1,
+        "text": "v Sub-issues 01/3"
+      },
+      {
+        "bbox_px": [
+          885,
+          7993,
+          1037,
+          8006
+        ],
+        "confidence": 1,
+        "text": "• Update collision logic #1752"
+      },
+      {
+        "bbox_px": [
+          885,
+          8022,
+          1113,
+          8035
+        ],
+        "confidence": 1,
+        "text": "© Engine prototype (physics, rendering) #1753"
+      },
+      {
+        "bbox_px": [
+          885,
+          8050,
+          1097,
+          8063
+        ],
+        "confidence": 1,
+        "text": "• Updates to aliens and cannon game logic"
+      },
+      {
+        "bbox_px": [
+          891,
+          8084,
+          972,
+          8093
+        ],
+        "confidence": 1,
+        "text": "Create sub-issue"
+      },
+      {
+        "bbox_px": [
+          128,
+          8000,
+          449,
+          8020
+        ],
+        "confidence": 1,
+        "text": "Review code changes together"
+      },
+      {
+        "bbox_px": [
+          125,
+          8078,
+          402,
+          8105
+        ],
+        "confidence": 1,
+        "text": "Fund open source projects"
+      },
+      {
+        "bbox_px": [
+          885,
+          8020,
+          1115,
+          8036
+        ],
+        "confidence": 1,
+        "text": "© Engine prototype (physics, rendering) #1753"
+      },
+      {
+        "bbox_px": [
+          885,
+          8048,
+          1097,
+          8066
+        ],
+        "confidence": 1,
+        "text": "• Updates to aliens and cannon game logic"
+      },
+      {
+        "bbox_px": [
+          891,
+          8083,
+          990,
+          8097
+        ],
+        "confidence": 1,
+        "text": "Create sub-issue -"
+      },
+      {
+        "bbox_px": [
+          454,
+          8457,
+          988,
+          8510
+        ],
+        "confidence": 1,
+        "text": "From startups to enterprises,"
+      },
+      {
+        "bbox_px": [
+          486,
+          8512,
+          956,
+          8547
+        ],
+        "confidence": 1,
+        "text": "GitHub scales with teams"
+      },
+      {
+        "bbox_px": [
+          480,
+          8557,
+          962,
+          8604
+        ],
+        "confidence": 1,
+        "text": "of any size in any industry."
+      },
+      {
+        "bbox_px": [
+          538,
+          8679,
+          630,
+          8699
+        ],
+        "confidence": 1,
+        "text": "By industry"
+      },
+      {
+        "bbox_px": [
+          687,
+          8679,
+          750,
+          8701
+        ],
+        "confidence": 1,
+        "text": "By size"
+      },
+      {
+        "bbox_px": [
+          804,
+          8678,
+          901,
+          8700
+        ],
+        "confidence": 1,
+        "text": "By use case"
+      },
+      {
+        "bbox_px": [
+          240,
+          8811,
+          347,
+          8850
+        ],
+        "confidence": 1,
+        "text": "Figma"
+      },
+      {
+        "bbox_px": [
+          682,
+          8824,
+          802,
+          8845
+        ],
+        "confidence": 1,
+        "text": "Mercedes-Benz"
+      },
+      {
+        "bbox_px": [
+          1131,
+          8812,
+          1218,
+          8833
+        ],
+        "confidence": 1,
+        "text": "mercado"
+      },
+      {
+        "bbox_px": [
+          1129,
+          8829,
+          1173,
+          8847
+        ],
+        "confidence": 1,
+        "text": "libre"
+      },
+      {
+        "bbox_px": [
+          245,
+          9094,
+          342,
+          9111
+        ],
+        "confidence": 1,
+        "text": "Technology"
+      },
+      {
+        "bbox_px": [
+          128,
+          9132,
+          459,
+          9156
+        ],
+        "confidence": 1,
+        "text": "Figma streamlines development"
+      },
+      {
+        "bbox_px": [
+          164,
+          9164,
+          420,
+          9188
+        ],
+        "confidence": 1,
+        "text": "and strengthens security"
+      },
+      {
+        "bbox_px": [
+          671,
+          9064,
+          768,
+          9080
+        ],
+        "confidence": 1,
+        "text": "Automotive"
+      },
+      {
+        "bbox_px": [
+          567,
+          9101,
+          870,
+          9125
+        ],
+        "confidence": 1,
+        "text": "Mercedes-Benz standardizes"
+      },
+      {
+        "bbox_px": [
+          572,
+          9132,
+          865,
+          9156
+        ],
+        "confidence": 1,
+        "text": "source code and automates"
+      },
+      {
+        "bbox_px": [
+          655,
+          9164,
+          778,
+          9187
+        ],
+        "confidence": 1,
+        "text": "onboarding"
+      },
+      {
+        "bbox_px": [
+          1071,
+          9093,
+          1217,
+          9111
+        ],
+        "confidence": 1,
+        "text": "Financial services"
+      },
+      {
+        "bbox_px": [
+          980,
+          9132,
+          1306,
+          9156
+        ],
+        "confidence": 1,
+        "text": "Mercado Libre cuts coding time"
+      },
+      {
+        "bbox_px": [
+          1102,
+          9161,
+          1184,
+          9188
+        ],
+        "confidence": 1,
+        "text": "by 50%"
+      },
+      {
+        "bbox_px": [
+          491,
+          9310,
+          721,
+          9329
+        ],
+        "confidence": 1,
+        "text": "Explore customer stories ›"
+      },
+      {
+        "bbox_px": [
+          778,
+          9310,
+          946,
+          9326
+        ],
+        "confidence": 1,
+        "text": "View all solutions ›"
+      },
+      {
+        "bbox_px": [
+          483,
+          10065,
+          959,
+          10105
+        ],
+        "confidence": 1,
+        "text": "Millions of developers and"
+      },
+      {
+        "bbox_px": [
+          452,
+          10112,
+          987,
+          10149
+        ],
+        "confidence": 1,
+        "text": "businesses call GitHub home"
+      },
+      {
+        "bbox_px": [
+          384,
+          10175,
+          1058,
+          10196
+        ],
+        "confidence": 1,
+        "text": "Whether you're scaling your development process or just learning how to code,"
+      },
+      {
+        "bbox_px": [
+          397,
+          10201,
+          1045,
+          10220
+        ],
+        "confidence": 1,
+        "text": "GitHub is where you belong. Join the world's most widely adopted developer"
+      },
+      {
+        "bbox_px": [
+          473,
+          10227,
+          966,
+          10248
+        ],
+        "confidence": 1,
+        "text": "platform to build the technologies that shape what's next."
+      },
+      {
+        "bbox_px": [
+          548,
+          10295,
+          726,
+          10314
+        ],
+        "confidence": 1,
+        "text": "Start a 30 day free trial"
+      },
+      {
+        "bbox_px": [
+          781,
+          10295,
+          891,
+          10311
+        ],
+        "confidence": 1,
+        "text": "Contact sales"
+      },
+      {
+        "bbox_px": [
+          94,
+          10424,
+          394,
+          10442
+        ],
+        "confidence": 1,
+        "text": "1. GitHub internal customer data, 2025. Q"
+      },
+      {
+        "bbox_px": [
+          109,
+          10738,
+          342,
+          10753
+        ],
+        "confidence": 1,
+        "text": "• THE DEVELOPER NEWSLETTER"
+      },
+      {
+        "bbox_px": [
+          112,
+          10776,
+          459,
+          10795
+        ],
+        "confidence": 1,
+        "text": "Get tips, technical guides, and best practices."
+      },
+      {
+        "bbox_px": [
+          112,
+          10800,
+          381,
+          10819
+        ],
+        "confidence": 1,
+        "text": "Twice a month. Right in your inbox."
+      },
+      {
+        "bbox_px": [
+          122,
+          10850,
+          196,
+          10863
+        ],
+        "confidence": 1,
+        "text": "Subscribe"
+      },
+      {
+        "bbox_px": [
+          109,
+          10957,
+          185,
+          10970
+        ],
+        "confidence": 1,
+        "text": "PLATFORM"
+      },
+      {
+        "bbox_px": [
+          109,
+          10994,
+          175,
+          11010
+        ],
+        "confidence": 1,
+        "text": "Features"
+      },
+      {
+        "bbox_px": [
+          109,
+          11033,
+          185,
+          11049
+        ],
+        "confidence": 1,
+        "text": "Enterprise"
+      },
+      {
+        "bbox_px": [
+          109,
+          11073,
+          164,
+          11091
+        ],
+        "confidence": 1,
+        "text": "Copilot"
+      },
+      {
+        "bbox_px": [
+          107,
+          11114,
+          130,
+          11133
+        ],
+        "confidence": 1,
+        "text": "AI"
+      },
+      {
+        "bbox_px": [
+          108,
+          11153,
+          170,
+          11173
+        ],
+        "confidence": 1,
+        "text": "Security"
+      },
+      {
+        "bbox_px": [
+          109,
+          11195,
+          162,
+          11211
+        ],
+        "confidence": 1,
+        "text": "Pricing"
+      },
+      {
+        "bbox_px": [
+          109,
+          11235,
+          151,
+          11250
+        ],
+        "confidence": 1,
+        "text": "Team"
+      },
+      {
+        "bbox_px": [
+          109,
+          11274,
+          188,
+          11290
+        ],
+        "confidence": 1,
+        "text": "Resources"
+      },
+      {
+        "bbox_px": [
+          109,
+          11316,
+          180,
+          11331
+        ],
+        "confidence": 1,
+        "text": "Roadmap"
+      },
+      {
+        "bbox_px": [
+          109,
+          11355,
+          229,
+          11371
+        ],
+        "confidence": 1,
+        "text": "Compare GitHub"
+      },
+      {
+        "bbox_px": [
+          418,
+          10957,
+          501,
+          10970
+        ],
+        "confidence": 1,
+        "text": "ECOSYSTEM"
+      },
+      {
+        "bbox_px": [
+          420,
+          10993,
+          522,
+          11010
+        ],
+        "confidence": 1,
+        "text": "Developer API"
+      },
+      {
+        "bbox_px": [
+          418,
+          11033,
+          480,
+          11049
+        ],
+        "confidence": 1,
+        "text": "Partners"
+      },
+      {
+        "bbox_px": [
+          420,
+          11072,
+          493,
+          11088
+        ],
+        "confidence": 1,
+        "text": "Education"
+      },
+      {
+        "bbox_px": [
+          420,
+          11114,
+          501,
+          11130
+        ],
+        "confidence": 1,
+        "text": "GitHub CLI"
+      },
+      {
+        "bbox_px": [
+          420,
+          11151,
+          533,
+          11172
+        ],
+        "confidence": 1,
+        "text": "GitHub Desktop"
+      },
+      {
+        "bbox_px": [
+          420,
+          11195,
+          522,
+          11209
+        ],
+        "confidence": 1,
+        "text": "GitHub Mobile"
+      },
+      {
+        "bbox_px": [
+          420,
+          11235,
+          561,
+          11250
+        ],
+        "confidence": 1,
+        "text": "GitHub Marketplace"
+      },
+      {
+        "bbox_px": [
+          418,
+          11273,
+          517,
+          11293
+        ],
+        "confidence": 1,
+        "text": "MCP Registry"
+      },
+      {
+        "bbox_px": [
+          729,
+          10957,
+          794,
+          10973
+        ],
+        "confidence": 1,
+        "text": "SUPPORT"
+      },
+      {
+        "bbox_px": [
+          729,
+          10994,
+          770,
+          11010
+        ],
+        "confidence": 1,
+        "text": "Docs"
+      },
+      {
+        "bbox_px": [
+          728,
+          11033,
+          862,
+          11053
+        ],
+        "confidence": 1,
+        "text": "Community Forum"
+      },
+      {
+        "bbox_px": [
+          729,
+          11075,
+          880,
+          11091
+        ],
+        "confidence": 1,
+        "text": "Professional Services"
+      },
+      {
+        "bbox_px": [
+          729,
+          11114,
+          854,
+          11131
+        ],
+        "confidence": 1,
+        "text": "Premium Support"
+      },
+      {
+        "bbox_px": [
+          726,
+          11154,
+          770,
+          11175
+        ],
+        "confidence": 1,
+        "text": "Skills"
+      },
+      {
+        "bbox_px": [
+          729,
+          11195,
+          776,
+          11209
+        ],
+        "confidence": 1,
+        "text": "Status"
+      },
+      {
+        "bbox_px": [
+          729,
+          11235,
+          841,
+          11250
+        ],
+        "confidence": 1,
+        "text": "Contact GitHub"
+      },
+      {
+        "bbox_px": [
+          726,
+          11274,
+          818,
+          11295
+        ],
+        "confidence": 1,
+        "text": "What is Git?"
+      },
+      {
+        "bbox_px": [
+          728,
+          11314,
+          789,
+          11331
+        ],
+        "confidence": 1,
+        "text": "Sitemap"
+      },
+      {
+        "bbox_px": [
+          1037,
+          10957,
+          1102,
+          10976
+        ],
+        "confidence": 1,
+        "text": "COMPANY"
+      },
+      {
+        "bbox_px": [
+          1040,
+          10994,
+          1087,
+          11010
+        ],
+        "confidence": 1,
+        "text": "About"
+      },
+      {
+        "bbox_px": [
+          1040,
+          11032,
+          1126,
+          11050
+        ],
+        "confidence": 1,
+        "text": "Why GitHub"
+      },
+      {
+        "bbox_px": [
+          1040,
+          11075,
+          1162,
+          11091
+        ],
+        "confidence": 1,
+        "text": "Customer Stories"
+      },
+      {
+        "bbox_px": [
+          1040,
+          11114,
+          1074,
+          11133
+        ],
+        "confidence": 1,
+        "text": "Blog"
+      },
+      {
+        "bbox_px": [
+          1040,
+          11154,
+          1181,
+          11172
+        ],
+        "confidence": 1,
+        "text": "The ReadME Project"
+      },
+      {
+        "bbox_px": [
+          1040,
+          11195,
+          1095,
+          11211
+        ],
+        "confidence": 1,
+        "text": "Careers"
+      },
+      {
+        "bbox_px": [
+          1037,
+          11235,
+          1115,
+          11250
+        ],
+        "confidence": 1,
+        "text": "Newsroom"
+      },
+      {
+        "bbox_px": [
+          1034,
+          11275,
+          1105,
+          11294
+        ],
+        "confidence": 1,
+        "text": "Inclusion"
+      },
+      {
+        "bbox_px": [
+          1037,
+          11316,
+          1136,
+          11332
+        ],
+        "confidence": 1,
+        "text": "Social Impact"
+      },
+      {
+        "bbox_px": [
+          1040,
+          11355,
+          1079,
+          11371
+        ],
+        "confidence": 1,
+        "text": "Shop"
+      },
+      {
+        "bbox_px": [
+          109,
+          11234,
+          153,
+          11253
+        ],
+        "confidence": 1,
+        "text": "Team"
+      },
+      {
+        "bbox_px": [
+          730,
+          11200,
+          778,
+          11208
+        ],
+        "confidence": 1,
+        "text": "Status"
+      },
+      {
+        "bbox_px": [
+          732,
+          11235,
+          841,
+          11247
+        ],
+        "confidence": 1,
+        "text": "Contact GitHub"
+      },
+      {
+        "bbox_px": [
+          730,
+          11274,
+          816,
+          11291
+        ],
+        "confidence": 1,
+        "text": "What is Git?"
+      },
+      {
+        "bbox_px": [
+          729,
+          11314,
+          791,
+          11334
+        ],
+        "confidence": 1,
+        "text": "Sitemap"
+      },
+      {
+        "bbox_px": [
+          1042,
+          11200,
+          1096,
+          11211
+        ],
+        "confidence": 1,
+        "text": "Careers"
+      },
+      {
+        "bbox_px": [
+          1042,
+          11235,
+          1117,
+          11249
+        ],
+        "confidence": 1,
+        "text": "Newsroom"
+      },
+      {
+        "bbox_px": [
+          1038,
+          11272,
+          1109,
+          11310
+        ],
+        "confidence": 1,
+        "text": "Inclusion"
+      },
+      {
+        "bbox_px": [
+          1040,
+          11314,
+          1138,
+          11331
+        ],
+        "confidence": 1,
+        "text": "Social Impact"
+      },
+      {
+        "bbox_px": [
+          1037,
+          11352,
+          1079,
+          11374
+        ],
+        "confidence": 1,
+        "text": "Shop"
+      },
+      {
+        "bbox_px": [
+          110,
+          11460,
+          255,
+          11477
+        ],
+        "confidence": 1,
+        "text": "• 2026 GITHUB, INC."
+      },
+      {
+        "bbox_px": [
+          270,
+          11460,
+          313,
+          11473
+        ],
+        "confidence": 1,
+        "text": "TERMS"
+      },
+      {
+        "bbox_px": [
+          328,
+          11460,
+          385,
+          11473
+        ],
+        "confidence": 1,
+        "text": "PRIVACY"
+      },
+      {
+        "bbox_px": [
+          397,
+          11460,
+          510,
+          11473
+        ],
+        "confidence": 1,
+        "text": "MANAGE COOKIES"
+      },
+      {
+        "bbox_px": [
+          519,
+          11460,
+          795,
+          11473
+        ],
+        "confidence": 1,
+        "text": "DO NOT SHARE MY PERSONAL INFORMATION"
+      },
+      {
+        "bbox_px": [
+          906,
+          11458,
+          931,
+          11477
+        ],
+        "confidence": 1,
+        "text": "in"
+      },
+      {
+        "bbox_px": [
+          1029,
+          11456,
+          1088,
+          11477
+        ],
+        "confidence": 0.30000001192092896,
+        "text": "X s"
+      },
+      {
+        "bbox_px": [
+          905,
+          11456,
+          1170,
+          11484
+        ],
+        "confidence": 0.30000001192092896,
+        "text": "n o O x D O"
+      },
+      {
+        "bbox_px": [
+          1218,
+          11456,
+          1314,
+          11475
+        ],
+        "confidence": 1,
+        "text": "1 English n"
+      }
+    ],
+    "path": "screenshots/github.png",
+    "width": 1440
+  }
+]

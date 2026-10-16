@@ -1,0 +1,2359 @@
+[
+  {
+    "height": 11843,
+    "lines": [
+      {
+        "bbox_px": [
+          99,
+          34,
+          488,
+          59
+        ],
+        "confidence": 1,
+        "text": "For You • For Your Family • Plans & Pricing"
+      },
+      {
+        "bbox_px": [
+          501,
+          39,
+          608,
+          57
+        ],
+        "confidence": 1,
+        "text": "Our Pledge"
+      },
+      {
+        "bbox_px": [
+          635,
+          39,
+          684,
+          54
+        ],
+        "confidence": 1,
+        "text": "Learn"
+      },
+      {
+        "bbox_px": [
+          1071,
+          39,
+          1136,
+          57
+        ],
+        "confidence": 1,
+        "text": "Support"
+      },
+      {
+        "bbox_px": [
+          1162,
+          38,
+          1215,
+          57
+        ],
+        "confidence": 1,
+        "text": "Log in"
+      },
+      {
+        "bbox_px": [
+          1280,
+          38,
+          1369,
+          54
+        ],
+        "confidence": 1,
+        "text": "Get started"
+      },
+      {
+        "bbox_px": [
+          432,
+          193,
+          1002,
+          282
+        ],
+        "confidence": 1,
+        "text": "Acorns helps you"
+      },
+      {
+        "bbox_px": [
+          465,
+          282,
+          974,
+          340
+        ],
+        "confidence": 1,
+        "text": "save and invest"
+      },
+      {
+        "bbox_px": [
+          520,
+          376,
+          919,
+          402
+        ],
+        "confidence": 1,
+        "text": "Grow your savings, invest your spare"
+      },
+      {
+        "bbox_px": [
+          504,
+          410,
+          935,
+          442
+        ],
+        "confidence": 1,
+        "text": "change, and build toward your future -"
+      },
+      {
+        "bbox_px": [
+          642,
+          444,
+          797,
+          471
+        ],
+        "confidence": 1,
+        "text": "automatically."
+      },
+      {
+        "bbox_px": [
+          676,
+          533,
+          763,
+          549
+        ],
+        "confidence": 1,
+        "text": "Get started"
+      },
+      {
+        "bbox_px": [
+          1008,
+          549,
+          1241,
+          573
+        ],
+        "confidence": 1,
+        "text": "Your Acorns Potential"
+      },
+      {
+        "bbox_px": [
+          1008,
+          580,
+          1115,
+          606
+        ],
+        "confidence": 1,
+        "text": "$491,395"
+      },
+      {
+        "bbox_px": [
+          1008,
+          609,
+          1100,
+          623
+        ],
+        "confidence": 1,
+        "text": "• Retum: $418,395"
+      },
+      {
+        "bbox_px": [
+          1011,
+          624,
+          1113,
+          642
+        ],
+        "confidence": 1,
+        "text": "Investment: $73,000"
+      },
+      {
+        "bbox_px": [
+          1168,
+          640,
+          1257,
+          654
+        ],
+        "confidence": 1,
+        "text": "$491,395 at age 65ł"
+      },
+      {
+        "bbox_px": [
+          1024,
+          858,
+          1115,
+          871
+        ],
+        "confidence": 1,
+        "text": "Years to grow: 40"
+      },
+      {
+        "bbox_px": [
+          1144,
+          858,
+          1238,
+          871
+        ],
+        "confidence": 1,
+        "text": "Average return: 3*"
+      },
+      {
+        "bbox_px": [
+          297,
+          949,
+          496,
+          965
+        ],
+        "confidence": 1,
+        "text": "WORLD'S TOP FINTECH"
+      },
+      {
+        "bbox_px": [
+          305,
+          965,
+          488,
+          981
+        ],
+        "confidence": 1,
+        "text": "COMPANIES OF 2025"
+      },
+      {
+        "bbox_px": [
+          316,
+          1004,
+          512,
+          1039
+        ],
+        "confidence": 1,
+        "text": "&CNBC"
+      },
+      {
+        "bbox_px": [
+          650,
+          949,
+          794,
+          965
+        ],
+        "confidence": 1,
+        "text": "AMERICA'S BEST"
+      },
+      {
+        "bbox_px": [
+          606,
+          964,
+          836,
+          984
+        ],
+        "confidence": 1,
+        "text": "FINANCIAL SERVICES 2026"
+      },
+      {
+        "bbox_px": [
+          650,
+          994,
+          794,
+          1042
+        ],
+        "confidence": 1,
+        "text": "TIME"
+      },
+      {
+        "bbox_px": [
+          1021,
+          949,
+          1066,
+          965
+        ],
+        "confidence": 1,
+        "text": "BEST"
+      },
+      {
+        "bbox_px": [
+          972,
+          968,
+          1115,
+          981
+        ],
+        "confidence": 1,
+        "text": "ROBO ADVISORS"
+      },
+      {
+        "bbox_px": [
+          935,
+          999,
+          1155,
+          1039
+        ],
+        "confidence": 1,
+        "text": "N nerdwallet"
+      },
+      {
+        "bbox_px": [
+          0,
+          1101,
+          256,
+          1115
+        ],
+        "confidence": 1,
+        "text": "4.7 STARS ON THE APP STORE"
+      },
+      {
+        "bbox_px": [
+          318,
+          1101,
+          692,
+          1117
+        ],
+        "confidence": 1,
+        "text": "$33,000,000,000 INVESTED WITH ACORNS"
+      },
+      {
+        "bbox_px": [
+          760,
+          1098,
+          1058,
+          1117
+        ],
+        "confidence": 1,
+        "text": "16,000,000 ALL-TIME CUSTOMERS"
+      },
+      {
+        "bbox_px": [
+          1121,
+          1101,
+          1437,
+          1117
+        ],
+        "confidence": 1,
+        "text": "HELPING EVERYDAY AMERICANS SA"
+      },
+      {
+        "bbox_px": [
+          761,
+          1681,
+          843,
+          1712
+        ],
+        "confidence": 1,
+        "text": "corns"
+      },
+      {
+        "bbox_px": [
+          764,
+          1682,
+          842,
+          1710
+        ],
+        "confidence": 1,
+        "text": "corns"
+      },
+      {
+        "bbox_px": [
+          619,
+          2282,
+          818,
+          2298
+        ],
+        "confidence": 1,
+        "text": "SAY HELLO TO ACORNS"
+      },
+      {
+        "bbox_px": [
+          297,
+          2332,
+          1136,
+          2403
+        ],
+        "confidence": 1,
+        "text": "An automated saving and"
+      },
+      {
+        "bbox_px": [
+          295,
+          2407,
+          1134,
+          2481
+        ],
+        "confidence": 1,
+        "text": "investing app for you and"
+      },
+      {
+        "bbox_px": [
+          535,
+          2486,
+          901,
+          2560
+        ],
+        "confidence": 1,
+        "text": "your family"
+      },
+      {
+        "bbox_px": [
+          483,
+          2742,
+          596,
+          2770
+        ],
+        "confidence": 1,
+        "text": "• Bonus"
+      },
+      {
+        "bbox_px": [
+          467,
+          2774,
+          630,
+          2800
+        ],
+        "confidence": 1,
+        "text": "investments"
+      },
+      {
+        "bbox_px": [
+          877,
+          2828,
+          982,
+          2862
+        ],
+        "confidence": 1,
+        "text": "& Kids"
+      },
+      {
+        "bbox_px": [
+          182,
+          2951,
+          311,
+          2981
+        ],
+        "confidence": 1,
+        "text": "Investing"
+      },
+      {
+        "bbox_px": [
+          580,
+          2957,
+          661,
+          2981
+        ],
+        "confidence": 1,
+        "text": "Invest"
+      },
+      {
+        "bbox_px": [
+          580,
+          2991,
+          687,
+          3018
+        ],
+        "confidence": 1,
+        "text": "$27,953"
+      },
+      {
+        "bbox_px": [
+          582,
+          3031,
+          776,
+          3047
+        ],
+        "confidence": 1,
+        "text": "+ $2,236.24 (8.00%) All time"
+      },
+      {
+        "bbox_px": [
+          582,
+          3048,
+          695,
+          3065
+        ],
+        "confidence": 1,
+        "text": "• Market gain/loss"
+      },
+      {
+        "bbox_px": [
+          1081,
+          3076,
+          1231,
+          3108
+        ],
+        "confidence": 1,
+        "text": "• Banking"
+      },
+      {
+        "bbox_px": [
+          337,
+          3247,
+          533,
+          3274
+        ],
+        "confidence": 1,
+        "text": "• Retirement"
+      },
+      {
+        "bbox_px": [
+          621,
+          3274,
+          676,
+          3287
+        ],
+        "confidence": 1,
+        "text": "Round-Ups"
+      },
+      {
+        "bbox_px": [
+          582,
+          3331,
+          700,
+          3347
+        ],
+        "confidence": 1,
+        "text": "Round-Ups Settings"
+      },
+      {
+        "bbox_px": [
+          692,
+          3273,
+          750,
+          3287
+        ],
+        "confidence": 1,
+        "text": "Transfer in"
+      },
+      {
+        "bbox_px": [
+          760,
+          3273,
+          823,
+          3287
+        ],
+        "confidence": 1,
+        "text": "Transfer out"
+      },
+      {
+        "bbox_px": [
+          1186,
+          3266,
+          1225,
+          3287
+        ],
+        "confidence": 1,
+        "text": "VISP"
+      },
+      {
+        "bbox_px": [
+          336,
+          3342,
+          444,
+          3399
+        ],
+        "confidence": 1,
+        "text": "3%=*"
+      },
+      {
+        "bbox_px": [
+          830,
+          3332,
+          951,
+          3361
+        ],
+        "confidence": 1,
+        "text": "Learning"
+      },
+      {
+        "bbox_px": [
+          337,
+          3246,
+          533,
+          3275
+        ],
+        "confidence": 1,
+        "text": "• Retirement"
+      },
+      {
+        "bbox_px": [
+          621,
+          3273,
+          676,
+          3288
+        ],
+        "confidence": 1,
+        "text": "Round-Ups"
+      },
+      {
+        "bbox_px": [
+          582,
+          3330,
+          697,
+          3347
+        ],
+        "confidence": 1,
+        "text": "Round-Ups Settings"
+      },
+      {
+        "bbox_px": [
+          692,
+          3272,
+          750,
+          3286
+        ],
+        "confidence": 1,
+        "text": "Transfer in"
+      },
+      {
+        "bbox_px": [
+          760,
+          3272,
+          823,
+          3289
+        ],
+        "confidence": 1,
+        "text": "Transfer out"
+      },
+      {
+        "bbox_px": [
+          776,
+          3333,
+          810,
+          3341
+        ],
+        "confidence": 1,
+        "text": "Autor"
+      },
+      {
+        "bbox_px": [
+          1186,
+          3265,
+          1228,
+          3288
+        ],
+        "confidence": 1,
+        "text": "VISA"
+      },
+      {
+        "bbox_px": [
+          337,
+          3343,
+          452,
+          3401
+        ],
+        "confidence": 0.5,
+        "text": "3¾**"
+      },
+      {
+        "bbox_px": [
+          829,
+          3328,
+          947,
+          3366
+        ],
+        "confidence": 1,
+        "text": "Learning"
+      },
+      {
+        "bbox_px": [
+          608,
+          3665,
+          828,
+          3684
+        ],
+        "confidence": 1,
+        "text": "A BETTER WAY TO INVEST"
+      },
+      {
+        "bbox_px": [
+          0,
+          3750,
+          1435,
+          3901
+        ],
+        "confidence": 1,
+        "text": "corns-Why Acorns -W"
+      },
+      {
+        "bbox_px": [
+          172,
+          4089,
+          572,
+          4129
+        ],
+        "confidence": 1,
+        "text": "Money tools for every"
+      },
+      {
+        "bbox_px": [
+          168,
+          4133,
+          387,
+          4181
+        ],
+        "confidence": 1,
+        "text": "stage of life"
+      },
+      {
+        "bbox_px": [
+          169,
+          4201,
+          512,
+          4225
+        ],
+        "confidence": 1,
+        "text": "Investing as a beginner? Planning for"
+      },
+      {
+        "bbox_px": [
+          169,
+          4235,
+          567,
+          4256
+        ],
+        "confidence": 1,
+        "text": "retirement? Saving for your kids? Wherever"
+      },
+      {
+        "bbox_px": [
+          169,
+          4267,
+          535,
+          4288
+        ],
+        "confidence": 1,
+        "text": "you are on your money journey, Acorns'"
+      },
+      {
+        "bbox_px": [
+          169,
+          4298,
+          559,
+          4322
+        ],
+        "confidence": 1,
+        "text": "financial wellness tools can help you reach"
+      },
+      {
+        "bbox_px": [
+          169,
+          4333,
+          274,
+          4354
+        ],
+        "confidence": 1,
+        "text": "your goals."
+      },
+      {
+        "bbox_px": [
+          846,
+          4614,
+          1215,
+          4657
+        ],
+        "confidence": 1,
+        "text": "Easy and automatic"
+      },
+      {
+        "bbox_px": [
+          844,
+          4657,
+          1223,
+          4704
+        ],
+        "confidence": 1,
+        "text": "saving and investing"
+      },
+      {
+        "bbox_px": [
+          846,
+          4727,
+          1238,
+          4751
+        ],
+        "confidence": 1,
+        "text": "No confusing charts or investing tools. Just"
+      },
+      {
+        "bbox_px": [
+          846,
+          4758,
+          1249,
+          4782
+        ],
+        "confidence": 1,
+        "text": "choose an amount, set a schedule, and we'll"
+      },
+      {
+        "bbox_px": [
+          846,
+          4790,
+          1259,
+          4817
+        ],
+        "confidence": 1,
+        "text": "automatically save and invest your money for"
+      },
+      {
+        "bbox_px": [
+          844,
+          4824,
+          1243,
+          4848
+        ],
+        "confidence": 1,
+        "text": "you. You can even get started with just your"
+      },
+      {
+        "bbox_px": [
+          844,
+          4858,
+          980,
+          4879
+        ],
+        "confidence": 1,
+        "text": "spare change!"
+      },
+      {
+        "bbox_px": [
+          169,
+          5163,
+          567,
+          5208
+        ],
+        "confidence": 1,
+        "text": "All-in-one money app"
+      },
+      {
+        "bbox_px": [
+          172,
+          5228,
+          564,
+          5252
+        ],
+        "confidence": 1,
+        "text": "Acorns brings checking, savings, investing,"
+      },
+      {
+        "bbox_px": [
+          169,
+          5262,
+          582,
+          5284
+        ],
+        "confidence": 1,
+        "text": "and retirement together into one simple app."
+      },
+      {
+        "bbox_px": [
+          172,
+          5294,
+          574,
+          5315
+        ],
+        "confidence": 1,
+        "text": "So everything you need for your money is in"
+      },
+      {
+        "bbox_px": [
+          172,
+          5325,
+          548,
+          5349
+        ],
+        "confidence": 1,
+        "text": "one place - easy, seamless, and always in"
+      },
+      {
+        "bbox_px": [
+          169,
+          5357,
+          290,
+          5380
+        ],
+        "confidence": 1,
+        "text": "your control."
+      },
+      {
+        "bbox_px": [
+          171,
+          6186,
+          549,
+          6237
+        ],
+        "confidence": 1,
+        "text": "Security as strong as"
+      },
+      {
+        "bbox_px": [
+          172,
+          6236,
+          243,
+          6272
+        ],
+        "confidence": 1,
+        "text": "oak"
+      },
+      {
+        "bbox_px": [
+          169,
+          6304,
+          585,
+          6331
+        ],
+        "confidence": 1,
+        "text": "From day one, we safeguard your money and"
+      },
+      {
+        "bbox_px": [
+          167,
+          6335,
+          525,
+          6359
+        ],
+        "confidence": 1,
+        "text": "investments with SIPC protection up to"
+      },
+      {
+        "bbox_px": [
+          167,
+          6366,
+          577,
+          6395
+        ],
+        "confidence": 1,
+        "text": "$500,000 and industry-standard security. No"
+      },
+      {
+        "bbox_px": [
+          167,
+          6400,
+          517,
+          6424
+        ],
+        "confidence": 1,
+        "text": "hidden fees, real-time alerts, and 24/7"
+      },
+      {
+        "bbox_px": [
+          167,
+          6434,
+          251,
+          6457
+        ],
+        "confidence": 1,
+        "text": "support."
+      },
+      {
+        "bbox_px": [
+          844,
+          4800,
+          1257,
+          4813
+        ],
+        "confidence": 1,
+        "text": "automaticany save ana mnvest your money lon"
+      },
+      {
+        "bbox_px": [
+          844,
+          4823,
+          1241,
+          4847
+        ],
+        "confidence": 1,
+        "text": "you. You can even get started with just your"
+      },
+      {
+        "bbox_px": [
+          844,
+          4857,
+          977,
+          4878
+        ],
+        "confidence": 1,
+        "text": "spare change!"
+      },
+      {
+        "bbox_px": [
+          909,
+          5260,
+          1058,
+          5276
+        ],
+        "confidence": 1,
+        "text": "Your Acorns value"
+      },
+      {
+        "bbox_px": [
+          909,
+          5283,
+          1016,
+          5302
+        ],
+        "confidence": 1,
+        "text": "is $8,346.62"
+      },
+      {
+        "bbox_px": [
+          1000,
+          5446,
+          1097,
+          5459
+        ],
+        "confidence": 1,
+        "text": ">>> Potential 5566K"
+      },
+      {
+        "bbox_px": [
+          840,
+          5657,
+          1161,
+          5710
+        ],
+        "confidence": 1,
+        "text": "Invest wisely, not"
+      },
+      {
+        "bbox_px": [
+          844,
+          5703,
+          962,
+          5757
+        ],
+        "confidence": 1,
+        "text": "wildly"
+      },
+      {
+        "bbox_px": [
+          841,
+          5776,
+          1238,
+          5806
+        ],
+        "confidence": 1,
+        "text": "It takes more than money to grow - money"
+      },
+      {
+        "bbox_px": [
+          841,
+          5809,
+          1262,
+          5836
+        ],
+        "confidence": 1,
+        "text": "skills matter, too. That's why Acorns combines"
+      },
+      {
+        "bbox_px": [
+          844,
+          5841,
+          1207,
+          5867
+        ],
+        "confidence": 1,
+        "text": "expert-built, diversified ETF investment"
+      },
+      {
+        "bbox_px": [
+          844,
+          5872,
+          1249,
+          5901
+        ],
+        "confidence": 1,
+        "text": "portfolios with educational tools to help you"
+      },
+      {
+        "bbox_px": [
+          844,
+          5906,
+          1089,
+          5933
+        ],
+        "confidence": 1,
+        "text": "with your long-term goals."
+      },
+      {
+        "bbox_px": [
+          169,
+          6400,
+          517,
+          6424
+        ],
+        "confidence": 1,
+        "text": "hidden fees, real-time alerts, and 24/7"
+      },
+      {
+        "bbox_px": [
+          169,
+          6434,
+          251,
+          6454
+        ],
+        "confidence": 1,
+        "text": "support."
+      },
+      {
+        "bbox_px": [
+          172,
+          6662,
+          1282,
+          6737
+        ],
+        "confidence": 1,
+        "text": "No hidden fees. No commissions."
+      },
+      {
+        "bbox_px": [
+          614,
+          7079,
+          823,
+          7098
+        ],
+        "confidence": 1,
+        "text": "SHOW YOUR POTENTIAL"
+      },
+      {
+        "bbox_px": [
+          318,
+          7130,
+          1113,
+          7214
+        ],
+        "confidence": 1,
+        "text": "Your money, your future"
+      },
+      {
+        "bbox_px": [
+          266,
+          7247,
+          1173,
+          7271
+        ],
+        "confidence": 1,
+        "text": "Your money's got potential, and we'll help you see it. Our Potential screen updates with every dollar"
+      },
+      {
+        "bbox_px": [
+          300,
+          7281,
+          1136,
+          7305
+        ],
+        "confidence": 1,
+        "text": "you invest, showing how your money can grow with long-term investing and compounding."
+      },
+      {
+        "bbox_px": [
+          114,
+          7385,
+          292,
+          7404
+        ],
+        "confidence": 1,
+        "text": "INITIAL DEPOSIT"
+      },
+      {
+        "bbox_px": [
+          148,
+          7438,
+          211,
+          7462
+        ],
+        "confidence": 1,
+        "text": "$100"
+      },
+      {
+        "bbox_px": [
+          760,
+          7407,
+          1076,
+          7422
+        ],
+        "confidence": 1,
+        "text": "POTENTIAL FUTURE BALANCE:"
+      },
+      {
+        "bbox_px": [
+          765,
+          7443,
+          1063,
+          7527
+        ],
+        "confidence": 1,
+        "text": "$49,901"
+      },
+      {
+        "bbox_px": [
+          117,
+          7519,
+          290,
+          7535
+        ],
+        "confidence": 1,
+        "text": "CONTRIBUTIONS"
+      },
+      {
+        "bbox_px": [
+          148,
+          7572,
+          196,
+          7595
+        ],
+        "confidence": 1,
+        "text": "$20"
+      },
+      {
+        "bbox_px": [
+          828,
+          7579,
+          919,
+          7595
+        ],
+        "confidence": 1,
+        "text": "Investment"
+      },
+      {
+        "bbox_px": [
+          977,
+          7579,
+          1037,
+          7595
+        ],
+        "confidence": 1,
+        "text": "Return"
+      },
+      {
+        "bbox_px": [
+          546,
+          7610,
+          611,
+          7630
+        ],
+        "confidence": 1,
+        "text": "$60,000"
+      },
+      {
+        "bbox_px": [
+          120,
+          7637,
+          232,
+          7661
+        ],
+        "confidence": 1,
+        "text": "• Annual"
+      },
+      {
+        "bbox_px": [
+          146,
+          7684,
+          235,
+          7713
+        ],
+        "confidence": 1,
+        "text": "Weekly"
+      },
+      {
+        "bbox_px": [
+          117,
+          7752,
+          303,
+          7768
+        ],
+        "confidence": 1,
+        "text": "YEARS TO INVEST"
+      },
+      {
+        "bbox_px": [
+          116,
+          7793,
+          217,
+          7821
+        ],
+        "confidence": 1,
+        "text": "20 years"
+      },
+      {
+        "bbox_px": [
+          265,
+          7634,
+          392,
+          7666
+        ],
+        "confidence": 1,
+        "text": "• Monthly"
+      },
+      {
+        "bbox_px": [
+          266,
+          7684,
+          358,
+          7713
+        ],
+        "confidence": 1,
+        "text": "• Daily"
+      },
+      {
+        "bbox_px": [
+          546,
+          7681,
+          611,
+          7697
+        ],
+        "confidence": 1,
+        "text": "$45,000"
+      },
+      {
+        "bbox_px": [
+          548,
+          7752,
+          611,
+          7768
+        ],
+        "confidence": 1,
+        "text": "$30,000"
+      },
+      {
+        "bbox_px": [
+          543,
+          7823,
+          611,
+          7841
+        ],
+        "confidence": 1,
+        "text": "$15,000"
+      },
+      {
+        "bbox_px": [
+          582,
+          7891,
+          611,
+          7912
+        ],
+        "confidence": 1,
+        "text": "$O"
+      },
+      {
+        "bbox_px": [
+          120,
+          7927,
+          397,
+          7946
+        ],
+        "confidence": 1,
+        "text": "AVERAGE ANNUAL RETURN"
+      },
+      {
+        "bbox_px": [
+          148,
+          7980,
+          190,
+          8003
+        ],
+        "confidence": 1,
+        "text": "8%"
+      },
+      {
+        "bbox_px": [
+          162,
+          8079,
+          305,
+          8097
+        ],
+        "confidence": 1,
+        "text": "Show my potential"
+      },
+      {
+        "bbox_px": [
+          602,
+          7913,
+          661,
+          7968
+        ],
+        "confidence": 1,
+        "text": "2026"
+      },
+      {
+        "bbox_px": [
+          1230,
+          7916,
+          1280,
+          7965
+        ],
+        "confidence": 1,
+        "text": "2046"
+      },
+      {
+        "bbox_px": [
+          520,
+          8009,
+          1317,
+          8025
+        ],
+        "confidence": 1,
+        "text": "Illustration of the power of compounding based on initial deposit, contribution schedule, time horizon, and annual rate of retur specified. Changes"
+      },
+      {
+        "bbox_px": [
+          522,
+          8026,
+          1317,
+          8040
+        ],
+        "confidence": 1,
+        "text": "to those vanables will affect the outcome. Reset the calculator using different figures to show different scenarios. Does not include Acorns' monthly,"
+      },
+      {
+        "bbox_px": [
+          535,
+          8045,
+          1304,
+          8059
+        ],
+        "confidence": 1,
+        "text": "subscription fees (min $4/mo), which would reduce returns over time, or other deposits or withdrawals. Results do not predict or represent the"
+      },
+      {
+        "bbox_px": [
+          530,
+          8063,
+          1306,
+          8077
+        ],
+        "confidence": 1,
+        "text": "performance of any Acorns portfolio and do not take into consideration economic or market factors which can impact performance. Investment"
+      },
+      {
+        "bbox_px": [
+          684,
+          8079,
+          1152,
+          8097
+        ],
+        "confidence": 1,
+        "text": "results will vary. No guarantee investment return will achieve 8% or any annual returns."
+      },
+      {
+        "bbox_px": [
+          162,
+          8078,
+          303,
+          8097
+        ],
+        "confidence": 1,
+        "text": "Show my potential"
+      },
+      {
+        "bbox_px": [
+          517,
+          8006,
+          828,
+          8027
+        ],
+        "confidence": 1,
+        "text": "Illustration of the power of compounding based on initial"
+      },
+      {
+        "bbox_px": [
+          825,
+          8007,
+          1317,
+          8023
+        ],
+        "confidence": 1,
+        "text": "I deposit, contribution schedule, time horizon, and annual rate of retum specified. Changes"
+      },
+      {
+        "bbox_px": [
+          520,
+          8025,
+          1317,
+          8042
+        ],
+        "confidence": 1,
+        "text": "to those varables will affect the outcome. Reset the calculator using different figures to show different scenarios. Does not include Acorns' monthly."
+      },
+      {
+        "bbox_px": [
+          533,
+          8043,
+          1301,
+          8060
+        ],
+        "confidence": 1,
+        "text": "subscription fees (min $4/mo), which would reduce returns over time, or other deposits or withdrawals. Results do not predict or represent the"
+      },
+      {
+        "bbox_px": [
+          530,
+          8062,
+          1306,
+          8078
+        ],
+        "confidence": 1,
+        "text": "performance of any Acorns portfolio and do not take into consideration economic or market factors which can impact performance. Investment"
+      },
+      {
+        "bbox_px": [
+          684,
+          8080,
+          825,
+          8096
+        ],
+        "confidence": 1,
+        "text": "results will vary. No guara"
+      },
+      {
+        "bbox_px": [
+          833,
+          8080,
+          1149,
+          8094
+        ],
+        "confidence": 1,
+        "text": "ee investment return will achieve 8% or any annual returns."
+      },
+      {
+        "bbox_px": [
+          177,
+          8617,
+          384,
+          8636
+        ],
+        "confidence": 1,
+        "text": "SHOW YOUR POTENTIAL"
+      },
+      {
+        "bbox_px": [
+          174,
+          8690,
+          659,
+          8753
+        ],
+        "confidence": 1,
+        "text": "\"My wife and I are using"
+      },
+      {
+        "bbox_px": [
+          177,
+          8756,
+          679,
+          8793
+        ],
+        "confidence": 1,
+        "text": "Acorns to invest in a new"
+      },
+      {
+        "bbox_px": [
+          177,
+          8810,
+          666,
+          8858
+        ],
+        "confidence": 1,
+        "text": "legacy - one that's filled"
+      },
+      {
+        "bbox_px": [
+          179,
+          8863,
+          573,
+          8924
+        ],
+        "confidence": 1,
+        "text": "with brighter days.\""
+      },
+      {
+        "bbox_px": [
+          177,
+          8960,
+          496,
+          8978
+        ],
+        "confidence": 1,
+        "text": "SHAWN PERDUE, ACORNS CUSTOMER"
+      },
+      {
+        "bbox_px": [
+          360,
+          9263,
+          781,
+          9279
+        ],
+        "confidence": 1,
+        "text": "Customer received $5,000, which provides incentive to recommend Acoms ar"
+      },
+      {
+        "bbox_px": [
+          433,
+          9281,
+          789,
+          9297
+        ],
+        "confidence": 1,
+        "text": "Testimonials not representative of all customers and are not guara"
+      },
+      {
+        "bbox_px": [
+          797,
+          9265,
+          1079,
+          9279
+        ],
+        "confidence": 1,
+        "text": "herefore all opinions within material may be biased."
+      },
+      {
+        "bbox_px": [
+          799,
+          9281,
+          1006,
+          9300
+        ],
+        "confidence": 1,
+        "text": "ees of future performance or success."
+      },
+      {
+        "bbox_px": [
+          117,
+          9721,
+          190,
+          9734
+        ],
+        "confidence": 1,
+        "text": "ACORNS"
+      },
+      {
+        "bbox_px": [
+          883,
+          9721,
+          904,
+          9745
+        ],
+        "confidence": 1,
+        "text": "×"
+      },
+      {
+        "bbox_px": [
+          893,
+          9783,
+          1155,
+          9797
+        ],
+        "confidence": 1,
+        "text": "Vour Acornc Potontial"
+      },
+      {
+        "bbox_px": [
+          117,
+          9720,
+          190,
+          9736
+        ],
+        "confidence": 1,
+        "text": "ACORNS"
+      },
+      {
+        "bbox_px": [
+          120,
+          9768,
+          302,
+          9833
+        ],
+        "confidence": 1,
+        "text": "Grow"
+      },
+      {
+        "bbox_px": [
+          113,
+          9840,
+          434,
+          9919
+        ],
+        "confidence": 1,
+        "text": "your oak!"
+      },
+      {
+        "bbox_px": [
+          893,
+          9783,
+          1152,
+          9809
+        ],
+        "confidence": 1,
+        "text": "Your Acorns Potential"
+      },
+      {
+        "bbox_px": [
+          893,
+          9816,
+          1014,
+          9846
+        ],
+        "confidence": 1,
+        "text": "$491,395"
+      },
+      {
+        "bbox_px": [
+          893,
+          9850,
+          995,
+          9867
+        ],
+        "confidence": 1,
+        "text": "• Return: $418,395"
+      },
+      {
+        "bbox_px": [
+          896,
+          9868,
+          1011,
+          9882
+        ],
+        "confidence": 1,
+        "text": "• Investment: $73.000"
+      },
+      {
+        "bbox_px": [
+          1074,
+          9885,
+          1170,
+          9900
+        ],
+        "confidence": 1,
+        "text": "$491,395 at ago 65"
+      },
+      {
+        "bbox_px": [
+          162,
+          9974,
+          271,
+          9992
+        ],
+        "confidence": 1,
+        "text": "Sign up today"
+      },
+      {
+        "bbox_px": [
+          896,
+          10097,
+          932,
+          10102
+        ],
+        "confidence": 1,
+        "text": "TodWSSS"
+      },
+      {
+        "bbox_px": [
+          909,
+          10128,
+          1014,
+          10144
+        ],
+        "confidence": 1,
+        "text": "Years to grow: 40"
+      },
+      {
+        "bbox_px": [
+          1042,
+          10131,
+          1157,
+          10147
+        ],
+        "confidence": 1,
+        "text": "Average return: 8%"
+      },
+      {
+        "bbox_px": [
+          912,
+          10164,
+          1149,
+          10178
+        ],
+        "confidence": 1,
+        "text": "Graph in for illustrative porposes only Investing Involves rist"
+      },
+      {
+        "bbox_px": [
+          337,
+          10222,
+          1102,
+          10241
+        ],
+        "confidence": 1,
+        "text": "Your total Potential hypothetical calculation is for illustrative purposes only and assumes an initial $15,000 investment and an 8% fixed annual"
+      },
+      {
+        "bbox_px": [
+          546,
+          10237,
+          888,
+          10256
+        ],
+        "confidence": 1,
+        "text": "rate of return with $S daily contributions over a 45-year period."
+      },
+      {
+        "bbox_px": [
+          172,
+          10528,
+          470,
+          10566
+        ],
+        "confidence": 1,
+        "text": "Have any questions?"
+      },
+      {
+        "bbox_px": [
+          198,
+          10596,
+          318,
+          10612
+        ],
+        "confidence": 1,
+        "text": "Contact support"
+      },
+      {
+        "bbox_px": [
+          601,
+          10525,
+          690,
+          10544
+        ],
+        "confidence": 1,
+        "text": "PRODUCTS"
+      },
+      {
+        "bbox_px": [
+          600,
+          10573,
+          761,
+          10605
+        ],
+        "confidence": 1,
+        "text": "Invest for your future"
+      },
+      {
+        "bbox_px": [
+          603,
+          10617,
+          736,
+          10641
+        ],
+        "confidence": 1,
+        "text": "Later starts today"
+      },
+      {
+        "bbox_px": [
+          605,
+          10656,
+          737,
+          10678
+        ],
+        "confidence": 1,
+        "text": "Earn extra money"
+      },
+      {
+        "bbox_px": [
+          603,
+          10698,
+          716,
+          10720
+        ],
+        "confidence": 1,
+        "text": "Early investors"
+      },
+      {
+        "bbox_px": [
+          603,
+          10737,
+          708,
+          10759
+        ],
+        "confidence": 1,
+        "text": "Bank smarter"
+      },
+      {
+        "bbox_px": [
+          830,
+          10522,
+          941,
+          10545
+        ],
+        "confidence": 1,
+        "text": "WHO WE ARE"
+      },
+      {
+        "bbox_px": [
+          1068,
+          10523,
+          1196,
+          10541
+        ],
+        "confidence": 1,
+        "text": "WHY START NOW"
+      },
+      {
+        "bbox_px": [
+          1066,
+          10578,
+          1113,
+          10599
+        ],
+        "confidence": 1,
+        "text": "Learn"
+      },
+      {
+        "bbox_px": [
+          831,
+          10578,
+          888,
+          10599
+        ],
+        "confidence": 1,
+        "text": "About"
+      },
+      {
+        "bbox_px": [
+          831,
+          10617,
+          899,
+          10641
+        ],
+        "confidence": 1,
+        "text": "Security"
+      },
+      {
+        "bbox_px": [
+          831,
+          10659,
+          899,
+          10678
+        ],
+        "confidence": 1,
+        "text": "Careers"
+      },
+      {
+        "bbox_px": [
+          830,
+          10699,
+          878,
+          10719
+        ],
+        "confidence": 1,
+        "text": "Press"
+      },
+      {
+        "bbox_px": [
+          831,
+          10737,
+          901,
+          10759
+        ],
+        "confidence": 1,
+        "text": "Reviews"
+      },
+      {
+        "bbox_px": [
+          169,
+          10905,
+          303,
+          10936
+        ],
+        "confidence": 1,
+        "text": "• acorns"
+      },
+      {
+        "bbox_px": [
+          423,
+          10913,
+          462,
+          10929
+        ],
+        "confidence": 1,
+        "text": "Pricing"
+      },
+      {
+        "bbox_px": [
+          496,
+          10913,
+          546,
+          10926
+        ],
+        "confidence": 1,
+        "text": "Affiliates"
+      },
+      {
+        "bbox_px": [
+          577,
+          10912,
+          658,
+          10930
+        ],
+        "confidence": 1,
+        "text": "Acorns Legal"
+      },
+      {
+        "bbox_px": [
+          671,
+          10913,
+          904,
+          10929
+        ],
+        "confidence": 1,
+        "text": "Acorns Early Legal Privacy Policy"
+      },
+      {
+        "bbox_px": [
+          169,
+          11067,
+          1249,
+          11083
+        ],
+        "confidence": 1,
+        "text": "Investing involves risk, including the loss of principal. Please consider your objectives, risk tolerance, and Acorns' fees before investing. Investment products and services offered by Acorns Advisers,"
+      },
+      {
+        "bbox_px": [
+          169,
+          11085,
+          1223,
+          11102
+        ],
+        "confidence": 1,
+        "text": "LLC (Acorns), an SEC Registered Investment Adviser. Brokerage products and services are provided by Acorns Securities, LLC, an SEC registered Broker Dealer, Member FINRA/SIPC. Investment"
+      },
+      {
+        "bbox_px": [
+          169,
+          11104,
+          846,
+          11120
+        ],
+        "confidence": 1,
+        "text": "products are NOT FDIC INSURED, NOT BANK GUARANTEED, and MAY LOSE VALUE. View additional investing disclosures-"
+      },
+      {
+        "bbox_px": [
+          169,
+          11140,
+          1225,
+          11156
+        ],
+        "confidence": 1,
+        "text": "1. Acorns is not a bank. Acorns Visa™ debit cards and banking services are issued by Lincoln Savings Bank or nbke bank, members FDIC. Acorns Checking clients are not charged overdraft fees,"
+      },
+      {
+        "bbox_px": [
+          169,
+          11158,
+          1257,
+          11172
+        ],
+        "confidence": 1,
+        "text": "maintenance fees, or ATM fees for cash withdrawals from over 55,000 fee-free ATMs within the AllPoint Network. Please see your Acoms Subscription Center or Account Statements for a description of"
+      },
+      {
+        "bbox_px": [
+          169,
+          11174,
+          1233,
+          11195
+        ],
+        "confidence": 1,
+        "text": "the fees you pay to Acorns for its services. Any balances you hold with Lincoln Savings Bank or nbkc bank, including but not limited to those balances held in Acorns Checking accounts are added"
+      },
+      {
+        "bbox_px": [
+          169,
+          11193,
+          1254,
+          11209
+        ],
+        "confidence": 1,
+        "text": "together and are insured up to $250,000 per depositor through Lincoln Savings Bank or nbkc bank, Members FDIC. If you have funds jointly owned, these funds would be separately insured for up to"
+      },
+      {
+        "bbox_px": [
+          169,
+          11211,
+          1230,
+          11227
+        ],
+        "confidence": 1,
+        "text": "$250,000 for each joint account owner. Lincoln Savings Bank or nbkc bank utilizes a deposit network service, which means that at any given time, all, none, or a portion of the funds in your Acorns"
+      },
+      {
+        "bbox_px": [
+          172,
+          11229,
+          1257,
+          11245
+        ],
+        "confidence": 1,
+        "text": "Checking accounts may be placed into and held beneficially in your name at other depository institutions which are insured by the Fecleral Deposit Insurance Corporation (FDIC). For a complete list of"
+      },
+      {
+        "bbox_px": [
+          172,
+          11247,
+          1233,
+          11264
+        ],
+        "confidence": 1,
+        "text": "other depository institutions where funds may be placed, please visit https://www.cambr.com/bank-list. Balances moved to network banks are eligible for FDIC insurance once the funds arrive at a"
+      },
+      {
+        "bbox_px": [
+          169,
+          11266,
+          1230,
+          11282
+        ],
+        "confidence": 1,
+        "text": "network bank. To lear more about pass-through deposit insurance applicable to your account, please see the Account Documentation. Additional information on FDIC insurance can be found at"
+      },
+      {
+        "bbox_px": [
+          169,
+          11284,
+          457,
+          11300
+        ],
+        "confidence": 1,
+        "text": "https://www.fdic.gov/resources/deposit-insurance/."
+      },
+      {
+        "bbox_px": [
+          169,
+          11318,
+          1228,
+          11337
+        ],
+        "confidence": 1,
+        "text": "Acorns Early is not a bank. The Acorns Early card is issued by nbkc Bank, Member FDIC, pursuant to license by Visa®, and Community Federal Savings Bank, member FDIC, pursuant to license by"
+      },
+      {
+        "bbox_px": [
+          169,
+          11339,
+          501,
+          11352
+        ],
+        "confidence": 1,
+        "text": "Mastercard Intemational. Cardholder Terms and limits apply."
+      },
+      {
+        "bbox_px": [
+          169,
+          11373,
+          1223,
+          11389
+        ],
+        "confidence": 1,
+        "text": "Acorns, Golenry, Round-Ups® investments, Real-Time Round-Ups® Investments, Invest the Change and the Acorns logo are registered trademarks of Acorns Grow Incorporated. All product and"
+      },
+      {
+        "bbox_px": [
+          171,
+          11200,
+          1251,
+          11208
+        ],
+        "confidence": 0.30000001192092896,
+        "text": "кgше ано ае ечиеd tоУгоФоо pеrовроSTо игощдиLсотеSамngьфанк отЛоксераnк VENовSАDIСнуон naveтонов рицу оwнею шеЕлинов wouна pонаратвкаУнвитеu олцрS"
+      },
+      {
+        "bbox_px": [
+          171,
+          11212,
+          1230,
+          11227
+        ],
+        "confidence": 1,
+        "text": "$250,000 for each joint account owner. Lincoln Savings Bank or nbkc bank utilizes a deposit network service, which means that at any given time, all, none, or a portion of the funds in your Acorns"
+      },
+      {
+        "bbox_px": [
+          171,
+          11230,
+          1257,
+          11245
+        ],
+        "confidence": 1,
+        "text": "Checking accounts may be placed into and held beneficially in your name at other depository institutions which are insured by the Fedleral Deposit Insurance Corporation (FDIC). For a complete list of"
+      },
+      {
+        "bbox_px": [
+          171,
+          11247,
+          1234,
+          11262
+        ],
+        "confidence": 1,
+        "text": "other depository institutions where funds may be placed, please visit https://www.cambr.com/bank-list. Balances moved to network banks are eligible for FDIC insurance once the funds arrive at a"
+      },
+      {
+        "bbox_px": [
+          169,
+          11266,
+          1230,
+          11281
+        ],
+        "confidence": 1,
+        "text": "network bank. To leam more about pass-through deposit insurance applicable to your account, please see the Account Documentation. Additional information on FDIC insurance can be found at"
+      },
+      {
+        "bbox_px": [
+          171,
+          11285,
+          458,
+          11300
+        ],
+        "confidence": 1,
+        "text": "https://www.fdic.gov/resources/deposit-insurance/."
+      },
+      {
+        "bbox_px": [
+          171,
+          11318,
+          1230,
+          11335
+        ],
+        "confidence": 1,
+        "text": "Acorns Early is not a bank. The Acorns Early card is issued by nbkc Bank, Member FDIC, pursuant to license by Visa®, and Community Federal Savings Bank, member FDIC, pursuant to license by"
+      },
+      {
+        "bbox_px": [
+          171,
+          11336,
+          504,
+          11352
+        ],
+        "confidence": 1,
+        "text": "Mastercard Intemational. Cardholder Terms and limits apply."
+      },
+      {
+        "bbox_px": [
+          169,
+          11373,
+          1224,
+          11389
+        ],
+        "confidence": 1,
+        "text": "Acorns, Golenry, Round-Ups® investments, Real-Time Round-Ups® investments, Invest the Change and the Acorns logo are registered trademarks of Acorns Grow Incorporated. All product and"
+      },
+      {
+        "bbox_px": [
+          171,
+          11391,
+          1050,
+          11406
+        ],
+        "confidence": 1,
+        "text": "company names are trademarks™ or registered® trademarks of their respective holders. Use of them does not imply any affiliation with or endorsement by them."
+      },
+      {
+        "bbox_px": [
+          171,
+          11427,
+          1264,
+          11444
+        ],
+        "confidence": 1,
+        "text": "2. Early Payday depends on the timing of the submission of the payment file from the payer and fraud prevention restrictions. Funds are generally available on the day the payment file is received, up to"
+      },
+      {
+        "bbox_px": [
+          169,
+          11446,
+          531,
+          11460
+        ],
+        "confidence": 1,
+        "text": "2 days earlier than the scheduled payment date. Timing may vary."
+      },
+      {
+        "bbox_px": [
+          171,
+          11481,
+          1247,
+          11496
+        ],
+        "confidence": 1,
+        "text": "3. As compared to the national average checking and savings interest rates as noted by the FDIC as of 03/16/2026. The Mighty Oak Card APY is current as of 03/16/2026. Interest rates are subject to"
+      },
+      {
+        "bbox_px": [
+          169,
+          11500,
+          391,
+          11515
+        ],
+        "confidence": 1,
+        "text": "change. No minimum balance required."
+      },
+      {
+        "bbox_px": [
+          169,
+          11536,
+          1243,
+          11550
+        ],
+        "confidence": 1,
+        "text": "4. As of September 22, 2026, Mighty Oak Checking Annual Percentage Yield (APY) is 2.33% and all Emergency Savings APY is 3.59%. APY is variable and subject to change at our discretion, without"
+      },
+      {
+        "bbox_px": [
+          171,
+          11552,
+          1257,
+          11569
+        ],
+        "confidence": 1,
+        "text": "prior notice. No minimum opening deposit or minimum balance required. Acorns is not a bank. Mighty Oak and Emergency Savings banking services provided by, and Mighty Oak Debit Cards issued"
+      },
+      {
+        "bbox_px": [
+          169,
+          11571,
+          899,
+          11588
+        ],
+        "confidence": 1,
+        "text": "and provided by nbkc bank, Member FDIC, to Acorns Checking account holders that are U.S. residents over the age of eighteen (18)."
+      },
+      {
+        "bbox_px": [
+          171,
+          11607,
+          872,
+          11623
+        ],
+        "confidence": 1,
+        "text": "Over 16 million all-time customers and over $33 billion invested since inception as of 8/26/2026. App Store rating as of 8/19/25."
+      },
+      {
+        "bbox_px": [
+          169,
+          11642,
+          506,
+          11657
+        ],
+        "confidence": 1,
+        "text": "Acorns Wrap Fee Brochure | Form CRS | EINRA's BrokorCheck"
+      },
+      {
+        "bbox_px": [
+          169,
+          11677,
+          824,
+          11695
+        ],
+        "confidence": 1,
+        "text": "For additional important risks, disclosures, and information, please visit https://www.acorns.com/important-disclosures/."
+      },
+      {
+        "bbox_px": [
+          171,
+          11715,
+          439,
+          11732
+        ],
+        "confidence": 1,
+        "text": "© 2026 Acorns Grow Incorporated | Accessibility"
+      }
+    ],
+    "path": "screenshots/acorns.jpg",
+    "width": 1440
+  }
+]

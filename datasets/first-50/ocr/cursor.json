@@ -1,0 +1,3419 @@
+[
+  {
+    "height": 8364,
+    "lines": [
+      {
+        "bbox_px": [
+          65,
+          15,
+          167,
+          41
+        ],
+        "confidence": 1,
+        "text": "• CURSOR"
+      },
+      {
+        "bbox_px": [
+          551,
+          20,
+          614,
+          34
+        ],
+        "confidence": 1,
+        "text": "Features"
+      },
+      {
+        "bbox_px": [
+          640,
+          20,
+          710,
+          34
+        ],
+        "confidence": 1,
+        "text": "Enterprise"
+      },
+      {
+        "bbox_px": [
+          736,
+          20,
+          786,
+          36
+        ],
+        "confidence": 1,
+        "text": "Pricing"
+      },
+      {
+        "bbox_px": [
+          812,
+          20,
+          888,
+          34
+        ],
+        "confidence": 1,
+        "text": "Resources"
+      },
+      {
+        "bbox_px": [
+          1217,
+          20,
+          1264,
+          34
+        ],
+        "confidence": 1,
+        "text": "Sign in"
+      },
+      {
+        "bbox_px": [
+          1291,
+          20,
+          1358,
+          34
+        ],
+        "confidence": 1,
+        "text": "Download"
+      },
+      {
+        "bbox_px": [
+          67,
+          169,
+          577,
+          198
+        ],
+        "confidence": 1,
+        "text": "Built to make you extraordinarily productive,"
+      },
+      {
+        "bbox_px": [
+          67,
+          200,
+          507,
+          231
+        ],
+        "confidence": 1,
+        "text": "Cursor is the best way to code with Al."
+      },
+      {
+        "bbox_px": [
+          91,
+          266,
+          263,
+          283
+        ],
+        "confidence": 1,
+        "text": "Download for macOS x"
+      },
+      {
+        "bbox_px": [
+          216,
+          460,
+          371,
+          470
+        ],
+        "confidence": 1,
+        "text": "ML-RESEARCH-NOTEBOOK"
+      },
+      {
+        "bbox_px": [
+          219,
+          486,
+          300,
+          502
+        ],
+        "confidence": 1,
+        "text": "• notebooks"
+      },
+      {
+        "bbox_px": [
+          227,
+          515,
+          334,
+          531
+        ],
+        "confidence": 1,
+        "text": "• train_model.py"
+      },
+      {
+        "bbox_px": [
+          229,
+          542,
+          324,
+          560
+        ],
+        "confidence": 1,
+        "text": "• evaluation.py"
+      },
+      {
+        "bbox_px": [
+          219,
+          570,
+          310,
+          586
+        ],
+        "confidence": 1,
+        "text": "• experiments"
+      },
+      {
+        "bbox_px": [
+          229,
+          598,
+          313,
+          615
+        ],
+        "confidence": 1,
+        "text": "• config.yaml"
+      },
+      {
+        "bbox_px": [
+          229,
+          625,
+          355,
+          643
+        ],
+        "confidence": 1,
+        "text": "D run_experiment.py"
+      },
+      {
+        "bbox_px": [
+          219,
+          656,
+          334,
+          669
+        ],
+        "confidence": 1,
+        "text": "• requirements.txt"
+      },
+      {
+        "bbox_px": [
+          697,
+          429,
+          739,
+          442
+        ],
+        "confidence": 1,
+        "text": "Cursor"
+      },
+      {
+        "bbox_px": [
+          436,
+          457,
+          533,
+          473
+        ],
+        "confidence": 1,
+        "text": "train_model.py"
+      },
+      {
+        "bbox_px": [
+          569,
+          460,
+          679,
+          473
+        ],
+        "confidence": 1,
+        "text": "run_experiment.py"
+      },
+      {
+        "bbox_px": [
+          720,
+          457,
+          792,
+          475
+        ],
+        "confidence": 1,
+        "text": "config.yaml"
+      },
+      {
+        "bbox_px": [
+          462,
+          491,
+          554,
+          508
+        ],
+        "confidence": 1,
+        "text": "import torch"
+      },
+      {
+        "bbox_px": [
+          462,
+          512,
+          619,
+          526
+        ],
+        "confidence": 1,
+        "text": "import torch.nn as nn"
+      },
+      {
+        "bbox_px": [
+          462,
+          531,
+          747,
+          547
+        ],
+        "confidence": 1,
+        "text": "from torch.utils.data import DataLoader"
+      },
+      {
+        "bbox_px": [
+          462,
+          549,
+          812,
+          567
+        ],
+        "confidence": 1,
+        "text": "from torch.utils.data import DataLoader, random_"
+      },
+      {
+        "bbox_px": [
+          462,
+          572,
+          697,
+          586
+        ],
+        "confidence": 1,
+        "text": "from torchvision import datasets"
+      },
+      {
+        "bbox_px": [
+          462,
+          591,
+          784,
+          607
+        ],
+        "confidence": 1,
+        "text": "from torchvision import datasets, transforms"
+      },
+      {
+        "bbox_px": [
+          459,
+          611,
+          621,
+          625
+        ],
+        "confidence": 1,
+        "text": "from tqdm import tqdm"
+      },
+      {
+        "bbox_px": [
+          462,
+          633,
+          546,
+          646
+        ],
+        "confidence": 1,
+        "text": "import yaml"
+      },
+      {
+        "bbox_px": [
+          462,
+          651,
+          640,
+          667
+        ],
+        "confidence": 1,
+        "text": "from pathlib import Path"
+      },
+      {
+        "bbox_px": [
+          462,
+          672,
+          548,
+          685
+        ],
+        "confidence": 1,
+        "text": "import json"
+      },
+      {
+        "bbox_px": [
+          457,
+          711,
+          718,
+          727
+        ],
+        "confidence": 1,
+        "text": "def get_dataloaders(batch_size=64):"
+      },
+      {
+        "bbox_px": [
+          475,
+          732,
+          812,
+          745
+        ],
+        "confidence": 1,
+        "text": "transform = transforms.Compose(ltransforms.ToT"
+      },
+      {
+        "bbox_px": [
+          478,
+          750,
+          731,
+          767
+        ],
+        "confidence": 1,
+        "text": "train = datasets.MNIST(root=\"data\","
+      },
+      {
+        "bbox_px": [
+          478,
+          771,
+          723,
+          784
+        ],
+        "confidence": 1,
+        "text": "test = datasets.MNIST(root=\"data\","
+      },
+      {
+        "bbox_px": [
+          723,
+          771,
+          812,
+          784
+        ],
+        "confidence": 1,
+        "text": "train=False"
+      },
+      {
+        "bbox_px": [
+          475,
+          792,
+          812,
+          805
+        ],
+        "confidence": 1,
+        "text": "return DataLoader(train, batch_size=batch_size"
+      },
+      {
+        "bbox_px": [
+          444,
+          810,
+          812,
+          827
+        ],
+        "confidence": 1,
+        "text": "+ def load_config(config_path=\"experiments/config."
+      },
+      {
+        "bbox_px": [
+          473,
+          831,
+          682,
+          847
+        ],
+        "confidence": 1,
+        "text": "with open(config_path) as f:"
+      },
+      {
+        "bbox_px": [
+          491,
+          852,
+          666,
+          866
+        ],
+        "confidence": 1,
+        "text": "return yaml.safe_load(f)"
+      },
+      {
+        "bbox_px": [
+          462,
+          891,
+          666,
+          905
+        ],
+        "confidence": 1,
+        "text": "def get_dataloaders(config):"
+      },
+      {
+        "bbox_px": [
+          475,
+          909,
+          768,
+          926
+        ],
+        "confidence": 1,
+        "text": "transform_list = [transforms.ToTensor()]"
+      },
+      {
+        "bbox_px": [
+          478,
+          930,
+          705,
+          947
+        ],
+        "confidence": 1,
+        "text": "if configl'data'].get('normalize"
+      },
+      {
+        "bbox_px": [
+          491,
+          952,
+          812,
+          965
+        ],
+        "confidence": 1,
+        "text": "transform_list.append(transforms.Normalize(C"
+      },
+      {
+        "bbox_px": [
+          823,
+          459,
+          990,
+          473
+        ],
+        "confidence": 1,
+        "text": "PyTorch MNIST Experiments"
+      },
+      {
+        "bbox_px": [
+          825,
+          488,
+          1191,
+          505
+        ],
+        "confidence": 1,
+        "text": "proper configuration management. Let me start by rewriting"
+      },
+      {
+        "bbox_px": [
+          825,
+          507,
+          951,
+          523
+        ],
+        "confidence": 1,
+        "text": "the training module:"
+      },
+      {
+        "bbox_px": [
+          833,
+          544,
+          998,
+          560
+        ],
+        "confidence": 1,
+        "text": "• train_model.py +156-34"
+      },
+      {
+        "bbox_px": [
+          825,
+          580,
+          1199,
+          597
+        ],
+        "confidence": 1,
+        "text": "Now let me update the evaluation module to save results and"
+      },
+      {
+        "bbox_px": [
+          825,
+          598,
+          993,
+          615
+        ],
+        "confidence": 1,
+        "text": "generate a detailed report:"
+      },
+      {
+        "bbox_px": [
+          833,
+          635,
+          974,
+          651
+        ],
+        "confidence": 1,
+        "text": "• evaluation.py +24 -6"
+      },
+      {
+        "bbox_px": [
+          823,
+          675,
+          885,
+          688
+        ],
+        "confidence": 1,
+        "text": "Let me cr"
+      },
+      {
+        "bbox_px": [
+          825,
+          693,
+          888,
+          706
+        ],
+        "confidence": 1,
+        "text": "experimel"
+      },
+      {
+        "bbox_px": [
+          899,
+          679,
+          1105,
+          693
+        ],
+        "confidence": 1,
+        "text": "experiments easy to execute:"
+      },
+      {
+        "bbox_px": [
+          912,
+          716,
+          1068,
+          730
+        ],
+        "confidence": 1,
+        "text": "run_experiment.py +29"
+      },
+      {
+        "bbox_px": [
+          833,
+          729,
+          888,
+          743
+        ],
+        "confidence": 1,
+        "text": "• run_e"
+      },
+      {
+        "bbox_px": [
+          899,
+          750,
+          1264,
+          766
+        ],
+        "confidence": 1,
+        "text": "Done, configurable MNIST experiment framework with"
+      },
+      {
+        "bbox_px": [
+          825,
+          768,
+          888,
+          782
+        ],
+        "confidence": 1,
+        "text": "Done, cor"
+      },
+      {
+        "bbox_px": [
+          899,
+          771,
+          1019,
+          784
+        ],
+        "confidence": 1,
+        "text": "AMP and reports."
+      },
+      {
+        "bbox_px": [
+          825,
+          784,
+          888,
+          800
+        ],
+        "confidence": 1,
+        "text": "and repor"
+      },
+      {
+        "bbox_px": [
+          825,
+          805,
+          888,
+          822
+        ],
+        "confidence": 1,
+        "text": "• Training"
+      },
+      {
+        "bbox_px": [
+          833,
+          824,
+          888,
+          837
+        ],
+        "confidence": 1,
+        "text": "clipping"
+      },
+      {
+        "bbox_px": [
+          825,
+          846,
+          889,
+          865
+        ],
+        "confidence": 1,
+        "text": "• Experin"
+      },
+      {
+        "bbox_px": [
+          833,
+          865,
+          888,
+          879
+        ],
+        "confidence": 1,
+        "text": "matrix +"
+      },
+      {
+        "bbox_px": [
+          901,
+          810,
+          1262,
+          827
+        ],
+        "confidence": 1,
+        "text": "• Training: AMP, train/val split, cosine schedule,"
+      },
+      {
+        "bbox_px": [
+          899,
+          831,
+          1118,
+          845
+        ],
+        "confidence": 1,
+        "text": "gradient clipping, checkpoints"
+      },
+      {
+        "bbox_px": [
+          901,
+          849,
+          1233,
+          865
+        ],
+        "confidence": 1,
+        "text": "• Experimentation: YAML config, saved history,"
+      },
+      {
+        "bbox_px": [
+          899,
+          868,
+          1277,
+          884
+        ],
+        "confidence": 1,
+        "text": "confusion matrix + classification report, CLI runner"
+      },
+      {
+        "bbox_px": [
+          830,
+          915,
+          889,
+          933
+        ],
+        "confidence": 1,
+        "text": "Plan, sea"
+      },
+      {
+        "bbox_px": [
+          919,
+          909,
+          1040,
+          923
+        ],
+        "confidence": 1,
+        "text": "› Add a follow-up"
+      },
+      {
+        "bbox_px": [
+          899,
+          952,
+          940,
+          962
+        ],
+        "confidence": 1,
+        "text": "GPT-5"
+      },
+      {
+        "bbox_px": [
+          899,
+          970,
+          1105,
+          984
+        ],
+        "confidence": 1,
+        "text": "/ for commands • @ for files"
+      },
+      {
+        "bbox_px": [
+          535,
+          1116,
+          904,
+          1132
+        ],
+        "confidence": 1,
+        "text": "Trusted every day by millions of professional developers."
+      },
+      {
+        "bbox_px": [
+          112,
+          1195,
+          180,
+          1221
+        ],
+        "confidence": 1,
+        "text": "stripe"
+      },
+      {
+        "bbox_px": [
+          269,
+          1198,
+          355,
+          1221
+        ],
+        "confidence": 1,
+        "text": "OpenAl"
+      },
+      {
+        "bbox_px": [
+          454,
+          1198,
+          522,
+          1219
+        ],
+        "confidence": 1,
+        "text": "Linear"
+      },
+      {
+        "bbox_px": [
+          585,
+          1195,
+          687,
+          1221
+        ],
+        "confidence": 1,
+        "text": "RE DATADOG"
+      },
+      {
+        "bbox_px": [
+          739,
+          1198,
+          857,
+          1219
+        ],
+        "confidence": 1,
+        "text": "R RIPPLING"
+      },
+      {
+        "bbox_px": [
+          927,
+          1195,
+          995,
+          1221
+        ],
+        "confidence": 1,
+        "text": "Figma"
+      },
+      {
+        "bbox_px": [
+          1081,
+          1195,
+          1168,
+          1219
+        ],
+        "confidence": 1,
+        "text": "ramp 1"
+      },
+      {
+        "bbox_px": [
+          1251,
+          1197,
+          1327,
+          1219
+        ],
+        "confidence": 1,
+        "text": "Adobe"
+      },
+      {
+        "bbox_px": [
+          88,
+          1648,
+          363,
+          1669
+        ],
+        "confidence": 1,
+        "text": "Agent turns ideas into code"
+      },
+      {
+        "bbox_px": [
+          88,
+          1676,
+          433,
+          1697
+        ],
+        "confidence": 1,
+        "text": "A human-Al programmer, orders of"
+      },
+      {
+        "bbox_px": [
+          88,
+          1702,
+          436,
+          1726
+        ],
+        "confidence": 1,
+        "text": "magnitude more effective than any"
+      },
+      {
+        "bbox_px": [
+          91,
+          1734,
+          258,
+          1752
+        ],
+        "confidence": 1,
+        "text": "developer alone."
+      },
+      {
+        "bbox_px": [
+          88,
+          1776,
+          243,
+          1792
+        ],
+        "confidence": 1,
+        "text": "Learn about Agent →"
+      },
+      {
+        "bbox_px": [
+          601,
+          1475,
+          692,
+          1488
+        ],
+        "confidence": 1,
+        "text": "IN PROGRESS 3"
+      },
+      {
+        "bbox_px": [
+          606,
+          1501,
+          794,
+          1520
+        ],
+        "confidence": 1,
+        "text": "* Enterprise Order Managem..."
+      },
+      {
+        "bbox_px": [
+          627,
+          1522,
+          689,
+          1535
+        ],
+        "confidence": 1,
+        "text": "Generating"
+      },
+      {
+        "bbox_px": [
+          603,
+          1554,
+          791,
+          1569
+        ],
+        "confidence": 1,
+        "text": "* PyTorch MNIST Experiments"
+      },
+      {
+        "bbox_px": [
+          627,
+          1572,
+          689,
+          1585
+        ],
+        "confidence": 1,
+        "text": "Generating"
+      },
+      {
+        "bbox_px": [
+          606,
+          1605,
+          799,
+          1622
+        ],
+        "confidence": 1,
+        "text": "* Fix PR Comments Fetching I..."
+      },
+      {
+        "bbox_px": [
+          627,
+          1624,
+          689,
+          1637
+        ],
+        "confidence": 1,
+        "text": "Generating"
+      },
+      {
+        "bbox_px": [
+          601,
+          1661,
+          726,
+          1674
+        ],
+        "confidence": 1,
+        "text": "READY FOR REVIEW 3"
+      },
+      {
+        "bbox_px": [
+          606,
+          1690,
+          736,
+          1703
+        ],
+        "confidence": 1,
+        "text": "• Analyze Tab vs A..."
+      },
+      {
+        "bbox_px": [
+          744,
+          1690,
+          799,
+          1703
+        ],
+        "confidence": 1,
+        "text": "Just Now"
+      },
+      {
+        "bbox_px": [
+          627,
+          1705,
+          799,
+          1719
+        ],
+        "confidence": 1,
+        "text": "All set! We now track focus sh..."
+      },
+      {
+        "bbox_px": [
+          626,
+          1738,
+          799,
+          1756
+        ],
+        "confidence": 1,
+        "text": "Set up Cursor Rules fo... 30m"
+      },
+      {
+        "bbox_px": [
+          627,
+          1758,
+          797,
+          1771
+        ],
+        "confidence": 1,
+        "text": "+37 -0 • Set up Cursor Rules f.."
+      },
+      {
+        "bbox_px": [
+          909,
+          1446,
+          951,
+          1457
+        ],
+        "confidence": 1,
+        "text": "Curson"
+      },
+      {
+        "bbox_px": [
+          820,
+          1475,
+          1040,
+          1491
+        ],
+        "confidence": 1,
+        "text": "Analyze Tab vs Agent Usage Patterns"
+      },
+      {
+        "bbox_px": [
+          825,
+          1501,
+          974,
+          1517
+        ],
+        "confidence": 1,
+        "text": "and switching behavior:"
+      },
+      {
+        "bbox_px": [
+          833,
+          1537,
+          974,
+          1554
+        ],
+        "confidence": 1,
+        "text": "• summary.py +150 -0"
+      },
+      {
+        "bbox_px": [
+          825,
+          1577,
+          1236,
+          1593
+        ],
+        "confidence": 1,
+        "text": "Next I'll normalize the interaction labels and add session tagging so"
+      },
+      {
+        "bbox_px": [
+          825,
+          1595,
+          1037,
+          1609
+        ],
+        "confidence": 1,
+        "text": "product can filter specific cohorts:"
+      },
+      {
+        "bbox_px": [
+          833,
+          1632,
+          995,
+          1648
+        ],
+        "confidence": 1,
+        "text": "• segmentation.py +94-0"
+      },
+      {
+        "bbox_px": [
+          825,
+          1669,
+          1186,
+          1685
+        ],
+        "confidence": 1,
+        "text": "Time to stitch everything together with a report helper that"
+      },
+      {
+        "bbox_px": [
+          825,
+          1687,
+          988,
+          1704
+        ],
+        "confidence": 1,
+        "text": "combines the key metrics:"
+      },
+      {
+        "bbox_px": [
+          833,
+          1723,
+          951,
+          1740
+        ],
+        "confidence": 1,
+        "text": "• report.py +40-0"
+      },
+      {
+        "bbox_px": [
+          825,
+          1763,
+          1230,
+          1779
+        ],
+        "confidence": 1,
+        "text": "I'll add tests to lock in the behaviour using a representative sample"
+      },
+      {
+        "bbox_px": [
+          825,
+          1778,
+          974,
+          1794
+        ],
+        "confidence": 1,
+        "text": "from last week's export:"
+      },
+      {
+        "bbox_px": [
+          88,
+          1646,
+          363,
+          1668
+        ],
+        "confidence": 1,
+        "text": "Agent turns ideas into code"
+      },
+      {
+        "bbox_px": [
+          88,
+          1675,
+          433,
+          1699
+        ],
+        "confidence": 1,
+        "text": "A human-Al programmer, orders of"
+      },
+      {
+        "bbox_px": [
+          88,
+          1704,
+          439,
+          1726
+        ],
+        "confidence": 1,
+        "text": "magnitude more effective than any"
+      },
+      {
+        "bbox_px": [
+          91,
+          1733,
+          259,
+          1756
+        ],
+        "confidence": 1,
+        "text": "developer alone."
+      },
+      {
+        "bbox_px": [
+          88,
+          1775,
+          243,
+          1794
+        ],
+        "confidence": 1,
+        "text": "Learn about Agent →"
+      },
+      {
+        "bbox_px": [
+          603,
+          1605,
+          794,
+          1621
+        ],
+        "confidence": 1,
+        "text": "* Fix PR Comments Fetching I.."
+      },
+      {
+        "bbox_px": [
+          627,
+          1623,
+          689,
+          1636
+        ],
+        "confidence": 1,
+        "text": "Generating"
+      },
+      {
+        "bbox_px": [
+          601,
+          1659,
+          723,
+          1673
+        ],
+        "confidence": 1,
+        "text": "READY FOR REVIEW 3"
+      },
+      {
+        "bbox_px": [
+          606,
+          1688,
+          734,
+          1705
+        ],
+        "confidence": 1,
+        "text": "• Analyze Tab vs A..."
+      },
+      {
+        "bbox_px": [
+          744,
+          1688,
+          802,
+          1702
+        ],
+        "confidence": 1,
+        "text": "Just Now"
+      },
+      {
+        "bbox_px": [
+          627,
+          1704,
+          797,
+          1720
+        ],
+        "confidence": 1,
+        "text": "All set! We now track focus sh.."
+      },
+      {
+        "bbox_px": [
+          606,
+          1738,
+          799,
+          1754
+        ],
+        "confidence": 1,
+        "text": "• Set up Cursor Rules fo... 30m"
+      },
+      {
+        "bbox_px": [
+          627,
+          1756,
+          797,
+          1770
+        ],
+        "confidence": 1,
+        "text": "+37 -0 • Set up Cursor Rules f.."
+      },
+      {
+        "bbox_px": [
+          606,
+          1790,
+          747,
+          1804
+        ],
+        "confidence": 1,
+        "text": "• Bioinformatics Tools"
+      },
+      {
+        "bbox_px": [
+          770,
+          1790,
+          802,
+          1804
+        ],
+        "confidence": 1,
+        "text": "45m"
+      },
+      {
+        "bbox_px": [
+          627,
+          1806,
+          799,
+          1819
+        ],
+        "confidence": 1,
+        "text": "+135 -21 • Bioinformatics Tools"
+      },
+      {
+        "bbox_px": [
+          825,
+          1600,
+          1034,
+          1608
+        ],
+        "confidence": 1,
+        "text": "product can mter soecme conorts."
+      },
+      {
+        "bbox_px": [
+          831,
+          1630,
+          995,
+          1647
+        ],
+        "confidence": 1,
+        "text": "• segmentation.py +94 -0"
+      },
+      {
+        "bbox_px": [
+          823,
+          1667,
+          1186,
+          1687
+        ],
+        "confidence": 1,
+        "text": "Time to stitch everything together with a report helper that"
+      },
+      {
+        "bbox_px": [
+          823,
+          1688,
+          987,
+          1702
+        ],
+        "confidence": 1,
+        "text": "combines the key metrics:"
+      },
+      {
+        "bbox_px": [
+          830,
+          1722,
+          951,
+          1742
+        ],
+        "confidence": 1,
+        "text": "D report.py +40-0"
+      },
+      {
+        "bbox_px": [
+          823,
+          1761,
+          1233,
+          1778
+        ],
+        "confidence": 1,
+        "text": "Ill add tests to lock in the behaviour using a representative sample"
+      },
+      {
+        "bbox_px": [
+          823,
+          1780,
+          972,
+          1794
+        ],
+        "confidence": 1,
+        "text": "from last week's export:"
+      },
+      {
+        "bbox_px": [
+          831,
+          1816,
+          964,
+          1832
+        ],
+        "confidence": 1,
+        "text": "D test_usage.py +90"
+      },
+      {
+        "bbox_px": [
+          823,
+          1855,
+          1199,
+          1872
+        ],
+        "confidence": 1,
+        "text": "All set! We now track focus share, switching rates, and rolling"
+      },
+      {
+        "bbox_px": [
+          825,
+          1871,
+          1246,
+          1888
+        ],
+        "confidence": 1,
+        "text": "engagement so PMs can compare tab-first and agent-first workflows"
+      },
+      {
+        "bbox_px": [
+          825,
+          1890,
+          896,
+          1903
+        ],
+        "confidence": 1,
+        "text": "in seconds."
+      },
+      {
+        "bbox_px": [
+          828,
+          1932,
+          1014,
+          1947
+        ],
+        "confidence": 1,
+        "text": "Plan, search, build anything..."
+      },
+      {
+        "bbox_px": [
+          833,
+          1961,
+          953,
+          1974
+        ],
+        "confidence": 1,
+        "text": "∞o Agent GPT-5 v"
+      },
+      {
+        "bbox_px": [
+          486,
+          2256,
+          527,
+          2269
+        ],
+        "confidence": 1,
+        "text": "Cursor"
+      },
+      {
+        "bbox_px": [
+          177,
+          2285,
+          287,
+          2301
+        ],
+        "confidence": 1,
+        "text": "Dashboard.tsx X"
+      },
+      {
+        "bbox_px": [
+          305,
+          2285,
+          402,
+          2301
+        ],
+        "confidence": 1,
+        "text": "SupportChat.tsx"
+      },
+      {
+        "bbox_px": [
+          200,
+          2317,
+          298,
+          2335
+        ],
+        "confidence": 1,
+        "text": "\"use client';"
+      },
+      {
+        "bbox_px": [
+          201,
+          2358,
+          493,
+          2374
+        ],
+        "confidence": 1,
+        "text": "import React, { useState } from \"react\";"
+      },
+      {
+        "bbox_px": [
+          201,
+          2379,
+          478,
+          2395
+        ],
+        "confidence": 1,
+        "text": "import Navigation from \"./Navigation\";"
+      },
+      {
+        "bbox_px": [
+          201,
+          2397,
+          493,
+          2416
+        ],
+        "confidence": 1,
+        "text": "import SupportChat from \"./SupportChat\";"
+      },
+      {
+        "bbox_px": [
+          201,
+          2439,
+          475,
+          2452
+        ],
+        "confidence": 1,
+        "text": "export default function Dashboard() {"
+      },
+      {
+        "bbox_px": [
+          216,
+          2500,
+          277,
+          2516
+        ],
+        "confidence": 1,
+        "text": "return ("
+      },
+      {
+        "bbox_px": [
+          229,
+          2520,
+          708,
+          2534
+        ],
+        "confidence": 1,
+        "text": "<div className=\"flex h-[600px] border rounded-lg overflow-hidden\">"
+      },
+      {
+        "bbox_px": [
+          245,
+          2538,
+          470,
+          2555
+        ],
+        "confidence": 1,
+        "text": "<div className=\"w-64 border-r™>"
+      },
+      {
+        "bbox_px": [
+          245,
+          2560,
+          290,
+          2573
+        ],
+        "confidence": 1,
+        "text": "</div>"
+      },
+      {
+        "bbox_px": [
+          245,
+          2577,
+          473,
+          2594
+        ],
+        "confidence": 1,
+        "text": "<div className=\"w-80 border-1\">"
+      },
+      {
+        "bbox_px": [
+          258,
+          2599,
+          371,
+          2615
+        ],
+        "confidence": 1,
+        "text": "<SupportChat />"
+      },
+      {
+        "bbox_px": [
+          245,
+          2620,
+          292,
+          2633
+        ],
+        "confidence": 1,
+        "text": "</div>"
+      },
+      {
+        "bbox_px": [
+          229,
+          2641,
+          277,
+          2651
+        ],
+        "confidence": 1,
+        "text": "</div>"
+      },
+      {
+        "bbox_px": [
+          966,
+          2460,
+          1298,
+          2479
+        ],
+        "confidence": 1,
+        "text": "Magically accurate autocomplete"
+      },
+      {
+        "bbox_px": [
+          966,
+          2489,
+          1277,
+          2508
+        ],
+        "confidence": 1,
+        "text": "Our custom lab model predicts"
+      },
+      {
+        "bbox_px": [
+          964,
+          2515,
+          1317,
+          2539
+        ],
+        "confidence": 1,
+        "text": "your next action with striking speed"
+      },
+      {
+        "bbox_px": [
+          963,
+          2543,
+          1111,
+          2568
+        ],
+        "confidence": 1,
+        "text": "and precision."
+      },
+      {
+        "bbox_px": [
+          964,
+          2588,
+          1100,
+          2602
+        ],
+        "confidence": 1,
+        "text": "Learn about Tab →"
+      },
+      {
+        "bbox_px": [
+          862,
+          3044,
+          899,
+          3057
+        ],
+        "confidence": 1,
+        "text": "Slack"
+      },
+      {
+        "bbox_px": [
+          91,
+          3271,
+          397,
+          3293
+        ],
+        "confidence": 1,
+        "text": "Everywhere software gets built"
+      },
+      {
+        "bbox_px": [
+          91,
+          3295,
+          475,
+          3324
+        ],
+        "confidence": 1,
+        "text": "Cursor is in GitHub reviewing your PRs,"
+      },
+      {
+        "bbox_px": [
+          88,
+          3328,
+          441,
+          3350
+        ],
+        "confidence": 1,
+        "text": "a teammate in Slack, and anywhere"
+      },
+      {
+        "bbox_px": [
+          88,
+          3357,
+          232,
+          3380
+        ],
+        "confidence": 1,
+        "text": "eise you work."
+      },
+      {
+        "bbox_px": [
+          582,
+          3080,
+          674,
+          3096
+        ],
+        "confidence": 1,
+        "text": "#ask-cursor"
+      },
+      {
+        "bbox_px": [
+          582,
+          3099,
+          645,
+          3115
+        ],
+        "confidence": 1,
+        "text": "8 members"
+      },
+      {
+        "bbox_px": [
+          627,
+          3125,
+          736,
+          3138
+        ],
+        "confidence": 1,
+        "text": "dylan 16/09/2025"
+      },
+      {
+        "bbox_px": [
+          627,
+          3143,
+          1058,
+          3159
+        ],
+        "confidence": 1,
+        "text": "wanna be able to go to cursor.com/changelog#1.0 to see 1.0 changelog"
+      },
+      {
+        "bbox_px": [
+          627,
+          3179,
+          726,
+          3193
+        ],
+        "confidence": 1,
+        "text": "eric 16/09/2025"
+      },
+      {
+        "bbox_px": [
+          624,
+          3200,
+          697,
+          3214
+        ],
+        "confidence": 1,
+        "text": "checks out"
+      },
+      {
+        "bbox_px": [
+          627,
+          3219,
+          805,
+          3236
+        ],
+        "confidence": 1,
+        "text": "@cursor can you take a stab?"
+      },
+      {
+        "bbox_px": [
+          626,
+          3255,
+          784,
+          3274
+        ],
+        "confidence": 1,
+        "text": "Cursor APP 16/09/2025"
+      },
+      {
+        "bbox_px": [
+          624,
+          3274,
+          679,
+          3290
+        ],
+        "confidence": 1,
+        "text": "I implem"
+      },
+      {
+        "bbox_px": [
+          624,
+          3294,
+          679,
+          3308
+        ],
+        "confidence": 1,
+        "text": "across tl"
+      },
+      {
+        "bbox_px": [
+          930,
+          3273,
+          1047,
+          3287
+        ],
+        "confidence": 1,
+        "text": "GitHub Pull Request"
+      },
+      {
+        "bbox_px": [
+          742,
+          3318,
+          791,
+          3329
+        ],
+        "confidence": 1,
+        "text": "cursor"
+      },
+      {
+        "bbox_px": [
+          791,
+          3313,
+          925,
+          3332
+        ],
+        "confidence": 1,
+        "text": "bot reviewed 1m ago"
+      },
+      {
+        "bbox_px": [
+          757,
+          3352,
+          1254,
+          3365
+        ],
+        "confidence": 1,
+        "text": "src/vs/workbench/composer/browser/components/ComposerUnifiedDropdown.tsx"
+      },
+      {
+        "bbox_px": [
+          627,
+          3371,
+          679,
+          3384
+        ],
+        "confidence": 1,
+        "text": "dylan 1"
+      },
+      {
+        "bbox_px": [
+          752,
+          3381,
+          786,
+          3394
+        ],
+        "confidence": 1,
+        "text": "3292"
+      },
+      {
+        "bbox_px": [
+          828,
+          3381,
+          1024,
+          3394
+        ],
+        "confidence": 1,
+        "text": "{selectedMode().keybinding}"
+      },
+      {
+        "bbox_px": [
+          88,
+          3270,
+          397,
+          3294
+        ],
+        "confidence": 1,
+        "text": "Everywhere software gets built"
+      },
+      {
+        "bbox_px": [
+          91,
+          3294,
+          475,
+          3323
+        ],
+        "confidence": 1,
+        "text": "Cursor is in GitHub reviewing your PRs,"
+      },
+      {
+        "bbox_px": [
+          88,
+          3328,
+          441,
+          3352
+        ],
+        "confidence": 1,
+        "text": "a teammate in Slack, and anywhere"
+      },
+      {
+        "bbox_px": [
+          88,
+          3356,
+          235,
+          3377
+        ],
+        "confidence": 1,
+        "text": "else you work."
+      },
+      {
+        "bbox_px": [
+          88,
+          3398,
+          345,
+          3417
+        ],
+        "confidence": 1,
+        "text": "Learn about Cursor's ecosystem →"
+      },
+      {
+        "bbox_px": [
+          627,
+          3200,
+          697,
+          3213
+        ],
+        "confidence": 1,
+        "text": "checks out"
+      },
+      {
+        "bbox_px": [
+          627,
+          3220,
+          804,
+          3236
+        ],
+        "confidence": 1,
+        "text": "@cursor can you take a stab?"
+      },
+      {
+        "bbox_px": [
+          627,
+          3257,
+          784,
+          3273
+        ],
+        "confidence": 1,
+        "text": "Cursor APP 16/09/2025"
+      },
+      {
+        "bbox_px": [
+          626,
+          3275,
+          682,
+          3294
+        ],
+        "confidence": 1,
+        "text": "I implem"
+      },
+      {
+        "bbox_px": [
+          624,
+          3296,
+          679,
+          3310
+        ],
+        "confidence": 1,
+        "text": "across ti"
+      },
+      {
+        "bbox_px": [
+          637,
+          3330,
+          676,
+          3344
+        ],
+        "confidence": 1,
+        "text": "View P"
+      },
+      {
+        "bbox_px": [
+          627,
+          3372,
+          679,
+          3386
+        ],
+        "confidence": 1,
+        "text": "dylan 1"
+      },
+      {
+        "bbox_px": [
+          627,
+          3390,
+          682,
+          3404
+        ],
+        "confidence": 1,
+        "text": "Nice @e"
+      },
+      {
+        "bbox_px": [
+          932,
+          3275,
+          1050,
+          3288
+        ],
+        "confidence": 1,
+        "text": "GitHub Pull Request"
+      },
+      {
+        "bbox_px": [
+          823,
+          3317,
+          925,
+          3330
+        ],
+        "confidence": 1,
+        "text": "reviewed 1m ago"
+      },
+      {
+        "bbox_px": [
+          755,
+          3354,
+          1254,
+          3367
+        ],
+        "confidence": 1,
+        "text": "src/vs/workbench/composer/browser/components/ComposerUnifiedDropdown.tsx"
+      },
+      {
+        "bbox_px": [
+          752,
+          3380,
+          786,
+          3393
+        ],
+        "confidence": 1,
+        "text": "3292"
+      },
+      {
+        "bbox_px": [
+          752,
+          3406,
+          786,
+          3419
+        ],
+        "confidence": 1,
+        "text": "3293"
+      },
+      {
+        "bbox_px": [
+          828,
+          3383,
+          1024,
+          3396
+        ],
+        "confidence": 1,
+        "text": "{selectedMode().keybinding}"
+      },
+      {
+        "bbox_px": [
+          828,
+          3406,
+          1074,
+          3419
+        ],
+        "confidence": 1,
+        "text": "{composerOpenModeToggleKeybinding}"
+      },
+      {
+        "bbox_px": [
+          797,
+          3445,
+          925,
+          3459
+        ],
+        "confidence": 1,
+        "text": "cursor bot 1m ago"
+      },
+      {
+        "bbox_px": [
+          797,
+          3466,
+          1170,
+          3483
+        ],
+        "confidence": 1,
+        "text": "Bug: Function Returns Object Instead of String (Logic bug)"
+      },
+      {
+        "bbox_px": [
+          797,
+          3487,
+          1241,
+          3503
+        ],
+        "confidence": 1,
+        "text": "The composerOpenModeToggleKeybinding is a function that needs to be"
+      },
+      {
+        "bbox_px": [
+          797,
+          3506,
+          1217,
+          3521
+        ],
+        "confidence": 1,
+        "text": "called to get its value. Using it directly causes the keybinding display"
+      },
+      {
+        "bbox_px": [
+          797,
+          3524,
+          977,
+          3540
+        ],
+        "confidence": 1,
+        "text": "condition to always be truthy."
+      },
+      {
+        "bbox_px": [
+          807,
+          3561,
+          901,
+          3577
+        ],
+        "confidence": 1,
+        "text": "• Fix in Cursor"
+      },
+      {
+        "bbox_px": [
+          922,
+          3560,
+          987,
+          3576
+        ],
+        "confidence": 1,
+        "text": "Fix in Web"
+      },
+      {
+        "bbox_px": [
+          478,
+          3846,
+          961,
+          3880
+        ],
+        "confidence": 1,
+        "text": "The new way to build software."
+      },
+      {
+        "bbox_px": [
+          86,
+          3958,
+          433,
+          3974
+        ],
+        "confidence": 1,
+        "text": "It was night and day from one batch to another,"
+      },
+      {
+        "bbox_px": [
+          86,
+          3982,
+          465,
+          4001
+        ],
+        "confidence": 1,
+        "text": "adoption went from single digits to over 80%. It just"
+      },
+      {
+        "bbox_px": [
+          86,
+          4003,
+          462,
+          4024
+        ],
+        "confidence": 1,
+        "text": "spread like wildfire, all the best builders were using"
+      },
+      {
+        "bbox_px": [
+          85,
+          4030,
+          144,
+          4046
+        ],
+        "confidence": 1,
+        "text": "Cursor."
+      },
+      {
+        "bbox_px": [
+          522,
+          3958,
+          909,
+          3977
+        ],
+        "confidence": 1,
+        "text": "The most useful Al tool that I currently pay for, hands"
+      },
+      {
+        "bbox_px": [
+          522,
+          3982,
+          891,
+          3997
+        ],
+        "confidence": 1,
+        "text": "down, is Cursor. It's fast, autocompletes when and"
+      },
+      {
+        "bbox_px": [
+          522,
+          4005,
+          875,
+          4024
+        ],
+        "confidence": 1,
+        "text": "where you need it to, handles brackets properly,"
+      },
+      {
+        "bbox_px": [
+          519,
+          4028,
+          862,
+          4050
+        ],
+        "confidence": 1,
+        "text": "sensible keyboard shortcuts, bring-your-own-"
+      },
+      {
+        "bbox_px": [
+          522,
+          4055,
+          812,
+          4071
+        ],
+        "confidence": 1,
+        "text": "model... everything is well put together."
+      },
+      {
+        "bbox_px": [
+          959,
+          3958,
+          1343,
+          3974
+        ],
+        "confidence": 1,
+        "text": "The best LLM applications have an autonomy slider:"
+      },
+      {
+        "bbox_px": [
+          956,
+          3982,
+          1340,
+          4001
+        ],
+        "confidence": 1,
+        "text": "you control how much independence to give the Al."
+      },
+      {
+        "bbox_px": [
+          956,
+          4005,
+          1319,
+          4022
+        ],
+        "confidence": 1,
+        "text": "In Cursor, you can do Tab completion, Cmd+K for"
+      },
+      {
+        "bbox_px": [
+          956,
+          4031,
+          1296,
+          4047
+        ],
+        "confidence": 1,
+        "text": "targeted edits, or you can let it rip with the full"
+      },
+      {
+        "bbox_px": [
+          956,
+          4055,
+          1155,
+          4071
+        ],
+        "confidence": 1,
+        "text": "autonomy agentic version."
+      },
+      {
+        "bbox_px": [
+          138,
+          4160,
+          203,
+          4173
+        ],
+        "confidence": 1,
+        "text": "Diana Hu"
+      },
+      {
+        "bbox_px": [
+          138,
+          4177,
+          339,
+          4196
+        ],
+        "confidence": 1,
+        "text": "General Partner, Y Combinator"
+      },
+      {
+        "bbox_px": [
+          86,
+          4246,
+          467,
+          4262
+        ],
+        "confidence": 1,
+        "text": "Cursor quickly grew from hundreds to thousands of"
+      },
+      {
+        "bbox_px": [
+          86,
+          4269,
+          470,
+          4288
+        ],
+        "confidence": 1,
+        "text": "extremely enthusiastic Stripe employees. We spend"
+      },
+      {
+        "bbox_px": [
+          86,
+          4291,
+          460,
+          4312
+        ],
+        "confidence": 1,
+        "text": "more on R&D and software creation than any other"
+      },
+      {
+        "bbox_px": [
+          86,
+          4316,
+          425,
+          4335
+        ],
+        "confidence": 1,
+        "text": "undertaking, and there's significant economic"
+      },
+      {
+        "bbox_px": [
+          86,
+          4343,
+          467,
+          4359
+        ],
+        "confidence": 1,
+        "text": "outcomes when making that process more efficient"
+      },
+      {
+        "bbox_px": [
+          86,
+          4366,
+          206,
+          4383
+        ],
+        "confidence": 1,
+        "text": "and productive."
+      },
+      {
+        "bbox_px": [
+          574,
+          4159,
+          629,
+          4173
+        ],
+        "confidence": 1,
+        "text": "shadcn"
+      },
+      {
+        "bbox_px": [
+          574,
+          4180,
+          713,
+          4194
+        ],
+        "confidence": 1,
+        "text": "Creator of shadcn/ui"
+      },
+      {
+        "bbox_px": [
+          522,
+          4246,
+          603,
+          4262
+        ],
+        "confidence": 1,
+        "text": "It's official."
+      },
+      {
+        "bbox_px": [
+          519,
+          4292,
+          658,
+          4312
+        ],
+        "confidence": 1,
+        "text": "I hate vibe coding."
+      },
+      {
+        "bbox_px": [
+          519,
+          4316,
+          705,
+          4335
+        ],
+        "confidence": 1,
+        "text": "I love Cursor tab coding."
+      },
+      {
+        "bbox_px": [
+          520,
+          4366,
+          582,
+          4380
+        ],
+        "confidence": 1,
+        "text": "It's wild."
+      },
+      {
+        "bbox_px": [
+          138,
+          4447,
+          243,
+          4464
+        ],
+        "confidence": 1,
+        "text": "Patrick Collison"
+      },
+      {
+        "bbox_px": [
+          138,
+          4468,
+          310,
+          4484
+        ],
+        "confidence": 1,
+        "text": "Co-Founder & CEO, Stripe"
+      },
+      {
+        "bbox_px": [
+          574,
+          4447,
+          674,
+          4463
+        ],
+        "confidence": 1,
+        "text": "ThePrimeagen"
+      },
+      {
+        "bbox_px": [
+          574,
+          4468,
+          684,
+          4484
+        ],
+        "confidence": 1,
+        "text": "@ThePrimeagen"
+      },
+      {
+        "bbox_px": [
+          1011,
+          4160,
+          1118,
+          4175
+        ],
+        "confidence": 1,
+        "text": "Andrej Karpathy"
+      },
+      {
+        "bbox_px": [
+          1011,
+          4180,
+          1129,
+          4194
+        ],
+        "confidence": 1,
+        "text": "CEO, Eureka Labs"
+      },
+      {
+        "bbox_px": [
+          956,
+          4246,
+          1254,
+          4264
+        ],
+        "confidence": 1,
+        "text": "It's definitely becoming more fun to be a"
+      },
+      {
+        "bbox_px": [
+          959,
+          4269,
+          1332,
+          4288
+        ],
+        "confidence": 1,
+        "text": "programmer. It's less about digging through pages"
+      },
+      {
+        "bbox_px": [
+          956,
+          4293,
+          1343,
+          4311
+        ],
+        "confidence": 1,
+        "text": "and more about what you want to happen. We are at"
+      },
+      {
+        "bbox_px": [
+          956,
+          4316,
+          1301,
+          4337
+        ],
+        "confidence": 1,
+        "text": "the 1% of what's possible, and it's in interactive"
+      },
+      {
+        "bbox_px": [
+          959,
+          4340,
+          1319,
+          4359
+        ],
+        "confidence": 1,
+        "text": "experiences like Cursor where models like GPT-5"
+      },
+      {
+        "bbox_px": [
+          956,
+          4366,
+          1076,
+          4383
+        ],
+        "confidence": 1,
+        "text": "shine brightest."
+      },
+      {
+        "bbox_px": [
+          1011,
+          4447,
+          1115,
+          4464
+        ],
+        "confidence": 1,
+        "text": "Greg Brockman"
+      },
+      {
+        "bbox_px": [
+          1011,
+          4468,
+          1134,
+          4484
+        ],
+        "confidence": 1,
+        "text": "President, OpenAl"
+      },
+      {
+        "bbox_px": [
+          67,
+          4688,
+          290,
+          4717
+        ],
+        "confidence": 1,
+        "text": "Stay on the frontier"
+      },
+      {
+        "bbox_px": [
+          86,
+          4758,
+          266,
+          4775
+        ],
+        "confidence": 1,
+        "text": "Access the best models"
+      },
+      {
+        "bbox_px": [
+          86,
+          4782,
+          446,
+          4798
+        ],
+        "confidence": 1,
+        "text": "Choose between every cutting-edge model from"
+      },
+      {
+        "bbox_px": [
+          86,
+          4805,
+          350,
+          4822
+        ],
+        "confidence": 1,
+        "text": "OpenAl, Anthropic, Gemini, and xAI."
+      },
+      {
+        "bbox_px": [
+          86,
+          4845,
+          216,
+          4861
+        ],
+        "confidence": 1,
+        "text": "Explore models 7"
+      },
+      {
+        "bbox_px": [
+          522,
+          4756,
+          786,
+          4774
+        ],
+        "confidence": 1,
+        "text": "Complete codebase understanding"
+      },
+      {
+        "bbox_px": [
+          522,
+          4782,
+          899,
+          4798
+        ],
+        "confidence": 1,
+        "text": "Cursor learns how your codebase works, no matter"
+      },
+      {
+        "bbox_px": [
+          522,
+          4806,
+          700,
+          4825
+        ],
+        "confidence": 1,
+        "text": "the scale or complexity."
+      },
+      {
+        "bbox_px": [
+          522,
+          4843,
+          773,
+          4861
+        ],
+        "confidence": 1,
+        "text": "Learn about codebase indexing 7"
+      },
+      {
+        "bbox_px": [
+          959,
+          4758,
+          1160,
+          4775
+        ],
+        "confidence": 1,
+        "text": "Develop enduring software"
+      },
+      {
+        "bbox_px": [
+          956,
+          4780,
+          1346,
+          4800
+        ],
+        "confidence": 1,
+        "text": "Trusted by over half of the Fortune 500 to accelerate"
+      },
+      {
+        "bbox_px": [
+          956,
+          4805,
+          1225,
+          4822
+        ],
+        "confidence": 1,
+        "text": "development, securely and at scale."
+      },
+      {
+        "bbox_px": [
+          959,
+          4845,
+          1113,
+          4861
+        ],
+        "confidence": 1,
+        "text": "Explore enterprise →"
+      },
+      {
+        "bbox_px": [
+          86,
+          4804,
+          347,
+          4823
+        ],
+        "confidence": 1,
+        "text": "OpenAl, Anthropic, Gemini, and xAI."
+      },
+      {
+        "bbox_px": [
+          86,
+          4843,
+          216,
+          4860
+        ],
+        "confidence": 1,
+        "text": "Explore models 7"
+      },
+      {
+        "bbox_px": [
+          520,
+          4804,
+          700,
+          4823
+        ],
+        "confidence": 1,
+        "text": "the scale or complexity."
+      },
+      {
+        "bbox_px": [
+          520,
+          4843,
+          773,
+          4862
+        ],
+        "confidence": 1,
+        "text": "Learn about codebase indexing 7"
+      },
+      {
+        "bbox_px": [
+          956,
+          4805,
+          1223,
+          4825
+        ],
+        "confidence": 1,
+        "text": "development, securely and at scale"
+      },
+      {
+        "bbox_px": [
+          956,
+          4843,
+          1113,
+          4862
+        ],
+        "confidence": 1,
+        "text": "Explore enterprise →"
+      },
+      {
+        "bbox_px": [
+          132,
+          4998,
+          230,
+          5016
+        ],
+        "confidence": 1,
+        "text": "Auto Suggested"
+      },
+      {
+        "bbox_px": [
+          133,
+          5027,
+          232,
+          5041
+        ],
+        "confidence": 1,
+        "text": "GPT-5 High Fast"
+      },
+      {
+        "bbox_px": [
+          133,
+          5055,
+          248,
+          5069
+        ],
+        "confidence": 1,
+        "text": "Claude Sonnet 4.5"
+      },
+      {
+        "bbox_px": [
+          133,
+          5085,
+          235,
+          5098
+        ],
+        "confidence": 1,
+        "text": "Claude Opus 4.1"
+      },
+      {
+        "bbox_px": [
+          133,
+          5113,
+          224,
+          5127
+        ],
+        "confidence": 1,
+        "text": "Gemini 2.5 Pro"
+      },
+      {
+        "bbox_px": [
+          133,
+          5142,
+          201,
+          5155
+        ],
+        "confidence": 1,
+        "text": "Grok Code"
+      },
+      {
+        "bbox_px": [
+          564,
+          5045,
+          836,
+          5059
+        ],
+        "confidence": 1,
+        "text": "Where are these menu label colors defined?"
+      },
+      {
+        "bbox_px": [
+          559,
+          5087,
+          718,
+          5103
+        ],
+        "confidence": 1,
+        "text": "Grepped Choose a model"
+      },
+      {
+        "bbox_px": [
+          558,
+          5113,
+          614,
+          5131
+        ],
+        "confidence": 1,
+        "text": "Searchin"
+      },
+      {
+        "bbox_px": [
+          67,
+          5475,
+          199,
+          5504
+        ],
+        "confidence": 1,
+        "text": "Changelog"
+      },
+      {
+        "bbox_px": [
+          138,
+          5544,
+          237,
+          5564
+        ],
+        "confidence": 1,
+        "text": "Sep 29, 2025"
+      },
+      {
+        "bbox_px": [
+          83,
+          5581,
+          331,
+          5603
+        ],
+        "confidence": 1,
+        "text": "Agent Autocomplete, Hooks, and"
+      },
+      {
+        "bbox_px": [
+          85,
+          5606,
+          175,
+          5625
+        ],
+        "confidence": 1,
+        "text": "Team Rules"
+      },
+      {
+        "bbox_px": [
+          459,
+          5545,
+          561,
+          5563
+        ],
+        "confidence": 1,
+        "text": "Sep 12, 2025"
+      },
+      {
+        "bbox_px": [
+          412,
+          5582,
+          695,
+          5601
+        ],
+        "confidence": 1,
+        "text": "Slash commands, summarization, and"
+      },
+      {
+        "bbox_px": [
+          412,
+          5607,
+          601,
+          5624
+        ],
+        "confidence": 1,
+        "text": "improved Agent terminal"
+      },
+      {
+        "bbox_px": [
+          747,
+          5545,
+          888,
+          5563
+        ],
+        "confidence": 1,
+        "text": "1.5) Aug 21, 2025"
+      },
+      {
+        "bbox_px": [
+          739,
+          5582,
+          998,
+          5601
+        ],
+        "confidence": 1,
+        "text": "Linear integration, improved Agent"
+      },
+      {
+        "bbox_px": [
+          739,
+          5605,
+          961,
+          5624
+        ],
+        "confidence": 1,
+        "text": "terminal, and OS notifications"
+      },
+      {
+        "bbox_px": [
+          1071,
+          5545,
+          1215,
+          5563
+        ],
+        "confidence": 1,
+        "text": "1.4) Aug 6,2025"
+      },
+      {
+        "bbox_px": [
+          1066,
+          5582,
+          1351,
+          5601
+        ],
+        "confidence": 1,
+        "text": "Improved Agent tools, steerability, and"
+      },
+      {
+        "bbox_px": [
+          1066,
+          5607,
+          1181,
+          5624
+        ],
+        "confidence": 1,
+        "text": "usage visibility"
+      },
+      {
+        "bbox_px": [
+          67,
+          5670,
+          274,
+          5689
+        ],
+        "confidence": 1,
+        "text": "See what's new in Cursor →"
+      },
+      {
+        "bbox_px": [
+          70,
+          5830,
+          609,
+          5871
+        ],
+        "confidence": 1,
+        "text": "Cursor is an applied team focused"
+      },
+      {
+        "bbox_px": [
+          67,
+          5875,
+          574,
+          5915
+        ],
+        "confidence": 1,
+        "text": "on building the future of coding."
+      },
+      {
+        "bbox_px": [
+          91,
+          5949,
+          162,
+          5968
+        ],
+        "confidence": 1,
+        "text": "Join us A"
+      },
+      {
+        "bbox_px": [
+          213,
+          6045,
+          321,
+          6095
+        ],
+        "confidence": 1,
+        "text": "embedd."
+      },
+      {
+        "bbox_px": [
+          363,
+          6037,
+          423,
+          6066
+        ],
+        "confidence": 0.30000001192092896,
+        "text": "FP8>"
+      },
+      {
+        "bbox_px": [
+          457,
+          6105,
+          560,
+          6155
+        ],
+        "confidence": 1,
+        "text": "Sachground"
+      },
+      {
+        "bbox_px": [
+          475,
+          6131,
+          531,
+          6165
+        ],
+        "confidence": 1,
+        "text": "agent"
+      },
+      {
+        "bbox_px": [
+          478,
+          6168,
+          581,
+          6228
+        ],
+        "confidence": 0.30000001192092896,
+        "text": "L Set up"
+      },
+      {
+        "bbox_px": [
+          510,
+          6213,
+          590,
+          6242
+        ],
+        "confidence": 1,
+        "text": "Envivonmert"
+      },
+      {
+        "bbox_px": [
+          424,
+          6293,
+          520,
+          6372
+        ],
+        "confidence": 1,
+        "text": "hinking"
+      },
+      {
+        "bbox_px": [
+          67,
+          6993,
+          201,
+          7013
+        ],
+        "confidence": 1,
+        "text": "Recent highlights"
+      },
+      {
+        "bbox_px": [
+          405,
+          7006,
+          674,
+          7025
+        ],
+        "confidence": 1,
+        "text": "Improving Cursor Tab with online RL"
+      },
+      {
+        "bbox_px": [
+          407,
+          7030,
+          961,
+          7048
+        ],
+        "confidence": 1,
+        "text": "Our new Tab model makes 21% fewer suggestions while having 28% higher"
+      },
+      {
+        "bbox_px": [
+          407,
+          7058,
+          501,
+          7075
+        ],
+        "confidence": 1,
+        "text": "accept rate."
+      },
+      {
+        "bbox_px": [
+          407,
+          7103,
+          585,
+          7119
+        ],
+        "confidence": 1,
+        "text": "Research • Sep 12, 2025"
+      },
+      {
+        "bbox_px": [
+          407,
+          7163,
+          784,
+          7182
+        ],
+        "confidence": 1,
+        "text": "1.5x faster MoE training with custom MXFP8 kernels"
+      },
+      {
+        "bbox_px": [
+          407,
+          7186,
+          995,
+          7207
+        ],
+        "confidence": 1,
+        "text": "Achieving a 3.5x MoE layer speedup with a complete rebuild for Blackwell GPUs."
+      },
+      {
+        "bbox_px": [
+          407,
+          7234,
+          588,
+          7252
+        ],
+        "confidence": 1,
+        "text": "Research • Aug 29, 2025"
+      },
+      {
+        "bbox_px": [
+          407,
+          7296,
+          551,
+          7313
+        ],
+        "confidence": 1,
+        "text": "Series C and Scale"
+      },
+      {
+        "bbox_px": [
+          407,
+          7320,
+          867,
+          7339
+        ],
+        "confidence": 1,
+        "text": "We've raised $900m to push the frontier of Al coding research."
+      },
+      {
+        "bbox_px": [
+          407,
+          7367,
+          577,
+          7386
+        ],
+        "confidence": 1,
+        "text": "Company • Jun 6,2025"
+      },
+      {
+        "bbox_px": [
+          392,
+          7430,
+          535,
+          7447
+        ],
+        "confidence": 1,
+        "text": "View more posts →"
+      },
+      {
+        "bbox_px": [
+          480,
+          7686,
+          959,
+          7752
+        ],
+        "confidence": 1,
+        "text": "Try Cursor now."
+      },
+      {
+        "bbox_px": [
+          632,
+          7788,
+          804,
+          7804
+        ],
+        "confidence": 1,
+        "text": "Download for macOS y"
+      },
+      {
+        "bbox_px": [
+          67,
+          8029,
+          125,
+          8045
+        ],
+        "confidence": 1,
+        "text": "Product"
+      },
+      {
+        "bbox_px": [
+          67,
+          8058,
+          130,
+          8075
+        ],
+        "confidence": 1,
+        "text": "Features"
+      },
+      {
+        "bbox_px": [
+          67,
+          8090,
+          141,
+          8105
+        ],
+        "confidence": 1,
+        "text": "Enterprise"
+      },
+      {
+        "bbox_px": [
+          67,
+          8121,
+          120,
+          8137
+        ],
+        "confidence": 1,
+        "text": "Bugbot"
+      },
+      {
+        "bbox_px": [
+          67,
+          8152,
+          94,
+          8165
+        ],
+        "confidence": 1,
+        "text": "CLI"
+      },
+      {
+        "bbox_px": [
+          67,
+          8182,
+          120,
+          8197
+        ],
+        "confidence": 1,
+        "text": "Pricing"
+      },
+      {
+        "bbox_px": [
+          851,
+          8032,
+          893,
+          8045
+        ],
+        "confidence": 1,
+        "text": "Legal"
+      },
+      {
+        "bbox_px": [
+          851,
+          8060,
+          966,
+          8077
+        ],
+        "confidence": 1,
+        "text": "Terms of Service"
+      },
+      {
+        "bbox_px": [
+          851,
+          8090,
+          948,
+          8108
+        ],
+        "confidence": 1,
+        "text": "Privacy Policy"
+      },
+      {
+        "bbox_px": [
+          851,
+          8121,
+          917,
+          8137
+        ],
+        "confidence": 1,
+        "text": "Data Use"
+      },
+      {
+        "bbox_px": [
+          851,
+          8151,
+          912,
+          8167
+        ],
+        "confidence": 1,
+        "text": "Security"
+      },
+      {
+        "bbox_px": [
+          1115,
+          8029,
+          1176,
+          8045
+        ],
+        "confidence": 1,
+        "text": "Connect"
+      },
+      {
+        "bbox_px": [
+          1113,
+          8089,
+          1173,
+          8106
+        ],
+        "confidence": 1,
+        "text": "LinkedIn"
+      },
+      {
+        "bbox_px": [
+          1113,
+          8121,
+          1173,
+          8137
+        ],
+        "confidence": 1,
+        "text": "YouTube"
+      },
+      {
+        "bbox_px": [
+          329,
+          8152,
+          368,
+          8165
+        ],
+        "confidence": 1,
+        "text": "Docs"
+      },
+      {
+        "bbox_px": [
+          329,
+          8181,
+          376,
+          8197
+        ],
+        "confidence": 1,
+        "text": "Forum"
+      },
+      {
+        "bbox_px": [
+          853,
+          8031,
+          893,
+          8046
+        ],
+        "confidence": 1,
+        "text": "Legal"
+      },
+      {
+        "bbox_px": [
+          66,
+          8150,
+          94,
+          8167
+        ],
+        "confidence": 1,
+        "text": "CLI"
+      },
+      {
+        "bbox_px": [
+          69,
+          8309,
+          355,
+          8328
+        ],
+        "confidence": 1,
+        "text": "© 2025 Anysphere, Inc. © SOC 2 Certified"
+      },
+      {
+        "bbox_px": [
+          1151,
+          8309,
+          1239,
+          8328
+        ],
+        "confidence": 0.30000001192092896,
+        "text": "• ë С"
+      },
+      {
+        "bbox_px": [
+          1274,
+          8309,
+          1362,
+          8328
+        ],
+        "confidence": 1,
+        "text": "• English v"
+      }
+    ],
+    "path": "screenshots/cursor.png",
+    "width": 1440
+  }
+]
