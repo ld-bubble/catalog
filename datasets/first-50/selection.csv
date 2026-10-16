@@ -1,0 +1,51 @@
+id,name,industry,audience,conversion_goal,style,color_family,hero_layout,headline
+acorns,Acorns,Finance,Consumers,signup,illustration-led,green,centered,Acorns helps you save and invest
+stripe,Stripe,Finance,Businesses and developers,signup,abstract-gradient,multicolor,left,Financial infrastructure to grow your revenue.
+mercury,Mercury,Finance,Business owners,open-account,photography-led,natural,centered,Radically different banking
+wise,Wise,Finance,Consumers and businesses,open-account,bold-typography,green,centered,"MONEY FOR HERE, THERE AND EVERYWHERE"
+revolut,Revolut,Finance,Consumers,download,photography-led,blue,left,BREAKTHROUGH BANKING
+ramp,Ramp,Finance,Business finance teams,lead-capture,interface-led,lime,left,Time is money. Save both.
+gusto,Gusto,HR and employment,Business owners and HR teams,signup,expressive-product,red,centered,"Hire, pay, and grow like a pro."
+deel,Deel,HR and employment,Global employers,book-demo,photography-led,black,split,"Hire, manage, pay, & equip anyone, anywhere."
+remote-2,Remote,HR and employment,Global employers,book-demo,diagram-led,blue,split,Global employment runs on Remote
+qonto,Qonto,Finance,Business owners,open-account,photography-led,black,left,Business account. Finance management. Company creation.
+linear,Linear,Productivity and collaboration,Product and engineering teams,open-app,interface-led,black,left,The product development system for teams and agents
+notion,Notion,Productivity and collaboration,Knowledge-work teams,signup,interface-and-illustration,white,centered,Where teams and agents Ship together.
+figma,Figma,Design and website building,Design and product teams,signup,editorial-collage,white,three-part,The intelligent canvas for infinite creativity
+webflow,Webflow,Design and website building,Marketing and web teams,signup,showcase-led,white,left,Build for what’s next
+framer,Framer,Design and website building,Designers and web teams,signup,interface-led,black,left,Design with agents. Refine on the canvas. Ship with your team.
+squarespace,Squarespace,Design and website building,Creators and business owners,signup,photography-led,black,centered,A website makes it real
+shopify,Shopify,Commerce and logistics,Merchants,free-trial,photography-led,black,left,Be the next big thing
+github,GitHub,Developer infrastructure,Developers and engineering teams,free-trial,illustration-led,purple,centered,The future of building happens together
+vercel,Vercel,Developer infrastructure,Developers and AI teams,deploy,minimal-geometric,white,three-part,Agentic Infrastructure
+supabase,Supabase,Developer infrastructure,Developers,start-project,bold-typography,black,centered,Build in a weekend Scale to millions
+cloudflare-workers,Cloudflare Workers,Developer infrastructure,Developers,signup,diagram-led,white,centered,Deploy serverless functions globally in seconds
+cursor,Cursor,AI products,Developers,download,interface-led,cream,left,"Built to make you extraordinarily productive, Cursor is the best way to code with AI."
+claude,Claude,AI products,Knowledge workers,try-product,illustration-led,cream,split,Meet your thinking partner
+chatgpt,ChatGPT,AI products,Consumers and knowledge workers,try-product,interface-and-illustration,white,centered,"Now you can chat, work & code all in one place."
+runway,Runway,AI products,Creative and technical teams,free-trial,photography-led,blue,left,Building Real-World Intelligence
+descript-2,Descript,AI products,Video creators,signup,expressive-product,burgundy,centered,AI-editing for every kind of video
+grammarly,Grammarly,AI products,Writers and teams,signup,interface-led,white,split,Responsible AI that ensures your writing and reputation shine
+intercom,Intercom,Customer service,Customer support teams,free-trial,editorial-collage,white,split,The only helpdesk designed for the AI Agent era
+zendesk,Zendesk,Customer service,Customer support teams,free-trial,photography-led,lime,left,Move beyond deflection. Deliver real resolutions.
+mailchimp,Mailchimp,Marketing and sales,Marketing teams,signup,editorial-showcase,yellow,centered,Turn Emails into Revenue
+buffer,Buffer,Marketing and sales,Creators and social teams,signup,icon-led,white,centered,Your social media workspace
+ahrefs,Ahrefs,Marketing and sales,SEO and marketing teams,signup,bold-typography,blue,left,Everything you need to rank higher & get more traffic
+semrush,Semrush,Marketing and sales,Marketing teams,lead-capture,interface-led,mint,centered,Be found everywhere search happens
+typeform,Typeform,Marketing and sales,Marketing and research teams,signup,editorial-typography,purple,centered,Your favorite forms. Now with AI automation.
+calendly,Calendly,Productivity and collaboration,Professionals and sales teams,signup,interface-led,blue,centered,"All the work around meetings, handled."
+basecamp,Basecamp,Productivity and collaboration,Project teams,signup,editorial-product,cream,split,The refreshingly straightforward project management system that’s rock-solid and easy to use.
+todoist,Todoist,Productivity and collaboration,Individuals and teams,signup,interface-and-illustration,cream,split,"Organize your work and life, finally."
+dropbox,Dropbox,Productivity and collaboration,Individuals and teams,free-trial,interface-led,white,split,"Get to work, with a lot less work"
+miro,Miro,Productivity and collaboration,Collaborative teams,signup,interface-led,cream,centered,"Innovate faster with Miro, the AI-powered visual workspace."
+coda,Coda,Productivity and collaboration,Knowledge-work teams,signup,interface-led,peach,left,Your all-in-one collaborative workspace.
+pitch,Pitch,Productivity and collaboration,Presentation and sales teams,generate,template-collage,purple,centered,Create slides that win.
+raycast,Raycast,Productivity and collaboration,Desktop power users,download,abstract-3d,black,centered,Your shortcut to everything.
+patreon,Patreon,Creator platforms,Creators,signup,photography-led,natural,distributed,Make it making art
+substack,Substack,Creator platforms,Writers and creators,start-publishing,abstract-gradient,orange,centered,Make money doing the work you believe in.
+teachable,Teachable,Education,Education creators,signup,interface-led,lime,centered,The easiest-to-use platform to grow your education business
+brilliant,Brilliant,Education,Learners and parents,audience-selection,illustration-led,green,split,Your personal tutor for math and coding
+oscar,Oscar,Healthcare,Insurance shoppers,find-plan,photography-led,purple,centered,Health insurance made for real life
+infermedica,Infermedica,Healthcare,Healthcare organizations,book-meeting,photography-and-interface,purple,centered,Provide the most accurate and efficient care with Infermedica's symptom checker and virtual triage
+shipbob,ShipBob,Commerce and logistics,Ecommerce businesses,get-quote,testimonial-led,blue,split,Chaos-proof your fulfillment with ShipBob
+mapbox,Mapbox,Developer infrastructure,Developers and businesses,signup,technical-minimal,black,centered,Location Infrastructure for AI

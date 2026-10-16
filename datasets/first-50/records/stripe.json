@@ -1,0 +1,8848 @@
+{
+  "schema_version": "0.1",
+  "id": "stripe",
+  "annotation": {
+    "status": "pilot_partial",
+    "method": "Assistant visual inspection of all 50 overview/full-page thumbnails and readable top-window crops; manual hero-copy transcription; local Apple Vision OCR of full screenshots.",
+    "coverage": [
+      "Visible headline and selected actions",
+      "Supporting hero copy where recorded",
+      "Industry/audience/intended action retrieval facets",
+      "Observed desktop composition and evidence images"
+    ],
+    "unreviewed": [
+      "Full-page OCR transcription candidates",
+      "Precise semantic body-section segmentation",
+      "Runtime and responsive behavior"
+    ]
+  },
+  "provenance": {
+    "gallery_url": "https://saaslandingpage.com/stripe",
+    "gallery_saved_at": "2026-09-29T15:05:34.431Z",
+    "original_site_url": null,
+    "screenshot_captured_at": null,
+    "gallery_meta_path": "provenance/stripe-meta.json",
+    "gallery_text_path": "provenance/stripe-gallery.txt"
+  },
+  "images": [
+    {
+      "id": "full",
+      "path": "screenshots/stripe.png",
+      "sha256": "c8bc67bf92e7446bd2113c8d44b81c0267ee103173b1dbb70156d82413380f23",
+      "width": 1440,
+      "height": 14576,
+      "role": "source",
+      "parent_id": null,
+      "bbox_px": null
+    },
+    {
+      "id": "hero-window",
+      "path": "crops/stripe-hero.png",
+      "sha256": "4faf25f92af8a99aa17f96070776b28533a8a2cb7438bd1311e4af41df3374cd",
+      "width": 1440,
+      "height": 1000,
+      "role": "crop",
+      "parent_id": "full",
+      "bbox_px": [
+        0,
+        0,
+        1440,
+        1000
+      ]
+    }
+  ],
+  "retrieval": {
+    "page_kind": "landing-page",
+    "summary": "Oversized continuous headline and supporting copy sit below a diagonal orange-purple gradient, followed by customer logos.",
+    "tags": [
+      "industry:Finance",
+      "audience:Businesses and developers",
+      "conversion_goal:signup",
+      "style:abstract-gradient",
+      "color_family:multicolor",
+      "hero_layout:left"
+    ]
+  },
+  "claims": [
+    {
+      "field": "industry",
+      "value": "Finance",
+      "basis": "interpretation",
+      "confidence": "medium",
+      "evidence_ids": [
+        "hero-window",
+        "full"
+      ]
+    },
+    {
+      "field": "audience",
+      "value": "Businesses and developers",
+      "basis": "interpretation",
+      "confidence": "medium",
+      "evidence_ids": [
+        "hero-window",
+        "full"
+      ]
+    },
+    {
+      "field": "conversion_goal",
+      "value": "signup",
+      "basis": "interpretation",
+      "confidence": "medium",
+      "evidence_ids": [
+        "hero-window",
+        "full"
+      ]
+    },
+    {
+      "field": "style",
+      "value": "abstract-gradient",
+      "basis": "interpretation",
+      "confidence": "medium",
+      "evidence_ids": [
+        "hero-window",
+        "full"
+      ]
+    },
+    {
+      "field": "color_family",
+      "value": "multicolor",
+      "basis": "screenshot_observation",
+      "confidence": "high",
+      "evidence_ids": [
+        "hero-window",
+        "full"
+      ]
+    },
+    {
+      "field": "hero_layout",
+      "value": "left",
+      "basis": "screenshot_observation",
+      "confidence": "high",
+      "evidence_ids": [
+        "hero-window",
+        "full"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "id": "top-window",
+      "order": 0,
+      "role": "top-page-evidence-window",
+      "pattern": "left",
+      "takeaway": "Financial infrastructure to grow your revenue.",
+      "evidence_ids": [
+        "hero-window",
+        "full"
+      ],
+      "observations": [
+        "Oversized continuous headline and supporting copy sit below a diagonal orange-purple gradient, followed by customer logos.",
+        "Window includes the page header and may include the start of subsequent content."
+      ],
+      "visible_affordances": [
+        "Get started",
+        "Sign up with Google"
+      ],
+      "runtime_verified": false
+    },
+    {
+      "id": "remaining-page",
+      "order": 1,
+      "role": "unsegmented-page-body",
+      "pattern": "unclassified",
+      "takeaway": "Inspect the full screenshot; detailed body annotation is pending.",
+      "evidence_ids": [
+        "full"
+      ],
+      "observations": [
+        "Full-page visual evidence and unreviewed OCR are retained."
+      ],
+      "visible_affordances": [],
+      "runtime_verified": false
+    }
+  ],
+  "recipes": [],
+  "unknowns": [
+    "No conversion-performance data; conversion_goal describes an intended visible action.",
+    "No verified mobile layout, animation, interaction, DOM, source code, font names, or CSS spacing values.",
+    "Screenshot capture date is unknown; gallery savedAt is the download date.",
+    "Full-page semantic section boundaries and body copy classification remain unreviewed.",
+    "The first 1000 pixels are an evidence window, not a browser viewport or exact hero boundary.",
+    "Copy text omits decorative icons; text punctuation is transcribed as visible, but font-specific glyph identity is not established."
+  ],
+  "copy_blocks": [
+    {
+      "id": "copy-01",
+      "section_id": "top-window",
+      "role": "headline",
+      "text_verbatim": "Financial infrastructure to grow your revenue.",
+      "visible_lines": [],
+      "evidence_ids": [
+        "hero-window",
+        "full"
+      ],
+      "reading_order": 0,
+      "transcription_status": "visually_verified",
+      "uncertainties": [
+        "Visual line wrapping is not transcribed; use the screenshot.",
+        "Reading order is grouped editorially by copy role, not a DOM reading-order measurement."
+      ]
+    },
+    {
+      "id": "copy-02",
+      "section_id": "top-window",
+      "role": "supporting_copy",
+      "text_verbatim": "Accept payments, offer financial services and implement custom revenue models – from your first transaction to your billionth.",
+      "visible_lines": [],
+      "evidence_ids": [
+        "hero-window",
+        "full"
+      ],
+      "reading_order": 1,
+      "transcription_status": "visually_verified",
+      "uncertainties": [
+        "Visual line wrapping is not transcribed; use the screenshot.",
+        "Reading order is grouped editorially by copy role, not a DOM reading-order measurement."
+      ]
+    },
+    {
+      "id": "copy-03",
+      "section_id": "top-window",
+      "role": "cta",
+      "text_verbatim": "Get started",
+      "visible_lines": [],
+      "evidence_ids": [
+        "hero-window",
+        "full"
+      ],
+      "reading_order": 2,
+      "transcription_status": "visually_verified",
+      "uncertainties": [
+        "Visual line wrapping is not transcribed; use the screenshot.",
+        "Reading order is grouped editorially by copy role, not a DOM reading-order measurement."
+      ]
+    },
+    {
+      "id": "copy-04",
+      "section_id": "top-window",
+      "role": "cta",
+      "text_verbatim": "Sign up with Google",
+      "visible_lines": [],
+      "evidence_ids": [
+        "hero-window",
+        "full"
+      ],
+      "reading_order": 3,
+      "transcription_status": "visually_verified",
+      "uncertainties": [
+        "Visual line wrapping is not transcribed; use the screenshot.",
+        "Reading order is grouped editorially by copy role, not a DOM reading-order measurement."
+      ]
+    }
+  ],
+  "transcription_candidates": [
+    {
+      "id": "ocr-0001",
+      "section_id": "top-window",
+      "text_raw": "Stripe Products y Solutions v Developers v Resources v Pricing",
+      "bbox_px": [
+        104,
+        31,
+        666,
+        58
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0002",
+      "section_id": "top-window",
+      "text_raw": "Sign in",
+      "bbox_px": [
+        1123,
+        36,
+        1170,
+        52
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0003",
+      "section_id": "top-window",
+      "text_raw": "Contact sales ›",
+      "bbox_px": [
+        1212,
+        36,
+        1317,
+        52
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0004",
+      "section_id": "top-window",
+      "text_raw": "Global GDP running on Stripe: 1.56399583%",
+      "bbox_px": [
+        206,
+        245,
+        488,
+        264
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0005",
+      "section_id": "top-window",
+      "text_raw": "Financial infrastructure to grow your revenue.",
+      "bbox_px": [
+        208,
+        310,
+        1129,
+        365
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0006",
+      "section_id": "top-window",
+      "text_raw": "Accept payments, offer financial services and",
+      "bbox_px": [
+        206,
+        368,
+        1129,
+        421
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0007",
+      "section_id": "top-window",
+      "text_raw": "implement custom revenue models - from",
+      "bbox_px": [
+        203,
+        423,
+        1068,
+        468
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0008",
+      "section_id": "top-window",
+      "text_raw": "your first transaction to your billionth.",
+      "bbox_px": [
+        206,
+        478,
+        966,
+        526
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0009",
+      "section_id": "top-window",
+      "text_raw": "G Sign up with Google",
+      "bbox_px": [
+        378,
+        577,
+        546,
+        601
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0010",
+      "section_id": "top-window",
+      "text_raw": "Get started ›",
+      "bbox_px": [
+        229,
+        578,
+        329,
+        596
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0011",
+      "section_id": "top-window",
+      "text_raw": "Google",
+      "bbox_px": [
+        995,
+        800,
+        1069,
+        826
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0012",
+      "section_id": "top-window",
+      "text_raw": "E shopify",
+      "bbox_px": [
+        1159,
+        801,
+        1249,
+        826
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0013",
+      "section_id": "top-window",
+      "text_raw": "amazon",
+      "bbox_px": [
+        308,
+        802,
+        384,
+        824
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0014",
+      "section_id": "top-window",
+      "text_raw": "coinbase",
+      "bbox_px": [
+        817,
+        802,
+        904,
+        824
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0015",
+      "section_id": "top-window",
+      "text_raw": "OpenAl",
+      "bbox_px": [
+        138,
+        803,
+        211,
+        826
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0016",
+      "section_id": "top-window",
+      "text_raw": "@nVIDIA",
+      "bbox_px": [
+        475,
+        805,
+        562,
+        824
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0017",
+      "section_id": "top-window",
+      "text_raw": "Flexible solutions for every business model. Grow your business with",
+      "bbox_px": [
+        104,
+        951,
+        1027,
+        984
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0018",
+      "section_id": "top-window",
+      "text_raw": "a comprehensive set of payments and financial tools - designed to",
+      "bbox_px": [
+        101,
+        985,
+        1003,
+        1020
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0019",
+      "section_id": "remaining-page",
+      "text_raw": "work individually or together.",
+      "bbox_px": [
+        101,
+        1022,
+        499,
+        1054
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0020",
+      "section_id": "remaining-page",
+      "text_raw": "Enable any billing model",
+      "bbox_px": [
+        956,
+        1142,
+        1236,
+        1172
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0021",
+      "section_id": "remaining-page",
+      "text_raw": "Accept and optimise payments",
+      "bbox_px": [
+        125,
+        1145,
+        480,
+        1172
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0022",
+      "section_id": "remaining-page",
+      "text_raw": "globally - online and in person",
+      "bbox_px": [
+        125,
+        1174,
+        470,
+        1200
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0023",
+      "section_id": "remaining-page",
+      "text_raw": "@ roastery.com/checkout",
+      "bbox_px": [
+        648,
+        1281,
+        757,
+        1295
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0024",
+      "section_id": "remaining-page",
+      "text_raw": "Pro Plan",
+      "bbox_px": [
+        1042,
+        1289,
+        1100,
+        1303
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0025",
+      "section_id": "remaining-page",
+      "text_raw": "Billed monthly",
+      "bbox_px": [
+        1042,
+        1308,
+        1123,
+        1321
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0026",
+      "section_id": "remaining-page",
+      "text_raw": "ROASTERY.",
+      "bbox_px": [
+        433,
+        1321,
+        496,
+        1334
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0027",
+      "section_id": "remaining-page",
+      "text_raw": "Tokens",
+      "bbox_px": [
+        995,
+        1339,
+        1037,
+        1352
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0028",
+      "section_id": "remaining-page",
+      "text_raw": "€0.01 per 1,000 units",
+      "bbox_px": [
+        993,
+        1357,
+        1102,
+        1373
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0029",
+      "section_id": "remaining-page",
+      "text_raw": "Pay Roastery",
+      "bbox_px": [
+        224,
+        1370,
+        287,
+        1384
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0030",
+      "section_id": "remaining-page",
+      "text_raw": "• Usage meter",
+      "bbox_px": [
+        993,
+        1386,
+        1081,
+        1402
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0031",
+      "section_id": "remaining-page",
+      "text_raw": "US$5.46",
+      "bbox_px": [
+        203,
+        1394,
+        305,
+        1421
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0032",
+      "section_id": "remaining-page",
+      "text_raw": "Order summary",
+      "bbox_px": [
+        742,
+        1399,
+        831,
+        1412
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0033",
+      "section_id": "remaining-page",
+      "text_raw": "jane.diaz@stripe.com",
+      "bbox_px": [
+        449,
+        1402,
+        548,
+        1415
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0034",
+      "section_id": "remaining-page",
+      "text_raw": "Tap, insert or swipe to pay",
+      "bbox_px": [
+        196,
+        1430,
+        316,
+        1444
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0035",
+      "section_id": "remaining-page",
+      "text_raw": "© link",
+      "bbox_px": [
+        480,
+        1446,
+        514,
+        1459
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0036",
+      "section_id": "remaining-page",
+      "text_raw": "• Pay",
+      "bbox_px": [
+        603,
+        1446,
+        635,
+        1459
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0037",
+      "section_id": "remaining-page",
+      "text_raw": "Electric Kettle with",
+      "bbox_px": [
+        833,
+        1449,
+        917,
+        1462
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0038",
+      "section_id": "remaining-page",
+      "text_raw": "emde atue",
+      "bbox_px": [
+        838,
+        1465,
+        891,
+        1470
+      ],
+      "ocr_confidence": 0.30000001192092896,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0039",
+      "section_id": "remaining-page",
+      "text_raw": "Tokens used in the last 30 days",
+      "bbox_px": [
+        992,
+        1465,
+        1150,
+        1483
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0040",
+      "section_id": "remaining-page",
+      "text_raw": "Control",
+      "bbox_px": [
+        838,
+        1472,
+        872,
+        1483
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0041",
+      "section_id": "remaining-page",
+      "text_raw": "Mocha Latte",
+      "bbox_px": [
+        177,
+        1482,
+        237,
+        1497
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0042",
+      "section_id": "remaining-page",
+      "text_raw": "1,896,786,201",
+      "bbox_px": [
+        993,
+        1486,
+        1076,
+        1499
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0043",
+      "section_id": "remaining-page",
+      "text_raw": "US$150.00",
+      "bbox_px": [
+        833,
+        1493,
+        891,
+        1506
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0044",
+      "section_id": "remaining-page",
+      "text_raw": "Loyalty (10% off)",
+      "bbox_px": [
+        175,
+        1506,
+        253,
+        1520
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0045",
+      "section_id": "remaining-page",
+      "text_raw": "-US$0.55",
+      "bbox_px": [
+        290,
+        1506,
+        334,
+        1520
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0046",
+      "section_id": "remaining-page",
+      "text_raw": "Payment method",
+      "bbox_px": [
+        436,
+        1506,
+        501,
+        1520
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0047",
+      "section_id": "remaining-page",
+      "text_raw": "Tax",
+      "bbox_px": [
+        177,
+        1533,
+        198,
+        1543
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0048",
+      "section_id": "remaining-page",
+      "text_raw": "Subtotal",
+      "bbox_px": [
+        742,
+        1546,
+        786,
+        1559
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0049",
+      "section_id": "remaining-page",
+      "text_raw": "US$150.",
+      "bbox_px": [
+        878,
+        1546,
+        919,
+        1559
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0050",
+      "section_id": "remaining-page",
+      "text_raw": "Total",
+      "bbox_px": [
+        177,
+        1556,
+        203,
+        1567
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0051",
+      "section_id": "remaining-page",
+      "text_raw": "US$5.46",
+      "bbox_px": [
+        292,
+        1556,
+        334,
+        1567
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0052",
+      "section_id": "remaining-page",
+      "text_raw": "@ Affirm",
+      "bbox_px": [
+        462,
+        1569,
+        509,
+        1583
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0053",
+      "section_id": "remaining-page",
+      "text_raw": "Tax",
+      "bbox_px": [
+        742,
+        1569,
+        763,
+        1582
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0054",
+      "section_id": "remaining-page",
+      "text_raw": "US$15.",
+      "bbox_px": [
+        883,
+        1569,
+        919,
+        1582
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0055",
+      "section_id": "remaining-page",
+      "text_raw": "Pay now or in 4 interest-free payments of",
+      "bbox_px": [
+        459,
+        1590,
+        629,
+        1604
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0056",
+      "section_id": "remaining-page",
+      "text_raw": "COфTO ro.",
+      "bbox_px": [
+        459,
+        1605,
+        504,
+        1611
+      ],
+      "ocr_confidence": 0.30000001192092896,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0057",
+      "section_id": "remaining-page",
+      "text_raw": "condnue",
+      "bbox_px": [
+        232,
+        1611,
+        277,
+        1616
+      ],
+      "ocr_confidence": 0.30000001192092896,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0058",
+      "section_id": "remaining-page",
+      "text_raw": "Total",
+      "bbox_px": [
+        744,
+        1628,
+        770,
+        1641
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0059",
+      "section_id": "remaining-page",
+      "text_raw": "US$165.",
+      "bbox_px": [
+        880,
+        1628,
+        919,
+        1641
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0060",
+      "section_id": "remaining-page",
+      "text_raw": "Cash App",
+      "bbox_px": [
+        478,
+        1635,
+        527,
+        1648
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0061",
+      "section_id": "remaining-page",
+      "text_raw": "& Cash App",
+      "bbox_px": [
+        462,
+        1636,
+        527,
+        1649
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0062",
+      "section_id": "remaining-page",
+      "text_raw": "• Cryptocurrency",
+      "bbox_px": [
+        462,
+        1666,
+        554,
+        1686
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0063",
+      "section_id": "remaining-page",
+      "text_raw": "I US bank account",
+      "bbox_px": [
+        462,
+        1703,
+        559,
+        1716
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0064",
+      "section_id": "remaining-page",
+      "text_raw": "US bank account",
+      "bbox_px": [
+        462,
+        1704,
+        559,
+        1717
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0065",
+      "section_id": "remaining-page",
+      "text_raw": "Continue",
+      "bbox_px": [
+        535,
+        1747,
+        580,
+        1760
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0066",
+      "section_id": "remaining-page",
+      "text_raw": "Access borderless",
+      "bbox_px": [
+        956,
+        1834,
+        1168,
+        1861
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0067",
+      "section_id": "remaining-page",
+      "text_raw": "Monetise through",
+      "bbox_px": [
+        125,
+        1835,
+        329,
+        1864
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0068",
+      "section_id": "remaining-page",
+      "text_raw": "Create a card",
+      "bbox_px": [
+        540,
+        1835,
+        692,
+        1863
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0069",
+      "section_id": "remaining-page",
+      "text_raw": "agentic commerce",
+      "bbox_px": [
+        127,
+        1864,
+        342,
+        1890
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0070",
+      "section_id": "remaining-page",
+      "text_raw": "issuing programme",
+      "bbox_px": [
+        538,
+        1865,
+        766,
+        1895
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0071",
+      "section_id": "remaining-page",
+      "text_raw": "money movement with",
+      "bbox_px": [
+        956,
+        1866,
+        1215,
+        1893
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0072",
+      "section_id": "remaining-page",
+      "text_raw": "stablecoins and crypto",
+      "bbox_px": [
+        956,
+        1891,
+        1215,
+        1922
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0073",
+      "section_id": "remaining-page",
+      "text_raw": "I'm refreshing my wardrobe. Can you",
+      "bbox_px": [
+        224,
+        1994,
+        405,
+        2008
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0074",
+      "section_id": "remaining-page",
+      "text_raw": "recommend some cosy, comfortable",
+      "bbox_px": [
+        224,
+        2010,
+        407,
+        2023
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0075",
+      "section_id": "remaining-page",
+      "text_raw": "basics in size M?",
+      "bbox_px": [
+        224,
+        2026,
+        310,
+        2040
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0076",
+      "section_id": "remaining-page",
+      "text_raw": "[Э)))",
+      "bbox_px": [
+        765,
+        2036,
+        799,
+        2060
+      ],
+      "ocr_confidence": 0.30000001192092896,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0077",
+      "section_id": "remaining-page",
+      "text_raw": "Absolutely. Here are a few comfy essentials",
+      "bbox_px": [
+        177,
+        2078,
+        394,
+        2091
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0078",
+      "section_id": "remaining-page",
+      "text_raw": "that pair well and could be a good starting",
+      "bbox_px": [
+        177,
+        2094,
+        386,
+        2108
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0079",
+      "section_id": "remaining-page",
+      "text_raw": "point:",
+      "bbox_px": [
+        180,
+        2110,
+        211,
+        2123
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0080",
+      "section_id": "remaining-page",
+      "text_raw": "Deluxe Shirt",
+      "bbox_px": [
+        180,
+        2275,
+        235,
+        2288
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0081",
+      "section_id": "remaining-page",
+      "text_raw": "ESSENB HCCCIE",
+      "bbox_px": [
+        313,
+        2280,
+        384,
+        2285
+      ],
+      "ocr_confidence": 0.30000001192092896,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0082",
+      "section_id": "remaining-page",
+      "text_raw": "Blue - Medium",
+      "bbox_px": [
+        180,
+        2287,
+        243,
+        2301
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0083",
+      "section_id": "remaining-page",
+      "text_raw": "Navy - Medium",
+      "bbox_px": [
+        313,
+        2288,
+        378,
+        2301
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0084",
+      "section_id": "remaining-page",
+      "text_raw": "Cartsy",
+      "bbox_px": [
+        179,
+        2320,
+        212,
+        2337
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0085",
+      "section_id": "remaining-page",
+      "text_raw": "Cartsy",
+      "bbox_px": [
+        312,
+        2320,
+        346,
+        2337
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0086",
+      "section_id": "remaining-page",
+      "text_raw": "VISA",
+      "bbox_px": [
+        763,
+        2350,
+        820,
+        2374
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0087",
+      "section_id": "remaining-page",
+      "text_raw": "Buy now",
+      "bbox_px": [
+        282,
+        2361,
+        326,
+        2374
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0088",
+      "section_id": "remaining-page",
+      "text_raw": "Embed payments",
+      "bbox_px": [
+        124,
+        2527,
+        329,
+        2559
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0089",
+      "section_id": "remaining-page",
+      "text_raw": "• dasnboaro.zentiow.com",
+      "bbox_px": [
+        823,
+        2528,
+        932,
+        2537
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0090",
+      "section_id": "remaining-page",
+      "text_raw": "in your platform",
+      "bbox_px": [
+        122,
+        2557,
+        308,
+        2583
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0091",
+      "section_id": "remaining-page",
+      "text_raw": "Zenflow",
+      "bbox_px": [
+        577,
+        2569,
+        630,
+        2584
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0092",
+      "section_id": "remaining-page",
+      "text_raw": "Connected Accounts",
+      "bbox_px": [
+        726,
+        2577,
+        859,
+        2594
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0093",
+      "section_id": "remaining-page",
+      "text_raw": "Volume (USD)",
+      "bbox_px": [
+        1121,
+        2614,
+        1183,
+        2628
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0094",
+      "section_id": "remaining-page",
+      "text_raw": "Daybreak Yoga",
+      "bbox_px": [
+        425,
+        2619,
+        533,
+        2636
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0095",
+      "section_id": "remaining-page",
+      "text_raw": "account country",
+      "bbox_px": [
+        854,
+        2620,
+        922,
+        2626
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0096",
+      "section_id": "remaining-page",
+      "text_raw": "Payment balance leuk",
+      "bbox_px": [
+        969,
+        2620,
+        1063,
+        2626
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0097",
+      "section_id": "remaining-page",
+      "text_raw": "Vital Flow",
+      "bbox_px": [
+        731,
+        2646,
+        797,
+        2659
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0098",
+      "section_id": "remaining-page",
+      "text_raw": "Canada",
+      "bbox_px": [
+        854,
+        2646,
+        893,
+        2659
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0099",
+      "section_id": "remaining-page",
+      "text_raw": "€7,513.00",
+      "bbox_px": [
+        969,
+        2646,
+        1019,
+        2659
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0100",
+      "section_id": "remaining-page",
+      "text_raw": "€64,406.68",
+      "bbox_px": [
+        1121,
+        2646,
+        1178,
+        2659
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0101",
+      "section_id": "remaining-page",
+      "text_raw": "Thank you!",
+      "bbox_px": [
+        386,
+        2656,
+        444,
+        2670
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0102",
+      "section_id": "remaining-page",
+      "text_raw": "Your unlimited yoga subscription is now active.",
+      "bbox_px": [
+        386,
+        2672,
+        616,
+        2688
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0103",
+      "section_id": "remaining-page",
+      "text_raw": "Daybreak Yoga",
+      "bbox_px": [
+        729,
+        2677,
+        818,
+        2691
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0104",
+      "section_id": "remaining-page",
+      "text_raw": "United States",
+      "bbox_px": [
+        851,
+        2677,
+        917,
+        2691
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0105",
+      "section_id": "remaining-page",
+      "text_raw": "€1,352.00",
+      "bbox_px": [
+        969,
+        2677,
+        1019,
+        2688
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0106",
+      "section_id": "remaining-page",
+      "text_raw": "€7,989.02",
+      "bbox_px": [
+        1121,
+        2677,
+        1173,
+        2690
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0107",
+      "section_id": "remaining-page",
+      "text_raw": "S Sacred Space",
+      "bbox_px": [
+        729,
+        2706,
+        815,
+        2722
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0108",
+      "section_id": "remaining-page",
+      "text_raw": "UK",
+      "bbox_px": [
+        851,
+        2709,
+        872,
+        2722
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0109",
+      "section_id": "remaining-page",
+      "text_raw": "€1,122.00",
+      "bbox_px": [
+        969,
+        2709,
+        1019,
+        2722
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0110",
+      "section_id": "remaining-page",
+      "text_raw": "€22,112.18",
+      "bbox_px": [
+        1121,
+        2709,
+        1178,
+        2722
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0111",
+      "section_id": "remaining-page",
+      "text_raw": "Order number",
+      "bbox_px": [
+        386,
+        2722,
+        459,
+        2735
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0112",
+      "section_id": "remaining-page",
+      "text_raw": "#9803890",
+      "bbox_px": [
+        595,
+        2722,
+        650,
+        2735
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0113",
+      "section_id": "remaining-page",
+      "text_raw": "Jackson Hot Yoga",
+      "bbox_px": [
+        747,
+        2740,
+        833,
+        2754
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0114",
+      "section_id": "remaining-page",
+      "text_raw": "Australia",
+      "bbox_px": [
+        851,
+        2740,
+        899,
+        2753
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0115",
+      "section_id": "remaining-page",
+      "text_raw": "€3,290.00",
+      "bbox_px": [
+        969,
+        2740,
+        1019,
+        2753
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0116",
+      "section_id": "remaining-page",
+      "text_raw": "€11,378.97",
+      "bbox_px": [
+        1121,
+        2740,
+        1178,
+        2753
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0117",
+      "section_id": "remaining-page",
+      "text_raw": "Date",
+      "bbox_px": [
+        386,
+        2764,
+        415,
+        2777
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0118",
+      "section_id": "remaining-page",
+      "text_raw": "20 Jan",
+      "bbox_px": [
+        616,
+        2764,
+        653,
+        2777
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0119",
+      "section_id": "remaining-page",
+      "text_raw": "United States",
+      "bbox_px": [
+        851,
+        2771,
+        917,
+        2785
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0120",
+      "section_id": "remaining-page",
+      "text_raw": "Harmony Flow",
+      "bbox_px": [
+        744,
+        2772,
+        818,
+        2785
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0121",
+      "section_id": "remaining-page",
+      "text_raw": "€27,840.00",
+      "bbox_px": [
+        969,
+        2772,
+        1027,
+        2785
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0122",
+      "section_id": "remaining-page",
+      "text_raw": "€265,202.69",
+      "bbox_px": [
+        1121,
+        2772,
+        1183,
+        2785
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0123",
+      "section_id": "remaining-page",
+      "text_raw": "Balance at Brunch",
+      "bbox_px": [
+        744,
+        2802,
+        833,
+        2816
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0124",
+      "section_id": "remaining-page",
+      "text_raw": "Canada",
+      "bbox_px": [
+        851,
+        2803,
+        893,
+        2816
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0125",
+      "section_id": "remaining-page",
+      "text_raw": "€302.00",
+      "bbox_px": [
+        969,
+        2803,
+        1011,
+        2816
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0126",
+      "section_id": "remaining-page",
+      "text_raw": "€3,285.32",
+      "bbox_px": [
+        1121,
+        2803,
+        1173,
+        2816
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0127",
+      "section_id": "remaining-page",
+      "text_raw": "Payment method",
+      "bbox_px": [
+        386,
+        2805,
+        475,
+        2819
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0128",
+      "section_id": "remaining-page",
+      "text_raw": "* Breathline Studio",
+      "bbox_px": [
+        729,
+        2834,
+        828,
+        2848
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0129",
+      "section_id": "remaining-page",
+      "text_raw": "United States",
+      "bbox_px": [
+        851,
+        2834,
+        917,
+        2848
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0130",
+      "section_id": "remaining-page",
+      "text_raw": "€2,021.00",
+      "bbox_px": [
+        969,
+        2834,
+        1019,
+        2847
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0131",
+      "section_id": "remaining-page",
+      "text_raw": "€7,747.00",
+      "bbox_px": [
+        1121,
+        2834,
+        1173,
+        2847
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0132",
+      "section_id": "remaining-page",
+      "text_raw": "Your plan",
+      "bbox_px": [
+        386,
+        2847,
+        439,
+        2861
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0133",
+      "section_id": "remaining-page",
+      "text_raw": "US$999.00 /year",
+      "bbox_px": [
+        564,
+        2847,
+        650,
+        2861
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0134",
+      "section_id": "remaining-page",
+      "text_raw": "• Quiet Fire Yoga",
+      "bbox_px": [
+        729,
+        2865,
+        820,
+        2879
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0135",
+      "section_id": "remaining-page",
+      "text_raw": "€1,411.98",
+      "bbox_px": [
+        1121,
+        2865,
+        1173,
+        2880
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0136",
+      "section_id": "remaining-page",
+      "text_raw": "UK",
+      "bbox_px": [
+        851,
+        2866,
+        872,
+        2879
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0137",
+      "section_id": "remaining-page",
+      "text_raw": "€349.00",
+      "bbox_px": [
+        969,
+        2866,
+        1014,
+        2879
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0138",
+      "section_id": "remaining-page",
+      "text_raw": "Total",
+      "bbox_px": [
+        386,
+        2889,
+        418,
+        2902
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0139",
+      "section_id": "remaining-page",
+      "text_raw": "US$999.00",
+      "bbox_px": [
+        590,
+        2889,
+        650,
+        2902
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0140",
+      "section_id": "remaining-page",
+      "text_raw": "Z Zenith Zen",
+      "bbox_px": [
+        731,
+        2897,
+        802,
+        2911
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0141",
+      "section_id": "remaining-page",
+      "text_raw": "Australia",
+      "bbox_px": [
+        851,
+        2897,
+        899,
+        2910
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0142",
+      "section_id": "remaining-page",
+      "text_raw": "€594.00",
+      "bbox_px": [
+        969,
+        2897,
+        1014,
+        2910
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0143",
+      "section_id": "remaining-page",
+      "text_raw": "€1,478.97",
+      "bbox_px": [
+        1121,
+        2897,
+        1173,
+        2910
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0144",
+      "section_id": "remaining-page",
+      "text_raw": "M M.E. Yoga",
+      "bbox_px": [
+        729,
+        2929,
+        797,
+        2942
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0145",
+      "section_id": "remaining-page",
+      "text_raw": "Canada",
+      "bbox_px": [
+        851,
+        2929,
+        893,
+        2942
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0146",
+      "section_id": "remaining-page",
+      "text_raw": "€3,982.00",
+      "bbox_px": [
+        969,
+        2929,
+        1019,
+        2942
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0147",
+      "section_id": "remaining-page",
+      "text_raw": "€6,038.64",
+      "bbox_px": [
+        1121,
+        2929,
+        1170,
+        2942
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0148",
+      "section_id": "remaining-page",
+      "text_raw": "The internet economy",
+      "bbox_px": [
+        135,
+        3162,
+        588,
+        3212
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0149",
+      "section_id": "remaining-page",
+      "text_raw": "conference",
+      "bbox_px": [
+        135,
+        3212,
+        371,
+        3252
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0150",
+      "section_id": "remaining-page",
+      "text_raw": "stripe sessions",
+      "bbox_px": [
+        1118,
+        3243,
+        1215,
+        3263
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0151",
+      "section_id": "remaining-page",
+      "text_raw": "Join us at Sessions ›",
+      "bbox_px": [
+        156,
+        3304,
+        310,
+        3320
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0152",
+      "section_id": "remaining-page",
+      "text_raw": "29 - 30 April",
+      "bbox_px": [
+        666,
+        3445,
+        773,
+        3464
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0153",
+      "section_id": "remaining-page",
+      "text_raw": "Moscone West",
+      "bbox_px": [
+        1181,
+        3448,
+        1304,
+        3469
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0154",
+      "section_id": "remaining-page",
+      "text_raw": "stripe sessions",
+      "bbox_px": [
+        125,
+        3463,
+        339,
+        3493
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0155",
+      "section_id": "remaining-page",
+      "text_raw": "San Francisco",
+      "bbox_px": [
+        1183,
+        3471,
+        1298,
+        3490
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0156",
+      "section_id": "remaining-page",
+      "text_raw": "2026",
+      "bbox_px": [
+        663,
+        3472,
+        713,
+        3490
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0157",
+      "section_id": "remaining-page",
+      "text_raw": "The backbone",
+      "bbox_px": [
+        546,
+        3693,
+        891,
+        3741
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0158",
+      "section_id": "remaining-page",
+      "text_raw": "of global commerce",
+      "bbox_px": [
+        483,
+        3752,
+        956,
+        3810
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0159",
+      "section_id": "remaining-page",
+      "text_raw": "135+",
+      "bbox_px": [
+        185,
+        3924,
+        297,
+        3971
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0160",
+      "section_id": "remaining-page",
+      "text_raw": "US$1.4tn",
+      "bbox_px": [
+        466,
+        3925,
+        653,
+        3976
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0161",
+      "section_id": "remaining-page",
+      "text_raw": "99.999%",
+      "bbox_px": [
+        786,
+        3926,
+        972,
+        3977
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0162",
+      "section_id": "remaining-page",
+      "text_raw": "200M+",
+      "bbox_px": [
+        1118,
+        3926,
+        1278,
+        3969
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0163",
+      "section_id": "remaining-page",
+      "text_raw": "currencies and payment",
+      "bbox_px": [
+        154,
+        3982,
+        329,
+        3997
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0164",
+      "section_id": "remaining-page",
+      "text_raw": "in payments volume",
+      "bbox_px": [
+        486,
+        3982,
+        632,
+        3997
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0165",
+      "section_id": "remaining-page",
+      "text_raw": "historical uptime",
+      "bbox_px": [
+        818,
+        3982,
+        940,
+        3997
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0166",
+      "section_id": "remaining-page",
+      "text_raw": "active subscriptions",
+      "bbox_px": [
+        1123,
+        3982,
+        1272,
+        3997
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0167",
+      "section_id": "remaining-page",
+      "text_raw": "processed in 2024",
+      "bbox_px": [
+        491,
+        4002,
+        630,
+        4021
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0168",
+      "section_id": "remaining-page",
+      "text_raw": "for Stripe services",
+      "bbox_px": [
+        812,
+        4002,
+        946,
+        4023
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0169",
+      "section_id": "remaining-page",
+      "text_raw": "managed on Stripe Billing",
+      "bbox_px": [
+        1105,
+        4002,
+        1291,
+        4021
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0170",
+      "section_id": "remaining-page",
+      "text_raw": "methods supported",
+      "bbox_px": [
+        167,
+        4005,
+        313,
+        4022
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0171",
+      "section_id": "remaining-page",
+      "text_raw": "Powering businesses of all sizes. Run your business on a reliable",
+      "bbox_px": [
+        101,
+        4685,
+        966,
+        4717
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0172",
+      "section_id": "remaining-page",
+      "text_raw": "platform that adapts to your needs.",
+      "bbox_px": [
+        101,
+        4719,
+        582,
+        4755
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0173",
+      "section_id": "remaining-page",
+      "text_raw": "Transform your enterprise with",
+      "bbox_px": [
+        101,
+        4880,
+        452,
+        4913
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0174",
+      "section_id": "remaining-page",
+      "text_raw": "50% of Fortune 100 companies have used Stripe to grow their",
+      "bbox_px": [
+        828,
+        4887,
+        1319,
+        4906
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0175",
+      "section_id": "remaining-page",
+      "text_raw": "agile financial infrastructure",
+      "bbox_px": [
+        101,
+        4907,
+        418,
+        4941
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0176",
+      "section_id": "remaining-page",
+      "text_raw": "businesses - from expanding internationally to reimagining the",
+      "bbox_px": [
+        831,
+        4913,
+        1335,
+        4932
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0177",
+      "section_id": "remaining-page",
+      "text_raw": "customer experience.",
+      "bbox_px": [
+        830,
+        4937,
+        1009,
+        4958
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0178",
+      "section_id": "remaining-page",
+      "text_raw": "Stripe for enterprises ›",
+      "bbox_px": [
+        125,
+        4976,
+        297,
+        4992
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0179",
+      "section_id": "remaining-page",
+      "text_raw": "Hertz unifies commerce with Stripe.",
+      "bbox_px": [
+        159,
+        5081,
+        504,
+        5106
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0180",
+      "section_id": "remaining-page",
+      "text_raw": "Read the story >",
+      "bbox_px": [
+        1191,
+        5085,
+        1311,
+        5100
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0181",
+      "section_id": "remaining-page",
+      "text_raw": "160 countries",
+      "bbox_px": [
+        101,
+        5686,
+        203,
+        5703
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0182",
+      "section_id": "remaining-page",
+      "text_raw": "11K+ locations globally",
+      "bbox_px": [
+        415,
+        5686,
+        577,
+        5706
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0183",
+      "section_id": "remaining-page",
+      "text_raw": "Products used Payments, Terminal, Connect, Radar and Stripe Sigma",
+      "bbox_px": [
+        726,
+        5686,
+        1215,
+        5705
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0184",
+      "section_id": "remaining-page",
+      "text_raw": "URBN consolidates $5 billion in online and in-store revenue onto Stripe.",
+      "bbox_px": [
+        161,
+        5778,
+        839,
+        5804
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0185",
+      "section_id": "remaining-page",
+      "text_raw": "Instacart powers online grocery delivery with Stripe.",
+      "bbox_px": [
+        159,
+        5853,
+        655,
+        5877
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0186",
+      "section_id": "remaining-page",
+      "text_raw": "Le Monde improves local and international payments with Stripe.",
+      "bbox_px": [
+        159,
+        5924,
+        778,
+        5951
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0187",
+      "section_id": "remaining-page",
+      "text_raw": "Realise value faster with dedicated experts",
+      "bbox_px": [
+        101,
+        6042,
+        585,
+        6066
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0188",
+      "section_id": "remaining-page",
+      "text_raw": "Professional services. Get tailored",
+      "bbox_px": [
+        104,
+        6165,
+        347,
+        6181
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0189",
+      "section_id": "remaining-page",
+      "text_raw": "Stripe-certified experts. Work with a Stripe",
+      "bbox_px": [
+        517,
+        6165,
+        823,
+        6184
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0190",
+      "section_id": "remaining-page",
+      "text_raw": "Support plans. Receive ongoing assistance",
+      "bbox_px": [
+        932,
+        6165,
+        1241,
+        6184
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0191",
+      "section_id": "remaining-page",
+      "text_raw": "guidance from Stripe on implementation,",
+      "bbox_px": [
+        101,
+        6188,
+        397,
+        6204
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0192",
+      "section_id": "remaining-page",
+      "text_raw": "consulting partner that can integrate and",
+      "bbox_px": [
+        517,
+        6188,
+        810,
+        6204
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0193",
+      "section_id": "remaining-page",
+      "text_raw": "and day-to-day support for technical questions",
+      "bbox_px": [
+        930,
+        6188,
+        1270,
+        6204
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0194",
+      "section_id": "remaining-page",
+      "text_raw": "complex integrations, or major migrations.",
+      "bbox_px": [
+        101,
+        6209,
+        405,
+        6228
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0195",
+      "section_id": "remaining-page",
+      "text_raw": "deploy Stripe solutions on your behalf.",
+      "bbox_px": [
+        517,
+        6210,
+        791,
+        6228
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0196",
+      "section_id": "remaining-page",
+      "text_raw": "with tiered plans based on your needs.",
+      "bbox_px": [
+        932,
+        6210,
+        1215,
+        6228
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0197",
+      "section_id": "remaining-page",
+      "text_raw": "View services ›",
+      "bbox_px": [
+        104,
+        6246,
+        214,
+        6265
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0198",
+      "section_id": "remaining-page",
+      "text_raw": "View partners ›",
+      "bbox_px": [
+        517,
+        6246,
+        632,
+        6267
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0199",
+      "section_id": "remaining-page",
+      "text_raw": "View plans ›",
+      "bbox_px": [
+        932,
+        6249,
+        1024,
+        6265
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0200",
+      "section_id": "remaining-page",
+      "text_raw": "Build a foundation for your",
+      "bbox_px": [
+        101,
+        6425,
+        402,
+        6459
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0201",
+      "section_id": "remaining-page",
+      "text_raw": "From stablecoin pioneers to 78% of the Forbes Al 50, Stripe",
+      "bbox_px": [
+        831,
+        6433,
+        1304,
+        6454
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0202",
+      "section_id": "remaining-page",
+      "text_raw": "helps startups build what's next on easy-to-integrate",
+      "bbox_px": [
+        830,
+        6456,
+        1251,
+        6480
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0203",
+      "section_id": "remaining-page",
+      "text_raw": "startup that enables faster growth",
+      "bbox_px": [
+        101,
+        6457,
+        486,
+        6486
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0204",
+      "section_id": "remaining-page",
+      "text_raw": "financial infrastructure.",
+      "bbox_px": [
+        828,
+        6482,
+        1019,
+        6505
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0205",
+      "section_id": "remaining-page",
+      "text_raw": "Stripe for startups ›",
+      "bbox_px": [
+        125,
+        6522,
+        277,
+        6542
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0206",
+      "section_id": "remaining-page",
+      "text_raw": "supabase",
+      "bbox_px": [
+        820,
+        7056,
+        959,
+        7083
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0207",
+      "section_id": "remaining-page",
+      "text_raw": "Linear",
+      "bbox_px": [
+        1193,
+        7058,
+        1262,
+        7078
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0208",
+      "section_id": "remaining-page",
+      "text_raw": "• Lovable",
+      "bbox_px": [
+        117,
+        7059,
+        219,
+        7080
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0209",
+      "section_id": "remaining-page",
+      "text_raw": "runway",
+      "bbox_px": [
+        465,
+        7061,
+        541,
+        7080
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0210",
+      "section_id": "remaining-page",
+      "text_raw": "Supabase delivers its backend-as-a-",
+      "bbox_px": [
+        797,
+        7116,
+        1058,
+        7135
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0211",
+      "section_id": "remaining-page",
+      "text_raw": "Linear partners with Stripe tc",
+      "bbox_px": [
+        1144,
+        7116,
+        1353,
+        7137
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0212",
+      "section_id": "remaining-page",
+      "text_raw": "Lovable grows into a vibe-",
+      "bbox_px": [
+        101,
+        7118,
+        290,
+        7137
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0213",
+      "section_id": "remaining-page",
+      "text_raw": "Runway protects developer time",
+      "bbox_px": [
+        449,
+        7118,
+        682,
+        7137
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0214",
+      "section_id": "remaining-page",
+      "text_raw": "service to 150 countries with Stripe.",
+      "bbox_px": [
+        794,
+        7137,
+        1050,
+        7158
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0215",
+      "section_id": "remaining-page",
+      "text_raw": "coding juggernaut with Stripe.",
+      "bbox_px": [
+        101,
+        7139,
+        321,
+        7158
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0216",
+      "section_id": "remaining-page",
+      "text_raw": "with no-code solutions from Stripe.",
+      "bbox_px": [
+        449,
+        7139,
+        700,
+        7158
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0217",
+      "section_id": "remaining-page",
+      "text_raw": "handle billing and payments.",
+      "bbox_px": [
+        1142,
+        7140,
+        1351,
+        7159
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0218",
+      "section_id": "remaining-page",
+      "text_raw": "Read Linear's story ›",
+      "bbox_px": [
+        1144,
+        7176,
+        1296,
+        7198
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0219",
+      "section_id": "remaining-page",
+      "text_raw": "Read Lovable's story ›",
+      "bbox_px": [
+        101,
+        7179,
+        263,
+        7195
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0220",
+      "section_id": "remaining-page",
+      "text_raw": "Read Runway's story ›",
+      "bbox_px": [
+        449,
+        7179,
+        611,
+        7197
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0221",
+      "section_id": "remaining-page",
+      "text_raw": "Read Supabase's story ›",
+      "bbox_px": [
+        797,
+        7179,
+        974,
+        7197
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0222",
+      "section_id": "remaining-page",
+      "text_raw": "Stripe Atlas. Get everything you need to",
+      "bbox_px": [
+        747,
+        7315,
+        1035,
+        7337
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0223",
+      "section_id": "remaining-page",
+      "text_raw": "Stripe Startups programme. Access financial",
+      "bbox_px": [
+        125,
+        7318,
+        446,
+        7334
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0224",
+      "section_id": "remaining-page",
+      "text_raw": "benefits, a focused community, and expert",
+      "bbox_px": [
+        125,
+        7338,
+        431,
+        7357
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0225",
+      "section_id": "remaining-page",
+      "text_raw": "fundraise, bank, and accept payments in two",
+      "bbox_px": [
+        747,
+        7338,
+        1068,
+        7357
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0226",
+      "section_id": "remaining-page",
+      "text_raw": "resources to help you grow your business.",
+      "bbox_px": [
+        125,
+        7362,
+        425,
+        7381
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0227",
+      "section_id": "remaining-page",
+      "text_raw": "business days.",
+      "bbox_px": [
+        747,
+        7362,
+        854,
+        7378
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0228",
+      "section_id": "remaining-page",
+      "text_raw": "Apply now >",
+      "bbox_px": [
+        127,
+        7398,
+        217,
+        7418
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0229",
+      "section_id": "remaining-page",
+      "text_raw": "Start your company ›",
+      "bbox_px": [
+        750,
+        7398,
+        904,
+        7417
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0230",
+      "section_id": "remaining-page",
+      "text_raw": "Make your SaaS platform a",
+      "bbox_px": [
+        101,
+        7613,
+        405,
+        7642
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0231",
+      "section_id": "remaining-page",
+      "text_raw": "From the Fortune 100 to the Forbes Cloud 100, vertical SaaS",
+      "bbox_px": [
+        831,
+        7618,
+        1306,
+        7637
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0232",
+      "section_id": "remaining-page",
+      "text_raw": "complete financial operating system",
+      "bbox_px": [
+        101,
+        7642,
+        512,
+        7671
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0233",
+      "section_id": "remaining-page",
+      "text_raw": "platforms use Stripe to expand their product offerings with",
+      "bbox_px": [
+        831,
+        7642,
+        1298,
+        7661
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0234",
+      "section_id": "remaining-page",
+      "text_raw": "embedded payments and financial services.",
+      "bbox_px": [
+        831,
+        7668,
+        1181,
+        7687
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0235",
+      "section_id": "remaining-page",
+      "text_raw": "Stripe for platforms ›",
+      "bbox_px": [
+        125,
+        7708,
+        284,
+        7724
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0236",
+      "section_id": "remaining-page",
+      "text_raw": "Notification banner",
+      "bbox_px": [
+        914,
+        7890,
+        1021,
+        7904
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0237",
+      "section_id": "remaining-page",
+      "text_raw": "Show a banner listing required actions for risk and onboarding.",
+      "bbox_px": [
+        914,
+        7909,
+        1196,
+        7922
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0238",
+      "section_id": "remaining-page",
+      "text_raw": "Se Zenflow",
+      "bbox_px": [
+        342,
+        7946,
+        412,
+        7965
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0239",
+      "section_id": "remaining-page",
+      "text_raw": "stripeconneccanstance.createl nociтacation-panner aa",
+      "bbox_px": [
+        917,
+        7950,
+        1199,
+        7956
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0240",
+      "section_id": "remaining-page",
+      "text_raw": "Hello, Daybreak Yoga",
+      "bbox_px": [
+        473,
+        7953,
+        593,
+        7969
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0241",
+      "section_id": "remaining-page",
+      "text_raw": "Home",
+      "bbox_px": [
+        337,
+        7985,
+        371,
+        7998
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0242",
+      "section_id": "remaining-page",
+      "text_raw": "E Action required",
+      "bbox_px": [
+        486,
+        8005,
+        559,
+        8019
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0243",
+      "section_id": "remaining-page",
+      "text_raw": "Payments",
+      "bbox_px": [
+        339,
+        8006,
+        386,
+        8019
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0244",
+      "section_id": "remaining-page",
+      "text_raw": "Add information",
+      "bbox_px": [
+        956,
+        8015,
+        1016,
+        8029
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0245",
+      "section_id": "remaining-page",
+      "text_raw": "To make sure your business is supportable, we need to collect additional information.",
+      "bbox_px": [
+        486,
+        8024,
+        865,
+        8040
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0246",
+      "section_id": "remaining-page",
+      "text_raw": "Reporting",
+      "bbox_px": [
+        339,
+        8028,
+        389,
+        8042
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0247",
+      "section_id": "remaining-page",
+      "text_raw": "Settings",
+      "bbox_px": [
+        339,
+        8048,
+        381,
+        8061
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0248",
+      "section_id": "remaining-page",
+      "text_raw": "otal balance",
+      "bbox_px": [
+        488,
+        8072,
+        533,
+        8086
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0249",
+      "section_id": "remaining-page",
+      "text_raw": "atal balance",
+      "bbox_px": [
+        488,
+        8073,
+        535,
+        8087
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0250",
+      "section_id": "remaining-page",
+      "text_raw": "Expires on 12 Jan",
+      "bbox_px": [
+        700,
+        8074,
+        765,
+        8087
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0251",
+      "section_id": "remaining-page",
+      "text_raw": "Payouts",
+      "bbox_px": [
+        146,
+        8086,
+        190,
+        8099
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0252",
+      "section_id": "remaining-page",
+      "text_raw": "You're pre-qualified for up to €33,300 in financing",
+      "bbox_px": [
+        700,
+        8091,
+        969,
+        8107
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0253",
+      "section_id": "remaining-page",
+      "text_raw": "₴738.50",
+      "bbox_px": [
+        488,
+        8095,
+        556,
+        8111
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0254",
+      "section_id": "remaining-page",
+      "text_raw": "₺738.50",
+      "bbox_px": [
+        488,
+        8096,
+        556,
+        8112
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0255",
+      "section_id": "remaining-page",
+      "text_raw": "Show total balance and allow a connected account to initiate payouts.",
+      "bbox_px": [
+        146,
+        8104,
+        454,
+        8117
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0256",
+      "section_id": "remaining-page",
+      "text_raw": "If approved, you'll receive funds in as little as one to two business days.",
+      "bbox_px": [
+        700,
+        8110,
+        1014,
+        8128
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0257",
+      "section_id": "remaining-page",
+      "text_raw": "Ivailable to pay out",
+      "bbox_px": [
+        488,
+        8119,
+        577,
+        8133
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0258",
+      "section_id": "remaining-page",
+      "text_raw": "€307.62",
+      "bbox_px": [
+        629,
+        8120,
+        671,
+        8133
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0259",
+      "section_id": "remaining-page",
+      "text_raw": "stripeConnectInstance.create('payouts');",
+      "bbox_px": [
+        146,
+        8141,
+        365,
+        8154
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0260",
+      "section_id": "remaining-page",
+      "text_raw": "Stroeconneco nstance.createl oavoucsrdH",
+      "bbox_px": [
+        146,
+        8144,
+        363,
+        8150
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0261",
+      "section_id": "remaining-page",
+      "text_raw": "Pay out",
+      "bbox_px": [
+        561,
+        8150,
+        593,
+        8163
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0262",
+      "section_id": "remaining-page",
+      "text_raw": "Start applicalio.",
+      "bbox_px": [
+        760,
+        8153,
+        820,
+        8159
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0263",
+      "section_id": "remaining-page",
+      "text_raw": "Capital financing promotion",
+      "bbox_px": [
+        948,
+        8156,
+        1097,
+        8172
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0264",
+      "section_id": "remaining-page",
+      "text_raw": "Show a connected account's financing offer and allow them to apply.",
+      "bbox_px": [
+        948,
+        8176,
+        1251,
+        8190
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0265",
+      "section_id": "remaining-page",
+      "text_raw": "Payments",
+      "bbox_px": [
+        493,
+        8211,
+        551,
+        8224
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0266",
+      "section_id": "remaining-page",
+      "text_raw": "Payments",
+      "bbox_px": [
+        164,
+        8240,
+        222,
+        8253
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0267",
+      "section_id": "remaining-page",
+      "text_raw": "Payment Method",
+      "bbox_px": [
+        697,
+        8250,
+        765,
+        8264
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0268",
+      "section_id": "remaining-page",
+      "text_raw": "Status",
+      "bbox_px": [
+        574,
+        8251,
+        603,
+        8264
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0269",
+      "section_id": "remaining-page",
+      "text_raw": "Description",
+      "bbox_px": [
+        865,
+        8251,
+        909,
+        8264
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0270",
+      "section_id": "remaining-page",
+      "text_raw": "Show a list of payments with export, refund, and dispute capabilities.",
+      "bbox_px": [
+        164,
+        8258,
+        470,
+        8272
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0271",
+      "section_id": "remaining-page",
+      "text_raw": "Mastercard ***•1234",
+      "bbox_px": [
+        697,
+        8279,
+        797,
+        8293
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0272",
+      "section_id": "remaining-page",
+      "text_raw": "Single class",
+      "bbox_px": [
+        865,
+        8279,
+        922,
+        8293
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0273",
+      "section_id": "remaining-page",
+      "text_raw": "oucceedeo",
+      "bbox_px": [
+        582,
+        8285,
+        632,
+        8290
+      ],
+      "ocr_confidence": 0.30000001192092896,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0274",
+      "section_id": "remaining-page",
+      "text_raw": "ice.create('paynents') ;",
+      "bbox_px": [
+        269,
+        8295,
+        392,
+        8309
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0275",
+      "section_id": "remaining-page",
+      "text_raw": "Single class",
+      "bbox_px": [
+        862,
+        8310,
+        922,
+        8324
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0276",
+      "section_id": "remaining-page",
+      "text_raw": "~14.99",
+      "bbox_px": [
+        493,
+        8311,
+        530,
+        8324
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0277",
+      "section_id": "remaining-page",
+      "text_raw": "Disputed",
+      "bbox_px": [
+        582,
+        8311,
+        629,
+        8324
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0278",
+      "section_id": "remaining-page",
+      "text_raw": "Visa ****4010",
+      "bbox_px": [
+        697,
+        8311,
+        765,
+        8324
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0279",
+      "section_id": "remaining-page",
+      "text_raw": "€900.00",
+      "bbox_px": [
+        493,
+        8340,
+        535,
+        8353
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0280",
+      "section_id": "remaining-page",
+      "text_raw": "Klarna",
+      "bbox_px": [
+        697,
+        8340,
+        734,
+        8353
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0281",
+      "section_id": "remaining-page",
+      "text_raw": "Annual subscription",
+      "bbox_px": [
+        862,
+        8340,
+        959,
+        8353
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0282",
+      "section_id": "remaining-page",
+      "text_raw": "Get to market faster. Launch and scale payments",
+      "bbox_px": [
+        104,
+        8464,
+        452,
+        8484
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0283",
+      "section_id": "remaining-page",
+      "text_raw": "Grow new lines of revenue. Monetise",
+      "bbox_px": [
+        517,
+        8465,
+        778,
+        8481
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0284",
+      "section_id": "remaining-page",
+      "text_raw": "Manage platform risk. Stay ahead of global",
+      "bbox_px": [
+        932,
+        8465,
+        1238,
+        8484
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0285",
+      "section_id": "remaining-page",
+      "text_raw": "platform transactions - including payments,",
+      "bbox_px": [
+        517,
+        8486,
+        831,
+        8508
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0286",
+      "section_id": "remaining-page",
+      "text_raw": "regulations with tools for compliance, credit",
+      "bbox_px": [
+        932,
+        8486,
+        1246,
+        8507
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0287",
+      "section_id": "remaining-page",
+      "text_raw": "products with lower operational overhead using",
+      "bbox_px": [
+        101,
+        8489,
+        441,
+        8508
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0288",
+      "section_id": "remaining-page",
+      "text_raw": "embedded components and no-code tools.",
+      "bbox_px": [
+        101,
+        8512,
+        412,
+        8528
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0289",
+      "section_id": "remaining-page",
+      "text_raw": "card interchange and financing fees.",
+      "bbox_px": [
+        517,
+        8512,
+        778,
+        8528
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0290",
+      "section_id": "remaining-page",
+      "text_raw": "risk, fraud prevention and account security.",
+      "bbox_px": [
+        932,
+        8512,
+        1238,
+        8528
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0291",
+      "section_id": "remaining-page",
+      "text_raw": "Read the guide ›",
+      "bbox_px": [
+        101,
+        8548,
+        224,
+        8567
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0292",
+      "section_id": "remaining-page",
+      "text_raw": "Read the guide ›",
+      "bbox_px": [
+        517,
+        8548,
+        640,
+        8567
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0293",
+      "section_id": "remaining-page",
+      "text_raw": "Read the guide ›",
+      "bbox_px": [
+        932,
+        8548,
+        1055,
+        8567
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0294",
+      "section_id": "remaining-page",
+      "text_raw": "mindbody",
+      "bbox_px": [
+        668,
+        8664,
+        773,
+        8693
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0295",
+      "section_id": "remaining-page",
+      "text_raw": "\"With Stripe, we have a global technology partner to help our customers -",
+      "bbox_px": [
+        305,
+        8729,
+        1136,
+        8764
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0296",
+      "section_id": "remaining-page",
+      "text_raw": "from Canadian yoga studios to British boxing classes - keep growing and",
+      "bbox_px": [
+        305,
+        8758,
+        1131,
+        8795
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0297",
+      "section_id": "remaining-page",
+      "text_raw": "evolving in a new wellness worldạẠạ",
+      "bbox_px": [
+        527,
+        8789,
+        909,
+        8824
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0298",
+      "section_id": "remaining-page",
+      "text_raw": "Kurtis Moyer, Lead Product Manager of Payments, Mindbody",
+      "bbox_px": [
+        473,
+        8850,
+        964,
+        8876
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0299",
+      "section_id": "remaining-page",
+      "text_raw": "Read the story >",
+      "bbox_px": [
+        660,
+        8907,
+        781,
+        8930
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0300",
+      "section_id": "remaining-page",
+      "text_raw": "#substack",
+      "bbox_px": [
+        823,
+        9059,
+        927,
+        9091
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0301",
+      "section_id": "remaining-page",
+      "text_raw": "lightspeed",
+      "bbox_px": [
+        1121,
+        9059,
+        1243,
+        9093
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0302",
+      "section_id": "remaining-page",
+      "text_raw": "mindbody",
+      "bbox_px": [
+        206,
+        9062,
+        310,
+        9093
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0303",
+      "section_id": "remaining-page",
+      "text_raw": "@JOBBER",
+      "bbox_px": [
+        517,
+        9064,
+        614,
+        9091
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0304",
+      "section_id": "remaining-page",
+      "text_raw": "Reliable, extensible infrastructure for every stack. Adapt Stripe",
+      "bbox_px": [
+        101,
+        9278,
+        946,
+        9313
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0305",
+      "section_id": "remaining-page",
+      "text_raw": "to your business needs with flexible integration options.",
+      "bbox_px": [
+        101,
+        9312,
+        857,
+        9347
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0306",
+      "section_id": "remaining-page",
+      "text_raw": "View Stripe's GitHub",
+      "bbox_px": [
+        344,
+        9387,
+        494,
+        9410
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0307",
+      "section_id": "remaining-page",
+      "text_raw": "View developer docs ›",
+      "bbox_px": [
+        125,
+        9391,
+        292,
+        9408
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0308",
+      "section_id": "remaining-page",
+      "text_raw": "Connect to existing systems. Orchestrate payments across",
+      "bbox_px": [
+        101,
+        9556,
+        765,
+        9583
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0309",
+      "section_id": "remaining-page",
+      "text_raw": "multiple processors, build custom workflows, and connect to third",
+      "bbox_px": [
+        101,
+        9584,
+        844,
+        9614
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0310",
+      "section_id": "remaining-page",
+      "text_raw": "parties using APIs, partner apps or pre-built integrations.",
+      "bbox_px": [
+        99,
+        9613,
+        747,
+        9642
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0311",
+      "section_id": "remaining-page",
+      "text_raw": "ERP",
+      "bbox_px": [
+        461,
+        9717,
+        495,
+        9735
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0312",
+      "section_id": "remaining-page",
+      "text_raw": "Subscriptions",
+      "bbox_px": [
+        600,
+        9718,
+        692,
+        9736
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0313",
+      "section_id": "remaining-page",
+      "text_raw": "Legacy billing",
+      "bbox_px": [
+        736,
+        9719,
+        828,
+        9736
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0314",
+      "section_id": "remaining-page",
+      "text_raw": "Booking system",
+      "bbox_px": [
+        872,
+        9719,
+        977,
+        9736
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0315",
+      "section_id": "remaining-page",
+      "text_raw": "yaS",
+      "bbox_px": [
+        548,
+        9804,
+        582,
+        9817
+      ],
+      "ocr_confidence": 0.30000001192092896,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0316",
+      "section_id": "remaining-page",
+      "text_raw": "Event Destinations",
+      "bbox_px": [
+        812,
+        9804,
+        932,
+        9817
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0317",
+      "section_id": "remaining-page",
+      "text_raw": "olax",
+      "bbox_px": [
+        347,
+        9864,
+        378,
+        9877
+      ],
+      "ocr_confidence": 0.30000001192092896,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0318",
+      "section_id": "remaining-page",
+      "text_raw": "stripe",
+      "bbox_px": [
+        694,
+        9867,
+        742,
+        9884
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0319",
+      "section_id": "remaining-page",
+      "text_raw": "App Marketplace Z",
+      "bbox_px": [
+        488,
+        9885,
+        619,
+        9900
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0320",
+      "section_id": "remaining-page",
+      "text_raw": "Data Pipeline",
+      "bbox_px": [
+        862,
+        9887,
+        948,
+        9901
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0321",
+      "section_id": "remaining-page",
+      "text_raw": "ab",
+      "bbox_px": [
+        394,
+        9908,
+        425,
+        9932
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0322",
+      "section_id": "remaining-page",
+      "text_raw": "Orchestration",
+      "bbox_px": [
+        674,
+        9971,
+        765,
+        9984
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0323",
+      "section_id": "remaining-page",
+      "text_raw": "PSP",
+      "bbox_px": [
+        629,
+        10060,
+        658,
+        10076
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0324",
+      "section_id": "remaining-page",
+      "text_raw": "PSP",
+      "bbox_px": [
+        679,
+        10060,
+        708,
+        10073
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0325",
+      "section_id": "remaining-page",
+      "text_raw": "PSP",
+      "bbox_px": [
+        731,
+        10060,
+        757,
+        10073
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0326",
+      "section_id": "remaining-page",
+      "text_raw": "Scale with confidence. Handle thousands of transactions per",
+      "bbox_px": [
+        101,
+        10222,
+        784,
+        10249
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0327",
+      "section_id": "remaining-page",
+      "text_raw": "second with consistent speed and reliability, even during peak",
+      "bbox_px": [
+        101,
+        10250,
+        802,
+        10280
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0328",
+      "section_id": "remaining-page",
+      "text_raw": "traffic periods.",
+      "bbox_px": [
+        101,
+        10278,
+        272,
+        10308
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0329",
+      "section_id": "remaining-page",
+      "text_raw": "500M+",
+      "bbox_px": [
+        99,
+        10648,
+        266,
+        10693
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0330",
+      "section_id": "remaining-page",
+      "text_raw": "150K+",
+      "bbox_px": [
+        930,
+        10648,
+        1071,
+        10694
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0331",
+      "section_id": "remaining-page",
+      "text_raw": "10K+",
+      "bbox_px": [
+        514,
+        10649,
+        632,
+        10693
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0332",
+      "section_id": "remaining-page",
+      "text_raw": "transactions per minute",
+      "bbox_px": [
+        932,
+        10707,
+        1105,
+        10729
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0333",
+      "section_id": "remaining-page",
+      "text_raw": "API requests per day",
+      "bbox_px": [
+        101,
+        10709,
+        256,
+        10728
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0334",
+      "section_id": "remaining-page",
+      "text_raw": "API requests per second",
+      "bbox_px": [
+        517,
+        10709,
+        695,
+        10728
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0335",
+      "section_id": "remaining-page",
+      "text_raw": "Choose an integration path. With Al-powered support, rich",
+      "bbox_px": [
+        101,
+        10860,
+        757,
+        10889
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0336",
+      "section_id": "remaining-page",
+      "text_raw": "documentation, and built-in debugging tools, you can quickly get",
+      "bbox_px": [
+        101,
+        10889,
+        833,
+        10918
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0337",
+      "section_id": "remaining-page",
+      "text_raw": "started with the best option for your business.",
+      "bbox_px": [
+        101,
+        10918,
+        621,
+        10947
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0338",
+      "section_id": "remaining-page",
+      "text_raw": "'sk_test_abc123'",
+      "bbox_px": [
+        985,
+        11049,
+        1097,
+        11065
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0339",
+      "section_id": "remaining-page",
+      "text_raw": "WOO",
+      "bbox_px": [
+        689,
+        11059,
+        731,
+        11072
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0340",
+      "section_id": "remaining-page",
+      "text_raw": "Hookno ora simoe",
+      "bbox_px": [
+        146,
+        11064,
+        258,
+        11070
+      ],
+      "ocr_confidence": 0.30000001192092896,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0341",
+      "section_id": "remaining-page",
+      "text_raw": "day cream with SPFß",
+      "bbox_px": [
+        146,
+        11072,
+        240,
+        11086
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0342",
+      "section_id": "remaining-page",
+      "text_raw": "D;",
+      "bbox_px": [
+        969,
+        11072,
+        987,
+        11088
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0343",
+      "section_id": "remaining-page",
+      "text_raw": "await stripe.",
+      "bbox_px": [
+        969,
+        11096,
+        1061,
+        11109
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0344",
+      "section_id": "remaining-page",
+      "text_raw": "accountLinks",
+      "bbox_px": [
+        1076,
+        11096,
+        1165,
+        11109
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0345",
+      "section_id": "remaining-page",
+      "text_raw": "Pure glow cream",
+      "bbox_px": [
+        381,
+        11101,
+        465,
+        11115
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0346",
+      "section_id": "remaining-page",
+      "text_raw": "sure nnacaseorecommen",
+      "bbox_px": [
+        175,
+        11119,
+        316,
+        11125
+      ],
+      "ocr_confidence": 0.30000001192092896,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0347",
+      "section_id": "remaining-page",
+      "text_raw": "accounts",
+      "bbox_px": [
+        1076,
+        11120,
+        1136,
+        11133
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0348",
+      "section_id": "remaining-page",
+      "text_raw": "€17.99",
+      "bbox_px": [
+        391,
+        11125,
+        457,
+        11143
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0349",
+      "section_id": "remaining-page",
+      "text_raw": "our pure glow cream!",
+      "bbox_px": [
+        175,
+        11127,
+        271,
+        11141
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0350",
+      "section_id": "remaining-page",
+      "text_raw": "WIX",
+      "bbox_px": [
+        561,
+        11138,
+        606,
+        11159
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0351",
+      "section_id": "remaining-page",
+      "text_raw": "applePayDomains",
+      "bbox_px": [
+        1076,
+        11143,
+        1186,
+        11156
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0352",
+      "section_id": "remaining-page",
+      "text_raw": "https://buy.stripe.com/test eVa3do41.",
+      "bbox_px": [
+        146,
+        11161,
+        318,
+        11174
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0353",
+      "section_id": "remaining-page",
+      "text_raw": "applicationFees",
+      "bbox_px": [
+        1076,
+        11164,
+        1186,
+        11180
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0354",
+      "section_id": "remaining-page",
+      "text_raw": "balances",
+      "bbox_px": [
+        1076,
+        11188,
+        1136,
+        11201
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0355",
+      "section_id": "remaining-page",
+      "text_raw": "1v0% = 6/6 ln : 4",
+      "bbox_px": [
+        1178,
+        11202,
+        1301,
+        11216
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0356",
+      "section_id": "remaining-page",
+      "text_raw": "NORMAL",
+      "bbox_px": [
+        948,
+        11203,
+        990,
+        11214
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0357",
+      "section_id": "remaining-page",
+      "text_raw": "server.js",
+      "bbox_px": [
+        1008,
+        11203,
+        1071,
+        11216
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0358",
+      "section_id": "remaining-page",
+      "text_raw": "serveroas",
+      "bbox_px": [
+        1008,
+        11207,
+        1071,
+        11216
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0359",
+      "section_id": "remaining-page",
+      "text_raw": "XC",
+      "bbox_px": [
+        854,
+        11215,
+        901,
+        11249
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0360",
+      "section_id": "remaining-page",
+      "text_raw": "$ node server.js && stripe listen",
+      "bbox_px": [
+        956,
+        11229,
+        1189,
+        11245
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0361",
+      "section_id": "remaining-page",
+      "text_raw": "Scan to pay",
+      "bbox_px": [
+        397,
+        11247,
+        446,
+        11261
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0362",
+      "section_id": "remaining-page",
+      "text_raw": "› Ready! Waiting for requests...",
+      "bbox_px": [
+        956,
+        11251,
+        1183,
+        11268
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0363",
+      "section_id": "remaining-page",
+      "text_raw": "Don't code? Set up billing, take in-person",
+      "bbox_px": [
+        101,
+        11307,
+        394,
+        11326
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0364",
+      "section_id": "remaining-page",
+      "text_raw": "Use a pre-integrated platform. Browse",
+      "bbox_px": [
+        517,
+        11307,
+        791,
+        11326
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0365",
+      "section_id": "remaining-page",
+      "text_raw": "Build your own integration. Use our SDKs, APIs",
+      "bbox_px": [
+        932,
+        11307,
+        1264,
+        11326
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0366",
+      "section_id": "remaining-page",
+      "text_raw": "Build your own integration. Use our SDKs, APIs,",
+      "bbox_px": [
+        932,
+        11309,
+        1267,
+        11328
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0367",
+      "section_id": "remaining-page",
+      "text_raw": "our directory of platforms that integrate",
+      "bbox_px": [
+        520,
+        11330,
+        802,
+        11349
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0368",
+      "section_id": "remaining-page",
+      "text_raw": "MCP server and Al developer tools to build",
+      "bbox_px": [
+        932,
+        11330,
+        1238,
+        11349
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0369",
+      "section_id": "remaining-page",
+      "text_raw": "payments, or share a payment link - right",
+      "bbox_px": [
+        101,
+        11331,
+        399,
+        11350
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0370",
+      "section_id": "remaining-page",
+      "text_raw": "from the Stripe Dashboard, no code required.",
+      "bbox_px": [
+        101,
+        11352,
+        423,
+        11373
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0371",
+      "section_id": "remaining-page",
+      "text_raw": "Stripe with website-building tools",
+      "bbox_px": [
+        517,
+        11352,
+        757,
+        11371
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0372",
+      "section_id": "remaining-page",
+      "text_raw": "and maintain your own integration with Stripe",
+      "bbox_px": [
+        932,
+        11352,
+        1257,
+        11373
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0373",
+      "section_id": "remaining-page",
+      "text_raw": "Stripe with website-building tools.",
+      "bbox_px": [
+        517,
+        11354,
+        760,
+        11373
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0374",
+      "section_id": "remaining-page",
+      "text_raw": "and maintain your own integration with Stripe.",
+      "bbox_px": [
+        932,
+        11354,
+        1264,
+        11373
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0375",
+      "section_id": "remaining-page",
+      "text_raw": "See directory ›",
+      "bbox_px": [
+        517,
+        11390,
+        630,
+        11409
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0376",
+      "section_id": "remaining-page",
+      "text_raw": "Get started ›",
+      "bbox_px": [
+        932,
+        11390,
+        1029,
+        11407
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0377",
+      "section_id": "remaining-page",
+      "text_raw": "Explore no-code ›",
+      "bbox_px": [
+        104,
+        11393,
+        235,
+        11409
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0378",
+      "section_id": "remaining-page",
+      "text_raw": "What's happening",
+      "bbox_px": [
+        103,
+        11605,
+        350,
+        11642
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0379",
+      "section_id": "remaining-page",
+      "text_raw": "See the latest from Stripe.",
+      "bbox_px": [
+        101,
+        11642,
+        454,
+        11674
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0380",
+      "section_id": "remaining-page",
+      "text_raw": "CHOES-BORDEI",
+      "bbox_px": [
+        476,
+        11766,
+        521,
+        11782
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0381",
+      "section_id": "remaining-page",
+      "text_raw": "00,000,000",
+      "bbox_px": [
+        456,
+        11772,
+        534,
+        11813
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0382",
+      "section_id": "remaining-page",
+      "text_raw": "$2",
+      "bbox_px": [
+        1267,
+        11929,
+        1285,
+        11943
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0383",
+      "section_id": "remaining-page",
+      "text_raw": "780,000",
+      "bbox_px": [
+        582,
+        11945,
+        645,
+        11958
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0384",
+      "section_id": "remaining-page",
+      "text_raw": "150K+ users have their best day ever on Stripe. From Black Friday through Cyber",
+      "bbox_px": [
+        101,
+        12230,
+        867,
+        12251
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0385",
+      "section_id": "remaining-page",
+      "text_raw": "See the numbers ›",
+      "bbox_px": [
+        1173,
+        12240,
+        1311,
+        12259
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0386",
+      "section_id": "remaining-page",
+      "text_raw": "Monday 2025, Stripe processed more than US$40bn for businesses while maintaining",
+      "bbox_px": [
+        104,
+        12253,
+        919,
+        12277
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0387",
+      "section_id": "remaining-page",
+      "text_raw": "a 99.9999% uptime.",
+      "bbox_px": [
+        101,
+        12280,
+        297,
+        12304
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0388",
+      "section_id": "remaining-page",
+      "text_raw": "Book of the week",
+      "bbox_px": [
+        104,
+        12433,
+        337,
+        12464
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0389",
+      "section_id": "remaining-page",
+      "text_raw": "Entrepreneurship starts with ideas.",
+      "bbox_px": [
+        104,
+        12471,
+        580,
+        12503
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0390",
+      "section_id": "remaining-page",
+      "text_raw": "The Library",
+      "bbox_px": [
+        1215,
+        12591,
+        1275,
+        12604
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0391",
+      "section_id": "remaining-page",
+      "text_raw": "A Culture of Growth: The Origins of",
+      "bbox_px": [
+        723,
+        12646,
+        1121,
+        12676
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0392",
+      "section_id": "remaining-page",
+      "text_raw": "the Modern Economy",
+      "bbox_px": [
+        723,
+        12675,
+        969,
+        12704
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0393",
+      "section_id": "remaining-page",
+      "text_raw": "Joel Mokyr",
+      "bbox_px": [
+        723,
+        12706,
+        852,
+        12732
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0394",
+      "section_id": "remaining-page",
+      "text_raw": "The Industrial Revolution reshaped the world, but why it began",
+      "bbox_px": [
+        726,
+        12758,
+        1170,
+        12775
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0395",
+      "section_id": "remaining-page",
+      "text_raw": "in Europe is still a puzzle. Mokyr traces its origins to a shift in",
+      "bbox_px": [
+        726,
+        12779,
+        1155,
+        12798
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0396",
+      "section_id": "remaining-page",
+      "text_raw": "how knowledge was used: scientists and skilled workers began",
+      "bbox_px": [
+        725,
+        12802,
+        1171,
+        12821
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0397",
+      "section_id": "remaining-page",
+      "text_raw": "testing new ideas on pumps, furnaces and spinning machines,",
+      "bbox_px": [
+        725,
+        12825,
+        1166,
+        12844
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0398",
+      "section_id": "remaining-page",
+      "text_raw": "ZCOF",
+      "bbox_px": [
+        365,
+        12843,
+        449,
+        12879
+      ],
+      "ocr_confidence": 0.5,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0399",
+      "section_id": "remaining-page",
+      "text_raw": "and publishing what worked so others could improve it. That",
+      "bbox_px": [
+        725,
+        12845,
+        1156,
+        12867
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0400",
+      "section_id": "remaining-page",
+      "text_raw": "collective habit, what Mokyr calls a culture of growth, became",
+      "bbox_px": [
+        725,
+        12869,
+        1161,
+        12887
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0401",
+      "section_id": "remaining-page",
+      "text_raw": "routh",
+      "bbox_px": [
+        345,
+        12876,
+        506,
+        12927
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0402",
+      "section_id": "remaining-page",
+      "text_raw": "the engine of Europe's economic success.",
+      "bbox_px": [
+        724,
+        12888,
+        1022,
+        12914
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0403",
+      "section_id": "remaining-page",
+      "text_raw": "поштт",
+      "bbox_px": [
+        331,
+        12891,
+        499,
+        12927
+      ],
+      "ocr_confidence": 0.30000001192092896,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0404",
+      "section_id": "remaining-page",
+      "text_raw": "THE ORIGINS",
+      "bbox_px": [
+        323,
+        12945,
+        462,
+        12967
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0405",
+      "section_id": "remaining-page",
+      "text_raw": "OF THE MODERN",
+      "bbox_px": [
+        304,
+        12969,
+        480,
+        12988
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0406",
+      "section_id": "remaining-page",
+      "text_raw": "For more ideas on economic progress and technological",
+      "bbox_px": [
+        725,
+        12975,
+        1027,
+        12993
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0407",
+      "section_id": "remaining-page",
+      "text_raw": "ECONOMY",
+      "bbox_px": [
+        340,
+        12991,
+        443,
+        13009
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0408",
+      "section_id": "remaining-page",
+      "text_raw": "advancement, see our in-house publications:",
+      "bbox_px": [
+        725,
+        12991,
+        965,
+        13010
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0409",
+      "section_id": "remaining-page",
+      "text_raw": "JOEL MOKYR",
+      "bbox_px": [
+        239,
+        13024,
+        467,
+        13058
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0410",
+      "section_id": "remaining-page",
+      "text_raw": "Stripe Press",
+      "bbox_px": [
+        771,
+        13036,
+        851,
+        13052
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0411",
+      "section_id": "remaining-page",
+      "text_raw": "Works in Progress",
+      "bbox_px": [
+        921,
+        13036,
+        1040,
+        13052
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0412",
+      "section_id": "remaining-page",
+      "text_raw": "Ready to get started?",
+      "bbox_px": [
+        103,
+        13341,
+        397,
+        13377
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0413",
+      "section_id": "remaining-page",
+      "text_raw": "Create an account instantly, or contact us to design a",
+      "bbox_px": [
+        103,
+        13391,
+        523,
+        13413
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0414",
+      "section_id": "remaining-page",
+      "text_raw": "See what you'll pay",
+      "bbox_px": [
+        722,
+        13400,
+        861,
+        13424
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0415",
+      "section_id": "remaining-page",
+      "text_raw": "Start building",
+      "bbox_px": [
+        1034,
+        13400,
+        1138,
+        13425
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0416",
+      "section_id": "remaining-page",
+      "text_raw": "custom package for your business.",
+      "bbox_px": [
+        103,
+        13414,
+        382,
+        13439
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0417",
+      "section_id": "remaining-page",
+      "text_raw": "Get up and running with Stripe",
+      "bbox_px": [
+        1034,
+        13426,
+        1256,
+        13453
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0418",
+      "section_id": "remaining-page",
+      "text_raw": "Integrated per-transaction",
+      "bbox_px": [
+        722,
+        13428,
+        919,
+        13453
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0419",
+      "section_id": "remaining-page",
+      "text_raw": "pricing with no hidden fees.",
+      "bbox_px": [
+        722,
+        13452,
+        923,
+        13473
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0420",
+      "section_id": "remaining-page",
+      "text_raw": "in as little as 10 minutes.",
+      "bbox_px": [
+        1032,
+        13452,
+        1212,
+        13473
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0421",
+      "section_id": "remaining-page",
+      "text_raw": "Start now >",
+      "bbox_px": [
+        126,
+        13486,
+        214,
+        13502
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0422",
+      "section_id": "remaining-page",
+      "text_raw": "Contact sales",
+      "bbox_px": [
+        265,
+        13486,
+        363,
+        13502
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0423",
+      "section_id": "remaining-page",
+      "text_raw": "Integration options ›",
+      "bbox_px": [
+        1029,
+        13486,
+        1190,
+        13513
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0424",
+      "section_id": "remaining-page",
+      "text_raw": "Pricing details ›",
+      "bbox_px": [
+        725,
+        13491,
+        841,
+        13510
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0425",
+      "section_id": "remaining-page",
+      "text_raw": "Company",
+      "bbox_px": [
+        1034,
+        13676,
+        1109,
+        13704
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0426",
+      "section_id": "remaining-page",
+      "text_raw": "Integrations and custom solutions",
+      "bbox_px": [
+        722,
+        13677,
+        972,
+        13701
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0427",
+      "section_id": "remaining-page",
+      "text_raw": "Products and pricing",
+      "bbox_px": [
+        103,
+        13679,
+        255,
+        13698
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0428",
+      "section_id": "remaining-page",
+      "text_raw": "Solutions",
+      "bbox_px": [
+        412,
+        13680,
+        485,
+        13695
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0429",
+      "section_id": "remaining-page",
+      "text_raw": "Stripe App Marketplace",
+      "bbox_px": [
+        722,
+        13711,
+        898,
+        13734
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0430",
+      "section_id": "remaining-page",
+      "text_raw": "Jobs",
+      "bbox_px": [
+        1034,
+        13711,
+        1076,
+        13731
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0431",
+      "section_id": "remaining-page",
+      "text_raw": "Pricing",
+      "bbox_px": [
+        103,
+        13713,
+        157,
+        13731
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0432",
+      "section_id": "remaining-page",
+      "text_raw": "Enterprises",
+      "bbox_px": [
+        415,
+        13713,
+        500,
+        13729
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0433",
+      "section_id": "remaining-page",
+      "text_raw": "Stripe Partner ecosystem",
+      "bbox_px": [
+        722,
+        13734,
+        910,
+        13758
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0434",
+      "section_id": "remaining-page",
+      "text_raw": "Newsroom",
+      "bbox_px": [
+        1034,
+        13734,
+        1120,
+        13755
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0435",
+      "section_id": "remaining-page",
+      "text_raw": "Startups",
+      "bbox_px": [
+        415,
+        13736,
+        480,
+        13753
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0436",
+      "section_id": "remaining-page",
+      "text_raw": "Atlas",
+      "bbox_px": [
+        103,
+        13737,
+        144,
+        13752
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0437",
+      "section_id": "remaining-page",
+      "text_raw": "Professional services",
+      "bbox_px": [
+        722,
+        13757,
+        882,
+        13780
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0438",
+      "section_id": "remaining-page",
+      "text_raw": "Stripe Press",
+      "bbox_px": [
+        1034,
+        13757,
+        1127,
+        13781
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0439",
+      "section_id": "remaining-page",
+      "text_raw": "Agentic commerce",
+      "bbox_px": [
+        415,
+        13759,
+        554,
+        13778
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0440",
+      "section_id": "remaining-page",
+      "text_raw": "Authorization Boost",
+      "bbox_px": [
+        103,
+        13760,
+        250,
+        13775
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0441",
+      "section_id": "remaining-page",
+      "text_raw": "Contact sales",
+      "bbox_px": [
+        1034,
+        13783,
+        1138,
+        13804
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0442",
+      "section_id": "remaining-page",
+      "text_raw": "Billing",
+      "bbox_px": [
+        103,
+        13786,
+        149,
+        13801
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0443",
+      "section_id": "remaining-page",
+      "text_raw": "E-commerce",
+      "bbox_px": [
+        415,
+        13786,
+        510,
+        13801
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0444",
+      "section_id": "remaining-page",
+      "text_raw": "Capital",
+      "bbox_px": [
+        103,
+        13809,
+        157,
+        13824
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0445",
+      "section_id": "remaining-page",
+      "text_raw": "Embedded finance",
+      "bbox_px": [
+        415,
+        13809,
+        552,
+        13824
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0446",
+      "section_id": "remaining-page",
+      "text_raw": "Capital for platforms",
+      "bbox_px": [
+        103,
+        13832,
+        252,
+        13850
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0447",
+      "section_id": "remaining-page",
+      "text_raw": "Finance automation",
+      "bbox_px": [
+        415,
+        13832,
+        559,
+        13848
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0448",
+      "section_id": "remaining-page",
+      "text_raw": "Resources",
+      "bbox_px": [
+        722,
+        13842,
+        805,
+        13863
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0449",
+      "section_id": "remaining-page",
+      "text_raw": "Global businesses",
+      "bbox_px": [
+        415,
+        13855,
+        549,
+        13874
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0450",
+      "section_id": "remaining-page",
+      "text_raw": "Checkout",
+      "bbox_px": [
+        103,
+        13858,
+        175,
+        13873
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0451",
+      "section_id": "remaining-page",
+      "text_raw": "Support",
+      "bbox_px": [
+        1032,
+        13866,
+        1101,
+        13889
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0452",
+      "section_id": "remaining-page",
+      "text_raw": "Guides",
+      "bbox_px": [
+        722,
+        13873,
+        781,
+        13894
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0453",
+      "section_id": "remaining-page",
+      "text_raw": "Climate",
+      "bbox_px": [
+        103,
+        13881,
+        162,
+        13897
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0454",
+      "section_id": "remaining-page",
+      "text_raw": "In-app payments",
+      "bbox_px": [
+        412,
+        13881,
+        539,
+        13897
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0455",
+      "section_id": "remaining-page",
+      "text_raw": "Customer stories",
+      "bbox_px": [
+        725,
+        13896,
+        851,
+        13920
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0456",
+      "section_id": "remaining-page",
+      "text_raw": "Get support",
+      "bbox_px": [
+        1032,
+        13896,
+        1127,
+        13920
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0457",
+      "section_id": "remaining-page",
+      "text_raw": "Connect",
+      "bbox_px": [
+        103,
+        13904,
+        167,
+        13920
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0458",
+      "section_id": "remaining-page",
+      "text_raw": "Marketplaces",
+      "bbox_px": [
+        415,
+        13905,
+        516,
+        13922
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0459",
+      "section_id": "remaining-page",
+      "text_raw": "Blog",
+      "bbox_px": [
+        720,
+        13920,
+        765,
+        13947
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0460",
+      "section_id": "remaining-page",
+      "text_raw": "Managed support plans",
+      "bbox_px": [
+        1031,
+        13920,
+        1210,
+        13948
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0461",
+      "section_id": "remaining-page",
+      "text_raw": "Platforms",
+      "bbox_px": [
+        415,
+        13927,
+        487,
+        13943
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0462",
+      "section_id": "remaining-page",
+      "text_raw": "Crypto",
+      "bbox_px": [
+        103,
+        13928,
+        154,
+        13946
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0463",
+      "section_id": "remaining-page",
+      "text_raw": "Sessions annual conference",
+      "bbox_px": [
+        722,
+        13946,
+        929,
+        13969
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0464",
+      "section_id": "remaining-page",
+      "text_raw": "Data Pipeline",
+      "bbox_px": [
+        103,
+        13953,
+        201,
+        13969
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0465",
+      "section_id": "remaining-page",
+      "text_raw": "SaaS",
+      "bbox_px": [
+        412,
+        13953,
+        454,
+        13969
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0466",
+      "section_id": "remaining-page",
+      "text_raw": "Privacy and terms",
+      "bbox_px": [
+        722,
+        13971,
+        859,
+        13992
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0467",
+      "section_id": "remaining-page",
+      "text_raw": "Elements",
+      "bbox_px": [
+        103,
+        13977,
+        172,
+        13992
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0468",
+      "section_id": "remaining-page",
+      "text_raw": "Al companies",
+      "bbox_px": [
+        415,
+        13977,
+        516,
+        13993
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0469",
+      "section_id": "remaining-page",
+      "text_raw": "Prohibited and restricted businesses",
+      "bbox_px": [
+        727,
+        13995,
+        988,
+        14013
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0470",
+      "section_id": "remaining-page",
+      "text_raw": "Financial Accounts",
+      "bbox_px": [
+        103,
+        13999,
+        242,
+        14015
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0471",
+      "section_id": "remaining-page",
+      "text_raw": "Creator economy",
+      "bbox_px": [
+        415,
+        14000,
+        542,
+        14018
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0472",
+      "section_id": "remaining-page",
+      "text_raw": "Sign in ›",
+      "bbox_px": [
+        1037,
+        14007,
+        1099,
+        14026
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0473",
+      "section_id": "remaining-page",
+      "text_raw": "Licences",
+      "bbox_px": [
+        727,
+        14020,
+        794,
+        14036
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0474",
+      "section_id": "remaining-page",
+      "text_raw": "Financial Accounts for platforms",
+      "bbox_px": [
+        103,
+        14023,
+        338,
+        14043
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0475",
+      "section_id": "remaining-page",
+      "text_raw": "Hospitality, travel and leisure",
+      "bbox_px": [
+        412,
+        14026,
+        621,
+        14042
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0476",
+      "section_id": "remaining-page",
+      "text_raw": "Sitemap",
+      "bbox_px": [
+        725,
+        14044,
+        787,
+        14059
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0477",
+      "section_id": "remaining-page",
+      "text_raw": "Financial Connections",
+      "bbox_px": [
+        103,
+        14048,
+        263,
+        14064
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0478",
+      "section_id": "remaining-page",
+      "text_raw": "Insurance",
+      "bbox_px": [
+        412,
+        14049,
+        490,
+        14065
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0479",
+      "section_id": "remaining-page",
+      "text_raw": "Cookie settings",
+      "bbox_px": [
+        724,
+        14065,
+        841,
+        14086
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0480",
+      "section_id": "remaining-page",
+      "text_raw": "Global Payouts",
+      "bbox_px": [
+        102,
+        14070,
+        214,
+        14092
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0481",
+      "section_id": "remaining-page",
+      "text_raw": "Media and entertainment",
+      "bbox_px": [
+        412,
+        14072,
+        598,
+        14088
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0482",
+      "section_id": "remaining-page",
+      "text_raw": "More resources",
+      "bbox_px": [
+        727,
+        14093,
+        841,
+        14108
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0483",
+      "section_id": "remaining-page",
+      "text_raw": "Non-profits",
+      "bbox_px": [
+        412,
+        14095,
+        500,
+        14114
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0484",
+      "section_id": "remaining-page",
+      "text_raw": "Identity",
+      "bbox_px": [
+        103,
+        14098,
+        159,
+        14113
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0485",
+      "section_id": "remaining-page",
+      "text_raw": "Retail",
+      "bbox_px": [
+        410,
+        14119,
+        459,
+        14139
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0486",
+      "section_id": "remaining-page",
+      "text_raw": "Invoicing",
+      "bbox_px": [
+        103,
+        14121,
+        170,
+        14139
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0487",
+      "section_id": "remaining-page",
+      "text_raw": "Issuing",
+      "bbox_px": [
+        102,
+        14142,
+        158,
+        14163
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0488",
+      "section_id": "remaining-page",
+      "text_raw": "Link",
+      "bbox_px": [
+        103,
+        14170,
+        139,
+        14186
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0489",
+      "section_id": "remaining-page",
+      "text_raw": "Payments",
+      "bbox_px": [
+        103,
+        14193,
+        178,
+        14209
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0490",
+      "section_id": "remaining-page",
+      "text_raw": "Developers",
+      "bbox_px": [
+        412,
+        14203,
+        500,
+        14225
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0491",
+      "section_id": "remaining-page",
+      "text_raw": "Payment Links",
+      "bbox_px": [
+        103,
+        14217,
+        211,
+        14235
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0492",
+      "section_id": "remaining-page",
+      "text_raw": "Documentation",
+      "bbox_px": [
+        415,
+        14235,
+        529,
+        14253
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0493",
+      "section_id": "remaining-page",
+      "text_raw": "Payment methods",
+      "bbox_px": [
+        103,
+        14239,
+        237,
+        14258
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0494",
+      "section_id": "remaining-page",
+      "text_raw": "API reference",
+      "bbox_px": [
+        415,
+        14261,
+        516,
+        14277
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0495",
+      "section_id": "remaining-page",
+      "text_raw": "Radar",
+      "bbox_px": [
+        103,
+        14266,
+        149,
+        14279
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0496",
+      "section_id": "remaining-page",
+      "text_raw": "API status",
+      "bbox_px": [
+        415,
+        14284,
+        490,
+        14299
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0497",
+      "section_id": "remaining-page",
+      "text_raw": "Revenue Recognition",
+      "bbox_px": [
+        103,
+        14288,
+        258,
+        14307
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0498",
+      "section_id": "remaining-page",
+      "text_raw": "API changelog",
+      "bbox_px": [
+        415,
+        14308,
+        521,
+        14325
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0499",
+      "section_id": "remaining-page",
+      "text_raw": "Stripe Sigma",
+      "bbox_px": [
+        103,
+        14312,
+        198,
+        14330
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0500",
+      "section_id": "remaining-page",
+      "text_raw": "Libraries and SDKs",
+      "bbox_px": [
+        412,
+        14330,
+        554,
+        14349
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0501",
+      "section_id": "remaining-page",
+      "text_raw": "Tax",
+      "bbox_px": [
+        101,
+        14334,
+        133,
+        14355
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0502",
+      "section_id": "remaining-page",
+      "text_raw": "Developer blog",
+      "bbox_px": [
+        415,
+        14356,
+        526,
+        14375
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0503",
+      "section_id": "remaining-page",
+      "text_raw": "Terminal",
+      "bbox_px": [
+        103,
+        14361,
+        170,
+        14377
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0504",
+      "section_id": "remaining-page",
+      "text_raw": "Usage-based billing",
+      "bbox_px": [
+        100,
+        14384,
+        247,
+        14406
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0505",
+      "section_id": "remaining-page",
+      "text_raw": "Italy (English)",
+      "bbox_px": [
+        102,
+        14506,
+        227,
+        14527
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    },
+    {
+      "id": "ocr-0506",
+      "section_id": "remaining-page",
+      "text_raw": "© 2026 Stripe, LLC.",
+      "bbox_px": [
+        102,
+        14541,
+        242,
+        14561
+      ],
+      "ocr_confidence": 1,
+      "evidence_ids": [
+        "full"
+      ],
+      "status": "ocr_unreviewed",
+      "content_scope": "unclassified"
+    }
+  ]
+}

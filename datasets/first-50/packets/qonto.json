@@ -1,0 +1,89 @@
+{
+  "id": "qonto",
+  "name": "Qonto",
+  "annotation_status": "pilot_partial",
+  "facets": {
+    "industry": "Finance",
+    "audience": "Business owners",
+    "conversion_goal": "open-account",
+    "style": "photography-led",
+    "color_family": "black",
+    "hero_layout": "left"
+  },
+  "observed_composition": "White copy sits at the lower left over a full-width workspace photograph containing a finance dashboard.",
+  "copy_examples": [
+    {
+      "id": "copy-01",
+      "section_id": "top-window",
+      "role": "headline",
+      "text_verbatim": "Business account. Finance management. Company creation.",
+      "visible_lines": [],
+      "evidence_ids": [
+        "hero-window",
+        "full"
+      ],
+      "reading_order": 0,
+      "transcription_status": "visually_verified",
+      "uncertainties": [
+        "Visual line wrapping is not transcribed; use the screenshot.",
+        "Reading order is grouped editorially by copy role, not a DOM reading-order measurement."
+      ]
+    },
+    {
+      "id": "copy-02",
+      "section_id": "top-window",
+      "role": "navigation",
+      "text_verbatim": "Open an account",
+      "visible_lines": [],
+      "evidence_ids": [
+        "hero-window",
+        "full"
+      ],
+      "reading_order": 1,
+      "transcription_status": "visually_verified",
+      "uncertainties": [
+        "Visual line wrapping is not transcribed; use the screenshot.",
+        "Reading order is grouped editorially by copy role, not a DOM reading-order measurement."
+      ]
+    }
+  ],
+  "evidence_images": [
+    {
+      "id": "full",
+      "path": "screenshots/qonto.png",
+      "sha256": "680ee2f17c69a39f823a12288a15c735a59b46286fa36a0df3bbde577d10d454",
+      "width": 1440,
+      "height": 9662,
+      "role": "source",
+      "parent_id": null,
+      "bbox_px": null
+    },
+    {
+      "id": "hero-window",
+      "path": "crops/qonto-hero.png",
+      "sha256": "4c5b008667d44a48132f3ca7a7fede69ec180184414c9672506337d97fc10f34",
+      "width": 1440,
+      "height": 1000,
+      "role": "crop",
+      "parent_id": "full",
+      "bbox_px": [
+        0,
+        0,
+        1440,
+        1000
+      ]
+    }
+  ],
+  "expand": {
+    "record": "records/qonto.json",
+    "full_page_ocr": "ocr/qonto.json"
+  },
+  "limitations": [
+    "No conversion-performance data; conversion_goal describes an intended visible action.",
+    "No verified mobile layout, animation, interaction, DOM, source code, font names, or CSS spacing values.",
+    "Screenshot capture date is unknown; gallery savedAt is the download date.",
+    "Full-page semantic section boundaries and body copy classification remain unreviewed.",
+    "The first 1000 pixels are an evidence window, not a browser viewport or exact hero boundary.",
+    "Copy text omits decorative icons; text punctuation is transcribed as visible, but font-specific glyph identity is not established."
+  ]
+}

@@ -1,0 +1,2869 @@
+[
+  {
+    "height": 8952,
+    "lines": [
+      {
+        "bbox_px": [
+          41,
+          33,
+          107,
+          50
+        ],
+        "confidence": 1,
+        "text": "Products"
+      },
+      {
+        "bbox_px": [
+          146,
+          36,
+          222,
+          49
+        ],
+        "confidence": 1,
+        "text": "Resources"
+      },
+      {
+        "bbox_px": [
+          261,
+          33,
+          339,
+          49
+        ],
+        "confidence": 1,
+        "text": "Inspiration"
+      },
+      {
+        "bbox_px": [
+          378,
+          36,
+          431,
+          52
+        ],
+        "confidence": 1,
+        "text": "Pricing"
+      },
+      {
+        "bbox_px": [
+          669,
+          28,
+          713,
+          39
+        ],
+        "confidence": 1,
+        "text": "INTUIT"
+      },
+      {
+        "bbox_px": [
+          645,
+          36,
+          797,
+          60
+        ],
+        "confidence": 1,
+        "text": "& mailchimp"
+      },
+      {
+        "bbox_px": [
+          1016,
+          25,
+          1058,
+          42
+        ],
+        "confidence": 1,
+        "text": "Sales:"
+      },
+      {
+        "bbox_px": [
+          943,
+          47,
+          1058,
+          60
+        ],
+        "confidence": 1,
+        "text": "+1 (800) 315-5939"
+      },
+      {
+        "bbox_px": [
+          1181,
+          36,
+          1230,
+          52
+        ],
+        "confidence": 1,
+        "text": "Log In"
+      },
+      {
+        "bbox_px": [
+          1288,
+          36,
+          1372,
+          52
+        ],
+        "confidence": 1,
+        "text": "Sign Up Free"
+      },
+      {
+        "bbox_px": [
+          446,
+          172,
+          993,
+          212
+        ],
+        "confidence": 1,
+        "text": "Turn Emails into Revenue"
+      },
+      {
+        "bbox_px": [
+          300,
+          235,
+          1142,
+          263
+        ],
+        "confidence": 1,
+        "text": "Win new customers with the #1 email marketing and automations brand* that"
+      },
+      {
+        "bbox_px": [
+          410,
+          274,
+          1027,
+          303
+        ],
+        "confidence": 1,
+        "text": "recommends ways to get more opens, clicks, and sales."
+      },
+      {
+        "bbox_px": [
+          692,
+          354,
+          745,
+          372
+        ],
+        "confidence": 1,
+        "text": "Sign Up"
+      },
+      {
+        "bbox_px": [
+          41,
+          509,
+          188,
+          531
+        ],
+        "confidence": 1,
+        "text": "Convert with"
+      },
+      {
+        "bbox_px": [
+          41,
+          544,
+          188,
+          562
+        ],
+        "confidence": 1,
+        "text": "Automations"
+      },
+      {
+        "bbox_px": [
+          396,
+          507,
+          614,
+          536
+        ],
+        "confidence": 1,
+        "text": "Optimize with AI &"
+      },
+      {
+        "bbox_px": [
+          397,
+          543,
+          507,
+          568
+        ],
+        "confidence": 1,
+        "text": "Analytics"
+      },
+      {
+        "bbox_px": [
+          757,
+          509,
+          888,
+          534
+        ],
+        "confidence": 1,
+        "text": "Target with"
+      },
+      {
+        "bbox_px": [
+          757,
+          544,
+          917,
+          567
+        ],
+        "confidence": 1,
+        "text": "Segmentation"
+      },
+      {
+        "bbox_px": [
+          1118,
+          509,
+          1372,
+          533
+        ],
+        "confidence": 1,
+        "text": "Sync with Integrations"
+      },
+      {
+        "bbox_px": [
+          107,
+          627,
+          216,
+          636
+        ],
+        "confidence": 1,
+        "text": "Customer Journey Balder"
+      },
+      {
+        "bbox_px": [
+          501,
+          638,
+          580,
+          674
+        ],
+        "confidence": 1,
+        "text": "Seasonal Sale"
+      },
+      {
+        "bbox_px": [
+          493,
+          665,
+          543,
+          694
+        ],
+        "confidence": 1,
+        "text": "7.328 Opens"
+      },
+      {
+        "bbox_px": [
+          486,
+          695,
+          533,
+          719
+        ],
+        "confidence": 1,
+        "text": "4.631 Clicks"
+      },
+      {
+        "bbox_px": [
+          162,
+          700,
+          284,
+          717
+        ],
+        "confidence": 1,
+        "text": "• Customer abandons cart"
+      },
+      {
+        "bbox_px": [
+          167,
+          748,
+          274,
+          763
+        ],
+        "confidence": 1,
+        "text": "4 If/Else New Customer"
+      },
+      {
+        "bbox_px": [
+          125,
+          803,
+          209,
+          816
+        ],
+        "confidence": 1,
+        "text": "M Send Discount"
+      },
+      {
+        "bbox_px": [
+          237,
+          805,
+          316,
+          814
+        ],
+        "confidence": 1,
+        "text": "Send Reminde"
+      },
+      {
+        "bbox_px": [
+          591,
+          695,
+          627,
+          716
+        ],
+        "confidence": 1,
+        "text": "A 68.7%"
+      },
+      {
+        "bbox_px": [
+          595,
+          727,
+          619,
+          743
+        ],
+        "confidence": 0.30000001192092896,
+        "text": "42.3%"
+      },
+      {
+        "bbox_px": [
+          538,
+          741,
+          611,
+          775
+        ],
+        "confidence": 1,
+        "text": "Existing Customers"
+      },
+      {
+        "bbox_px": [
+          580,
+          774,
+          603,
+          790
+        ],
+        "confidence": 0.5,
+        "text": "HOZI"
+      },
+      {
+        "bbox_px": [
+          1191,
+          899,
+          1317,
+          905
+        ],
+        "confidence": 0.30000001192092896,
+        "text": "ea aicm r anon msel out"
+      },
+      {
+        "bbox_px": [
+          1186,
+          917,
+          1241,
+          931
+        ],
+        "confidence": 1,
+        "text": "mele ei Vanille"
+      },
+      {
+        "bbox_px": [
+          1210,
+          952,
+          1306,
+          968
+        ],
+        "confidence": 1,
+        "text": "ADD TO CART"
+      },
+      {
+        "bbox_px": [
+          39,
+          1040,
+          308,
+          1059
+        ],
+        "confidence": 1,
+        "text": "Send the right message at the right"
+      },
+      {
+        "bbox_px": [
+          39,
+          1070,
+          284,
+          1086
+        ],
+        "confidence": 1,
+        "text": "time to convert more customers."
+      },
+      {
+        "bbox_px": [
+          399,
+          1040,
+          666,
+          1059
+        ],
+        "confidence": 1,
+        "text": "Get Al-assisted suggestions to help"
+      },
+      {
+        "bbox_px": [
+          397,
+          1068,
+          663,
+          1088
+        ],
+        "confidence": 1,
+        "text": "make your content more engaging."
+      },
+      {
+        "bbox_px": [
+          757,
+          1040,
+          1034,
+          1059
+        ],
+        "confidence": 1,
+        "text": "Boost customer loyalty by predicting"
+      },
+      {
+        "bbox_px": [
+          757,
+          1069,
+          938,
+          1088
+        ],
+        "confidence": 1,
+        "text": "the right ones to target."
+      },
+      {
+        "bbox_px": [
+          1118,
+          1040,
+          1387,
+          1059
+        ],
+        "confidence": 1,
+        "text": "Connect more tools, get more data,"
+      },
+      {
+        "bbox_px": [
+          1115,
+          1070,
+          1322,
+          1086
+        ],
+        "confidence": 1,
+        "text": "save time, and make better"
+      },
+      {
+        "bbox_px": [
+          1115,
+          1097,
+          1197,
+          1113
+        ],
+        "confidence": 1,
+        "text": "decisions."
+      },
+      {
+        "bbox_px": [
+          62,
+          1157,
+          136,
+          1172
+        ],
+        "confidence": 1,
+        "text": "Learn more"
+      },
+      {
+        "bbox_px": [
+          420,
+          1156,
+          496,
+          1169
+        ],
+        "confidence": 1,
+        "text": "Learn more"
+      },
+      {
+        "bbox_px": [
+          780,
+          1155,
+          857,
+          1174
+        ],
+        "confidence": 1,
+        "text": "Learn more"
+      },
+      {
+        "bbox_px": [
+          1138,
+          1155,
+          1215,
+          1174
+        ],
+        "confidence": 1,
+        "text": "Learn more"
+      },
+      {
+        "bbox_px": [
+          313,
+          1979,
+          1123,
+          2006
+        ],
+        "confidence": 1,
+        "text": "Most email marketing platforms tell you how your campaigns perform. We"
+      },
+      {
+        "bbox_px": [
+          300,
+          2011,
+          1136,
+          2043
+        ],
+        "confidence": 1,
+        "text": "analyze the data from the billions of emails we send to give you personalized"
+      },
+      {
+        "bbox_px": [
+          308,
+          2049,
+          1129,
+          2078
+        ],
+        "confidence": 1,
+        "text": "recommendations for improving your content, targeting, and automations."
+      },
+      {
+        "bbox_px": [
+          101,
+          2389,
+          240,
+          2416
+        ],
+        "confidence": 1,
+        "text": "Premium"
+      },
+      {
+        "bbox_px": [
+          104,
+          2429,
+          326,
+          2447
+        ],
+        "confidence": 1,
+        "text": "Our most advanced tools, unlimited"
+      },
+      {
+        "bbox_px": [
+          104,
+          2449,
+          344,
+          2465
+        ],
+        "confidence": 1,
+        "text": "contacts, and priority support; built for"
+      },
+      {
+        "bbox_px": [
+          101,
+          2471,
+          148,
+          2484
+        ],
+        "confidence": 1,
+        "text": "teams."
+      },
+      {
+        "bbox_px": [
+          104,
+          2502,
+          159,
+          2515
+        ],
+        "confidence": 1,
+        "text": "Starts at"
+      },
+      {
+        "bbox_px": [
+          100,
+          2521,
+          239,
+          2556
+        ],
+        "confidence": 1,
+        "text": "€301.89x"
+      },
+      {
+        "bbox_px": [
+          104,
+          2601,
+          318,
+          2618
+        ],
+        "confidence": 1,
+        "text": "/month based on 10,000 contacts*"
+      },
+      {
+        "bbox_px": [
+          104,
+          2640,
+          287,
+          2664
+        ],
+        "confidence": 1,
+        "text": "• Phone & Priority Support"
+      },
+      {
+        "bbox_px": [
+          104,
+          2695,
+          287,
+          2716
+        ],
+        "confidence": 1,
+        "text": "• Max Contacts: Unlimited"
+      },
+      {
+        "bbox_px": [
+          125,
+          2753,
+          347,
+          2774
+        ],
+        "confidence": 1,
+        "text": "Custom-Coded and Pre-built Emai"
+      },
+      {
+        "bbox_px": [
+          128,
+          2774,
+          201,
+          2795
+        ],
+        "confidence": 1,
+        "text": "Templates"
+      },
+      {
+        "bbox_px": [
+          128,
+          2829,
+          308,
+          2851
+        ],
+        "confidence": 1,
+        "text": "Multivariate and A/B Testing"
+      },
+      {
+        "bbox_px": [
+          133,
+          2886,
+          334,
+          2903
+        ],
+        "confidence": 1,
+        "text": "Enhanced Automated Customer"
+      },
+      {
+        "bbox_px": [
+          133,
+          2908,
+          193,
+          2923
+        ],
+        "confidence": 1,
+        "text": "Journeys"
+      },
+      {
+        "bbox_px": [
+          104,
+          2963,
+          287,
+          2981
+        ],
+        "confidence": 1,
+        "text": "• Predictive Segmentation"
+      },
+      {
+        "bbox_px": [
+          130,
+          3020,
+          339,
+          3038
+        ],
+        "confidence": 1,
+        "text": "Dedicated Onboarding Specialist"
+      },
+      {
+        "bbox_px": [
+          551,
+          2239,
+          888,
+          2284
+        ],
+        "confidence": 1,
+        "text": "Find the right plan"
+      },
+      {
+        "bbox_px": [
+          483,
+          2332,
+          637,
+          2348
+        ],
+        "confidence": 1,
+        "text": "Mailchimp Recommends"
+      },
+      {
+        "bbox_px": [
+          423,
+          2387,
+          564,
+          2416
+        ],
+        "confidence": 1,
+        "text": "Standard"
+      },
+      {
+        "bbox_px": [
+          423,
+          2429,
+          648,
+          2445
+        ],
+        "confidence": 1,
+        "text": "Sell even more with personalization,"
+      },
+      {
+        "bbox_px": [
+          423,
+          2450,
+          632,
+          2463
+        ],
+        "confidence": 1,
+        "text": "optimization tools, and enhanced"
+      },
+      {
+        "bbox_px": [
+          423,
+          2471,
+          504,
+          2484
+        ],
+        "confidence": 1,
+        "text": "automations."
+      },
+      {
+        "bbox_px": [
+          423,
+          2502,
+          478,
+          2516
+        ],
+        "confidence": 1,
+        "text": "Starts at"
+      },
+      {
+        "bbox_px": [
+          419,
+          2521,
+          531,
+          2561
+        ],
+        "confidence": 1,
+        "text": "€17.16*"
+      },
+      {
+        "bbox_px": [
+          423,
+          2601,
+          624,
+          2618
+        ],
+        "confidence": 1,
+        "text": "/month based on 500 contacts*"
+      },
+      {
+        "bbox_px": [
+          420,
+          2640,
+          619,
+          2665
+        ],
+        "confidence": 1,
+        "text": "• 24/7 Email & Chat Support"
+      },
+      {
+        "bbox_px": [
+          423,
+          2695,
+          601,
+          2716
+        ],
+        "confidence": 1,
+        "text": "• Max Contacts: 100,000"
+      },
+      {
+        "bbox_px": [
+          417,
+          2746,
+          669,
+          2783
+        ],
+        "confidence": 1,
+        "text": "• Custom-Coded and Pre-built Email"
+      },
+      {
+        "bbox_px": [
+          446,
+          2774,
+          520,
+          2795
+        ],
+        "confidence": 1,
+        "text": "Templates"
+      },
+      {
+        "bbox_px": [
+          423,
+          2828,
+          528,
+          2848
+        ],
+        "confidence": 1,
+        "text": "• A/B Testing"
+      },
+      {
+        "bbox_px": [
+          454,
+          2886,
+          653,
+          2903
+        ],
+        "confidence": 1,
+        "text": "Enhanced Automated Customer"
+      },
+      {
+        "bbox_px": [
+          452,
+          2908,
+          512,
+          2923
+        ],
+        "confidence": 1,
+        "text": "Journeys"
+      },
+      {
+        "bbox_px": [
+          420,
+          2959,
+          609,
+          2988
+        ],
+        "confidence": 1,
+        "text": "• Predictive Segmentation"
+      },
+      {
+        "bbox_px": [
+          449,
+          3020,
+          658,
+          3036
+        ],
+        "confidence": 1,
+        "text": "Dedicated Onboarding Specialist"
+      },
+      {
+        "bbox_px": [
+          742,
+          2390,
+          896,
+          2418
+        ],
+        "confidence": 1,
+        "text": "Essentials"
+      },
+      {
+        "bbox_px": [
+          741,
+          2426,
+          1016,
+          2451
+        ],
+        "confidence": 1,
+        "text": "Send the right content at the right time with"
+      },
+      {
+        "bbox_px": [
+          742,
+          2449,
+          940,
+          2465
+        ],
+        "confidence": 1,
+        "text": "testing and scheduling features."
+      },
+      {
+        "bbox_px": [
+          742,
+          2502,
+          799,
+          2515
+        ],
+        "confidence": 1,
+        "text": "Starts at"
+      },
+      {
+        "bbox_px": [
+          734,
+          2511,
+          843,
+          2567
+        ],
+        "confidence": 0.30000001192092896,
+        "text": "<11.118"
+      },
+      {
+        "bbox_px": [
+          742,
+          2602,
+          940,
+          2620
+        ],
+        "confidence": 1,
+        "text": "/month based on 500 contacts*"
+      },
+      {
+        "bbox_px": [
+          739,
+          2641,
+          938,
+          2665
+        ],
+        "confidence": 1,
+        "text": "• 24/7. Email & Chat Support"
+      },
+      {
+        "bbox_px": [
+          739,
+          2695,
+          912,
+          2719
+        ],
+        "confidence": 1,
+        "text": "• Max Contacts: 50,000"
+      },
+      {
+        "bbox_px": [
+          739,
+          2761,
+          930,
+          2785
+        ],
+        "confidence": 1,
+        "text": "• Pre-built Email Templates"
+      },
+      {
+        "bbox_px": [
+          744,
+          2829,
+          846,
+          2847
+        ],
+        "confidence": 1,
+        "text": "• A/B Testing"
+      },
+      {
+        "bbox_px": [
+          744,
+          2894,
+          1000,
+          2913
+        ],
+        "confidence": 1,
+        "text": "• Basic Automated Customer Journeys"
+      },
+      {
+        "bbox_px": [
+          742,
+          2959,
+          927,
+          2978
+        ],
+        "confidence": 1,
+        "text": "X Predictive Segmentation"
+      },
+      {
+        "bbox_px": [
+          744,
+          3017,
+          977,
+          3033
+        ],
+        "confidence": 1,
+        "text": "X Dedicated Onboarding Specialist"
+      },
+      {
+        "bbox_px": [
+          274,
+          3085,
+          1165,
+          3102
+        ],
+        "confidence": 1,
+        "text": "*Overages apply if contact or email send limit is exceeded. Free plan sending will be paused if contact or email send limit is exceeded. Learn more"
+      },
+      {
+        "bbox_px": [
+          658,
+          3143,
+          778,
+          3156
+        ],
+        "confidence": 1,
+        "text": "See all plan details"
+      },
+      {
+        "bbox_px": [
+          1059,
+          2386,
+          1132,
+          2419
+        ],
+        "confidence": 1,
+        "text": "Free"
+      },
+      {
+        "bbox_px": [
+          1061,
+          2429,
+          1309,
+          2448
+        ],
+        "confidence": 1,
+        "text": "Easily create email campaigns and learn"
+      },
+      {
+        "bbox_px": [
+          1061,
+          2449,
+          1236,
+          2465
+        ],
+        "confidence": 1,
+        "text": "more about your customers"
+      },
+      {
+        "bbox_px": [
+          1060,
+          2549,
+          1260,
+          2574
+        ],
+        "confidence": 1,
+        "text": "/month based on 500 contacts*"
+      },
+      {
+        "bbox_px": [
+          1058,
+          2588,
+          1280,
+          2616
+        ],
+        "confidence": 1,
+        "text": "• Email support for first 30 days"
+      },
+      {
+        "bbox_px": [
+          1060,
+          2643,
+          1215,
+          2672
+        ],
+        "confidence": 1,
+        "text": "• Max Contacts: 500"
+      },
+      {
+        "bbox_px": [
+          1058,
+          2708,
+          1249,
+          2737
+        ],
+        "confidence": 1,
+        "text": "• Pre-built Email Templates"
+      },
+      {
+        "bbox_px": [
+          1061,
+          2774,
+          1165,
+          2795
+        ],
+        "confidence": 1,
+        "text": "X A/B Testing"
+      },
+      {
+        "bbox_px": [
+          1061,
+          2842,
+          1322,
+          2864
+        ],
+        "confidence": 1,
+        "text": "X Basic Automated Customer Journeys"
+      },
+      {
+        "bbox_px": [
+          1063,
+          2910,
+          1246,
+          2926
+        ],
+        "confidence": 1,
+        "text": "X Predictive Segmentation"
+      },
+      {
+        "bbox_px": [
+          1061,
+          2965,
+          1296,
+          2984
+        ],
+        "confidence": 1,
+        "text": "X Dedicated Onboarding Specialist"
+      },
+      {
+        "bbox_px": [
+          436,
+          3331,
+          1003,
+          3372
+        ],
+        "confidence": 1,
+        "text": "Generate up to 4x more orders*"
+      },
+      {
+        "bbox_px": [
+          433,
+          3368,
+          1008,
+          3397
+        ],
+        "confidence": 1,
+        "text": "with Chstomer Journey Ruilder"
+      },
+      {
+        "bbox_px": [
+          436,
+          3325,
+          1006,
+          3374
+        ],
+        "confidence": 1,
+        "text": "Generate up to 4x more orders*"
+      },
+      {
+        "bbox_px": [
+          436,
+          3369,
+          1008,
+          3411
+        ],
+        "confidence": 1,
+        "text": "with Customer Journey Builder"
+      },
+      {
+        "bbox_px": [
+          601,
+          3409,
+          838,
+          3445
+        ],
+        "confidence": 1,
+        "text": "automations"
+      },
+      {
+        "bbox_px": [
+          297,
+          3864,
+          488,
+          3885
+        ],
+        "confidence": 1,
+        "text": "To: <Abandoned Cart>"
+      },
+      {
+        "bbox_px": [
+          297,
+          3893,
+          535,
+          3912
+        ],
+        "confidence": 1,
+        "text": "Subject: Forgot something?"
+      },
+      {
+        "bbox_px": [
+          371,
+          3968,
+          491,
+          3987
+        ],
+        "confidence": 1,
+        "text": "Get it before"
+      },
+      {
+        "bbox_px": [
+          386,
+          3997,
+          473,
+          4019
+        ],
+        "confidence": 1,
+        "text": "it's gone"
+      },
+      {
+        "bbox_px": [
+          148,
+          4118,
+          258,
+          4137
+        ],
+        "confidence": 1,
+        "text": "SENT EMAILS"
+      },
+      {
+        "bbox_px": [
+          101,
+          4165,
+          318,
+          4184
+        ],
+        "confidence": 1,
+        "text": "Automate your emails for"
+      },
+      {
+        "bbox_px": [
+          104,
+          4191,
+          308,
+          4210
+        ],
+        "confidence": 1,
+        "text": "maximum engagement."
+      },
+      {
+        "bbox_px": [
+          807,
+          4057,
+          1332,
+          4089
+        ],
+        "confidence": 1,
+        "text": "Keep your emails relevant and your"
+      },
+      {
+        "bbox_px": [
+          806,
+          4097,
+          1027,
+          4134
+        ],
+        "confidence": 1,
+        "text": "brand growing"
+      },
+      {
+        "bbox_px": [
+          807,
+          4141,
+          1272,
+          4165
+        ],
+        "confidence": 1,
+        "text": "Deliver personalized emails based on their buying"
+      },
+      {
+        "bbox_px": [
+          804,
+          4173,
+          1275,
+          4194
+        ],
+        "confidence": 1,
+        "text": "behavior, survey responses, chat interactions, and"
+      },
+      {
+        "bbox_px": [
+          804,
+          4202,
+          1243,
+          4220
+        ],
+        "confidence": 1,
+        "text": "support tickets to promote loyalty and growth."
+      },
+      {
+        "bbox_px": [
+          1089,
+          4811,
+          1118,
+          4827
+        ],
+        "confidence": 1,
+        "text": "7:14"
+      },
+      {
+        "bbox_px": [
+          789,
+          4868,
+          1029,
+          4887
+        ],
+        "confidence": 1,
+        "text": "/ SKIMMABILITY SUGGESTIONS"
+      },
+      {
+        "bbox_px": [
+          778,
+          4915,
+          1063,
+          4934
+        ],
+        "confidence": 1,
+        "text": "Short and simple content is easier to"
+      },
+      {
+        "bbox_px": [
+          778,
+          4939,
+          1008,
+          4958
+        ],
+        "confidence": 1,
+        "text": "skim and understand quickly."
+      },
+      {
+        "bbox_px": [
+          1123,
+          4864,
+          1210,
+          4901
+        ],
+        "confidence": 1,
+        "text": "Issembly"
+      },
+      {
+        "bbox_px": [
+          1124,
+          4884,
+          1257,
+          4931
+        ],
+        "confidence": 1,
+        "text": "›: New Subscribers"
+      },
+      {
+        "bbox_px": [
+          81,
+          4918,
+          606,
+          4961
+        ],
+        "confidence": 1,
+        "text": "Keep customers ready to buy"
+      },
+      {
+        "bbox_px": [
+          78,
+          4958,
+          488,
+          4997
+        ],
+        "confidence": 1,
+        "text": "with engaging content"
+      },
+      {
+        "bbox_px": [
+          1140,
+          4965,
+          1248,
+          5012
+        ],
+        "confidence": 1,
+        "text": "Aesembly"
+      },
+      {
+        "bbox_px": [
+          1087,
+          4808,
+          1121,
+          4831
+        ],
+        "confidence": 1,
+        "text": "7:14"
+      },
+      {
+        "bbox_px": [
+          791,
+          4870,
+          1029,
+          4886
+        ],
+        "confidence": 1,
+        "text": "• SKIMMABILITY SUGGESTIONS"
+      },
+      {
+        "bbox_px": [
+          778,
+          4917,
+          1063,
+          4933
+        ],
+        "confidence": 1,
+        "text": "Short and simple content is easier to"
+      },
+      {
+        "bbox_px": [
+          778,
+          4938,
+          1008,
+          4957
+        ],
+        "confidence": 1,
+        "text": "skim and understand quickly."
+      },
+      {
+        "bbox_px": [
+          1122,
+          4865,
+          1210,
+          4901
+        ],
+        "confidence": 1,
+        "text": "Issembly"
+      },
+      {
+        "bbox_px": [
+          1123,
+          4885,
+          1257,
+          4931
+        ],
+        "confidence": 1,
+        "text": "›: New Subscribers"
+      },
+      {
+        "bbox_px": [
+          81,
+          4919,
+          603,
+          4959
+        ],
+        "confidence": 1,
+        "text": "Keep customers ready to buy"
+      },
+      {
+        "bbox_px": [
+          81,
+          4956,
+          488,
+          5001
+        ],
+        "confidence": 1,
+        "text": "with engaging content"
+      },
+      {
+        "bbox_px": [
+          1137,
+          4966,
+          1248,
+          5017
+        ],
+        "confidence": 1,
+        "text": "Assembly"
+      },
+      {
+        "bbox_px": [
+          1085,
+          4997,
+          1287,
+          5070
+        ],
+        "confidence": 1,
+        "text": "Get up to 30% off"
+      },
+      {
+        "bbox_px": [
+          1091,
+          5027,
+          1269,
+          5093
+        ],
+        "confidence": 1,
+        "text": "your first order"
+      },
+      {
+        "bbox_px": [
+          88,
+          5053,
+          295,
+          5074
+        ],
+        "confidence": 1,
+        "text": "Content Optimizer"
+      },
+      {
+        "bbox_px": [
+          86,
+          5108,
+          595,
+          5129
+        ],
+        "confidence": 1,
+        "text": "Learn how your emails compare to the top-performing"
+      },
+      {
+        "bbox_px": [
+          88,
+          5137,
+          533,
+          5158
+        ],
+        "confidence": 1,
+        "text": "campaigns in your industry and get data-driven"
+      },
+      {
+        "bbox_px": [
+          88,
+          5165,
+          564,
+          5187
+        ],
+        "confidence": 1,
+        "text": "suggestions for improving your copy, imagery, and"
+      },
+      {
+        "bbox_px": [
+          86,
+          5195,
+          151,
+          5213
+        ],
+        "confidence": 1,
+        "text": "layout."
+      },
+      {
+        "bbox_px": [
+          86,
+          5241,
+          164,
+          5255
+        ],
+        "confidence": 1,
+        "text": "Learn more"
+      },
+      {
+        "bbox_px": [
+          778,
+          5085,
+          940,
+          5100
+        ],
+        "confidence": 1,
+        "text": "CONTENT OPTIMIZER"
+      },
+      {
+        "bbox_px": [
+          778,
+          5141,
+          878,
+          5159
+        ],
+        "confidence": 1,
+        "text": "Skimmability"
+      },
+      {
+        "bbox_px": [
+          86,
+          5336,
+          287,
+          5357
+        ],
+        "confidence": 1,
+        "text": "Creative Assistant"
+      },
+      {
+        "bbox_px": [
+          1047,
+          5488,
+          1116,
+          5520
+        ],
+        "confidence": 1,
+        "text": "GET LIT"
+      },
+      {
+        "bbox_px": [
+          417,
+          5654,
+          1024,
+          5704
+        ],
+        "confidence": 1,
+        "text": "Get up to 88% more revenue* with"
+      },
+      {
+        "bbox_px": [
+          420,
+          5699,
+          1021,
+          5736
+        ],
+        "confidence": 1,
+        "text": "our Customer Lifetime Value and"
+      },
+      {
+        "bbox_px": [
+          420,
+          5735,
+          1019,
+          5786
+        ],
+        "confidence": 1,
+        "text": "Likelihood to Purchase segments"
+      },
+      {
+        "bbox_px": [
+          321,
+          6382,
+          467,
+          6398
+        ],
+        "confidence": 1,
+        "text": "Customer Profile"
+      },
+      {
+        "bbox_px": [
+          318,
+          6416,
+          525,
+          6448
+        ],
+        "confidence": 1,
+        "text": "Jamal Mann"
+      },
+      {
+        "bbox_px": [
+          324,
+          6450,
+          412,
+          6466
+        ],
+        "confidence": 1,
+        "text": "****"
+      },
+      {
+        "bbox_px": [
+          172,
+          6513,
+          271,
+          6529
+        ],
+        "confidence": 1,
+        "text": "Local Customer"
+      },
+      {
+        "bbox_px": [
+          321,
+          6512,
+          405,
+          6530
+        ],
+        "confidence": 1,
+        "text": "Opens Emails"
+      },
+      {
+        "bbox_px": [
+          459,
+          6513,
+          543,
+          6527
+        ],
+        "confidence": 1,
+        "text": "Repeat Buyer"
+      },
+      {
+        "bbox_px": [
+          823,
+          6421,
+          1311,
+          6453
+        ],
+        "confidence": 1,
+        "text": "Mailchimp will help you focus on"
+      },
+      {
+        "bbox_px": [
+          820,
+          6460,
+          1249,
+          6497
+        ],
+        "confidence": 1,
+        "text": "your most loyal and valuable"
+      },
+      {
+        "bbox_px": [
+          822,
+          6505,
+          993,
+          6534
+        ],
+        "confidence": 1,
+        "text": "customers."
+      },
+      {
+        "bbox_px": [
+          318,
+          6415,
+          525,
+          6447
+        ],
+        "confidence": 1,
+        "text": "Jamal Mann"
+      },
+      {
+        "bbox_px": [
+          321,
+          6449,
+          386,
+          6465
+        ],
+        "confidence": 1,
+        "text": "***"
+      },
+      {
+        "bbox_px": [
+          175,
+          6515,
+          271,
+          6528
+        ],
+        "confidence": 1,
+        "text": "Local Customer"
+      },
+      {
+        "bbox_px": [
+          321,
+          6515,
+          405,
+          6528
+        ],
+        "confidence": 1,
+        "text": "Opens Emails"
+      },
+      {
+        "bbox_px": [
+          459,
+          6513,
+          541,
+          6528
+        ],
+        "confidence": 1,
+        "text": "Repeat Buyer"
+      },
+      {
+        "bbox_px": [
+          823,
+          6420,
+          1311,
+          6454
+        ],
+        "confidence": 1,
+        "text": "Mailchimp will help you focus on"
+      },
+      {
+        "bbox_px": [
+          820,
+          6460,
+          1252,
+          6496
+        ],
+        "confidence": 1,
+        "text": "your most loyal and valuable"
+      },
+      {
+        "bbox_px": [
+          823,
+          6507,
+          993,
+          6533
+        ],
+        "confidence": 1,
+        "text": "customers."
+      },
+      {
+        "bbox_px": [
+          78,
+          7150,
+          629,
+          7195
+        ],
+        "confidence": 1,
+        "text": "Bring in more data, drive more"
+      },
+      {
+        "bbox_px": [
+          78,
+          7190,
+          603,
+          7232
+        ],
+        "confidence": 1,
+        "text": "growth with our integrations"
+      },
+      {
+        "bbox_px": [
+          114,
+          7326,
+          190,
+          7352
+        ],
+        "confidence": 1,
+        "text": "Canva"
+      },
+      {
+        "bbox_px": [
+          214,
+          7302,
+          266,
+          7318
+        ],
+        "confidence": 1,
+        "text": "Canva"
+      },
+      {
+        "bbox_px": [
+          214,
+          7330,
+          428,
+          7347
+        ],
+        "confidence": 1,
+        "text": "Create compelling visuals for your"
+      },
+      {
+        "bbox_px": [
+          214,
+          7349,
+          282,
+          7364
+        ],
+        "confidence": 1,
+        "text": "marketing."
+      },
+      {
+        "bbox_px": [
+          551,
+          7315,
+          611,
+          7331
+        ],
+        "confidence": 1,
+        "text": "salesforce"
+      },
+      {
+        "bbox_px": [
+          540,
+          7357,
+          616,
+          7373
+        ],
+        "confidence": 1,
+        "text": "PARTNER"
+      },
+      {
+        "bbox_px": [
+          640,
+          7302,
+          833,
+          7318
+        ],
+        "confidence": 1,
+        "text": "Mailchimp for Salesforce"
+      },
+      {
+        "bbox_px": [
+          640,
+          7330,
+          872,
+          7344
+        ],
+        "confidence": 1,
+        "text": "Sync your Mailchimp subscribers and"
+      },
+      {
+        "bbox_px": [
+          640,
+          7349,
+          857,
+          7365
+        ],
+        "confidence": 1,
+        "text": "Salesforce® leads across platforms."
+      },
+      {
+        "bbox_px": [
+          1063,
+          7303,
+          1147,
+          7319
+        ],
+        "confidence": 1,
+        "text": "Instagram"
+      },
+      {
+        "bbox_px": [
+          1066,
+          7330,
+          1330,
+          7344
+        ],
+        "confidence": 1,
+        "text": "Promote and share your Instagram posts in"
+      },
+      {
+        "bbox_px": [
+          1065,
+          7348,
+          1176,
+          7366
+        ],
+        "confidence": 1,
+        "text": "email campaigns."
+      },
+      {
+        "bbox_px": [
+          214,
+          7446,
+          277,
+          7462
+        ],
+        "confidence": 1,
+        "text": "Shopify"
+      },
+      {
+        "bbox_px": [
+          214,
+          7472,
+          460,
+          7492
+        ],
+        "confidence": 1,
+        "text": "Sync Shopify customers, products, and"
+      },
+      {
+        "bbox_px": [
+          214,
+          7493,
+          389,
+          7509
+        ],
+        "confidence": 1,
+        "text": "purchase data to Mailchimp."
+      },
+      {
+        "bbox_px": [
+          642,
+          7446,
+          776,
+          7464
+        ],
+        "confidence": 1,
+        "text": "Google Analytics"
+      },
+      {
+        "bbox_px": [
+          640,
+          7472,
+          891,
+          7491
+        ],
+        "confidence": 1,
+        "text": "Unlock powerful insights with campaign,"
+      },
+      {
+        "bbox_px": [
+          640,
+          7493,
+          825,
+          7509
+        ],
+        "confidence": 1,
+        "text": "website, or landing page data."
+      },
+      {
+        "bbox_px": [
+          966,
+          7467,
+          1040,
+          7498
+        ],
+        "confidence": 1,
+        "text": "Woo"
+      },
+      {
+        "bbox_px": [
+          1066,
+          7446,
+          1189,
+          7462
+        ],
+        "confidence": 1,
+        "text": "WooCommerce"
+      },
+      {
+        "bbox_px": [
+          1063,
+          7472,
+          1317,
+          7488
+        ],
+        "confidence": 1,
+        "text": "Power your ecommerce store with smart"
+      },
+      {
+        "bbox_px": [
+          1066,
+          7493,
+          1186,
+          7509
+        ],
+        "confidence": 1,
+        "text": "marketing features."
+      },
+      {
+        "bbox_px": [
+          122,
+          7608,
+          180,
+          7650
+        ],
+        "confidence": 1,
+        "text": "qb"
+      },
+      {
+        "bbox_px": [
+          214,
+          7590,
+          363,
+          7606
+        ],
+        "confidence": 1,
+        "text": "QuickBooks Online"
+      },
+      {
+        "bbox_px": [
+          214,
+          7619,
+          462,
+          7632
+        ],
+        "confidence": 1,
+        "text": "Bring together your marketing tools and"
+      },
+      {
+        "bbox_px": [
+          214,
+          7640,
+          295,
+          7653
+        ],
+        "confidence": 1,
+        "text": "invoice data."
+      },
+      {
+        "bbox_px": [
+          640,
+          7590,
+          833,
+          7606
+        ],
+        "confidence": 1,
+        "text": "Squarespace Commerce"
+      },
+      {
+        "bbox_px": [
+          640,
+          7619,
+          909,
+          7632
+        ],
+        "confidence": 1,
+        "text": "Market your ecommerce business and drive"
+      },
+      {
+        "bbox_px": [
+          640,
+          7640,
+          676,
+          7650
+        ],
+        "confidence": 1,
+        "text": "sales."
+      },
+      {
+        "bbox_px": [
+          1066,
+          7590,
+          1121,
+          7606
+        ],
+        "confidence": 1,
+        "text": "Zapier"
+      },
+      {
+        "bbox_px": [
+          1063,
+          7619,
+          1301,
+          7632
+        ],
+        "confidence": 1,
+        "text": "Automatically pass data between web"
+      },
+      {
+        "bbox_px": [
+          1066,
+          7637,
+          1296,
+          7653
+        ],
+        "confidence": 1,
+        "text": "services without a single line of code."
+      },
+      {
+        "bbox_px": [
+          961,
+          7642,
+          1045,
+          7669
+        ],
+        "confidence": 1,
+        "text": "zapier"
+      },
+      {
+        "bbox_px": [
+          78,
+          7747,
+          326,
+          7768
+        ],
+        "confidence": 1,
+        "text": "View all 300+ integrations"
+      },
+      {
+        "bbox_px": [
+          78,
+          7893,
+          148,
+          7906
+        ],
+        "confidence": 1,
+        "text": "*Disclaimers"
+      },
+      {
+        "bbox_px": [
+          65,
+          7909,
+          919,
+          7923
+        ],
+        "confidence": 1,
+        "text": "1. Mailchimp is the #1 email marketing and automation brand based on competitor brands' publicly available data on worldwide numbers of customers in 2021 / 2022."
+      },
+      {
+        "bbox_px": [
+          65,
+          7925,
+          1058,
+          7938
+        ],
+        "confidence": 1,
+        "text": "2. Generate up to 4X more orders with Customer Journey Builder automations based on orders generated through user's connected stores with automations versus when they used bulk emails."
+      },
+      {
+        "bbox_px": [
+          65,
+          7940,
+          1047,
+          7954
+        ],
+        "confidence": 1,
+        "text": "3. Get up to 88% more revenue based on emails sent with predicted segments against non-predictive segmented emails for users with connected stores only. Standard or Premium Plans only."
+      },
+      {
+        "bbox_px": [
+          78,
+          7956,
+          567,
+          7972
+        ],
+        "confidence": 1,
+        "text": "Availability of features and functionality varies by plan type. For details, view plans and pricing."
+      },
+      {
+        "bbox_px": [
+          193,
+          8131,
+          266,
+          8147
+        ],
+        "confidence": 1,
+        "text": "Products"
+      },
+      {
+        "bbox_px": [
+          193,
+          8178,
+          295,
+          8194
+        ],
+        "confidence": 1,
+        "text": "Why Mailchimp?"
+      },
+      {
+        "bbox_px": [
+          371,
+          8131,
+          454,
+          8147
+        ],
+        "confidence": 1,
+        "text": "Resources"
+      },
+      {
+        "bbox_px": [
+          368,
+          8178,
+          480,
+          8194
+        ],
+        "confidence": 1,
+        "text": "Marketing Library"
+      },
+      {
+        "bbox_px": [
+          564,
+          8131,
+          656,
+          8150
+        ],
+        "confidence": 1,
+        "text": "Community"
+      },
+      {
+        "bbox_px": [
+          561,
+          8176,
+          711,
+          8195
+        ],
+        "confidence": 1,
+        "text": "Agencies & Freelancers"
+      },
+      {
+        "bbox_px": [
+          765,
+          8131,
+          842,
+          8151
+        ],
+        "confidence": 1,
+        "text": "Company"
+      },
+      {
+        "bbox_px": [
+          765,
+          8178,
+          828,
+          8193
+        ],
+        "confidence": 1,
+        "text": "Our Story"
+      },
+      {
+        "bbox_px": [
+          912,
+          8131,
+          948,
+          8150
+        ],
+        "confidence": 1,
+        "text": "Help"
+      },
+      {
+        "bbox_px": [
+          912,
+          8183,
+          982,
+          8192
+        ],
+        "confidence": 1,
+        "text": "Contact Us"
+      },
+      {
+        "bbox_px": [
+          1070,
+          8134,
+          1210,
+          8155
+        ],
+        "confidence": 1,
+        "text": "g mailchimp presents"
+      },
+      {
+        "bbox_px": [
+          1055,
+          8176,
+          1228,
+          8193
+        ],
+        "confidence": 1,
+        "text": "Films, podcasts, and original"
+      },
+      {
+        "bbox_px": [
+          194,
+          8131,
+          265,
+          8146
+        ],
+        "confidence": 1,
+        "text": "Products"
+      },
+      {
+        "bbox_px": [
+          372,
+          8131,
+          454,
+          8146
+        ],
+        "confidence": 1,
+        "text": "Resources"
+      },
+      {
+        "bbox_px": [
+          192,
+          8179,
+          297,
+          8194
+        ],
+        "confidence": 1,
+        "text": "Why Mailchimp?"
+      },
+      {
+        "bbox_px": [
+          194,
+          8217,
+          299,
+          8232
+        ],
+        "confidence": 1,
+        "text": "Product Updates"
+      },
+      {
+        "bbox_px": [
+          194,
+          8255,
+          293,
+          8270
+        ],
+        "confidence": 1,
+        "text": "Email Marketing"
+      },
+      {
+        "bbox_px": [
+          194,
+          8295,
+          253,
+          8305
+        ],
+        "confidence": 1,
+        "text": "Websites"
+      },
+      {
+        "bbox_px": [
+          194,
+          8330,
+          313,
+          8343
+        ],
+        "confidence": 1,
+        "text": "Transactional Email"
+      },
+      {
+        "bbox_px": [
+          194,
+          8370,
+          307,
+          8383
+        ],
+        "confidence": 1,
+        "text": "How We Compare"
+      },
+      {
+        "bbox_px": [
+          194,
+          8407,
+          309,
+          8420
+        ],
+        "confidence": 1,
+        "text": "GDPR Compliance"
+      },
+      {
+        "bbox_px": [
+          194,
+          8446,
+          247,
+          8459
+        ],
+        "confidence": 1,
+        "text": "Security"
+      },
+      {
+        "bbox_px": [
+          194,
+          8483,
+          236,
+          8495
+        ],
+        "confidence": 1,
+        "text": "Status"
+      },
+      {
+        "bbox_px": [
+          190,
+          8520,
+          265,
+          8537
+        ],
+        "confidence": 1,
+        "text": "Mobile App"
+      },
+      {
+        "bbox_px": [
+          372,
+          8179,
+          481,
+          8194
+        ],
+        "confidence": 1,
+        "text": "Marketing Library"
+      },
+      {
+        "bbox_px": [
+          372,
+          8217,
+          502,
+          8232
+        ],
+        "confidence": 1,
+        "text": "Free Marketing Tools"
+      },
+      {
+        "bbox_px": [
+          372,
+          8256,
+          491,
+          8269
+        ],
+        "confidence": 1,
+        "text": "Marketing Glossary"
+      },
+      {
+        "bbox_px": [
+          370,
+          8294,
+          506,
+          8307
+        ],
+        "confidence": 1,
+        "text": "Integrations Directory"
+      },
+      {
+        "bbox_px": [
+          563,
+          8131,
+          657,
+          8150
+        ],
+        "confidence": 1,
+        "text": "Community"
+      },
+      {
+        "bbox_px": [
+          563,
+          8179,
+          709,
+          8196
+        ],
+        "confidence": 1,
+        "text": "Agencies & Freelancers"
+      },
+      {
+        "bbox_px": [
+          563,
+          8217,
+          636,
+          8234
+        ],
+        "confidence": 1,
+        "text": "Developers"
+      },
+      {
+        "bbox_px": [
+          565,
+          8255,
+          606,
+          8269
+        ],
+        "confidence": 1,
+        "text": "Events"
+      },
+      {
+        "bbox_px": [
+          766,
+          8131,
+          843,
+          8150
+        ],
+        "confidence": 1,
+        "text": "Company"
+      },
+      {
+        "bbox_px": [
+          763,
+          8179,
+          828,
+          8197
+        ],
+        "confidence": 1,
+        "text": "Our Story"
+      },
+      {
+        "bbox_px": [
+          766,
+          8217,
+          835,
+          8232
+        ],
+        "confidence": 1,
+        "text": "Newsroom"
+      },
+      {
+        "bbox_px": [
+          763,
+          8255,
+          858,
+          8272
+        ],
+        "confidence": 1,
+        "text": "Annual Report"
+      },
+      {
+        "bbox_px": [
+          765,
+          8292,
+          816,
+          8307
+        ],
+        "confidence": 1,
+        "text": "Careers"
+      },
+      {
+        "bbox_px": [
+          763,
+          8329,
+          845,
+          8348
+        ],
+        "confidence": 1,
+        "text": "Accessibility"
+      },
+      {
+        "bbox_px": [
+          910,
+          8131,
+          950,
+          8150
+        ],
+        "confidence": 1,
+        "text": "Help"
+      },
+      {
+        "bbox_px": [
+          910,
+          8179,
+          983,
+          8196
+        ],
+        "confidence": 1,
+        "text": "Contact Us"
+      },
+      {
+        "bbox_px": [
+          910,
+          8215,
+          1002,
+          8234
+        ],
+        "confidence": 1,
+        "text": "Hire an Expert"
+      },
+      {
+        "bbox_px": [
+          912,
+          8255,
+          989,
+          8270
+        ],
+        "confidence": 1,
+        "text": "Help Center"
+      },
+      {
+        "bbox_px": [
+          910,
+          8292,
+          992,
+          8309
+        ],
+        "confidence": 1,
+        "text": "Talk to Sales"
+      },
+      {
+        "bbox_px": [
+          1083,
+          8136,
+          1212,
+          8154
+        ],
+        "confidence": 1,
+        "text": "mailchimp presents"
+      },
+      {
+        "bbox_px": [
+          1059,
+          8177,
+          1228,
+          8190
+        ],
+        "confidence": 1,
+        "text": "Films, podcasts, and original"
+      },
+      {
+        "bbox_px": [
+          1059,
+          8196,
+          1201,
+          8207
+        ],
+        "confidence": 1,
+        "text": "series that celebrate the"
+      },
+      {
+        "bbox_px": [
+          1059,
+          8213,
+          1188,
+          8226
+        ],
+        "confidence": 1,
+        "text": "entrepreneurial spirit."
+      },
+      {
+        "bbox_px": [
+          1059,
+          8248,
+          1165,
+          8262
+        ],
+        "confidence": 1,
+        "text": "Check it out →"
+      },
+      {
+        "bbox_px": [
+          1059,
+          8338,
+          1209,
+          8362
+        ],
+        "confidence": 1,
+        "text": "C/O Courier"
+      },
+      {
+        "bbox_px": [
+          1059,
+          8384,
+          1205,
+          8400
+        ],
+        "confidence": 1,
+        "text": "Expert insights, industry"
+      },
+      {
+        "bbox_px": [
+          1059,
+          8403,
+          1224,
+          8418
+        ],
+        "confidence": 1,
+        "text": "trends, and inspiring stories"
+      },
+      {
+        "bbox_px": [
+          1059,
+          8422,
+          1234,
+          8435
+        ],
+        "confidence": 1,
+        "text": "that help you live and work on"
+      },
+      {
+        "bbox_px": [
+          1056,
+          8440,
+          1155,
+          8454
+        ],
+        "confidence": 1,
+        "text": "your own terms."
+      },
+      {
+        "bbox_px": [
+          1059,
+          8476,
+          1161,
+          8489
+        ],
+        "confidence": 1,
+        "text": "Learn more →"
+      },
+      {
+        "bbox_px": [
+          881,
+          8692,
+          935,
+          8709
+        ],
+        "confidence": 1,
+        "text": "English"
+      },
+      {
+        "bbox_px": [
+          309,
+          8738,
+          366,
+          8749
+        ],
+        "confidence": 1,
+        "text": "Download on the"
+      },
+      {
+        "bbox_px": [
+          289,
+          8741,
+          369,
+          8769
+        ],
+        "confidence": 1,
+        "text": "App Store"
+      },
+      {
+        "bbox_px": [
+          435,
+          8738,
+          462,
+          8749
+        ],
+        "confidence": 1,
+        "text": "SET IT ON"
+      },
+      {
+        "bbox_px": [
+          431,
+          8746,
+          502,
+          8763
+        ],
+        "confidence": 1,
+        "text": "Google Play"
+      },
+      {
+        "bbox_px": [
+          872,
+          8740,
+          1155,
+          8753
+        ],
+        "confidence": 1,
+        "text": "©2001-2022 All Rights Reserved. Mailchimp* is a registered"
+      },
+      {
+        "bbox_px": [
+          870,
+          8755,
+          1163,
+          8768
+        ],
+        "confidence": 1,
+        "text": "trademark of The Rocket Science Group. Apple and the Apple"
+      },
+      {
+        "bbox_px": [
+          872,
+          8772,
+          1157,
+          8785
+        ],
+        "confidence": 1,
+        "text": "logo are trademarks of Apple Inc. Mac App Store is a service"
+      },
+      {
+        "bbox_px": [
+          872,
+          8786,
+          1157,
+          8799
+        ],
+        "confidence": 1,
+        "text": "mark of Apple Inc. Google Play and the Google Play logo are"
+      },
+      {
+        "bbox_px": [
+          872,
+          8800,
+          1115,
+          8813
+        ],
+        "confidence": 1,
+        "text": "trademarks of Google Inc. Privacy | Terms | Cookle"
+      },
+      {
+        "bbox_px": [
+          872,
+          8816,
+          933,
+          8828
+        ],
+        "confidence": 1,
+        "text": "Preferences"
+      },
+      {
+        "bbox_px": [
+          1297,
+          8895,
+          1404,
+          8910
+        ],
+        "confidence": 1,
+        "text": "Chat with us"
+      }
+    ],
+    "path": "screenshots/mailchimp.png",
+    "width": 1440
+  }
+]

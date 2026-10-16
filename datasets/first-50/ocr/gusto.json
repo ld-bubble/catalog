@@ -1,0 +1,3149 @@
+[
+  {
+    "height": 9469,
+    "lines": [
+      {
+        "bbox_px": [
+          52,
+          21,
+          154,
+          67
+        ],
+        "confidence": 1,
+        "text": "gusto"
+      },
+      {
+        "bbox_px": [
+          172,
+          36,
+          407,
+          55
+        ],
+        "confidence": 1,
+        "text": "Products v Business types v"
+      },
+      {
+        "bbox_px": [
+          412,
+          36,
+          564,
+          52
+        ],
+        "confidence": 1,
+        "text": "For accountants v"
+      },
+      {
+        "bbox_px": [
+          569,
+          33,
+          750,
+          55
+        ],
+        "confidence": 1,
+        "text": "Resources v Pricing"
+      },
+      {
+        "bbox_px": [
+          985,
+          36,
+          1084,
+          52
+        ],
+        "confidence": 1,
+        "text": "• See demo"
+      },
+      {
+        "bbox_px": [
+          1134,
+          36,
+          1280,
+          52
+        ],
+        "confidence": 1,
+        "text": "Create free account"
+      },
+      {
+        "bbox_px": [
+          1327,
+          36,
+          1382,
+          55
+        ],
+        "confidence": 1,
+        "text": "Sign in"
+      },
+      {
+        "bbox_px": [
+          323,
+          142,
+          1116,
+          268
+        ],
+        "confidence": 1,
+        "text": "Hire, pay, and grow"
+      },
+      {
+        "bbox_px": [
+          513,
+          276,
+          924,
+          361
+        ],
+        "confidence": 1,
+        "text": "like a pro."
+      },
+      {
+        "bbox_px": [
+          441,
+          368,
+          998,
+          387
+        ],
+        "confidence": 1,
+        "text": "Gusto handles payroll, HR, and more in a snap. That helps you expand"
+      },
+      {
+        "bbox_px": [
+          543,
+          394,
+          896,
+          413
+        ],
+        "confidence": 1,
+        "text": "your reach and keep betting big on yourself."
+      },
+      {
+        "bbox_px": [
+          559,
+          460,
+          708,
+          476
+        ],
+        "confidence": 1,
+        "text": "Create free account"
+      },
+      {
+        "bbox_px": [
+          747,
+          460,
+          878,
+          476
+        ],
+        "confidence": 1,
+        "text": "How Gusto works"
+      },
+      {
+        "bbox_px": [
+          57,
+          475,
+          117,
+          489
+        ],
+        "confidence": 1,
+        "text": "TIME OFF"
+      },
+      {
+        "bbox_px": [
+          57,
+          506,
+          245,
+          535
+        ],
+        "confidence": 1,
+        "text": "Review Requests"
+      },
+      {
+        "bbox_px": [
+          99,
+          552,
+          154,
+          567
+        ],
+        "confidence": 1,
+        "text": "Feb 27"
+      },
+      {
+        "bbox_px": [
+          96,
+          583,
+          146,
+          602
+        ],
+        "confidence": 1,
+        "text": "Mar 3"
+      },
+      {
+        "bbox_px": [
+          96,
+          620,
+          154,
+          636
+        ],
+        "confidence": 1,
+        "text": "Mar 18"
+      },
+      {
+        "bbox_px": [
+          91,
+          956,
+          151,
+          974
+        ],
+        "confidence": 1,
+        "text": "BENEFITS"
+      },
+      {
+        "bbox_px": [
+          67,
+          1051,
+          130,
+          1067
+        ],
+        "confidence": 1,
+        "text": "Medical"
+      },
+      {
+        "bbox_px": [
+          161,
+          1051,
+          214,
+          1067
+        ],
+        "confidence": 1,
+        "text": "Dental"
+      },
+      {
+        "bbox_px": [
+          228,
+          575,
+          338,
+          612
+        ],
+        "confidence": 1,
+        "text": "= gusto"
+      },
+      {
+        "bbox_px": [
+          229,
+          643,
+          284,
+          651
+        ],
+        "confidence": 1,
+        "text": "(9) People"
+      },
+      {
+        "bbox_px": [
+          229,
+          675,
+          274,
+          688
+        ],
+        "confidence": 1,
+        "text": "• Pay"
+      },
+      {
+        "bbox_px": [
+          250,
+          706,
+          308,
+          717
+        ],
+        "confidence": 1,
+        "text": "Run Payroll"
+      },
+      {
+        "bbox_px": [
+          253,
+          732,
+          329,
+          743
+        ],
+        "confidence": 1,
+        "text": "Pay Contractors"
+      },
+      {
+        "bbox_px": [
+          250,
+          761,
+          290,
+          767
+        ],
+        "confidence": 0.30000001192092896,
+        "text": "ray Bllls"
+      },
+      {
+        "bbox_px": [
+          248,
+          787,
+          292,
+          800
+        ],
+        "confidence": 1,
+        "text": "Reports"
+      },
+      {
+        "bbox_px": [
+          229,
+          818,
+          282,
+          835
+        ],
+        "confidence": 1,
+        "text": "• Taxes"
+      },
+      {
+        "bbox_px": [
+          229,
+          852,
+          279,
+          869
+        ],
+        "confidence": 1,
+        "text": "@ Time"
+      },
+      {
+        "bbox_px": [
+          232,
+          889,
+          292,
+          902
+        ],
+        "confidence": 1,
+        "text": "• Benefits"
+      },
+      {
+        "bbox_px": [
+          229,
+          920,
+          308,
+          936
+        ],
+        "confidence": 1,
+        "text": "• Documents"
+      },
+      {
+        "bbox_px": [
+          253,
+          1051,
+          305,
+          1067
+        ],
+        "confidence": 1,
+        "text": "401(k)"
+      },
+      {
+        "bbox_px": [
+          1037,
+          572,
+          1076,
+          586
+        ],
+        "confidence": 1,
+        "text": "Jessic"
+      },
+      {
+        "bbox_px": [
+          1037,
+          591,
+          1076,
+          601
+        ],
+        "confidence": 1,
+        "text": "Admin"
+      },
+      {
+        "bbox_px": [
+          1084,
+          546,
+          1168,
+          559
+        ],
+        "confidence": 1,
+        "text": "TIME TRACKING"
+      },
+      {
+        "bbox_px": [
+          1081,
+          566,
+          1275,
+          592
+        ],
+        "confidence": 1,
+        "text": "Manage Team Shifts"
+      },
+      {
+        "bbox_px": [
+          1084,
+          601,
+          1168,
+          615
+        ],
+        "confidence": 1,
+        "text": "5 team members"
+      },
+      {
+        "bbox_px": [
+          1087,
+          614,
+          1162,
+          625
+        ],
+        "confidence": 1,
+        "text": "June 15-June 30"
+      },
+      {
+        "bbox_px": [
+          1293,
+          616,
+          1369,
+          622
+        ],
+        "confidence": 1,
+        "text": "Create schedule"
+      },
+      {
+        "bbox_px": [
+          420,
+          653,
+          551,
+          669
+        ],
+        "confidence": 1,
+        "text": "Pay / Spring bonus 2027"
+      },
+      {
+        "bbox_px": [
+          420,
+          690,
+          687,
+          722
+        ],
+        "confidence": 1,
+        "text": "Spring bonus 2027"
+      },
+      {
+        "bbox_px": [
+          420,
+          732,
+          564,
+          745
+        ],
+        "confidence": 1,
+        "text": "Check date: May 15, 2027"
+      },
+      {
+        "bbox_px": [
+          423,
+          789,
+          475,
+          800
+        ],
+        "confidence": 1,
+        "text": "Edit payroll"
+      },
+      {
+        "bbox_px": [
+          423,
+          847,
+          812,
+          863
+        ],
+        "confidence": 1,
+        "text": "Confirm $28,684.58 withdrawal and submit payroll"
+      },
+      {
+        "bbox_px": [
+          420,
+          873,
+          645,
+          889
+        ],
+        "confidence": 1,
+        "text": "We'll debit funds after you submit payroll."
+      },
+      {
+        "bbox_px": [
+          420,
+          930,
+          533,
+          947
+        ],
+        "confidence": 1,
+        "text": "Payroll Summary"
+      },
+      {
+        "bbox_px": [
+          436,
+          967,
+          491,
+          981
+        ],
+        "confidence": 1,
+        "text": "Submit by"
+      },
+      {
+        "bbox_px": [
+          433,
+          983,
+          504,
+          997
+        ],
+        "confidence": 1,
+        "text": "Jul 15, 2027"
+      },
+      {
+        "bbox_px": [
+          593,
+          968,
+          650,
+          981
+        ],
+        "confidence": 1,
+        "text": "Payday on"
+      },
+      {
+        "bbox_px": [
+          590,
+          983,
+          661,
+          997
+        ],
+        "confidence": 1,
+        "text": "Jul 16,2027"
+      },
+      {
+        "bbox_px": [
+          750,
+          968,
+          820,
+          981
+        ],
+        "confidence": 1,
+        "text": "Total time off"
+      },
+      {
+        "bbox_px": [
+          750,
+          983,
+          797,
+          997
+        ],
+        "confidence": 1,
+        "text": "0.00 hrs"
+      },
+      {
+        "bbox_px": [
+          441,
+          1038,
+          577,
+          1054
+        ],
+        "confidence": 1,
+        "text": "• Tax breakdown"
+      },
+      {
+        "bbox_px": [
+          441,
+          1103,
+          682,
+          1119
+        ],
+        "confidence": 1,
+        "text": "• Employee hours and earnings"
+      },
+      {
+        "bbox_px": [
+          1113,
+          787,
+          1189,
+          803
+        ],
+        "confidence": 1,
+        "text": "Step4of4 *"
+      },
+      {
+        "bbox_px": [
+          906,
+          968,
+          1008,
+          981
+        ],
+        "confidence": 1,
+        "text": "Total hours worked"
+      },
+      {
+        "bbox_px": [
+          906,
+          983,
+          956,
+          997
+        ],
+        "confidence": 1,
+        "text": "0.00 hrs"
+      },
+      {
+        "bbox_px": [
+          1063,
+          968,
+          1136,
+          981
+        ],
+        "confidence": 1,
+        "text": "Total earnings"
+      },
+      {
+        "bbox_px": [
+          1063,
+          983,
+          1100,
+          996
+        ],
+        "confidence": 1,
+        "text": "$0.00"
+      },
+      {
+        "bbox_px": [
+          1165,
+          933,
+          1254,
+          947
+        ],
+        "confidence": 1,
+        "text": "HIRING TOOLS"
+      },
+      {
+        "bbox_px": [
+          1188,
+          970,
+          1312,
+          991
+        ],
+        "confidence": 1,
+        "text": "Gusto Recruiting"
+      },
+      {
+        "bbox_px": [
+          1170,
+          1025,
+          1353,
+          1044
+        ],
+        "confidence": 1,
+        "text": "Go Background Checks"
+      },
+      {
+        "bbox_px": [
+          1204,
+          1067,
+          1301,
+          1083
+        ],
+        "confidence": 1,
+        "text": "Offer Letters"
+      },
+      {
+        "bbox_px": [
+          232,
+          1276,
+          363,
+          1290
+        ],
+        "confidence": 1,
+        "text": "Best SMB payroll service"
+      },
+      {
+        "bbox_px": [
+          232,
+          1289,
+          363,
+          1302
+        ],
+        "confidence": 1,
+        "text": "For user experience 2025"
+      },
+      {
+        "bbox_px": [
+          423,
+          1271,
+          582,
+          1292
+        ],
+        "confidence": 1,
+        "text": "Forbes 4.5 *****"
+      },
+      {
+        "bbox_px": [
+          423,
+          1292,
+          499,
+          1308
+        ],
+        "confidence": 1,
+        "text": "ADVISOR"
+      },
+      {
+        "bbox_px": [
+          499,
+          1286,
+          611,
+          1303
+        ],
+        "confidence": 1,
+        "text": "Forbes Advisor 2025"
+      },
+      {
+        "bbox_px": [
+          716,
+          1276,
+          888,
+          1290
+        ],
+        "confidence": 1,
+        "text": "#1 Highest Satisfaction Software"
+      },
+      {
+        "bbox_px": [
+          716,
+          1289,
+          802,
+          1300
+        ],
+        "confidence": 1,
+        "text": "G2 Review 2026"
+      },
+      {
+        "bbox_px": [
+          951,
+          1276,
+          1259,
+          1300
+        ],
+        "confidence": 1,
+        "text": "Newsweek America's Best Onine Platform"
+      },
+      {
+        "bbox_px": [
+          1097,
+          1289,
+          1243,
+          1302
+        ],
+        "confidence": 1,
+        "text": "Newsweek and Statista 2025"
+      },
+      {
+        "bbox_px": [
+          217,
+          1598,
+          1224,
+          1744
+        ],
+        "confidence": 1,
+        "text": "500,000+ businesses"
+      },
+      {
+        "bbox_px": [
+          399,
+          1726,
+          1050,
+          1797
+        ],
+        "confidence": 1,
+        "text": "min on Gusto."
+      },
+      {
+        "bbox_px": [
+          218,
+          1602,
+          1226,
+          1744
+        ],
+        "confidence": 1,
+        "text": "500,000+ businesses"
+      },
+      {
+        "bbox_px": [
+          396,
+          1716,
+          1052,
+          1829
+        ],
+        "confidence": 1,
+        "text": "run on Gusto."
+      },
+      {
+        "bbox_px": [
+          679,
+          1858,
+          763,
+          1874
+        ],
+        "confidence": 1,
+        "text": "Get started"
+      },
+      {
+        "bbox_px": [
+          637,
+          2282,
+          804,
+          2298
+        ],
+        "confidence": 1,
+        "text": "Put payroll on AutoPilot™"
+      },
+      {
+        "bbox_px": [
+          569,
+          2364,
+          790,
+          2433
+        ],
+        "confidence": 1,
+        "text": "Payroll"
+      },
+      {
+        "bbox_px": [
+          138,
+          2614,
+          177,
+          2628
+        ],
+        "confidence": 1,
+        "text": "- 01"
+      },
+      {
+        "bbox_px": [
+          138,
+          2667,
+          355,
+          2712
+        ],
+        "confidence": 1,
+        "text": "Run payroll"
+      },
+      {
+        "bbox_px": [
+          135,
+          2707,
+          497,
+          2759
+        ],
+        "confidence": 1,
+        "text": "in five minutes flat."
+      },
+      {
+        "bbox_px": [
+          822,
+          2644,
+          998,
+          2711
+        ],
+        "confidence": 1,
+        "text": "All set!"
+      },
+      {
+        "bbox_px": [
+          883,
+          2725,
+          951,
+          2777
+        ],
+        "confidence": 1,
+        "text": "15"
+      },
+      {
+        "bbox_px": [
+          154,
+          2827,
+          470,
+          2853
+        ],
+        "confidence": 1,
+        "text": "Better yet, let AutoPilot™ run it"
+      },
+      {
+        "bbox_px": [
+          152,
+          2854,
+          236,
+          2882
+        ],
+        "confidence": 1,
+        "text": "for you."
+      },
+      {
+        "bbox_px": [
+          154,
+          2892,
+          444,
+          2911
+        ],
+        "confidence": 1,
+        "text": "Even with a complex team, we'll get your"
+      },
+      {
+        "bbox_px": [
+          154,
+          2912,
+          470,
+          2931
+        ],
+        "confidence": 1,
+        "text": "people paid quickly-or even automatically."
+      },
+      {
+        "bbox_px": [
+          154,
+          2936,
+          452,
+          2953
+        ],
+        "confidence": 1,
+        "text": "And we'll file taxes, help with compliance,"
+      },
+      {
+        "bbox_px": [
+          154,
+          2957,
+          470,
+          2978
+        ],
+        "confidence": 1,
+        "text": "and identify tax credits that save you money."
+      },
+      {
+        "bbox_px": [
+          154,
+          3010,
+          295,
+          3028
+        ],
+        "confidence": 1,
+        "text": "Discover payroll →"
+      },
+      {
+        "bbox_px": [
+          925,
+          2863,
+          1011,
+          2876
+        ],
+        "confidence": 1,
+        "text": "L, Payroli journal repor"
+      },
+      {
+        "bbox_px": [
+          21,
+          4029,
+          638,
+          4118
+        ],
+        "confidence": 1,
+        "text": "Hiring tools. On your"
+      },
+      {
+        "bbox_px": [
+          27,
+          4114,
+          220,
+          4169
+        ],
+        "confidence": 1,
+        "text": "terms."
+      },
+      {
+        "bbox_px": [
+          31,
+          4183,
+          546,
+          4202
+        ],
+        "confidence": 1,
+        "text": "Recruit. Hire. Onboard. We make growing your team so easy, you"
+      },
+      {
+        "bbox_px": [
+          31,
+          4212,
+          316,
+          4231
+        ],
+        "confidence": 1,
+        "text": "might decide to expand even more."
+      },
+      {
+        "bbox_px": [
+          31,
+          4288,
+          154,
+          4304
+        ],
+        "confidence": 1,
+        "text": "Easy onboarding"
+      },
+      {
+        "bbox_px": [
+          31,
+          4314,
+          334,
+          4330
+        ],
+        "confidence": 1,
+        "text": "Support new team members from the start, with"
+      },
+      {
+        "bbox_px": [
+          31,
+          4335,
+          290,
+          4351
+        ],
+        "confidence": 1,
+        "text": "easy onboarding they can do themselves."
+      },
+      {
+        "bbox_px": [
+          378,
+          4283,
+          603,
+          4304
+        ],
+        "confidence": 1,
+        "text": "Benefits that benefit everyone"
+      },
+      {
+        "bbox_px": [
+          381,
+          4314,
+          687,
+          4330
+        ],
+        "confidence": 1,
+        "text": "Offer all kinds of financial and health benefits for"
+      },
+      {
+        "bbox_px": [
+          378,
+          4335,
+          650,
+          4351
+        ],
+        "confidence": 1,
+        "text": "your team-health, dental, 401k, and more."
+      },
+      {
+        "bbox_px": [
+          731,
+          4285,
+          1029,
+          4304
+        ],
+        "confidence": 1,
+        "text": "Time tracking that plays well with payroll"
+      },
+      {
+        "bbox_px": [
+          729,
+          4314,
+          1040,
+          4333
+        ],
+        "confidence": 1,
+        "text": "Say goodbye to manual data entry with time tools"
+      },
+      {
+        "bbox_px": [
+          729,
+          4335,
+          1016,
+          4351
+        ],
+        "confidence": 1,
+        "text": "that automatically sync team hours to payroll."
+      },
+      {
+        "bbox_px": [
+          39,
+          4526,
+          736,
+          4584
+        ],
+        "confidence": 1,
+        "text": "Small business success"
+      },
+      {
+        "bbox_px": [
+          33,
+          4598,
+          563,
+          4676
+        ],
+        "confidence": 1,
+        "text": "is no small thing."
+      },
+      {
+        "bbox_px": [
+          535,
+          4746,
+          559,
+          4767
+        ],
+        "confidence": 1,
+        "text": "66"
+      },
+      {
+        "bbox_px": [
+          535,
+          4795,
+          885,
+          4825
+        ],
+        "confidence": 1,
+        "text": "The platform has made our"
+      },
+      {
+        "bbox_px": [
+          535,
+          4822,
+          901,
+          4848
+        ],
+        "confidence": 1,
+        "text": "small business lives so much"
+      },
+      {
+        "bbox_px": [
+          538,
+          4850,
+          917,
+          4879
+        ],
+        "confidence": 1,
+        "text": "easier. There really isn't a one-"
+      },
+      {
+        "bbox_px": [
+          535,
+          4879,
+          940,
+          4908
+        ],
+        "confidence": 1,
+        "text": "size-fits-all guide to starting and"
+      },
+      {
+        "bbox_px": [
+          535,
+          4908,
+          917,
+          4937
+        ],
+        "confidence": 1,
+        "text": "running a business, and things"
+      },
+      {
+        "bbox_px": [
+          535,
+          4933,
+          917,
+          4964
+        ],
+        "confidence": 1,
+        "text": "like payroll and benefits seem"
+      },
+      {
+        "bbox_px": [
+          535,
+          4963,
+          919,
+          4995
+        ],
+        "confidence": 1,
+        "text": "so daunting and big, but Gusto"
+      },
+      {
+        "bbox_px": [
+          1191,
+          3555,
+          1382,
+          3569
+        ],
+        "confidence": 1,
+        "text": "Stack your system, then stack"
+      },
+      {
+        "bbox_px": [
+          1191,
+          3573,
+          1364,
+          3590
+        ],
+        "confidence": 1,
+        "text": "the team. Get custom offer"
+      },
+      {
+        "bbox_px": [
+          1191,
+          3595,
+          1382,
+          3611
+        ],
+        "confidence": 1,
+        "text": "letters, onboarding checklists,"
+      },
+      {
+        "bbox_px": [
+          1194,
+          3612,
+          1369,
+          3629
+        ],
+        "confidence": 1,
+        "text": "digital signatures, and more."
+      },
+      {
+        "bbox_px": [
+          1194,
+          3646,
+          1351,
+          3663
+        ],
+        "confidence": 1,
+        "text": "See onboarding tools →"
+      },
+      {
+        "bbox_px": [
+          1079,
+          4285,
+          1319,
+          4307
+        ],
+        "confidence": 1,
+        "text": "Compliance completely handled"
+      },
+      {
+        "bbox_px": [
+          1076,
+          4314,
+          1385,
+          4330
+        ],
+        "confidence": 1,
+        "text": "Let Gusto handle required trainings, policies, and"
+      },
+      {
+        "bbox_px": [
+          1076,
+          4335,
+          1374,
+          4351
+        ],
+        "confidence": 1,
+        "text": "benefits, to make staying compliant a whole lot"
+      },
+      {
+        "bbox_px": [
+          1076,
+          4356,
+          1124,
+          4371
+        ],
+        "confidence": 1,
+        "text": "easier."
+      },
+      {
+        "bbox_px": [
+          1110,
+          4516,
+          1367,
+          4539
+        ],
+        "confidence": 1,
+        "text": "Real customers. Real stories."
+      },
+      {
+        "bbox_px": [
+          1107,
+          4546,
+          1390,
+          4568
+        ],
+        "confidence": 1,
+        "text": "Real small business successes."
+      },
+      {
+        "bbox_px": [
+          538,
+          4800,
+          885,
+          4824
+        ],
+        "confidence": 1,
+        "text": "The plattorm has made our"
+      },
+      {
+        "bbox_px": [
+          535,
+          4821,
+          901,
+          4849
+        ],
+        "confidence": 1,
+        "text": "small business lives so much"
+      },
+      {
+        "bbox_px": [
+          538,
+          4851,
+          917,
+          4881
+        ],
+        "confidence": 1,
+        "text": "easier. There really isn't a one-"
+      },
+      {
+        "bbox_px": [
+          535,
+          4877,
+          940,
+          4911
+        ],
+        "confidence": 1,
+        "text": "size-fits-all guide to starting and"
+      },
+      {
+        "bbox_px": [
+          535,
+          4909,
+          917,
+          4939
+        ],
+        "confidence": 1,
+        "text": "running a business, and things"
+      },
+      {
+        "bbox_px": [
+          535,
+          4934,
+          917,
+          4965
+        ],
+        "confidence": 1,
+        "text": "like payroll and benefits seem"
+      },
+      {
+        "bbox_px": [
+          535,
+          4961,
+          919,
+          4993
+        ],
+        "confidence": 1,
+        "text": "so daunting and big, but Gusto"
+      },
+      {
+        "bbox_px": [
+          535,
+          4993,
+          919,
+          5019
+        ],
+        "confidence": 1,
+        "text": "has made them approachable"
+      },
+      {
+        "bbox_px": [
+          535,
+          5021,
+          810,
+          5048
+        ],
+        "confidence": 1,
+        "text": "and surprisingly easy."
+      },
+      {
+        "bbox_px": [
+          39,
+          5014,
+          389,
+          5043
+        ],
+        "confidence": 1,
+        "text": "New brand. Same heart."
+      },
+      {
+        "bbox_px": [
+          39,
+          5069,
+          457,
+          5091
+        ],
+        "confidence": 1,
+        "text": "Gusto has a new look, a new voice, and a glowed-up"
+      },
+      {
+        "bbox_px": [
+          39,
+          5098,
+          486,
+          5117
+        ],
+        "confidence": 1,
+        "text": "Penny. How we evolved Gustos brand, to match how far"
+      },
+      {
+        "bbox_px": [
+          39,
+          5123,
+          483,
+          5142
+        ],
+        "confidence": 1,
+        "text": "our product (and our customers' ambitions) have come."
+      },
+      {
+        "bbox_px": [
+          39,
+          5184,
+          224,
+          5200
+        ],
+        "confidence": 1,
+        "text": "See the news article →"
+      },
+      {
+        "bbox_px": [
+          611,
+          5129,
+          752,
+          5147
+        ],
+        "confidence": 1,
+        "text": "Jesse Mason"
+      },
+      {
+        "bbox_px": [
+          614,
+          5158,
+          833,
+          5177
+        ],
+        "confidence": 1,
+        "text": "Co-Owner, Mason's Creamery"
+      },
+      {
+        "bbox_px": [
+          987,
+          5008,
+          1285,
+          5040
+        ],
+        "confidence": 1,
+        "text": "Helping the helpers."
+      },
+      {
+        "bbox_px": [
+          990,
+          5066,
+          1400,
+          5085
+        ],
+        "confidence": 1,
+        "text": "Fire safety training company Forge Fire reduced pla"
+      },
+      {
+        "bbox_px": [
+          990,
+          5092,
+          1340,
+          5111
+        ],
+        "confidence": 1,
+        "text": "costs by 40% by moving to Gusto Premium."
+      },
+      {
+        "bbox_px": [
+          990,
+          5152,
+          1176,
+          5168
+        ],
+        "confidence": 1,
+        "text": "See the news article →"
+      },
+      {
+        "bbox_px": [
+          655,
+          5406,
+          784,
+          5422
+        ],
+        "confidence": 1,
+        "text": "Explore the options"
+      },
+      {
+        "bbox_px": [
+          394,
+          5465,
+          1048,
+          5532
+        ],
+        "confidence": 1,
+        "text": "Your business does a lot."
+      },
+      {
+        "bbox_px": [
+          569,
+          5536,
+          883,
+          5627
+        ],
+        "confidence": 1,
+        "text": "We do, too."
+      },
+      {
+        "bbox_px": [
+          0,
+          5804,
+          26,
+          5817
+        ],
+        "confidence": 1,
+        "text": "ent"
+      },
+      {
+        "bbox_px": [
+          0,
+          5838,
+          49,
+          5854
+        ],
+        "confidence": 1,
+        "text": "ne, and"
+      },
+      {
+        "bbox_px": [
+          0,
+          5859,
+          83,
+          5873
+        ],
+        "confidence": 1,
+        "text": "e roof-the"
+      },
+      {
+        "bbox_px": [
+          185,
+          5799,
+          371,
+          5820
+        ],
+        "confidence": 1,
+        "text": "Payroll and AutoPilot™"
+      },
+      {
+        "bbox_px": [
+          164,
+          5838,
+          454,
+          5857
+        ],
+        "confidence": 1,
+        "text": "Unlimited payroll runs and seamless tax"
+      },
+      {
+        "bbox_px": [
+          164,
+          5856,
+          425,
+          5875
+        ],
+        "confidence": 1,
+        "text": "filings at no extra cost. Plus, put it on"
+      },
+      {
+        "bbox_px": [
+          164,
+          5877,
+          446,
+          5894
+        ],
+        "confidence": 1,
+        "text": "autopilot and well take care of the rest."
+      },
+      {
+        "bbox_px": [
+          540,
+          5802,
+          697,
+          5817
+        ],
+        "confidence": 1,
+        "text": "Business insurance"
+      },
+      {
+        "bbox_px": [
+          519,
+          5835,
+          758,
+          5858
+        ],
+        "confidence": 1,
+        "text": "Worker's comp, liability, property"
+      },
+      {
+        "bbox_px": [
+          520,
+          5859,
+          807,
+          5875
+        ],
+        "confidence": 1,
+        "text": "insurance-all designed to protect your"
+      },
+      {
+        "bbox_px": [
+          520,
+          5877,
+          744,
+          5894
+        ],
+        "confidence": 1,
+        "text": "business, and your bottom line."
+      },
+      {
+        "bbox_px": [
+          893,
+          5802,
+          1058,
+          5817
+        ],
+        "confidence": 1,
+        "text": "Retirement benefits"
+      },
+      {
+        "bbox_px": [
+          878,
+          5838,
+          1160,
+          5854
+        ],
+        "confidence": 1,
+        "text": "Give your team a low-cost 401(k) they'll"
+      },
+      {
+        "bbox_px": [
+          875,
+          5859,
+          1168,
+          5875
+        ],
+        "confidence": 1,
+        "text": "love. Automated, compliant, and payroll-"
+      },
+      {
+        "bbox_px": [
+          875,
+          5877,
+          1129,
+          5894
+        ],
+        "confidence": 1,
+        "text": "synced for minimal effort from you."
+      },
+      {
+        "bbox_px": [
+          1251,
+          5800,
+          1437,
+          5821
+        ],
+        "confidence": 1,
+        "text": "Cash flow managemen"
+      },
+      {
+        "bbox_px": [
+          1230,
+          5838,
+          1437,
+          5857
+        ],
+        "confidence": 1,
+        "text": "Bring your expenses, income"
+      },
+      {
+        "bbox_px": [
+          1230,
+          5859,
+          1434,
+          5875
+        ],
+        "confidence": 1,
+        "text": "borrowing needs under one"
+      },
+      {
+        "bbox_px": [
+          1230,
+          5877,
+          1437,
+          5894
+        ],
+        "confidence": 1,
+        "text": "same one you use for payroll"
+      },
+      {
+        "bbox_px": [
+          57,
+          6045,
+          230,
+          6071
+        ],
+        "confidence": 1,
+        "text": "Time and scheduling"
+      },
+      {
+        "bbox_px": [
+          57,
+          6087,
+          355,
+          6106
+        ],
+        "confidence": 1,
+        "text": "Manage your team's hours and schedules"
+      },
+      {
+        "bbox_px": [
+          57,
+          6108,
+          295,
+          6124
+        ],
+        "confidence": 1,
+        "text": "in one place. All linked to payroll."
+      },
+      {
+        "bbox_px": [
+          412,
+          6050,
+          582,
+          6069
+        ],
+        "confidence": 1,
+        "text": "Extended workforce"
+      },
+      {
+        "bbox_px": [
+          412,
+          6087,
+          692,
+          6108
+        ],
+        "confidence": 1,
+        "text": "Pay and manage contractors wherever"
+      },
+      {
+        "bbox_px": [
+          412,
+          6108,
+          716,
+          6124
+        ],
+        "confidence": 1,
+        "text": "they work, right alongside payroll. No third"
+      },
+      {
+        "bbox_px": [
+          412,
+          6124,
+          593,
+          6145
+        ],
+        "confidence": 1,
+        "text": "party platforms involved."
+      },
+      {
+        "bbox_px": [
+          789,
+          5972,
+          823,
+          6003
+        ],
+        "confidence": 1,
+        "text": "+"
+      },
+      {
+        "bbox_px": [
+          767,
+          6048,
+          909,
+          6071
+        ],
+        "confidence": 1,
+        "text": "Health insurance"
+      },
+      {
+        "bbox_px": [
+          768,
+          6084,
+          1066,
+          6106
+        ],
+        "confidence": 1,
+        "text": "Medical. Dental. Vision. We'll recommend"
+      },
+      {
+        "bbox_px": [
+          768,
+          6105,
+          1053,
+          6123
+        ],
+        "confidence": 1,
+        "text": "plans and providers, and fully automate"
+      },
+      {
+        "bbox_px": [
+          768,
+          6126,
+          854,
+          6142
+        ],
+        "confidence": 1,
+        "text": "enrollment."
+      },
+      {
+        "bbox_px": [
+          1121,
+          6050,
+          1238,
+          6071
+        ],
+        "confidence": 1,
+        "text": "Hiring and HR"
+      },
+      {
+        "bbox_px": [
+          1121,
+          6087,
+          1419,
+          6108
+        ],
+        "confidence": 1,
+        "text": "Hiring is hard. HR? Even harder. We'll take"
+      },
+      {
+        "bbox_px": [
+          1123,
+          6105,
+          1385,
+          6123
+        ],
+        "confidence": 1,
+        "text": "care of the details. You run the team."
+      },
+      {
+        "bbox_px": [
+          687,
+          6361,
+          883,
+          6399
+        ],
+        "confidence": 1,
+        "text": "9 out of 10"
+      },
+      {
+        "bbox_px": [
+          1100,
+          6369,
+          1372,
+          6393
+        ],
+        "confidence": 1,
+        "text": "Customers would recommend Gusto"
+      },
+      {
+        "bbox_px": [
+          665,
+          6472,
+          891,
+          6515
+        ],
+        "confidence": 1,
+        "text": "152 hrs/year"
+      },
+      {
+        "bbox_px": [
+          1102,
+          6471,
+          1322,
+          6493
+        ],
+        "confidence": 1,
+        "text": "Average time saved on tax and"
+      },
+      {
+        "bbox_px": [
+          1100,
+          6495,
+          1348,
+          6516
+        ],
+        "confidence": 1,
+        "text": "compliance by switching to Gusto"
+      },
+      {
+        "bbox_px": [
+          1097,
+          6583,
+          1353,
+          6597
+        ],
+        "confidence": 1,
+        "text": "Is our averase rating from our loval."
+      },
+      {
+        "bbox_px": [
+          665,
+          6473,
+          891,
+          6516
+        ],
+        "confidence": 1,
+        "text": "152 hrs/year"
+      },
+      {
+        "bbox_px": [
+          1100,
+          6470,
+          1322,
+          6494
+        ],
+        "confidence": 1,
+        "text": "Average time saved on tax and"
+      },
+      {
+        "bbox_px": [
+          1100,
+          6494,
+          1348,
+          6518
+        ],
+        "confidence": 1,
+        "text": "compliance by switching to Gusto"
+      },
+      {
+        "bbox_px": [
+          666,
+          6585,
+          846,
+          6627
+        ],
+        "confidence": 1,
+        "text": "4.5+ stars"
+      },
+      {
+        "bbox_px": [
+          1095,
+          6580,
+          1356,
+          6607
+        ],
+        "confidence": 1,
+        "text": "Is our average rating from our loyal,"
+      },
+      {
+        "bbox_px": [
+          1097,
+          6606,
+          1230,
+          6630
+        ],
+        "confidence": 1,
+        "text": "happy customers"
+      },
+      {
+        "bbox_px": [
+          668,
+          6693,
+          1006,
+          6738
+        ],
+        "confidence": 1,
+        "text": "500k+ businesses"
+      },
+      {
+        "bbox_px": [
+          1100,
+          6695,
+          1322,
+          6719
+        ],
+        "confidence": 1,
+        "text": "Rely on Gusto to run their daily"
+      },
+      {
+        "bbox_px": [
+          1100,
+          6718,
+          1184,
+          6740
+        ],
+        "confidence": 1,
+        "text": "operations"
+      },
+      {
+        "bbox_px": [
+          669,
+          6904,
+          961,
+          6923
+        ],
+        "confidence": 1,
+        "text": "Survey of 538 Gusto Customers, September 2024"
+      },
+      {
+        "bbox_px": [
+          57,
+          7124,
+          133,
+          7140
+        ],
+        "confidence": 1,
+        "text": "Get started"
+      },
+      {
+        "bbox_px": [
+          49,
+          7192,
+          582,
+          7253
+        ],
+        "confidence": 1,
+        "text": "Ready to work with"
+      },
+      {
+        "bbox_px": [
+          49,
+          7262,
+          251,
+          7321
+        ],
+        "confidence": 1,
+        "text": "Gusto?"
+      },
+      {
+        "bbox_px": [
+          985,
+          7163,
+          1194,
+          7180
+        ],
+        "confidence": 1,
+        "text": "• Create your free account."
+      },
+      {
+        "bbox_px": [
+          987,
+          7192,
+          1314,
+          7211
+        ],
+        "confidence": 1,
+        "text": "• Add your team (or let them self-onboard)."
+      },
+      {
+        "bbox_px": [
+          985,
+          7223,
+          1162,
+          7240
+        ],
+        "confidence": 1,
+        "text": "• Run your first payroll."
+      },
+      {
+        "bbox_px": [
+          1000,
+          7294,
+          1115,
+          7313
+        ],
+        "confidence": 1,
+        "text": "Sign up for free"
+      },
+      {
+        "bbox_px": [
+          44,
+          7587,
+          282,
+          7613
+        ],
+        "confidence": 1,
+        "text": "See plans and pricing"
+      },
+      {
+        "bbox_px": [
+          47,
+          7624,
+          365,
+          7640
+        ],
+        "confidence": 1,
+        "text": "As in real numbers on the page. No proposal"
+      },
+      {
+        "bbox_px": [
+          47,
+          7647,
+          308,
+          7664
+        ],
+        "confidence": 1,
+        "text": "or quote needed, just clear and easy"
+      },
+      {
+        "bbox_px": [
+          47,
+          7668,
+          107,
+          7684
+        ],
+        "confidence": 1,
+        "text": "options."
+      },
+      {
+        "bbox_px": [
+          386,
+          7587,
+          561,
+          7613
+        ],
+        "confidence": 1,
+        "text": "Compare Gusto"
+      },
+      {
+        "bbox_px": [
+          386,
+          7621,
+          663,
+          7642
+        ],
+        "confidence": 1,
+        "text": "Find out how we stack up against ADP,"
+      },
+      {
+        "bbox_px": [
+          386,
+          7645,
+          601,
+          7664
+        ],
+        "confidence": 1,
+        "text": "Paychex, Rippling, and others."
+      },
+      {
+        "bbox_px": [
+          729,
+          7587,
+          922,
+          7611
+        ],
+        "confidence": 1,
+        "text": "Explore the demo"
+      },
+      {
+        "bbox_px": [
+          729,
+          7623,
+          1014,
+          7637
+        ],
+        "confidence": 1,
+        "text": "Take 5 minutes to check out how Gusto"
+      },
+      {
+        "bbox_px": [
+          729,
+          7647,
+          820,
+          7661
+        ],
+        "confidence": 1,
+        "text": "really works."
+      },
+      {
+        "bbox_px": [
+          1068,
+          7587,
+          1212,
+          7611
+        ],
+        "confidence": 1,
+        "text": "Talk to sales"
+      },
+      {
+        "bbox_px": [
+          1071,
+          7624,
+          1369,
+          7640
+        ],
+        "confidence": 1,
+        "text": "Get info on capabilities, pricing, migration,"
+      },
+      {
+        "bbox_px": [
+          1071,
+          7647,
+          1147,
+          7661
+        ],
+        "confidence": 1,
+        "text": "and more."
+      },
+      {
+        "bbox_px": [
+          323,
+          7911,
+          1124,
+          7993
+        ],
+        "confidence": 1,
+        "text": "DO WHAT YOU DO BEST."
+      },
+      {
+        "bbox_px": [
+          422,
+          7984,
+          1025,
+          8059
+        ],
+        "confidence": 1,
+        "text": "We'11 handle the rest."
+      },
+      {
+        "bbox_px": [
+          384,
+          8092,
+          1055,
+          8111
+        ],
+        "confidence": 1,
+        "text": "Weve got all kinds of plans for all sizes of business. Explore all the options. You'll pay nothing 'til"
+      },
+      {
+        "bbox_px": [
+          621,
+          8115,
+          815,
+          8134
+        ],
+        "confidence": 1,
+        "text": "you're ready to run payroll."
+      },
+      {
+        "bbox_px": [
+          663,
+          8181,
+          776,
+          8197
+        ],
+        "confidence": 1,
+        "text": "Compare plans"
+      },
+      {
+        "bbox_px": [
+          423,
+          8000,
+          1027,
+          8057
+        ],
+        "confidence": 1,
+        "text": "We'II handle the rest."
+      },
+      {
+        "bbox_px": [
+          382,
+          8093,
+          1057,
+          8108
+        ],
+        "confidence": 1,
+        "text": "We've got all kinds of plans for all sizes of business. Explore all the options. You'll pay nothing 'til"
+      },
+      {
+        "bbox_px": [
+          623,
+          8117,
+          816,
+          8132
+        ],
+        "confidence": 1,
+        "text": "you're ready to run payroll."
+      },
+      {
+        "bbox_px": [
+          664,
+          8181,
+          775,
+          8196
+        ],
+        "confidence": 1,
+        "text": "Compare plans"
+      },
+      {
+        "bbox_px": [
+          54,
+          8373,
+          112,
+          8395
+        ],
+        "confidence": 1,
+        "text": "Pricing"
+      },
+      {
+        "bbox_px": [
+          55,
+          8411,
+          141,
+          8431
+        ],
+        "confidence": 1,
+        "text": "View pricing"
+      },
+      {
+        "bbox_px": [
+          55,
+          8484,
+          149,
+          8504
+        ],
+        "confidence": 1,
+        "text": "Built for you"
+      },
+      {
+        "bbox_px": [
+          55,
+          8518,
+          183,
+          8538
+        ],
+        "confidence": 1,
+        "text": "Starting a business"
+      },
+      {
+        "bbox_px": [
+          55,
+          8552,
+          164,
+          8572
+        ],
+        "confidence": 1,
+        "text": "Switch to Gusto"
+      },
+      {
+        "bbox_px": [
+          55,
+          8589,
+          188,
+          8608
+        ],
+        "confidence": 1,
+        "text": "Remote and Global"
+      },
+      {
+        "bbox_px": [
+          55,
+          8623,
+          132,
+          8644
+        ],
+        "confidence": 1,
+        "text": "Why Gusto"
+      },
+      {
+        "bbox_px": [
+          53,
+          8696,
+          183,
+          8717
+        ],
+        "confidence": 1,
+        "text": "For Accountants"
+      },
+      {
+        "bbox_px": [
+          55,
+          8732,
+          179,
+          8751
+        ],
+        "confidence": 1,
+        "text": "Become a partner"
+      },
+      {
+        "bbox_px": [
+          55,
+          8766,
+          198,
+          8785
+        ],
+        "confidence": 1,
+        "text": "Gusto Pro dashboard"
+      },
+      {
+        "bbox_px": [
+          55,
+          8802,
+          188,
+          8822
+        ],
+        "confidence": 1,
+        "text": "Partner community"
+      },
+      {
+        "bbox_px": [
+          55,
+          8836,
+          232,
+          8856
+        ],
+        "confidence": 1,
+        "text": "Professional Development"
+      },
+      {
+        "bbox_px": [
+          55,
+          8871,
+          166,
+          8892
+        ],
+        "confidence": 1,
+        "text": "People Advisory"
+      },
+      {
+        "bbox_px": [
+          55,
+          8907,
+          170,
+          8926
+        ],
+        "confidence": 1,
+        "text": "Accountant blog"
+      },
+      {
+        "bbox_px": [
+          55,
+          8941,
+          130,
+          8961
+        ],
+        "confidence": 1,
+        "text": "Resources"
+      },
+      {
+        "bbox_px": [
+          57,
+          9016,
+          173,
+          9031
+        ],
+        "confidence": 1,
+        "text": "For Developers"
+      },
+      {
+        "bbox_px": [
+          57,
+          9050,
+          224,
+          9065
+        ],
+        "confidence": 1,
+        "text": "Gusto Embedded Payroll"
+      },
+      {
+        "bbox_px": [
+          57,
+          9086,
+          202,
+          9101
+        ],
+        "confidence": 1,
+        "text": "Build apps with Gusto"
+      },
+      {
+        "bbox_px": [
+          57,
+          9120,
+          164,
+          9137
+        ],
+        "confidence": 1,
+        "text": "Developer tools"
+      },
+      {
+        "bbox_px": [
+          57,
+          9181,
+          275,
+          9203
+        ],
+        "confidence": 1,
+        "text": "Talk Shop: Business resources"
+      },
+      {
+        "bbox_px": [
+          57,
+          9255,
+          168,
+          9270
+        ],
+        "confidence": 1,
+        "text": "Talk Shop blog"
+      },
+      {
+        "bbox_px": [
+          57,
+          9281,
+          235,
+          9296
+        ],
+        "confidence": 1,
+        "text": "Advice and information for"
+      },
+      {
+        "bbox_px": [
+          57,
+          9301,
+          250,
+          9318
+        ],
+        "confidence": 1,
+        "text": "growing businesses and theirl"
+      },
+      {
+        "bbox_px": [
+          55,
+          9323,
+          100,
+          9336
+        ],
+        "confidence": 1,
+        "text": "teams"
+      },
+      {
+        "bbox_px": [
+          388,
+          8377,
+          476,
+          8390
+        ],
+        "confidence": 1,
+        "text": "Get Started"
+      },
+      {
+        "bbox_px": [
+          388,
+          8410,
+          502,
+          8427
+        ],
+        "confidence": 1,
+        "text": "Interactive Demo"
+      },
+      {
+        "bbox_px": [
+          388,
+          8446,
+          600,
+          8463
+        ],
+        "confidence": 1,
+        "text": "Contact Sales - (800) 936-0383"
+      },
+      {
+        "bbox_px": [
+          384,
+          8518,
+          455,
+          8538
+        ],
+        "confidence": 1,
+        "text": "Services"
+      },
+      {
+        "bbox_px": [
+          384,
+          8552,
+          551,
+          8572
+        ],
+        "confidence": 1,
+        "text": "Small Business Platform"
+      },
+      {
+        "bbox_px": [
+          382,
+          8589,
+          519,
+          8608
+        ],
+        "confidence": 1,
+        "text": "Full-service payroll"
+      },
+      {
+        "bbox_px": [
+          384,
+          8623,
+          514,
+          8644
+        ],
+        "confidence": 1,
+        "text": "Employee Benefits"
+      },
+      {
+        "bbox_px": [
+          384,
+          8659,
+          412,
+          8676
+        ],
+        "confidence": 1,
+        "text": "HR"
+      },
+      {
+        "bbox_px": [
+          382,
+          8693,
+          491,
+          8713
+        ],
+        "confidence": 1,
+        "text": "Health Benefits"
+      },
+      {
+        "bbox_px": [
+          384,
+          8728,
+          508,
+          8747
+        ],
+        "confidence": 1,
+        "text": "Financial Benefits"
+      },
+      {
+        "bbox_px": [
+          384,
+          8762,
+          491,
+          8784
+        ],
+        "confidence": 1,
+        "text": "R&D tax credits"
+      },
+      {
+        "bbox_px": [
+          384,
+          8798,
+          531,
+          8817
+        ],
+        "confidence": 1,
+        "text": "Time and attendance"
+      },
+      {
+        "bbox_px": [
+          384,
+          8834,
+          538,
+          8854
+        ],
+        "confidence": 1,
+        "text": "Hiring and onboarding"
+      },
+      {
+        "bbox_px": [
+          384,
+          8869,
+          523,
+          8890
+        ],
+        "confidence": 1,
+        "text": "Talent management"
+      },
+      {
+        "bbox_px": [
+          384,
+          8903,
+          534,
+          8924
+        ],
+        "confidence": 1,
+        "text": "Insights and reporting"
+      },
+      {
+        "bbox_px": [
+          384,
+          8936,
+          547,
+          8960
+        ],
+        "confidence": 1,
+        "text": "Workers' compensation"
+      },
+      {
+        "bbox_px": [
+          386,
+          8973,
+          476,
+          8991
+        ],
+        "confidence": 1,
+        "text": "Gusto Wallet"
+      },
+      {
+        "bbox_px": [
+          388,
+          9244,
+          495,
+          9263
+        ],
+        "confidence": 1,
+        "text": "Running payroll"
+      },
+      {
+        "bbox_px": [
+          388,
+          9276,
+          514,
+          9292
+        ],
+        "confidence": 1,
+        "text": "Employee benefits"
+      },
+      {
+        "bbox_px": [
+          388,
+          9306,
+          502,
+          9319
+        ],
+        "confidence": 1,
+        "text": "Health insurance"
+      },
+      {
+        "bbox_px": [
+          388,
+          9336,
+          527,
+          9351
+        ],
+        "confidence": 1,
+        "text": "People management"
+      },
+      {
+        "bbox_px": [
+          57,
+          9397,
+          453,
+          9416
+        ],
+        "confidence": 1,
+        "text": "Gusto © 2026 Brokers Privacy Your Privacy Choices"
+      },
+      {
+        "bbox_px": [
+          474,
+          9400,
+          743,
+          9416
+        ],
+        "confidence": 1,
+        "text": "Accessibility Terms Licenses Site Map"
+      },
+      {
+        "bbox_px": [
+          719,
+          8378,
+          792,
+          8393
+        ],
+        "confidence": 1,
+        "text": "Company"
+      },
+      {
+        "bbox_px": [
+          720,
+          8412,
+          764,
+          8427
+        ],
+        "confidence": 1,
+        "text": "About"
+      },
+      {
+        "bbox_px": [
+          720,
+          8448,
+          871,
+          8463
+        ],
+        "confidence": 1,
+        "text": "Careers - We're hiring!"
+      },
+      {
+        "bbox_px": [
+          717,
+          8482,
+          771,
+          8499
+        ],
+        "confidence": 1,
+        "text": "Awards"
+      },
+      {
+        "bbox_px": [
+          715,
+          8516,
+          758,
+          8536
+        ],
+        "confidence": 1,
+        "text": "Press"
+      },
+      {
+        "bbox_px": [
+          713,
+          8550,
+          758,
+          8570
+        ],
+        "confidence": 1,
+        "text": "News"
+      },
+      {
+        "bbox_px": [
+          713,
+          8587,
+          781,
+          8604
+        ],
+        "confidence": 1,
+        "text": "Investors"
+      },
+      {
+        "bbox_px": [
+          715,
+          8621,
+          775,
+          8640
+        ],
+        "confidence": 1,
+        "text": "Contact"
+      },
+      {
+        "bbox_px": [
+          715,
+          8655,
+          833,
+          8676
+        ],
+        "confidence": 1,
+        "text": "Affiliate program"
+      },
+      {
+        "bbox_px": [
+          713,
+          8728,
+          788,
+          8749
+        ],
+        "confidence": 1,
+        "text": "Licenses"
+      },
+      {
+        "bbox_px": [
+          717,
+          8760,
+          972,
+          8783
+        ],
+        "confidence": 1,
+        "text": "Gusto Capital, LLC NMLS ID: 1845463"
+      },
+      {
+        "bbox_px": [
+          717,
+          8794,
+          918,
+          8817
+        ],
+        "confidence": 1,
+        "text": "Gusto, Inc. NMLS ID: 1737896"
+      },
+      {
+        "bbox_px": [
+          713,
+          8868,
+          786,
+          8893
+        ],
+        "confidence": 1,
+        "text": "Support"
+      },
+      {
+        "bbox_px": [
+          715,
+          8905,
+          801,
+          8926
+        ],
+        "confidence": 1,
+        "text": "Help Center"
+      },
+      {
+        "bbox_px": [
+          715,
+          8939,
+          888,
+          8963
+        ],
+        "confidence": 1,
+        "text": "Talk to support - Sign in"
+      },
+      {
+        "bbox_px": [
+          1049,
+          8377,
+          1130,
+          8390
+        ],
+        "confidence": 1,
+        "text": "Resources"
+      },
+      {
+        "bbox_px": [
+          1051,
+          8411,
+          1164,
+          8424
+        ],
+        "confidence": 1,
+        "text": "Customer stories"
+      },
+      {
+        "bbox_px": [
+          1051,
+          8448,
+          1170,
+          8461
+        ],
+        "confidence": 1,
+        "text": "Customer reviews"
+      },
+      {
+        "bbox_px": [
+          1051,
+          8482,
+          1113,
+          8497
+        ],
+        "confidence": 1,
+        "text": "Compare"
+      },
+      {
+        "bbox_px": [
+          1048,
+          8516,
+          1164,
+          8534
+        ],
+        "confidence": 1,
+        "text": "Partner Directory"
+      },
+      {
+        "bbox_px": [
+          1051,
+          8552,
+          1160,
+          8565
+        ],
+        "confidence": 1,
+        "text": "Business Guides"
+      },
+      {
+        "bbox_px": [
+          1051,
+          8587,
+          1147,
+          8602
+        ],
+        "confidence": 1,
+        "text": "Buying Guides"
+      },
+      {
+        "bbox_px": [
+          1050,
+          8622,
+          1111,
+          8638
+        ],
+        "confidence": 1,
+        "text": "Glossary"
+      },
+      {
+        "bbox_px": [
+          1049,
+          8657,
+          1087,
+          8670
+        ],
+        "confidence": 1,
+        "text": "FAQS"
+      },
+      {
+        "bbox_px": [
+          1051,
+          8693,
+          1106,
+          8706
+        ],
+        "confidence": 1,
+        "text": "Security"
+      },
+      {
+        "bbox_px": [
+          1048,
+          8728,
+          1130,
+          8742
+        ],
+        "confidence": 1,
+        "text": "Integrations"
+      },
+      {
+        "bbox_px": [
+          1049,
+          8800,
+          1091,
+          8813
+        ],
+        "confidence": 1,
+        "text": "Tools"
+      },
+      {
+        "bbox_px": [
+          1049,
+          8834,
+          1254,
+          8849
+        ],
+        "confidence": 1,
+        "text": "Small Business Financial Relief"
+      },
+      {
+        "bbox_px": [
+          1051,
+          8871,
+          1207,
+          8884
+        ],
+        "confidence": 1,
+        "text": "Employer tax calculator"
+      },
+      {
+        "bbox_px": [
+          1050,
+          8905,
+          1183,
+          8922
+        ],
+        "confidence": 1,
+        "text": "Burn rate calculator"
+      },
+      {
+        "bbox_px": [
+          1051,
+          8941,
+          1175,
+          8954
+        ],
+        "confidence": 1,
+        "text": "New hire checklist"
+      },
+      {
+        "bbox_px": [
+          720,
+          9244,
+          820,
+          9260
+        ],
+        "confidence": 1,
+        "text": "Workers' comp"
+      },
+      {
+        "bbox_px": [
+          719,
+          9276,
+          846,
+          9292
+        ],
+        "confidence": 1,
+        "text": "Starting a business"
+      },
+      {
+        "bbox_px": [
+          720,
+          9306,
+          839,
+          9319
+        ],
+        "confidence": 1,
+        "text": "Business finances"
+      },
+      {
+        "bbox_px": [
+          1050,
+          9246,
+          1091,
+          9262
+        ],
+        "confidence": 1,
+        "text": "Hiring"
+      },
+      {
+        "bbox_px": [
+          1048,
+          9276,
+          1102,
+          9292
+        ],
+        "confidence": 1,
+        "text": "Growth"
+      },
+      {
+        "bbox_px": [
+          1049,
+          9306,
+          1089,
+          9319
+        ],
+        "confidence": 1,
+        "text": "Taxes"
+      },
+      {
+        "bbox_px": [
+          935,
+          9396,
+          1177,
+          9416
+        ],
+        "confidence": 1,
+        "text": "f X d • in @"
+      }
+    ],
+    "path": "screenshots/gusto.png",
+    "width": 1440
+  }
+]

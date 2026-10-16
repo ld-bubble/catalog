@@ -1,0 +1,89 @@
+{
+  "id": "cursor",
+  "name": "Cursor",
+  "annotation_status": "pilot_partial",
+  "facets": {
+    "industry": "AI products",
+    "audience": "Developers",
+    "conversion_goal": "download",
+    "style": "interface-led",
+    "color_family": "cream",
+    "hero_layout": "left"
+  },
+  "observed_composition": "Small, restrained left-aligned copy and a download action precede a large editor view on a landscape backdrop.",
+  "copy_examples": [
+    {
+      "id": "copy-01",
+      "section_id": "top-window",
+      "role": "headline",
+      "text_verbatim": "Built to make you extraordinarily productive, Cursor is the best way to code with AI.",
+      "visible_lines": [],
+      "evidence_ids": [
+        "hero-window",
+        "full"
+      ],
+      "reading_order": 0,
+      "transcription_status": "visually_verified",
+      "uncertainties": [
+        "Visual line wrapping is not transcribed; use the screenshot.",
+        "Reading order is grouped editorially by copy role, not a DOM reading-order measurement."
+      ]
+    },
+    {
+      "id": "copy-02",
+      "section_id": "top-window",
+      "role": "cta",
+      "text_verbatim": "Download for macOS",
+      "visible_lines": [],
+      "evidence_ids": [
+        "hero-window",
+        "full"
+      ],
+      "reading_order": 1,
+      "transcription_status": "visually_verified",
+      "uncertainties": [
+        "Visual line wrapping is not transcribed; use the screenshot.",
+        "Reading order is grouped editorially by copy role, not a DOM reading-order measurement."
+      ]
+    }
+  ],
+  "evidence_images": [
+    {
+      "id": "full",
+      "path": "screenshots/cursor.png",
+      "sha256": "fe9cff3c2458b00da63affc564d918c19ec40bcecde49c5129a6edc9380e827d",
+      "width": 1440,
+      "height": 8364,
+      "role": "source",
+      "parent_id": null,
+      "bbox_px": null
+    },
+    {
+      "id": "hero-window",
+      "path": "crops/cursor-hero.png",
+      "sha256": "21b1ac44c1522febfe68a056f804255625c11d1167efded701621ed6eafe34af",
+      "width": 1440,
+      "height": 1000,
+      "role": "crop",
+      "parent_id": "full",
+      "bbox_px": [
+        0,
+        0,
+        1440,
+        1000
+      ]
+    }
+  ],
+  "expand": {
+    "record": "records/cursor.json",
+    "full_page_ocr": "ocr/cursor.json"
+  },
+  "limitations": [
+    "No conversion-performance data; conversion_goal describes an intended visible action.",
+    "No verified mobile layout, animation, interaction, DOM, source code, font names, or CSS spacing values.",
+    "Screenshot capture date is unknown; gallery savedAt is the download date.",
+    "Full-page semantic section boundaries and body copy classification remain unreviewed.",
+    "The first 1000 pixels are an evidence window, not a browser viewport or exact hero boundary.",
+    "Copy text omits decorative icons; text punctuation is transcribed as visible, but font-specific glyph identity is not established."
+  ]
+}

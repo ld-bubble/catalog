@@ -1,0 +1,3729 @@
+[
+  {
+    "height": 12132,
+    "lines": [
+      {
+        "bbox_px": [
+          20,
+          23,
+          138,
+          60
+        ],
+        "confidence": 1,
+        "text": "→ Pitch"
+      },
+      {
+        "bbox_px": [
+          428,
+          34,
+          507,
+          50
+        ],
+        "confidence": 1,
+        "text": "Product v"
+      },
+      {
+        "bbox_px": [
+          546,
+          34,
+          645,
+          50
+        ],
+        "confidence": 1,
+        "text": "Use Cases v"
+      },
+      {
+        "bbox_px": [
+          684,
+          34,
+          781,
+          50
+        ],
+        "confidence": 1,
+        "text": "Templates v"
+      },
+      {
+        "bbox_px": [
+          653,
+          85,
+          810,
+          112
+        ],
+        "confidence": 1,
+        "text": "THE EDITORIAL"
+      },
+      {
+        "bbox_px": [
+          671,
+          111,
+          789,
+          142
+        ],
+        "confidence": 1,
+        "text": "TEMPLATE"
+      },
+      {
+        "bbox_px": [
+          820,
+          34,
+          917,
+          50
+        ],
+        "confidence": 1,
+        "text": "Resources v"
+      },
+      {
+        "bbox_px": [
+          955,
+          30,
+          1012,
+          53
+        ],
+        "confidence": 1,
+        "text": "Pricing"
+      },
+      {
+        "bbox_px": [
+          1228,
+          33,
+          1298,
+          52
+        ],
+        "confidence": 1,
+        "text": "Log in →"
+      },
+      {
+        "bbox_px": [
+          1228,
+          79,
+          1369,
+          112
+        ],
+        "confidence": 1,
+        "text": "Proposal"
+      },
+      {
+        "bbox_px": [
+          1342,
+          33,
+          1404,
+          52
+        ],
+        "confidence": 1,
+        "text": "Sign up"
+      },
+      {
+        "bbox_px": [
+          151,
+          346,
+          240,
+          393
+        ],
+        "confidence": 1,
+        "text": "BRIE"
+      },
+      {
+        "bbox_px": [
+          198,
+          225,
+          1252,
+          376
+        ],
+        "confidence": 1,
+        "text": "Create slides"
+      },
+      {
+        "bbox_px": [
+          367,
+          340,
+          1107,
+          513
+        ],
+        "confidence": 1,
+        "text": "that win."
+      },
+      {
+        "bbox_px": [
+          402,
+          606,
+          807,
+          625
+        ],
+        "confidence": 1,
+        "text": "Generate a sales presentation for a digital marketplace"
+      },
+      {
+        "bbox_px": [
+          130,
+          684,
+          206,
+          698
+        ],
+        "confidence": 1,
+        "text": "THE BLOOM"
+      },
+      {
+        "bbox_px": [
+          454,
+          701,
+          540,
+          719
+        ],
+        "confidence": 1,
+        "text": "Prompts"
+      },
+      {
+        "bbox_px": [
+          935,
+          702,
+          1001,
+          717
+        ],
+        "confidence": 1,
+        "text": "Generate"
+      },
+      {
+        "bbox_px": [
+          1100,
+          635,
+          1223,
+          665
+        ],
+        "confidence": 1,
+        "text": "NEWBIE"
+      },
+      {
+        "bbox_px": [
+          1100,
+          661,
+          1317,
+          690
+        ],
+        "confidence": 1,
+        "text": "PARTNERSHIP"
+      },
+      {
+        "bbox_px": [
+          1100,
+          688,
+          1270,
+          716
+        ],
+        "confidence": 1,
+        "text": "PROPOSAL"
+      },
+      {
+        "bbox_px": [
+          444,
+          789,
+          995,
+          811
+        ],
+        "confidence": 1,
+        "text": "From prompt to presentation, 4M+ teams create and deliver winning"
+      },
+      {
+        "bbox_px": [
+          624,
+          821,
+          815,
+          839
+        ],
+        "confidence": 1,
+        "text": "slides together in Pitch."
+      },
+      {
+        "bbox_px": [
+          185,
+          1001,
+          316,
+          1025
+        ],
+        "confidence": 1,
+        "text": "• synthesia"
+      },
+      {
+        "bbox_px": [
+          350,
+          1002,
+          475,
+          1025
+        ],
+        "confidence": 1,
+        "text": "Pentagram"
+      },
+      {
+        "bbox_px": [
+          509,
+          993,
+          582,
+          1023
+        ],
+        "confidence": 1,
+        "text": "KOLO"
+      },
+      {
+        "bbox_px": [
+          613,
+          994,
+          753,
+          1030
+        ],
+        "confidence": 1,
+        "text": "* perplexity"
+      },
+      {
+        "bbox_px": [
+          789,
+          1001,
+          985,
+          1025
+        ],
+        "confidence": 1,
+        "text": "• THRIVE GLOBAL"
+      },
+      {
+        "bbox_px": [
+          1019,
+          991,
+          1113,
+          1012
+        ],
+        "confidence": 1,
+        "text": "CLEVELANI"
+      },
+      {
+        "bbox_px": [
+          1019,
+          1009,
+          1113,
+          1033
+        ],
+        "confidence": 1,
+        "text": "BROWNS"
+      },
+      {
+        "bbox_px": [
+          1149,
+          1001,
+          1251,
+          1026
+        ],
+        "confidence": 1,
+        "text": "Linear"
+      },
+      {
+        "bbox_px": [
+          96,
+          1321,
+          196,
+          1336
+        ],
+        "confidence": 1,
+        "text": "WHY PITCH"
+      },
+      {
+        "bbox_px": [
+          98,
+          1363,
+          361,
+          1412
+        ],
+        "confidence": 1,
+        "text": "Pitch is your"
+      },
+      {
+        "bbox_px": [
+          96,
+          1420,
+          619,
+          1470
+        ],
+        "confidence": 1,
+        "text": "presentation workspace"
+      },
+      {
+        "bbox_px": [
+          96,
+          1496,
+          574,
+          1514
+        ],
+        "confidence": 1,
+        "text": "From first slide to final delivery, Pitch is where teams create"
+      },
+      {
+        "bbox_px": [
+          94,
+          1527,
+          355,
+          1546
+        ],
+        "confidence": 1,
+        "text": "presentations that actually land."
+      },
+      {
+        "bbox_px": [
+          96,
+          1632,
+          442,
+          1671
+        ],
+        "confidence": 1,
+        "text": "• Make stunning slides"
+      },
+      {
+        "bbox_px": [
+          94,
+          1692,
+          538,
+          1708
+        ],
+        "confidence": 1,
+        "text": "Your audience sees hundreds of presentations. Use Pitch's"
+      },
+      {
+        "bbox_px": [
+          96,
+          1718,
+          538,
+          1734
+        ],
+        "confidence": 1,
+        "text": "powerful editor to stand out with sleek slides enhanced by"
+      },
+      {
+        "bbox_px": [
+          94,
+          1742,
+          444,
+          1761
+        ],
+        "confidence": 1,
+        "text": "high-res video, animations, and custom fonts."
+      },
+      {
+        "bbox_px": [
+          93,
+          1630,
+          442,
+          1672
+        ],
+        "confidence": 1,
+        "text": "Make stunning slides"
+      },
+      {
+        "bbox_px": [
+          96,
+          1691,
+          538,
+          1710
+        ],
+        "confidence": 1,
+        "text": "Your audience sees hundreds of presentations. Use Pitch's"
+      },
+      {
+        "bbox_px": [
+          96,
+          1717,
+          538,
+          1736
+        ],
+        "confidence": 1,
+        "text": "powerful editor to stand out with sleek slides enhanced by"
+      },
+      {
+        "bbox_px": [
+          96,
+          1743,
+          444,
+          1762
+        ],
+        "confidence": 1,
+        "text": "high-res video, animotions, and custom fonts."
+      },
+      {
+        "bbox_px": [
+          977,
+          1832,
+          1105,
+          1854
+        ],
+        "confidence": 1,
+        "text": "Sales Proposal"
+      },
+      {
+        "bbox_px": [
+          974,
+          1986,
+          1063,
+          2003
+        ],
+        "confidence": 1,
+        "text": "Add new slide"
+      },
+      {
+        "bbox_px": [
+          1112,
+          1964,
+          1215,
+          1982
+        ],
+        "confidence": 1,
+        "text": "Presentation style"
+      },
+      {
+        "bbox_px": [
+          1126,
+          1994,
+          1220,
+          2008
+        ],
+        "confidence": 1,
+        "text": "la : Sales deck dark"
+      },
+      {
+        "bbox_px": [
+          1118,
+          2018,
+          1220,
+          2034
+        ],
+        "confidence": 1,
+        "text": "Aa : Sales deck light"
+      },
+      {
+        "bbox_px": [
+          96,
+          2199,
+          206,
+          2217
+        ],
+        "confidence": 1,
+        "text": "THE PAYOFF"
+      },
+      {
+        "bbox_px": [
+          446,
+          2206,
+          1181,
+          2246
+        ],
+        "confidence": 1,
+        "text": "Presentations are more than an"
+      },
+      {
+        "bbox_px": [
+          443,
+          2250,
+          1257,
+          2330
+        ],
+        "confidence": 1,
+        "text": "asset. With Pitch, they're your new"
+      },
+      {
+        "bbox_px": [
+          446,
+          2317,
+          1275,
+          2374
+        ],
+        "confidence": 1,
+        "text": "competitive advantage. Build trust,"
+      },
+      {
+        "bbox_px": [
+          446,
+          2375,
+          1173,
+          2437
+        ],
+        "confidence": 1,
+        "text": "get buy-in, and win more deals."
+      },
+      {
+        "bbox_px": [
+          442,
+          2502,
+          587,
+          2562
+        ],
+        "confidence": 1,
+        "text": "4М+"
+      },
+      {
+        "bbox_px": [
+          446,
+          2578,
+          653,
+          2597
+        ],
+        "confidence": 1,
+        "text": "Professional teams choose"
+      },
+      {
+        "bbox_px": [
+          444,
+          2604,
+          674,
+          2620
+        ],
+        "confidence": 1,
+        "text": "Pitch to build, deliver, and win."
+      },
+      {
+        "bbox_px": [
+          744,
+          2502,
+          912,
+          2568
+        ],
+        "confidence": 1,
+        "text": "150+"
+      },
+      {
+        "bbox_px": [
+          744,
+          2578,
+          925,
+          2597
+        ],
+        "confidence": 1,
+        "text": "Templates designed by"
+      },
+      {
+        "bbox_px": [
+          744,
+          2604,
+          941,
+          2624
+        ],
+        "confidence": 1,
+        "text": "experts to get you started."
+      },
+      {
+        "bbox_px": [
+          1045,
+          2505,
+          1181,
+          2565
+        ],
+        "confidence": 1,
+        "text": "5H+"
+      },
+      {
+        "bbox_px": [
+          1045,
+          2581,
+          1223,
+          2597
+        ],
+        "confidence": 1,
+        "text": "On average, users save"
+      },
+      {
+        "bbox_px": [
+          1042,
+          2604,
+          1230,
+          2622
+        ],
+        "confidence": 1,
+        "text": "over 5 hours every week."
+      },
+      {
+        "bbox_px": [
+          107,
+          2905,
+          175,
+          2921
+        ],
+        "confidence": 1,
+        "text": "HOW TO"
+      },
+      {
+        "bbox_px": [
+          109,
+          2947,
+          504,
+          2989
+        ],
+        "confidence": 1,
+        "text": "From first draft to"
+      },
+      {
+        "bbox_px": [
+          106,
+          3003,
+          614,
+          3062
+        ],
+        "confidence": 1,
+        "text": "closed deal, and beyond"
+      },
+      {
+        "bbox_px": [
+          107,
+          3080,
+          624,
+          3101
+        ],
+        "confidence": 1,
+        "text": "The best presentotions aren't made by just one person. In Pitch,"
+      },
+      {
+        "bbox_px": [
+          107,
+          3108,
+          629,
+          3132
+        ],
+        "confidence": 1,
+        "text": "your whole team works together to create sleek, effective slides."
+      },
+      {
+        "bbox_px": [
+          1251,
+          3227,
+          1319,
+          3258
+        ],
+        "confidence": 1,
+        "text": "(02)"
+      },
+      {
+        "bbox_px": [
+          133,
+          3249,
+          425,
+          3314
+        ],
+        "confidence": 1,
+        "text": "(01) Create"
+      },
+      {
+        "bbox_px": [
+          1338,
+          3235,
+          1440,
+          3290
+        ],
+        "confidence": 1,
+        "text": "Col"
+      },
+      {
+        "bbox_px": [
+          131,
+          3249,
+          424,
+          3312
+        ],
+        "confidence": 1,
+        "text": "(01) Create"
+      },
+      {
+        "bbox_px": [
+          216,
+          3392,
+          311,
+          3415
+        ],
+        "confidence": 1,
+        "text": "How can"
+      },
+      {
+        "bbox_px": [
+          188,
+          3422,
+          342,
+          3446
+        ],
+        "confidence": 1,
+        "text": "I support you?"
+      },
+      {
+        "bbox_px": [
+          1251,
+          3228,
+          1327,
+          3260
+        ],
+        "confidence": 1,
+        "text": "(02)"
+      },
+      {
+        "bbox_px": [
+          1338,
+          3234,
+          1439,
+          3291
+        ],
+        "confidence": 1,
+        "text": "Col"
+      },
+      {
+        "bbox_px": [
+          692,
+          3409,
+          1019,
+          3428
+        ],
+        "confidence": 1,
+        "text": "Subheadline v 120 € A B = I"
+      },
+      {
+        "bbox_px": [
+          426,
+          3486,
+          880,
+          3636
+        ],
+        "confidence": 1,
+        "text": "CREATIVE®"
+      },
+      {
+        "bbox_px": [
+          427,
+          3612,
+          700,
+          3728
+        ],
+        "confidence": 1,
+        "text": "BRIEF®"
+      },
+      {
+        "bbox_px": [
+          878,
+          3707,
+          980,
+          3726
+        ],
+        "confidence": 1,
+        "text": "Add brand kit"
+      },
+      {
+        "bbox_px": [
+          1351,
+          3605,
+          1366,
+          3623
+        ],
+        "confidence": 1,
+        "text": "a"
+      },
+      {
+        "bbox_px": [
+          198,
+          3843,
+          491,
+          3867
+        ],
+        "confidence": 1,
+        "text": "Intuitive slide creation"
+      },
+      {
+        "bbox_px": [
+          201,
+          3882,
+          953,
+          3901
+        ],
+        "confidence": 1,
+        "text": "Start from a blank canvas or template - or use Al to generate on-brand slides in seconds. Keep full"
+      },
+      {
+        "bbox_px": [
+          201,
+          3908,
+          687,
+          3927
+        ],
+        "confidence": 1,
+        "text": "design control over every detail, so your slides always stond out."
+      },
+      {
+        "bbox_px": [
+          1284,
+          3821,
+          1438,
+          3856
+        ],
+        "confidence": 1,
+        "text": "Remove tec"
+      },
+      {
+        "bbox_px": [
+          1282,
+          3858,
+          1438,
+          3887
+        ],
+        "confidence": 1,
+        "text": "The best presentatic"
+      },
+      {
+        "bbox_px": [
+          1282,
+          3887,
+          1438,
+          3910
+        ],
+        "confidence": 1,
+        "text": "assignments, and co"
+      },
+      {
+        "bbox_px": [
+          0,
+          4241,
+          125,
+          4257
+        ],
+        "confidence": 1,
+        "text": "one person on"
+      },
+      {
+        "bbox_px": [
+          0,
+          4264,
+          143,
+          4283
+        ],
+        "confidence": 1,
+        "text": "oducing decks,"
+      },
+      {
+        "bbox_px": [
+          0,
+          4288,
+          104,
+          4306
+        ],
+        "confidence": 1,
+        "text": "cy problem"
+      },
+      {
+        "bbox_px": [
+          0,
+          4311,
+          117,
+          4328
+        ],
+        "confidence": 1,
+        "text": "se over time."
+      },
+      {
+        "bbox_px": [
+          0,
+          4334,
+          138,
+          4353
+        ],
+        "confidence": 1,
+        "text": "sily solved with"
+      },
+      {
+        "bbox_px": [
+          0,
+          4358,
+          133,
+          4377
+        ],
+        "confidence": 1,
+        "text": "e the switchiỊẠạỊi"
+      },
+      {
+        "bbox_px": [
+          888,
+          4238,
+          1136,
+          4260
+        ],
+        "confidence": 1,
+        "text": "I'm a very happy customer"
+      },
+      {
+        "bbox_px": [
+          888,
+          4262,
+          1095,
+          4281
+        ],
+        "confidence": 1,
+        "text": "and love the fact that"
+      },
+      {
+        "bbox_px": [
+          888,
+          4284,
+          1108,
+          4307
+        ],
+        "confidence": 1,
+        "text": "Pitch continuously gets"
+      },
+      {
+        "bbox_px": [
+          888,
+          4308,
+          1115,
+          4330
+        ],
+        "confidence": 1,
+        "text": "better. It's really hrd to"
+      },
+      {
+        "bbox_px": [
+          885,
+          4334,
+          1095,
+          4356
+        ],
+        "confidence": 1,
+        "text": "imagine going back to"
+      },
+      {
+        "bbox_px": [
+          888,
+          4356,
+          1139,
+          4380
+        ],
+        "confidence": 1,
+        "text": "Keynote or Google SlidesiỊại"
+      },
+      {
+        "bbox_px": [
+          0,
+          4508,
+          135,
+          4524
+        ],
+        "confidence": 1,
+        "text": ". Head of Marketing"
+      },
+      {
+        "bbox_px": [
+          0,
+          4536,
+          49,
+          4557
+        ],
+        "confidence": 1,
+        "text": "ORUM"
+      },
+      {
+        "bbox_px": [
+          211,
+          4437,
+          407,
+          4456
+        ],
+        "confidence": 1,
+        "text": "This is what product"
+      },
+      {
+        "bbox_px": [
+          209,
+          4457,
+          384,
+          4481
+        ],
+        "confidence": 1,
+        "text": "delight looks like.\""
+      },
+      {
+        "bbox_px": [
+          229,
+          4508,
+          462,
+          4524
+        ],
+        "confidence": 1,
+        "text": "Vlad Zely, Head of Product Design"
+      },
+      {
+        "bbox_px": [
+          308,
+          4539,
+          376,
+          4555
+        ],
+        "confidence": 1,
+        "text": "FEELD"
+      },
+      {
+        "bbox_px": [
+          548,
+          4340,
+          778,
+          4364
+        ],
+        "confidence": 1,
+        "text": "Our work is highly visual"
+      },
+      {
+        "bbox_px": [
+          551,
+          4364,
+          765,
+          4383
+        ],
+        "confidence": 1,
+        "text": "and motion-driven. We"
+      },
+      {
+        "bbox_px": [
+          548,
+          4389,
+          773,
+          4411
+        ],
+        "confidence": 1,
+        "text": "know our presentations"
+      },
+      {
+        "bbox_px": [
+          548,
+          4413,
+          781,
+          4434
+        ],
+        "confidence": 1,
+        "text": "will always look polished"
+      },
+      {
+        "bbox_px": [
+          551,
+          4434,
+          742,
+          4460
+        ],
+        "confidence": 1,
+        "text": "and play flawlessly.\""
+      },
+      {
+        "bbox_px": [
+          559,
+          4484,
+          807,
+          4500
+        ],
+        "confidence": 1,
+        "text": "Tara Dabir, Director of New Business"
+      },
+      {
+        "bbox_px": [
+          637,
+          4508,
+          731,
+          4523
+        ],
+        "confidence": 1,
+        "text": "Development"
+      },
+      {
+        "bbox_px": [
+          648,
+          4539,
+          721,
+          4552
+        ],
+        "confidence": 1,
+        "text": "Pentagram"
+      },
+      {
+        "bbox_px": [
+          925,
+          4508,
+          1118,
+          4524
+        ],
+        "confidence": 1,
+        "text": "Edwin Khodabakchian, CEO"
+      },
+      {
+        "bbox_px": [
+          1016,
+          4539,
+          1058,
+          4555
+        ],
+        "confidence": 1,
+        "text": "feedly"
+      },
+      {
+        "bbox_px": [
+          1225,
+          4383,
+          1437,
+          4412
+        ],
+        "confidence": 1,
+        "text": "Everyone kind of realiz"
+      },
+      {
+        "bbox_px": [
+          1225,
+          4411,
+          1437,
+          4432
+        ],
+        "confidence": 1,
+        "text": "super quickly how muc"
+      },
+      {
+        "bbox_px": [
+          1225,
+          4434,
+          1437,
+          4457
+        ],
+        "confidence": 1,
+        "text": "better everything becc"
+      },
+      {
+        "bbox_px": [
+          1225,
+          4460,
+          1437,
+          4477
+        ],
+        "confidence": 1,
+        "text": "once we switched to P"
+      },
+      {
+        "bbox_px": [
+          1296,
+          4508,
+          1426,
+          4521
+        ],
+        "confidence": 1,
+        "text": "Lucas Löf, UX Lead"
+      },
+      {
+        "bbox_px": [
+          1330,
+          4536,
+          1382,
+          4557
+        ],
+        "confidence": 1,
+        "text": "0HMY"
+      },
+      {
+        "bbox_px": [
+          15,
+          4675,
+          266,
+          4696
+        ],
+        "confidence": 1,
+        "text": "Other tools were too bulky"
+      },
+      {
+        "bbox_px": [
+          12,
+          4696,
+          274,
+          4721
+        ],
+        "confidence": 1,
+        "text": "and slow, with limited video"
+      },
+      {
+        "bbox_px": [
+          13,
+          4724,
+          258,
+          4743
+        ],
+        "confidence": 1,
+        "text": "capabilities. We wanted a"
+      },
+      {
+        "bbox_px": [
+          15,
+          4748,
+          258,
+          4770
+        ],
+        "confidence": 1,
+        "text": "high-performing tool that"
+      },
+      {
+        "bbox_px": [
+          13,
+          4771,
+          269,
+          4790
+        ],
+        "confidence": 1,
+        "text": "let us share decks via URLs"
+      },
+      {
+        "bbox_px": [
+          13,
+          4798,
+          209,
+          4814
+        ],
+        "confidence": 1,
+        "text": "to create a seamless"
+      },
+      {
+        "bbox_px": [
+          12,
+          4819,
+          256,
+          4843
+        ],
+        "confidence": 1,
+        "text": "experience for our clients."
+      },
+      {
+        "bbox_px": [
+          15,
+          4840,
+          269,
+          4870
+        ],
+        "confidence": 1,
+        "text": "Pitch has been a godsendiỊạiạ"
+      },
+      {
+        "bbox_px": [
+          73,
+          4944,
+          224,
+          4960
+        ],
+        "confidence": 1,
+        "text": "Mees Rutten, Founder"
+      },
+      {
+        "bbox_px": [
+          689,
+          4675,
+          951,
+          4694
+        ],
+        "confidence": 1,
+        "text": "I love Pitch and have used it"
+      },
+      {
+        "bbox_px": [
+          689,
+          4698,
+          946,
+          4720
+        ],
+        "confidence": 1,
+        "text": "for Perplexity's fund raises,"
+      },
+      {
+        "bbox_px": [
+          689,
+          4722,
+          883,
+          4744
+        ],
+        "confidence": 1,
+        "text": "board meetings, and"
+      },
+      {
+        "bbox_px": [
+          689,
+          4746,
+          855,
+          4768
+        ],
+        "confidence": 1,
+        "text": "internal company"
+      },
+      {
+        "bbox_px": [
+          689,
+          4772,
+          946,
+          4793
+        ],
+        "confidence": 1,
+        "text": "presentations. If you're still"
+      },
+      {
+        "bbox_px": [
+          689,
+          4795,
+          948,
+          4817
+        ],
+        "confidence": 1,
+        "text": "on Google Slides, migrate -"
+      },
+      {
+        "bbox_px": [
+          689,
+          4817,
+          881,
+          4845
+        ],
+        "confidence": 1,
+        "text": "you won't regret it!i"
+      },
+      {
+        "bbox_px": [
+          352,
+          4858,
+          538,
+          4879
+        ],
+        "confidence": 1,
+        "text": "It's game-changing."
+      },
+      {
+        "bbox_px": [
+          352,
+          4881,
+          569,
+          4903
+        ],
+        "confidence": 1,
+        "text": "Pitch is more powerful,"
+      },
+      {
+        "bbox_px": [
+          352,
+          4907,
+          517,
+          4926
+        ],
+        "confidence": 1,
+        "text": "easier to use, and"
+      },
+      {
+        "bbox_px": [
+          352,
+          4928,
+          546,
+          4947
+        ],
+        "confidence": 1,
+        "text": "more collaborative.\""
+      },
+      {
+        "bbox_px": [
+          392,
+          4976,
+          582,
+          4992
+        ],
+        "confidence": 1,
+        "text": "Ravi Mehta, Product Advisor"
+      },
+      {
+        "bbox_px": [
+          747,
+          4945,
+          899,
+          4961
+        ],
+        "confidence": 1,
+        "text": "Aravind Srinivas, CEO"
+      },
+      {
+        "bbox_px": [
+          778,
+          4973,
+          870,
+          4992
+        ],
+        "confidence": 1,
+        "text": "* perplexity"
+      },
+      {
+        "bbox_px": [
+          1029,
+          4801,
+          1262,
+          4823
+        ],
+        "confidence": 1,
+        "text": "Pitch makes it very easy"
+      },
+      {
+        "bbox_px": [
+          1027,
+          4826,
+          1267,
+          4845
+        ],
+        "confidence": 1,
+        "text": "to work with others, with"
+      },
+      {
+        "bbox_px": [
+          1027,
+          4850,
+          1257,
+          4871
+        ],
+        "confidence": 1,
+        "text": "collaborotion happening"
+      },
+      {
+        "bbox_px": [
+          1027,
+          4871,
+          1223,
+          4895
+        ],
+        "confidence": 1,
+        "text": "inside the platform.\""
+      },
+      {
+        "bbox_px": [
+          1037,
+          4921,
+          1288,
+          4937
+        ],
+        "confidence": 1,
+        "text": "Diogo Pereira, Director of Partnership"
+      },
+      {
+        "bbox_px": [
+          1087,
+          4945,
+          1238,
+          4961
+        ],
+        "confidence": 1,
+        "text": "Operations & Strategy"
+      },
+      {
+        "bbox_px": [
+          1118,
+          4973,
+          1199,
+          4995
+        ],
+        "confidence": 1,
+        "text": "W wehype"
+      },
+      {
+        "bbox_px": [
+          1416,
+          4816,
+          1437,
+          4843
+        ],
+        "confidence": 1,
+        "text": "T"
+      },
+      {
+        "bbox_px": [
+          1408,
+          4853,
+          1437,
+          4879
+        ],
+        "confidence": 1,
+        "text": "4|"
+      },
+      {
+        "bbox_px": [
+          13,
+          4800,
+          209,
+          4816
+        ],
+        "confidence": 1,
+        "text": "to create a seamless"
+      },
+      {
+        "bbox_px": [
+          12,
+          4818,
+          259,
+          4844
+        ],
+        "confidence": 1,
+        "text": "experience for our clients."
+      },
+      {
+        "bbox_px": [
+          15,
+          4841,
+          266,
+          4867
+        ],
+        "confidence": 1,
+        "text": "Pitch hos been godsend.\""
+      },
+      {
+        "bbox_px": [
+          73,
+          4946,
+          224,
+          4962
+        ],
+        "confidence": 1,
+        "text": "Mees Rutten, Founder"
+      },
+      {
+        "bbox_px": [
+          689,
+          4800,
+          953,
+          4818
+        ],
+        "confidence": 1,
+        "text": "on Google Slides, migrate -"
+      },
+      {
+        "bbox_px": [
+          689,
+          4818,
+          881,
+          4842
+        ],
+        "confidence": 1,
+        "text": "you won't regret it!ii"
+      },
+      {
+        "bbox_px": [
+          354,
+          4857,
+          541,
+          4882
+        ],
+        "confidence": 1,
+        "text": "It's game-changing."
+      },
+      {
+        "bbox_px": [
+          352,
+          4878,
+          570,
+          4904
+        ],
+        "confidence": 1,
+        "text": "Pitch is more powerful,"
+      },
+      {
+        "bbox_px": [
+          352,
+          4907,
+          517,
+          4930
+        ],
+        "confidence": 1,
+        "text": "easier to use, and"
+      },
+      {
+        "bbox_px": [
+          352,
+          4928,
+          546,
+          4949
+        ],
+        "confidence": 1,
+        "text": "more collaborative.\""
+      },
+      {
+        "bbox_px": [
+          392,
+          4977,
+          582,
+          4994
+        ],
+        "confidence": 1,
+        "text": "Ravi Mehta, Product Advisor"
+      },
+      {
+        "bbox_px": [
+          749,
+          4943,
+          899,
+          4964
+        ],
+        "confidence": 1,
+        "text": "Aravind Srinivas, CEO"
+      },
+      {
+        "bbox_px": [
+          778,
+          4975,
+          872,
+          4993
+        ],
+        "confidence": 1,
+        "text": "perplexity"
+      },
+      {
+        "bbox_px": [
+          1029,
+          4800,
+          1262,
+          4827
+        ],
+        "confidence": 1,
+        "text": "Pitch makes it very easy"
+      },
+      {
+        "bbox_px": [
+          1029,
+          4828,
+          1270,
+          4847
+        ],
+        "confidence": 1,
+        "text": "to work with others, with"
+      },
+      {
+        "bbox_px": [
+          1029,
+          4848,
+          1257,
+          4875
+        ],
+        "confidence": 1,
+        "text": "collaboration happening"
+      },
+      {
+        "bbox_px": [
+          1027,
+          4872,
+          1225,
+          4894
+        ],
+        "confidence": 1,
+        "text": "inside the platform.\""
+      },
+      {
+        "bbox_px": [
+          1037,
+          4922,
+          1291,
+          4939
+        ],
+        "confidence": 1,
+        "text": "Diogo Pereira, Director of Partnership"
+      },
+      {
+        "bbox_px": [
+          1089,
+          4946,
+          1238,
+          4962
+        ],
+        "confidence": 1,
+        "text": "Operations & Strategy"
+      },
+      {
+        "bbox_px": [
+          1121,
+          4977,
+          1202,
+          4994
+        ],
+        "confidence": 1,
+        "text": "wehype"
+      },
+      {
+        "bbox_px": [
+          1416,
+          4815,
+          1437,
+          4841
+        ],
+        "confidence": 1,
+        "text": "T"
+      },
+      {
+        "bbox_px": [
+          627,
+          5137,
+          807,
+          5155
+        ],
+        "confidence": 1,
+        "text": "See customer stories →"
+      },
+      {
+        "bbox_px": [
+          682,
+          5323,
+          757,
+          5339
+        ],
+        "confidence": 1,
+        "text": "TOOLKIT"
+      },
+      {
+        "bbox_px": [
+          378,
+          5367,
+          1063,
+          5414
+        ],
+        "confidence": 1,
+        "text": "A complete presentation toolkit"
+      },
+      {
+        "bbox_px": [
+          331,
+          5440,
+          1110,
+          5462
+        ],
+        "confidence": 1,
+        "text": "Years of development mean Pitch has everything fost-moving teams need to create and deliver"
+      },
+      {
+        "bbox_px": [
+          350,
+          5469,
+          1087,
+          5490
+        ],
+        "confidence": 1,
+        "text": "consistently beautiful slides together, from design fundamentals to the latest in Al-powered"
+      },
+      {
+        "bbox_px": [
+          674,
+          5500,
+          768,
+          5518
+        ],
+        "confidence": 1,
+        "text": "workflows."
+      },
+      {
+        "bbox_px": [
+          138,
+          5626,
+          256,
+          5656
+        ],
+        "confidence": 1,
+        "text": "Al Agent"
+      },
+      {
+        "bbox_px": [
+          138,
+          5675,
+          478,
+          5694
+        ],
+        "confidence": 1,
+        "text": "Use Pitch Agent to generate on-brand slides,"
+      },
+      {
+        "bbox_px": [
+          138,
+          5700,
+          533,
+          5723
+        ],
+        "confidence": 1,
+        "text": "personalize messaging, enhance visuals, and more."
+      },
+      {
+        "bbox_px": [
+          180,
+          5788,
+          407,
+          5805
+        ],
+        "confidence": 1,
+        "text": "What do you wont to generote?"
+      },
+      {
+        "bbox_px": [
+          172,
+          5862,
+          457,
+          5870
+        ],
+        "confidence": 1,
+        "text": "wenerate a sales presentation tor a aigital marketplace."
+      },
+      {
+        "bbox_px": [
+          206,
+          5893,
+          271,
+          5907
+        ],
+        "confidence": 1,
+        "text": "23 Prompts"
+      },
+      {
+        "bbox_px": [
+          389,
+          5893,
+          462,
+          5907
+        ],
+        "confidence": 1,
+        "text": "Generate 1"
+      },
+      {
+        "bbox_px": [
+          867,
+          5624,
+          1021,
+          5650
+        ],
+        "confidence": 1,
+        "text": "Slide editor"
+      },
+      {
+        "bbox_px": [
+          867,
+          5675,
+          1270,
+          5694
+        ],
+        "confidence": 1,
+        "text": "Unlock a powerful yet intuitive slide editor, where you"
+      },
+      {
+        "bbox_px": [
+          867,
+          5702,
+          1259,
+          5721
+        ],
+        "confidence": 1,
+        "text": "have complete control over design and placement."
+      },
+      {
+        "bbox_px": [
+          1176,
+          5898,
+          1223,
+          5917
+        ],
+        "confidence": 0.30000001192092896,
+        "text": "Eed el roker"
+      },
+      {
+        "bbox_px": [
+          514,
+          5909,
+          674,
+          5930
+        ],
+        "confidence": 1,
+        "text": "SERIES B PITCH DECK"
+      },
+      {
+        "bbox_px": [
+          138,
+          6029,
+          358,
+          6058
+        ],
+        "confidence": 1,
+        "text": "Viewer andlytics"
+      },
+      {
+        "bbox_px": [
+          138,
+          6081,
+          548,
+          6100
+        ],
+        "confidence": 1,
+        "text": "Know when to follow up, with visitor dta on everyone"
+      },
+      {
+        "bbox_px": [
+          138,
+          6107,
+          527,
+          6126
+        ],
+        "confidence": 1,
+        "text": "who opens and interacts with your decks and pitch"
+      },
+      {
+        "bbox_px": [
+          138,
+          6134,
+          190,
+          6150
+        ],
+        "confidence": 1,
+        "text": "rooms."
+      },
+      {
+        "bbox_px": [
+          331,
+          6204,
+          431,
+          6218
+        ],
+        "confidence": 1,
+        "text": "~ Engagement peak"
+      },
+      {
+        "bbox_px": [
+          224,
+          6317,
+          290,
+          6333
+        ],
+        "confidence": 1,
+        "text": "® 32 views"
+      },
+      {
+        "bbox_px": [
+          418,
+          6291,
+          517,
+          6335
+        ],
+        "confidence": 1,
+        "text": "76%"
+      },
+      {
+        "bbox_px": [
+          138,
+          6432,
+          311,
+          6462
+        ],
+        "confidence": 1,
+        "text": "Brand library"
+      },
+      {
+        "bbox_px": [
+          138,
+          6484,
+          441,
+          6503
+        ],
+        "confidence": 1,
+        "text": "Keep everything consistent with custom"
+      },
+      {
+        "bbox_px": [
+          138,
+          6511,
+          462,
+          6529
+        ],
+        "confidence": 1,
+        "text": "fonts, templates, and your approved brand"
+      },
+      {
+        "bbox_px": [
+          138,
+          6534,
+          376,
+          6555
+        ],
+        "confidence": 1,
+        "text": "media in a shared team library."
+      },
+      {
+        "bbox_px": [
+          640,
+          6029,
+          799,
+          6055
+        ],
+        "confidence": 1,
+        "text": "Pitch rooms"
+      },
+      {
+        "bbox_px": [
+          640,
+          6081,
+          1024,
+          6100
+        ],
+        "confidence": 1,
+        "text": "Share presentotions and resources in custom deal"
+      },
+      {
+        "bbox_px": [
+          640,
+          6107,
+          1055,
+          6126
+        ],
+        "confidence": 1,
+        "text": "rooms to deliver o truly persondlized client experience."
+      },
+      {
+        "bbox_px": [
+          1157,
+          6233,
+          1215,
+          6246
+        ],
+        "confidence": 1,
+        "text": "References"
+      },
+      {
+        "bbox_px": [
+          1157,
+          6248,
+          1288,
+          6262
+        ],
+        "confidence": 1,
+        "text": "Some nice things to inspire"
+      },
+      {
+        "bbox_px": [
+          1157,
+          6265,
+          1207,
+          6278
+        ],
+        "confidence": 1,
+        "text": "creatives."
+      },
+      {
+        "bbox_px": [
+          1155,
+          6335,
+          1291,
+          6348
+        ],
+        "confidence": 1,
+        "text": "Love the perspective in this"
+      },
+      {
+        "bbox_px": [
+          1157,
+          6350,
+          1223,
+          6365
+        ],
+        "confidence": 1,
+        "text": "product shot"
+      },
+      {
+        "bbox_px": [
+          551,
+          6435,
+          797,
+          6464
+        ],
+        "confidence": 1,
+        "text": "Teom organizotion"
+      },
+      {
+        "bbox_px": [
+          966,
+          6434,
+          1191,
+          6458
+        ],
+        "confidence": 1,
+        "text": "Unrivaled visuals"
+      },
+      {
+        "bbox_px": [
+          554,
+          6484,
+          857,
+          6503
+        ],
+        "confidence": 1,
+        "text": "Collaborate in the cloud. Organize your"
+      },
+      {
+        "bbox_px": [
+          554,
+          6511,
+          870,
+          6529
+        ],
+        "confidence": 1,
+        "text": "work and stay on top of everything you've"
+      },
+      {
+        "bbox_px": [
+          554,
+          6537,
+          692,
+          6556
+        ],
+        "confidence": 1,
+        "text": "created or shared."
+      },
+      {
+        "bbox_px": [
+          969,
+          6484,
+          1262,
+          6503
+        ],
+        "confidence": 1,
+        "text": "Showcase your high-res brand media,"
+      },
+      {
+        "bbox_px": [
+          969,
+          6511,
+          1275,
+          6529
+        ],
+        "confidence": 1,
+        "text": "create eye-catching animations, embed"
+      },
+      {
+        "bbox_px": [
+          966,
+          6537,
+          1262,
+          6556
+        ],
+        "confidence": 1,
+        "text": "interactive content or generate with Al."
+      },
+      {
+        "bbox_px": [
+          138,
+          6432,
+          311,
+          6462
+        ],
+        "confidence": 1,
+        "text": "Brand library"
+      },
+      {
+        "bbox_px": [
+          138,
+          6485,
+          441,
+          6502
+        ],
+        "confidence": 1,
+        "text": "Keep everything consistent with custom"
+      },
+      {
+        "bbox_px": [
+          138,
+          6512,
+          462,
+          6528
+        ],
+        "confidence": 1,
+        "text": "tonts, templates, and your approved brand"
+      },
+      {
+        "bbox_px": [
+          141,
+          6533,
+          376,
+          6554
+        ],
+        "confidence": 1,
+        "text": "media in a shared team library."
+      },
+      {
+        "bbox_px": [
+          554,
+          6433,
+          799,
+          6462
+        ],
+        "confidence": 1,
+        "text": "Team organization"
+      },
+      {
+        "bbox_px": [
+          554,
+          6485,
+          854,
+          6502
+        ],
+        "confidence": 1,
+        "text": "Collaborate in the cloua. Organize your"
+      },
+      {
+        "bbox_px": [
+          554,
+          6509,
+          872,
+          6528
+        ],
+        "confidence": 1,
+        "text": "work and stay on top of everything you've"
+      },
+      {
+        "bbox_px": [
+          553,
+          6535,
+          692,
+          6555
+        ],
+        "confidence": 1,
+        "text": "created or shared."
+      },
+      {
+        "bbox_px": [
+          969,
+          6433,
+          1191,
+          6460
+        ],
+        "confidence": 1,
+        "text": "Unrivaled visuals"
+      },
+      {
+        "bbox_px": [
+          969,
+          6485,
+          1262,
+          6502
+        ],
+        "confidence": 1,
+        "text": "Showcase your high-res brand media,"
+      },
+      {
+        "bbox_px": [
+          969,
+          6512,
+          1275,
+          6528
+        ],
+        "confidence": 1,
+        "text": "create eye-catching animations, embed"
+      },
+      {
+        "bbox_px": [
+          969,
+          6535,
+          1262,
+          6555
+        ],
+        "confidence": 1,
+        "text": "interactive content or generate with Al."
+      },
+      {
+        "bbox_px": [
+          151,
+          6598,
+          240,
+          6612
+        ],
+        "confidence": 1,
+        "text": "Subheadline v"
+      },
+      {
+        "bbox_px": [
+          261,
+          6598,
+          303,
+          6612
+        ],
+        "confidence": 1,
+        "text": "120 €"
+      },
+      {
+        "bbox_px": [
+          324,
+          6601,
+          339,
+          6609
+        ],
+        "confidence": 1,
+        "text": "A"
+      },
+      {
+        "bbox_px": [
+          598,
+          6609,
+          632,
+          6622
+        ],
+        "confidence": 1,
+        "text": "Frank"
+      },
+      {
+        "bbox_px": [
+          598,
+          6622,
+          629,
+          6635
+        ],
+        "confidence": 1,
+        "text": "Desigeer"
+      },
+      {
+        "bbox_px": [
+          360,
+          6653,
+          454,
+          6669
+        ],
+        "confidence": 1,
+        "text": "Add brand kit"
+      },
+      {
+        "bbox_px": [
+          175,
+          6672,
+          240,
+          6708
+        ],
+        "confidence": 1,
+        "text": "Aa"
+      },
+      {
+        "bbox_px": [
+          593,
+          6672,
+          629,
+          6685
+        ],
+        "confidence": 1,
+        "text": "Dam"
+      },
+      {
+        "bbox_px": [
+          773,
+          6677,
+          807,
+          6690
+        ],
+        "confidence": 1,
+        "text": "Emily"
+      },
+      {
+        "bbox_px": [
+          1194,
+          6690,
+          1262,
+          6703
+        ],
+        "confidence": 1,
+        "text": "- 0:01 Done"
+      },
+      {
+        "bbox_px": [
+          653,
+          6842,
+          781,
+          6864
+        ],
+        "confidence": 1,
+        "text": "Start creating →"
+      },
+      {
+        "bbox_px": [
+          499,
+          7069,
+          943,
+          7112
+        ],
+        "confidence": 1,
+        "text": "Generate slides from"
+      },
+      {
+        "bbox_px": [
+          517,
+          7129,
+          925,
+          7177
+        ],
+        "confidence": 1,
+        "text": "your existing stack"
+      },
+      {
+        "bbox_px": [
+          637,
+          7236,
+          799,
+          7282
+        ],
+        "confidence": 1,
+        "text": "→ Pitch"
+      },
+      {
+        "bbox_px": [
+          303,
+          7289,
+          337,
+          7320
+        ],
+        "confidence": 1,
+        "text": "N"
+      },
+      {
+        "bbox_px": [
+          635,
+          7373,
+          799,
+          7392
+        ],
+        "confidence": 1,
+        "text": "Explore workflows →"
+      },
+      {
+        "bbox_px": [
+          669,
+          7998,
+          770,
+          8014
+        ],
+        "confidence": 1,
+        "text": "SOLUTIONS"
+      },
+      {
+        "bbox_px": [
+          530,
+          8040,
+          912,
+          8091
+        ],
+        "confidence": 1,
+        "text": "Pitch is for people"
+      },
+      {
+        "bbox_px": [
+          512,
+          8100,
+          930,
+          8139
+        ],
+        "confidence": 1,
+        "text": "who mean business"
+      },
+      {
+        "bbox_px": [
+          666,
+          8000,
+          771,
+          8018
+        ],
+        "confidence": 1,
+        "text": "SOLUTIONS"
+      },
+      {
+        "bbox_px": [
+          529,
+          8039,
+          912,
+          8093
+        ],
+        "confidence": 1,
+        "text": "Pitch is for people"
+      },
+      {
+        "bbox_px": [
+          511,
+          8098,
+          930,
+          8141
+        ],
+        "confidence": 1,
+        "text": "who mean business"
+      },
+      {
+        "bbox_px": [
+          396,
+          8274,
+          551,
+          8294
+        ],
+        "confidence": 1,
+        "text": "Software companies"
+      },
+      {
+        "bbox_px": [
+          582,
+          8277,
+          716,
+          8293
+        ],
+        "confidence": 1,
+        "text": "Creative agencies"
+      },
+      {
+        "bbox_px": [
+          744,
+          8277,
+          862,
+          8293
+        ],
+        "confidence": 1,
+        "text": "Leading brands"
+      },
+      {
+        "bbox_px": [
+          888,
+          8277,
+          1042,
+          8293
+        ],
+        "confidence": 1,
+        "text": "Freelance designers"
+      },
+      {
+        "bbox_px": [
+          828,
+          8381,
+          1165,
+          8413
+        ],
+        "confidence": 1,
+        "text": "Ramp your sales engine"
+      },
+      {
+        "bbox_px": [
+          831,
+          8431,
+          1293,
+          8449
+        ],
+        "confidence": 1,
+        "text": "From cutting-edge startups to tech powerhouses, GTM teams"
+      },
+      {
+        "bbox_px": [
+          831,
+          8457,
+          1277,
+          8473
+        ],
+        "confidence": 1,
+        "text": "close more deals with Pitch. Create branded slides from an"
+      },
+      {
+        "bbox_px": [
+          831,
+          8484,
+          1288,
+          8500
+        ],
+        "confidence": 1,
+        "text": "import, share custom sales rooms, and track engagement to"
+      },
+      {
+        "bbox_px": [
+          831,
+          8510,
+          935,
+          8525
+        ],
+        "confidence": 1,
+        "text": "nurture deals."
+      },
+      {
+        "bbox_px": [
+          849,
+          8638,
+          1280,
+          8654
+        ],
+        "confidence": 1,
+        "text": "It's really cool that when we share the presentation with"
+      },
+      {
+        "bbox_px": [
+          849,
+          8659,
+          1311,
+          8678
+        ],
+        "confidence": 1,
+        "text": "clients via a link, we can see the stats on who opened it, did"
+      },
+      {
+        "bbox_px": [
+          849,
+          8679,
+          1058,
+          8698
+        ],
+        "confidence": 1,
+        "text": "the client really look at it?\""
+      },
+      {
+        "bbox_px": [
+          849,
+          8719,
+          1084,
+          8738
+        ],
+        "confidence": 1,
+        "text": "Stephanie McSwiney, VP Sales"
+      },
+      {
+        "bbox_px": [
+          851,
+          8747,
+          927,
+          8767
+        ],
+        "confidence": 1,
+        "text": "A Frontify"
+      },
+      {
+        "bbox_px": [
+          582,
+          8876,
+          721,
+          8898
+        ],
+        "confidence": 1,
+        "text": "Sign up for free →"
+      },
+      {
+        "bbox_px": [
+          768,
+          8878,
+          857,
+          8894
+        ],
+        "confidence": 1,
+        "text": "Get a demo"
+      },
+      {
+        "bbox_px": [
+          100,
+          9155,
+          680,
+          9259
+        ],
+        "confidence": 1,
+        "text": "Templ1tes (50-)"
+      },
+      {
+        "bbox_px": [
+          107,
+          9281,
+          585,
+          9300
+        ],
+        "confidence": 1,
+        "text": "Choose from 150+ fully customizable templates crafted by"
+      },
+      {
+        "bbox_px": [
+          107,
+          9310,
+          614,
+          9329
+        ],
+        "confidence": 1,
+        "text": "experts. You can also start with Al or import your existing PPTX"
+      },
+      {
+        "bbox_px": [
+          107,
+          9339,
+          138,
+          9357
+        ],
+        "confidence": 1,
+        "text": "file."
+      },
+      {
+        "bbox_px": [
+          851,
+          9221,
+          1233,
+          9274
+        ],
+        "confidence": 1,
+        "text": "PITCH DECK"
+      },
+      {
+        "bbox_px": [
+          888,
+          9386,
+          1079,
+          9415
+        ],
+        "confidence": 1,
+        "text": "SERIES B PITCH DECK"
+      },
+      {
+        "bbox_px": [
+          1110,
+          9365,
+          1181,
+          9391
+        ],
+        "confidence": 1,
+        "text": "Pitch"
+      },
+      {
+        "bbox_px": [
+          1110,
+          9394,
+          1183,
+          9418
+        ],
+        "confidence": 1,
+        "text": "Deck"
+      },
+      {
+        "bbox_px": [
+          120,
+          9428,
+          279,
+          9447
+        ],
+        "confidence": 1,
+        "text": "Browse templates →"
+      },
+      {
+        "bbox_px": [
+          857,
+          9465,
+          1225,
+          9514
+        ],
+        "confidence": 1,
+        "text": "MARKETING"
+      },
+      {
+        "bbox_px": [
+          856,
+          9552,
+          1095,
+          9605
+        ],
+        "confidence": 1,
+        "text": "DESIGN"
+      },
+      {
+        "bbox_px": [
+          854,
+          9643,
+          1173,
+          9692
+        ],
+        "confidence": 1,
+        "text": "STARTUPS"
+      },
+      {
+        "bbox_px": [
+          854,
+          9731,
+          1055,
+          9781
+        ],
+        "confidence": 1,
+        "text": "SALES"
+      },
+      {
+        "bbox_px": [
+          854,
+          9644,
+          1173,
+          9694
+        ],
+        "confidence": 1,
+        "text": "STARTUPS"
+      },
+      {
+        "bbox_px": [
+          854,
+          9733,
+          1055,
+          9783
+        ],
+        "confidence": 1,
+        "text": "SALES"
+      },
+      {
+        "bbox_px": [
+          857,
+          9822,
+          1155,
+          9872
+        ],
+        "confidence": 1,
+        "text": "CREATIVE"
+      },
+      {
+        "bbox_px": [
+          695,
+          10117,
+          742,
+          10136
+        ],
+        "confidence": 1,
+        "text": "FAQS"
+      },
+      {
+        "bbox_px": [
+          444,
+          10160,
+          1001,
+          10213
+        ],
+        "confidence": 1,
+        "text": "Not just another slide tool"
+      },
+      {
+        "bbox_px": [
+          569,
+          10300,
+          825,
+          10329
+        ],
+        "confidence": 1,
+        "text": "Is Pitch free to use?"
+      },
+      {
+        "bbox_px": [
+          546,
+          10407,
+          849,
+          10434
+        ],
+        "confidence": 1,
+        "text": "Can I hire Pitch to build"
+      },
+      {
+        "bbox_px": [
+          535,
+          10440,
+          857,
+          10475
+        ],
+        "confidence": 1,
+        "text": "my presentation for me?"
+      },
+      {
+        "bbox_px": [
+          514,
+          10549,
+          880,
+          10575
+        ],
+        "confidence": 1,
+        "text": "Does Pitch offer a free trial?"
+      },
+      {
+        "bbox_px": [
+          501,
+          10653,
+          896,
+          10685
+        ],
+        "confidence": 1,
+        "text": "Can I import my existing deck,"
+      },
+      {
+        "bbox_px": [
+          530,
+          10687,
+          865,
+          10717
+        ],
+        "confidence": 1,
+        "text": "and if so, in what format?"
+      },
+      {
+        "bbox_px": [
+          135,
+          10911,
+          642,
+          11113
+        ],
+        "confidence": 1,
+        "text": "atls"
+      },
+      {
+        "bbox_px": [
+          660,
+          10918,
+          1290,
+          11109
+        ],
+        "confidence": 1,
+        "text": "Dita"
+      },
+      {
+        "bbox_px": [
+          59,
+          11156,
+          167,
+          11188
+        ],
+        "confidence": 1,
+        "text": "→ Pitch"
+      },
+      {
+        "bbox_px": [
+          1168,
+          11159,
+          1191,
+          11182
+        ],
+        "confidence": 1,
+        "text": "in"
+      },
+      {
+        "bbox_px": [
+          62,
+          11274,
+          133,
+          11290
+        ],
+        "confidence": 1,
+        "text": "Product"
+      },
+      {
+        "bbox_px": [
+          62,
+          11318,
+          156,
+          11334
+        ],
+        "confidence": 1,
+        "text": "What's new"
+      },
+      {
+        "bbox_px": [
+          62,
+          11360,
+          118,
+          11377
+        ],
+        "confidence": 1,
+        "text": "Pricing"
+      },
+      {
+        "bbox_px": [
+          282,
+          11274,
+          373,
+          11293
+        ],
+        "confidence": 1,
+        "text": "Templ›1tes"
+      },
+      {
+        "bbox_px": [
+          282,
+          11318,
+          368,
+          11334
+        ],
+        "confidence": 1,
+        "text": "Pitch deck"
+      },
+      {
+        "bbox_px": [
+          282,
+          11359,
+          363,
+          11378
+        ],
+        "confidence": 1,
+        "text": "Marketing"
+      },
+      {
+        "bbox_px": [
+          504,
+          11275,
+          554,
+          11295
+        ],
+        "confidence": 1,
+        "text": "Legal"
+      },
+      {
+        "bbox_px": [
+          504,
+          11318,
+          606,
+          11334
+        ],
+        "confidence": 1,
+        "text": "Terms of Use"
+      },
+      {
+        "bbox_px": [
+          504,
+          11360,
+          614,
+          11379
+        ],
+        "confidence": 1,
+        "text": "Privacy Policy"
+      },
+      {
+        "bbox_px": [
+          726,
+          11274,
+          810,
+          11293
+        ],
+        "confidence": 1,
+        "text": "Company"
+      },
+      {
+        "bbox_px": [
+          723,
+          11318,
+          776,
+          11334
+        ],
+        "confidence": 1,
+        "text": "About"
+      },
+      {
+        "bbox_px": [
+          723,
+          11360,
+          818,
+          11376
+        ],
+        "confidence": 1,
+        "text": "Press Room"
+      },
+      {
+        "bbox_px": [
+          1024,
+          11269,
+          1275,
+          11319
+        ],
+        "confidence": 1,
+        "text": "A complete"
+      },
+      {
+        "bbox_px": [
+          1024,
+          11328,
+          1306,
+          11371
+        ],
+        "confidence": 1,
+        "text": "presentation"
+      },
+      {
+        "bbox_px": [
+          60,
+          11274,
+          132,
+          11292
+        ],
+        "confidence": 1,
+        "text": "Product"
+      },
+      {
+        "bbox_px": [
+          62,
+          11319,
+          154,
+          11334
+        ],
+        "confidence": 1,
+        "text": "What's new"
+      },
+      {
+        "bbox_px": [
+          60,
+          11360,
+          117,
+          11379
+        ],
+        "confidence": 1,
+        "text": "Pricing"
+      },
+      {
+        "bbox_px": [
+          60,
+          11402,
+          157,
+          11421
+        ],
+        "confidence": 1,
+        "text": "Integr1tions"
+      },
+      {
+        "bbox_px": [
+          60,
+          11444,
+          154,
+          11463
+        ],
+        "confidence": 1,
+        "text": "Pitch decks"
+      },
+      {
+        "bbox_px": [
+          60,
+          11485,
+          150,
+          11505
+        ],
+        "confidence": 1,
+        "text": "Sales deck"
+      },
+      {
+        "bbox_px": [
+          62,
+          11528,
+          182,
+          11547
+        ],
+        "confidence": 1,
+        "text": "Team meetings"
+      },
+      {
+        "bbox_px": [
+          62,
+          11571,
+          163,
+          11586
+        ],
+        "confidence": 1,
+        "text": "Board decks"
+      },
+      {
+        "bbox_px": [
+          62,
+          11611,
+          215,
+          11628
+        ],
+        "confidence": 1,
+        "text": "Presentation maker"
+      },
+      {
+        "bbox_px": [
+          62,
+          11655,
+          236,
+          11670
+        ],
+        "confidence": 1,
+        "text": "Al Presentation maker"
+      },
+      {
+        "bbox_px": [
+          62,
+          11696,
+          265,
+          11711
+        ],
+        "confidence": 1,
+        "text": "Video Presentation maker"
+      },
+      {
+        "bbox_px": [
+          62,
+          11739,
+          215,
+          11754
+        ],
+        "confidence": 1,
+        "text": "Pitch vs PowerPoint"
+      },
+      {
+        "bbox_px": [
+          62,
+          11779,
+          190,
+          11798
+        ],
+        "confidence": 1,
+        "text": "Pitch vs Keynote"
+      },
+      {
+        "bbox_px": [
+          62,
+          11822,
+          236,
+          11839
+        ],
+        "confidence": 1,
+        "text": "Pitch vs Google Slides"
+      },
+      {
+        "bbox_px": [
+          62,
+          11864,
+          228,
+          11883
+        ],
+        "confidence": 1,
+        "text": "Pitch vs Figma Slides"
+      },
+      {
+        "bbox_px": [
+          62,
+          11907,
+          140,
+          11924
+        ],
+        "confidence": 1,
+        "text": "Academy"
+      },
+      {
+        "bbox_px": [
+          62,
+          11949,
+          154,
+          11964
+        ],
+        "confidence": 1,
+        "text": "Help center"
+      },
+      {
+        "bbox_px": [
+          64,
+          11991,
+          144,
+          12007
+        ],
+        "confidence": 1,
+        "text": "Download"
+      },
+      {
+        "bbox_px": [
+          62,
+          12033,
+          113,
+          12046
+        ],
+        "confidence": 1,
+        "text": "Status"
+      },
+      {
+        "bbox_px": [
+          282,
+          11272,
+          372,
+          11292
+        ],
+        "confidence": 1,
+        "text": "Templ1tes"
+      },
+      {
+        "bbox_px": [
+          282,
+          11319,
+          366,
+          11336
+        ],
+        "confidence": 1,
+        "text": "Pitch deck"
+      },
+      {
+        "bbox_px": [
+          281,
+          11357,
+          363,
+          11382
+        ],
+        "confidence": 1,
+        "text": "Marketing"
+      },
+      {
+        "bbox_px": [
+          282,
+          11403,
+          349,
+          11421
+        ],
+        "confidence": 1,
+        "text": "Startups"
+      },
+      {
+        "bbox_px": [
+          284,
+          11446,
+          339,
+          11463
+        ],
+        "confidence": 1,
+        "text": "Design"
+      },
+      {
+        "bbox_px": [
+          282,
+          11487,
+          328,
+          11505
+        ],
+        "confidence": 1,
+        "text": "Sales"
+      },
+      {
+        "bbox_px": [
+          284,
+          11530,
+          353,
+          11544
+        ],
+        "confidence": 1,
+        "text": "Business"
+      },
+      {
+        "bbox_px": [
+          282,
+          11571,
+          309,
+          11588
+        ],
+        "confidence": 1,
+        "text": "UX"
+      },
+      {
+        "bbox_px": [
+          284,
+          11613,
+          355,
+          11630
+        ],
+        "confidence": 1,
+        "text": "Proposal"
+      },
+      {
+        "bbox_px": [
+          282,
+          11656,
+          339,
+          11674
+        ],
+        "confidence": 1,
+        "text": "Report"
+      },
+      {
+        "bbox_px": [
+          282,
+          11696,
+          339,
+          11716
+        ],
+        "confidence": 1,
+        "text": "Simple"
+      },
+      {
+        "bbox_px": [
+          284,
+          11738,
+          349,
+          11753
+        ],
+        "confidence": 1,
+        "text": "Creative"
+      },
+      {
+        "bbox_px": [
+          284,
+          11780,
+          380,
+          11795
+        ],
+        "confidence": 1,
+        "text": "Professional"
+      },
+      {
+        "bbox_px": [
+          284,
+          11821,
+          345,
+          11838
+        ],
+        "confidence": 1,
+        "text": "Modern"
+      },
+      {
+        "bbox_px": [
+          282,
+          11866,
+          376,
+          11885
+        ],
+        "confidence": 1,
+        "text": "Project plan"
+      },
+      {
+        "bbox_px": [
+          282,
+          11908,
+          414,
+          11927
+        ],
+        "confidence": 1,
+        "text": "Project proposal"
+      },
+      {
+        "bbox_px": [
+          282,
+          11947,
+          349,
+          11967
+        ],
+        "confidence": 1,
+        "text": "Portfolio"
+      },
+      {
+        "bbox_px": [
+          282,
+          11991,
+          332,
+          12008
+        ],
+        "confidence": 1,
+        "text": "Brand"
+      },
+      {
+        "bbox_px": [
+          286,
+          12033,
+          347,
+          12046
+        ],
+        "confidence": 1,
+        "text": "Product"
+      },
+      {
+        "bbox_px": [
+          282,
+          12075,
+          345,
+          12094
+        ],
+        "confidence": 1,
+        "text": "Agency"
+      },
+      {
+        "bbox_px": [
+          502,
+          11271,
+          558,
+          11296
+        ],
+        "confidence": 1,
+        "text": "Legal"
+      },
+      {
+        "bbox_px": [
+          502,
+          11313,
+          609,
+          11338
+        ],
+        "confidence": 1,
+        "text": "Terms of Use"
+      },
+      {
+        "bbox_px": [
+          502,
+          11354,
+          617,
+          11380
+        ],
+        "confidence": 1,
+        "text": "Privacy Policy"
+      },
+      {
+        "bbox_px": [
+          502,
+          11396,
+          606,
+          11424
+        ],
+        "confidence": 1,
+        "text": "Legal Notice"
+      },
+      {
+        "bbox_px": [
+          502,
+          11440,
+          542,
+          11465
+        ],
+        "confidence": 1,
+        "text": "DPA"
+      },
+      {
+        "bbox_px": [
+          502,
+          11481,
+          609,
+          11507
+        ],
+        "confidence": 1,
+        "text": "DMCA Policy"
+      },
+      {
+        "bbox_px": [
+          502,
+          11523,
+          617,
+          11551
+        ],
+        "confidence": 1,
+        "text": "ERDF Support"
+      },
+      {
+        "bbox_px": [
+          502,
+          11565,
+          557,
+          11591
+        ],
+        "confidence": 1,
+        "text": "GDPR"
+      },
+      {
+        "bbox_px": [
+          502,
+          11606,
+          621,
+          11633
+        ],
+        "confidence": 1,
+        "text": "Security Policy"
+      },
+      {
+        "bbox_px": [
+          502,
+          11647,
+          630,
+          11672
+        ],
+        "confidence": 1,
+        "text": "Cookie Settings"
+      },
+      {
+        "bbox_px": [
+          723,
+          11269,
+          814,
+          11296
+        ],
+        "confidence": 1,
+        "text": "Company"
+      },
+      {
+        "bbox_px": [
+          717,
+          11312,
+          778,
+          11338
+        ],
+        "confidence": 1,
+        "text": "About"
+      },
+      {
+        "bbox_px": [
+          715,
+          11355,
+          822,
+          11380
+        ],
+        "confidence": 1,
+        "text": "Press Room"
+      },
+      {
+        "bbox_px": [
+          719,
+          11398,
+          793,
+          11421
+        ],
+        "confidence": 1,
+        "text": "Careers"
+      },
+      {
+        "bbox_px": [
+          717,
+          11440,
+          766,
+          11465
+        ],
+        "confidence": 1,
+        "text": "Blog"
+      },
+      {
+        "bbox_px": [
+          717,
+          11479,
+          797,
+          11507
+        ],
+        "confidence": 1,
+        "text": "Affiliates"
+      },
+      {
+        "bbox_px": [
+          1027,
+          11268,
+          1276,
+          11317
+        ],
+        "confidence": 1,
+        "text": "A complete"
+      },
+      {
+        "bbox_px": [
+          1025,
+          11329,
+          1308,
+          11372
+        ],
+        "confidence": 1,
+        "text": "presentation"
+      },
+      {
+        "bbox_px": [
+          1027,
+          11384,
+          1266,
+          11432
+        ],
+        "confidence": 1,
+        "text": "workspace"
+      },
+      {
+        "bbox_px": [
+          1023,
+          11480,
+          1099,
+          11501
+        ],
+        "confidence": 1,
+        "text": "Log in →"
+      },
+      {
+        "bbox_px": [
+          1142,
+          11482,
+          1203,
+          11501
+        ],
+        "confidence": 1,
+        "text": "Sign up"
+      },
+      {
+        "bbox_px": [
+          1013,
+          12075,
+          1385,
+          12094
+        ],
+        "confidence": 1,
+        "text": "©2026 Pitch Software GmbH. All rights reserved."
+      }
+    ],
+    "path": "screenshots/pitch.png",
+    "width": 1440
+  }
+]

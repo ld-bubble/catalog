@@ -1,0 +1,3349 @@
+[
+  {
+    "height": 10312,
+    "lines": [
+      {
+        "bbox_px": [
+          148,
+          41,
+          211,
+          68
+        ],
+        "confidence": 1,
+        "text": "coda"
+      },
+      {
+        "bbox_px": [
+          391,
+          44,
+          473,
+          60
+        ],
+        "confidence": 1,
+        "text": "Product v"
+      },
+      {
+        "bbox_px": [
+          496,
+          43,
+          716,
+          60
+        ],
+        "confidence": 1,
+        "text": "Solutions v Resources v"
+      },
+      {
+        "bbox_px": [
+          763,
+          41,
+          972,
+          68
+        ],
+        "confidence": 1,
+        "text": "Gallery Blog Pricing"
+      },
+      {
+        "bbox_px": [
+          993,
+          41,
+          1121,
+          65
+        ],
+        "confidence": 1,
+        "text": "Request a demo"
+      },
+      {
+        "bbox_px": [
+          1168,
+          41,
+          1259,
+          62
+        ],
+        "confidence": 1,
+        "text": "Get started"
+      },
+      {
+        "bbox_px": [
+          151,
+          174,
+          632,
+          235
+        ],
+        "confidence": 1,
+        "text": "Your all-in-one"
+      },
+      {
+        "bbox_px": [
+          150,
+          238,
+          949,
+          319
+        ],
+        "confidence": 1,
+        "text": "collaborative workspace."
+      },
+      {
+        "bbox_px": [
+          154,
+          324,
+          831,
+          348
+        ],
+        "confidence": 1,
+        "text": "Coda brings teams and tools together for a more organized work day."
+      },
+      {
+        "bbox_px": [
+          177,
+          400,
+          355,
+          421
+        ],
+        "confidence": 1,
+        "text": "Get started for free"
+      },
+      {
+        "bbox_px": [
+          425,
+          400,
+          554,
+          419
+        ],
+        "confidence": 1,
+        "text": "Contact sales"
+      },
+      {
+        "bbox_px": [
+          859,
+          557,
+          956,
+          583
+        ],
+        "confidence": 0.5,
+        "text": "S030"
+      },
+      {
+        "bbox_px": [
+          982,
+          557,
+          1225,
+          583
+        ],
+        "confidence": 1,
+        "text": "@ Share 08 Insert fo G -"
+      },
+      {
+        "bbox_px": [
+          169,
+          617,
+          284,
+          641
+        ],
+        "confidence": 1,
+        "text": "Project hub"
+      },
+      {
+        "bbox_px": [
+          172,
+          646,
+          324,
+          659
+        ],
+        "confidence": 1,
+        "text": "Acme / Product teams"
+      },
+      {
+        "bbox_px": [
+          180,
+          690,
+          250,
+          706
+        ],
+        "confidence": 1,
+        "text": "Q Search"
+      },
+      {
+        "bbox_px": [
+          216,
+          747,
+          316,
+          764
+        ],
+        "confidence": 1,
+        "text": "My dashboard"
+      },
+      {
+        "bbox_px": [
+          219,
+          787,
+          303,
+          803
+        ],
+        "confidence": 1,
+        "text": "Project brief"
+      },
+      {
+        "bbox_px": [
+          196,
+          823,
+          344,
+          842
+        ],
+        "confidence": 1,
+        "text": "• Timeline and tasks"
+      },
+      {
+        "bbox_px": [
+          216,
+          868,
+          318,
+          881
+        ],
+        "confidence": 1,
+        "text": "Latest designs"
+      },
+      {
+        "bbox_px": [
+          198,
+          904,
+          340,
+          923
+        ],
+        "confidence": 1,
+        "text": "Stand-up meeting"
+      },
+      {
+        "bbox_px": [
+          216,
+          946,
+          324,
+          963
+        ],
+        "confidence": 1,
+        "text": "Jira bug tracker"
+      },
+      {
+        "bbox_px": [
+          193,
+          985,
+          303,
+          1002
+        ],
+        "confidence": 1,
+        "text": "2 Decision log"
+      },
+      {
+        "bbox_px": [
+          214,
+          1025,
+          344,
+          1041
+        ],
+        "confidence": 1,
+        "text": "OKRs and planning"
+      },
+      {
+        "bbox_px": [
+          193,
+          1064,
+          290,
+          1081
+        ],
+        "confidence": 1,
+        "text": "+ New page"
+      },
+      {
+        "bbox_px": [
+          525,
+          635,
+          857,
+          670
+        ],
+        "confidence": 1,
+        "text": "Timeline and tasks"
+      },
+      {
+        "bbox_px": [
+          650,
+          714,
+          684,
+          719
+        ],
+        "confidence": 0.30000001192092896,
+        "text": "02029"
+      },
+      {
+        "bbox_px": [
+          540,
+          729,
+          582,
+          743
+        ],
+        "confidence": 1,
+        "text": "• Design"
+      },
+      {
+        "bbox_px": [
+          548,
+          753,
+          603,
+          766
+        ],
+        "confidence": 1,
+        "text": "Wireframes"
+      },
+      {
+        "bbox_px": [
+          548,
+          776,
+          624,
+          790
+        ],
+        "confidence": 1,
+        "text": "Homepage desi..."
+      },
+      {
+        "bbox_px": [
+          537,
+          795,
+          606,
+          814
+        ],
+        "confidence": 1,
+        "text": "• Engineering"
+      },
+      {
+        "bbox_px": [
+          548,
+          821,
+          624,
+          834
+        ],
+        "confidence": 1,
+        "text": "Homepage build"
+      },
+      {
+        "bbox_px": [
+          548,
+          844,
+          593,
+          858
+        ],
+        "confidence": 1,
+        "text": "Bug bash"
+      },
+      {
+        "bbox_px": [
+          551,
+          865,
+          614,
+          879
+        ],
+        "confidence": 1,
+        "text": "SSO for logins"
+      },
+      {
+        "bbox_px": [
+          538,
+          889,
+          598,
+          902
+        ],
+        "confidence": 1,
+        "text": "› Marketing"
+      },
+      {
+        "bbox_px": [
+          768,
+          777,
+          854,
+          787
+        ],
+        "confidence": 1,
+        "text": "Homepage design"
+      },
+      {
+        "bbox_px": [
+          527,
+          952,
+          577,
+          968
+        ],
+        "confidence": 1,
+        "text": "Tasks"
+      },
+      {
+        "bbox_px": [
+          535,
+          986,
+          577,
+          991
+        ],
+        "confidence": 0.30000001192092896,
+        "text": "SatusY"
+      },
+      {
+        "bbox_px": [
+          593,
+          986,
+          629,
+          992
+        ],
+        "confidence": 0.30000001192092896,
+        "text": "eam y"
+      },
+      {
+        "bbox_px": [
+          645,
+          986,
+          703,
+          992
+        ],
+        "confidence": 1,
+        "text": "Deadline v"
+      },
+      {
+        "bbox_px": [
+          533,
+          1025,
+          564,
+          1038
+        ],
+        "confidence": 1,
+        "text": "Team"
+      },
+      {
+        "bbox_px": [
+          679,
+          1025,
+          763,
+          1038
+        ],
+        "confidence": 1,
+        "text": "• Feature name"
+      },
+      {
+        "bbox_px": [
+          543,
+          1051,
+          593,
+          1064
+        ],
+        "confidence": 1,
+        "text": "Design"
+      },
+      {
+        "bbox_px": [
+          679,
+          1051,
+          739,
+          1064
+        ],
+        "confidence": 1,
+        "text": "Wireframes"
+      },
+      {
+        "bbox_px": [
+          679,
+          1080,
+          770,
+          1094
+        ],
+        "confidence": 1,
+        "text": "Homepage design"
+      },
+      {
+        "bbox_px": [
+          556,
+          1114,
+          616,
+          1127
+        ],
+        "confidence": 1,
+        "text": "Engineering"
+      },
+      {
+        "bbox_px": [
+          676,
+          1114,
+          763,
+          1127
+        ],
+        "confidence": 1,
+        "text": "Homepage build"
+      },
+      {
+        "bbox_px": [
+          679,
+          1140,
+          729,
+          1156
+        ],
+        "confidence": 1,
+        "text": "Bug bash"
+      },
+      {
+        "bbox_px": [
+          679,
+          1169,
+          752,
+          1183
+        ],
+        "confidence": 1,
+        "text": "SSO for logins"
+      },
+      {
+        "bbox_px": [
+          838,
+          1025,
+          862,
+          1036
+        ],
+        "confidence": 1,
+        "text": "PM"
+      },
+      {
+        "bbox_px": [
+          1136,
+          709,
+          1173,
+          722
+        ],
+        "confidence": 1,
+        "text": "Q2 2024"
+      },
+      {
+        "bbox_px": [
+          833,
+          865,
+          899,
+          879
+        ],
+        "confidence": 1,
+        "text": "SSO for logins"
+      },
+      {
+        "bbox_px": [
+          922,
+          821,
+          995,
+          834
+        ],
+        "confidence": 1,
+        "text": "Homepage build"
+      },
+      {
+        "bbox_px": [
+          906,
+          889,
+          966,
+          902
+        ],
+        "confidence": 1,
+        "text": "> Marketing"
+      },
+      {
+        "bbox_px": [
+          1087,
+          986,
+          1147,
+          992
+        ],
+        "confidence": 1,
+        "text": "- Add taSK"
+      },
+      {
+        "bbox_px": [
+          893,
+          1025,
+          940,
+          1038
+        ],
+        "confidence": 1,
+        "text": "Deadline"
+      },
+      {
+        "bbox_px": [
+          875,
+          1051,
+          930,
+          1065
+        ],
+        "confidence": 1,
+        "text": "• Feb 12"
+      },
+      {
+        "bbox_px": [
+          878,
+          1080,
+          932,
+          1090
+        ],
+        "confidence": 1,
+        "text": "• Feb 27"
+      },
+      {
+        "bbox_px": [
+          878,
+          1114,
+          932,
+          1127
+        ],
+        "confidence": 1,
+        "text": "• Mar 16"
+      },
+      {
+        "bbox_px": [
+          891,
+          1143,
+          932,
+          1156
+        ],
+        "confidence": 1,
+        "text": "Mar 27"
+      },
+      {
+        "bbox_px": [
+          888,
+          1169,
+          932,
+          1183
+        ],
+        "confidence": 1,
+        "text": "Mar 16"
+      },
+      {
+        "bbox_px": [
+          956,
+          1025,
+          993,
+          1038
+        ],
+        "confidence": 1,
+        "text": "Status"
+      },
+      {
+        "bbox_px": [
+          961,
+          1051,
+          1000,
+          1062
+        ],
+        "confidence": 1,
+        "text": "Search"
+      },
+      {
+        "bbox_px": [
+          964,
+          1080,
+          1021,
+          1093
+        ],
+        "confidence": 0.30000001192092896,
+        "text": "mprogress"
+      },
+      {
+        "bbox_px": [
+          964,
+          1142,
+          1024,
+          1153
+        ],
+        "confidence": 1,
+        "text": "Not started"
+      },
+      {
+        "bbox_px": [
+          964,
+          1169,
+          1024,
+          1183
+        ],
+        "confidence": 1,
+        "text": "In progress"
+      },
+      {
+        "bbox_px": [
+          1068,
+          1025,
+          1092,
+          1036
+        ],
+        "confidence": 1,
+        "text": "Link"
+      },
+      {
+        "bbox_px": [
+          1126,
+          1025,
+          1160,
+          1038
+        ],
+        "confidence": 1,
+        "text": "Notes"
+      },
+      {
+        "bbox_px": [
+          491,
+          1320,
+          951,
+          1344
+        ],
+        "confidence": 1,
+        "text": "A few of the 50,000+ teams collaborating on Coda."
+      },
+      {
+        "bbox_px": [
+          207,
+          1383,
+          287,
+          1411
+        ],
+        "confidence": 1,
+        "text": "Figma"
+      },
+      {
+        "bbox_px": [
+          318,
+          1378,
+          540,
+          1407
+        ],
+        "confidence": 1,
+        "text": "Che Neru Hork Cimes"
+      },
+      {
+        "bbox_px": [
+          574,
+          1381,
+          682,
+          1408
+        ],
+        "confidence": 1,
+        "text": "• Square"
+      },
+      {
+        "bbox_px": [
+          721,
+          1378,
+          1228,
+          1407
+        ],
+        "confidence": 1,
+        "text": "→ DOORDASH Otoast TED Uber"
+      },
+      {
+        "bbox_px": [
+          493,
+          1777,
+          946,
+          1855
+        ],
+        "confidence": 1,
+        "text": "Coda cleans up"
+      },
+      {
+        "bbox_px": [
+          564,
+          1847,
+          892,
+          1905
+        ],
+        "confidence": 1,
+        "text": "the clutter."
+      },
+      {
+        "bbox_px": [
+          493,
+          2230,
+          1215,
+          2267
+        ],
+        "confidence": 1,
+        "text": "ẠIt's more powerful than Google Docs and"
+      },
+      {
+        "bbox_px": [
+          496,
+          2264,
+          1157,
+          2306
+        ],
+        "confidence": 1,
+        "text": "more flexible than Airtable or Notion.\""
+      },
+      {
+        "bbox_px": [
+          493,
+          2318,
+          614,
+          2335
+        ],
+        "confidence": 1,
+        "text": "- Fast Company"
+      },
+      {
+        "bbox_px": [
+          514,
+          2377,
+          629,
+          2392
+        ],
+        "confidence": 1,
+        "text": "Compare Coda"
+      },
+      {
+        "bbox_px": [
+          151,
+          2630,
+          467,
+          2670
+        ],
+        "confidence": 1,
+        "text": "Coda blends the"
+      },
+      {
+        "bbox_px": [
+          148,
+          2704,
+          363,
+          2733
+        ],
+        "confidence": 1,
+        "text": "Flexibility of docs"
+      },
+      {
+        "bbox_px": [
+          148,
+          2761,
+          467,
+          2793
+        ],
+        "confidence": 1,
+        "text": "Structure of spreadsheets"
+      },
+      {
+        "bbox_px": [
+          151,
+          2816,
+          413,
+          2853
+        ],
+        "confidence": 1,
+        "text": "Power of applications"
+      },
+      {
+        "bbox_px": [
+          146,
+          2878,
+          355,
+          2908
+        ],
+        "confidence": 1,
+        "text": "Intelligence of Al"
+      },
+      {
+        "bbox_px": [
+          705,
+          2672,
+          734,
+          2693
+        ],
+        "confidence": 1,
+        "text": "Pr"
+      },
+      {
+        "bbox_px": [
+          151,
+          3268,
+          1267,
+          3327
+        ],
+        "confidence": 1,
+        "text": "4 ways 50,000+ teams use Coda to supercharge"
+      },
+      {
+        "bbox_px": [
+          148,
+          3322,
+          534,
+          3380
+        ],
+        "confidence": 1,
+        "text": "their work days."
+      },
+      {
+        "bbox_px": [
+          151,
+          3269,
+          1267,
+          3329
+        ],
+        "confidence": 1,
+        "text": "4 ways 50,000+ teams use Coda to supercharge"
+      },
+      {
+        "bbox_px": [
+          150,
+          3319,
+          534,
+          3382
+        ],
+        "confidence": 1,
+        "text": "their work days."
+      },
+      {
+        "bbox_px": [
+          226,
+          3453,
+          392,
+          3491
+        ],
+        "confidence": 1,
+        "text": "Writeups"
+      },
+      {
+        "bbox_px": [
+          227,
+          3501,
+          721,
+          3522
+        ],
+        "confidence": 1,
+        "text": "Coda is familiar like a doc and engaging like an app, so your team can"
+      },
+      {
+        "bbox_px": [
+          224,
+          3527,
+          721,
+          3545
+        ],
+        "confidence": 1,
+        "text": "jump in quickly, collaborate effectively, and make decisions that stick."
+      },
+      {
+        "bbox_px": [
+          248,
+          3576,
+          457,
+          3595
+        ],
+        "confidence": 1,
+        "text": "Explore Zoom's decision doc"
+      },
+      {
+        "bbox_px": [
+          844,
+          3482,
+          893,
+          3495
+        ],
+        "confidence": 1,
+        "text": "‹ • Plan"
+      },
+      {
+        "bbox_px": [
+          1131,
+          3479,
+          1272,
+          3498
+        ],
+        "confidence": 1,
+        "text": "00000 @ Share 0"
+      },
+      {
+        "bbox_px": [
+          227,
+          3762,
+          297,
+          3778
+        ],
+        "confidence": 1,
+        "text": "Replaces"
+      },
+      {
+        "bbox_px": [
+          922,
+          3521,
+          1003,
+          3540
+        ],
+        "confidence": 1,
+        "text": "Proposal"
+      },
+      {
+        "bbox_px": [
+          925,
+          3550,
+          985,
+          3563
+        ],
+        "confidence": 1,
+        "text": "Background"
+      },
+      {
+        "bbox_px": [
+          925,
+          3626,
+          1212,
+          3637
+        ],
+        "confidence": 1,
+        "text": "Should ehe seolsar should bs fbed or inline? Our quiding princiole is to minimize our Ul and lot usar"
+      },
+      {
+        "bbox_px": [
+          927,
+          3670,
+          1196,
+          3676
+        ],
+        "confidence": 1,
+        "text": "Mith new usres across tre base and inise scolcar variants. We plan io do adcitional teching an"
+      },
+      {
+        "bbox_px": [
+          925,
+          3704,
+          977,
+          3718
+        ],
+        "confidence": 1,
+        "text": "How it works"
+      },
+      {
+        "bbox_px": [
+          1073,
+          3704,
+          1119,
+          3719
+        ],
+        "confidence": 1,
+        "text": "Next steps"
+      },
+      {
+        "bbox_px": [
+          982,
+          3783,
+          1144,
+          3802
+        ],
+        "confidence": 1,
+        "text": "Ready for a better doc?"
+      },
+      {
+        "bbox_px": [
+          284,
+          3830,
+          355,
+          3846
+        ],
+        "confidence": 1,
+        "text": "Google Docs"
+      },
+      {
+        "bbox_px": [
+          371,
+          3799,
+          410,
+          3833
+        ],
+        "confidence": 1,
+        "text": "e"
+      },
+      {
+        "bbox_px": [
+          371,
+          3830,
+          410,
+          3846
+        ],
+        "confidence": 1,
+        "text": "Quip"
+      },
+      {
+        "bbox_px": [
+          227,
+          3994,
+          324,
+          4029
+        ],
+        "confidence": 1,
+        "text": "Hubs"
+      },
+      {
+        "bbox_px": [
+          227,
+          4044,
+          692,
+          4063
+        ],
+        "confidence": 1,
+        "text": "Teams move quicker together. So give them a place to get on the"
+      },
+      {
+        "bbox_px": [
+          227,
+          4068,
+          713,
+          4086
+        ],
+        "confidence": 1,
+        "text": "same page while centralizing everything from strategy to schedules."
+      },
+      {
+        "bbox_px": [
+          245,
+          4118,
+          431,
+          4137
+        ],
+        "confidence": 1,
+        "text": "Explore Coda's team hub"
+      },
+      {
+        "bbox_px": [
+          844,
+          4029,
+          906,
+          4035
+        ],
+        "confidence": 1,
+        "text": "‹C Team Hus"
+      },
+      {
+        "bbox_px": [
+          1134,
+          4020,
+          1207,
+          4043
+        ],
+        "confidence": 0.30000001192092896,
+        "text": "20009"
+      },
+      {
+        "bbox_px": [
+          1215,
+          4026,
+          1254,
+          4035
+        ],
+        "confidence": 1,
+        "text": "& Share"
+      },
+      {
+        "bbox_px": [
+          972,
+          4083,
+          1076,
+          4100
+        ],
+        "confidence": 1,
+        "text": "A Team Wiki"
+      },
+      {
+        "bbox_px": [
+          972,
+          4123,
+          1021,
+          4128
+        ],
+        "confidence": 0.30000001192092896,
+        "text": "w110 we d1e"
+      },
+      {
+        "bbox_px": [
+          972,
+          4204,
+          1061,
+          4210
+        ],
+        "confidence": 1,
+        "text": "ourmssicn & valucs"
+      },
+      {
+        "bbox_px": [
+          1113,
+          4204,
+          1194,
+          4210
+        ],
+        "confidence": 1,
+        "text": "rino what vounse."
+      },
+      {
+        "bbox_px": [
+          224,
+          4303,
+          298,
+          4325
+        ],
+        "confidence": 1,
+        "text": "Replaces"
+      },
+      {
+        "bbox_px": [
+          321,
+          4348,
+          344,
+          4369
+        ],
+        "confidence": 1,
+        "text": "N"
+      },
+      {
+        "bbox_px": [
+          224,
+          4374,
+          292,
+          4387
+        ],
+        "confidence": 1,
+        "text": "Confluence"
+      },
+      {
+        "bbox_px": [
+          300,
+          4372,
+          355,
+          4387
+        ],
+        "confidence": 1,
+        "text": "Notion"
+      },
+      {
+        "bbox_px": [
+          227,
+          4535,
+          387,
+          4574
+        ],
+        "confidence": 1,
+        "text": "Trackers"
+      },
+      {
+        "bbox_px": [
+          227,
+          4586,
+          648,
+          4605
+        ],
+        "confidence": 1,
+        "text": "Tables talk to each other, edits sync everywhere, views are"
+      },
+      {
+        "bbox_px": [
+          227,
+          4610,
+          640,
+          4628
+        ],
+        "confidence": 1,
+        "text": "personalized-and you can ditch the hacky spreadsheets."
+      },
+      {
+        "bbox_px": [
+          248,
+          4662,
+          493,
+          4678
+        ],
+        "confidence": 1,
+        "text": "Explore Figma's product roadmap"
+      },
+      {
+        "bbox_px": [
+          844,
+          4565,
+          919,
+          4579
+        ],
+        "confidence": 1,
+        "text": "‹ d Company Gosls"
+      },
+      {
+        "bbox_px": [
+          1139,
+          4563,
+          1246,
+          4581
+        ],
+        "confidence": 1,
+        "text": "00000 @ Shar"
+      },
+      {
+        "bbox_px": [
+          869,
+          4599,
+          1037,
+          4619
+        ],
+        "confidence": 1,
+        "text": "Ml Quarterly progress"
+      },
+      {
+        "bbox_px": [
+          943,
+          4696,
+          974,
+          4709
+        ],
+        "confidence": 1,
+        "text": "66%"
+      },
+      {
+        "bbox_px": [
+          888,
+          4827,
+          956,
+          4843
+        ],
+        "confidence": 1,
+        "text": "Key Results"
+      },
+      {
+        "bbox_px": [
+          227,
+          4858,
+          298,
+          4877
+        ],
+        "confidence": 1,
+        "text": "Replaces"
+      },
+      {
+        "bbox_px": [
+          439,
+          4921,
+          475,
+          4926
+        ],
+        "confidence": 0.30000001192092896,
+        "text": "HIrtaD"
+      },
+      {
+        "bbox_px": [
+          891,
+          4828,
+          956,
+          4841
+        ],
+        "confidence": 1,
+        "text": "Key Results"
+      },
+      {
+        "bbox_px": [
+          227,
+          4860,
+          297,
+          4875
+        ],
+        "confidence": 1,
+        "text": "Replaces"
+      },
+      {
+        "bbox_px": [
+          436,
+          4917,
+          478,
+          4930
+        ],
+        "confidence": 1,
+        "text": "Airtable"
+      },
+      {
+        "bbox_px": [
+          227,
+          5078,
+          452,
+          5120
+        ],
+        "confidence": 1,
+        "text": "Applications"
+      },
+      {
+        "bbox_px": [
+          227,
+          5129,
+          716,
+          5147
+        ],
+        "confidence": 1,
+        "text": "With Coda, anyone can design a time-saving solution with a formula,"
+      },
+      {
+        "bbox_px": [
+          227,
+          5152,
+          684,
+          5171
+        ],
+        "confidence": 1,
+        "text": "button, or automation. And replace niche apps in your tool stack."
+      },
+      {
+        "bbox_px": [
+          245,
+          5202,
+          475,
+          5221
+        ],
+        "confidence": 1,
+        "text": "Explore Pinterest's OKR tracker"
+      },
+      {
+        "bbox_px": [
+          849,
+          5108,
+          909,
+          5122
+        ],
+        "confidence": 1,
+        "text": "‹ & Team Hut"
+      },
+      {
+        "bbox_px": [
+          872,
+          5139,
+          977,
+          5160
+        ],
+        "confidence": 1,
+        "text": "E Engineering"
+      },
+      {
+        "bbox_px": [
+          891,
+          5181,
+          938,
+          5195
+        ],
+        "confidence": 1,
+        "text": "Jira bugs"
+      },
+      {
+        "bbox_px": [
+          891,
+          5200,
+          961,
+          5206
+        ],
+        "confidence": 0.30000001192092896,
+        "text": "e ratre last upoaled t"
+      },
+      {
+        "bbox_px": [
+          1136,
+          5105,
+          1246,
+          5124
+        ],
+        "confidence": 1,
+        "text": "00000 g Stor"
+      },
+      {
+        "bbox_px": [
+          1095,
+          5244,
+          1115,
+          5257
+        ],
+        "confidence": 0.30000001192092896,
+        "text": "• EU"
+      },
+      {
+        "bbox_px": [
+          1147,
+          5247,
+          1186,
+          5255
+        ],
+        "confidence": 1,
+        "text": "in Progres"
+      },
+      {
+        "bbox_px": [
+          227,
+          5387,
+          298,
+          5405
+        ],
+        "confidence": 1,
+        "text": "Replaces"
+      },
+      {
+        "bbox_px": [
+          906,
+          5393,
+          969,
+          5406
+        ],
+        "confidence": 1,
+        "text": "Incomplete: 3"
+      },
+      {
+        "bbox_px": [
+          405,
+          5435,
+          454,
+          5454
+        ],
+        "confidence": 1,
+        "text": "slido"
+      },
+      {
+        "bbox_px": [
+          224,
+          5456,
+          303,
+          5472
+        ],
+        "confidence": 1,
+        "text": "productboard"
+      },
+      {
+        "bbox_px": [
+          321,
+          5456,
+          386,
+          5472
+        ],
+        "confidence": 1,
+        "text": "monday.com"
+      },
+      {
+        "bbox_px": [
+          496,
+          5704,
+          818,
+          5736
+        ],
+        "confidence": 1,
+        "text": "Want to see more?"
+      },
+      {
+        "bbox_px": [
+          496,
+          5749,
+          1275,
+          5768
+        ],
+        "confidence": 1,
+        "text": "Our Gallery is full of solutions published by teams who use Coda to supercharge their work, create a feeling of"
+      },
+      {
+        "bbox_px": [
+          496,
+          5775,
+          841,
+          5792
+        ],
+        "confidence": 1,
+        "text": "organization, and foster collaborative workflows."
+      },
+      {
+        "bbox_px": [
+          514,
+          5830,
+          656,
+          5852
+        ],
+        "confidence": 1,
+        "text": "Explore the Gallery"
+      },
+      {
+        "bbox_px": [
+          151,
+          6107,
+          990,
+          6160
+        ],
+        "confidence": 1,
+        "text": "Take the busywork out of your work"
+      },
+      {
+        "bbox_px": [
+          151,
+          6164,
+          470,
+          6214
+        ],
+        "confidence": 1,
+        "text": "with Coda Al."
+      },
+      {
+        "bbox_px": [
+          151,
+          6228,
+          885,
+          6249
+        ],
+        "confidence": 1,
+        "text": "The connected work assistant that knows your team-and can take action for you."
+      },
+      {
+        "bbox_px": [
+          245,
+          6348,
+          402,
+          6364
+        ],
+        "confidence": 1,
+        "text": "Hey there, I'm Coda Al!"
+      },
+      {
+        "bbox_px": [
+          243,
+          6405,
+          358,
+          6422
+        ],
+        "confidence": 1,
+        "text": "¡How can I help?"
+      },
+      {
+        "bbox_px": [
+          580,
+          6361,
+          742,
+          6383
+        ],
+        "confidence": 1,
+        "text": "Summarize Notes B|"
+      },
+      {
+        "bbox_px": [
+          773,
+          6363,
+          846,
+          6383
+        ],
+        "confidence": 1,
+        "text": "*+ Create"
+      },
+      {
+        "bbox_px": [
+          964,
+          6343,
+          1040,
+          6356
+        ],
+        "confidence": 1,
+        "text": "Draft email"
+      },
+      {
+        "bbox_px": [
+          1176,
+          6340,
+          1236,
+          6359
+        ],
+        "confidence": 0.30000001192092896,
+        "text": "*+T"
+      },
+      {
+        "bbox_px": [
+          964,
+          6380,
+          1014,
+          6396
+        ],
+        "confidence": 1,
+        "text": "Hi Joe,"
+      },
+      {
+        "bbox_px": [
+          964,
+          6400,
+          1215,
+          6417
+        ],
+        "confidence": 1,
+        "text": "Hope this email finds you well! I came"
+      },
+      {
+        "bbox_px": [
+          961,
+          6418,
+          1223,
+          6435
+        ],
+        "confidence": 1,
+        "text": "across your startup and was impressed"
+      },
+      {
+        "bbox_px": [
+          185,
+          6477,
+          475,
+          6495
+        ],
+        "confidence": 1,
+        "text": "Get answers faster with Al chat."
+      },
+      {
+        "bbox_px": [
+          182,
+          6502,
+          470,
+          6523
+        ],
+        "confidence": 1,
+        "text": "Spark dynamic dialogue with Coda Al to"
+      },
+      {
+        "bbox_px": [
+          182,
+          6529,
+          428,
+          6545
+        ],
+        "confidence": 1,
+        "text": "brainstorm, create content, or ask"
+      },
+      {
+        "bbox_px": [
+          182,
+          6551,
+          259,
+          6571
+        ],
+        "confidence": 1,
+        "text": "questions."
+      },
+      {
+        "bbox_px": [
+          572,
+          6477,
+          844,
+          6492
+        ],
+        "confidence": 1,
+        "text": "Create more with Al assistant."
+      },
+      {
+        "bbox_px": [
+          569,
+          6502,
+          792,
+          6521
+        ],
+        "confidence": 1,
+        "text": "Let Coda Al start from scratch,"
+      },
+      {
+        "bbox_px": [
+          569,
+          6525,
+          844,
+          6547
+        ],
+        "confidence": 1,
+        "text": "summarize, or generate tables, so you"
+      },
+      {
+        "bbox_px": [
+          569,
+          6552,
+          778,
+          6569
+        ],
+        "confidence": 1,
+        "text": "can share your work-faster."
+      },
+      {
+        "bbox_px": [
+          956,
+          6474,
+          1191,
+          6495
+        ],
+        "confidence": 1,
+        "text": "Save time with Al column."
+      },
+      {
+        "bbox_px": [
+          956,
+          6505,
+          1238,
+          6522
+        ],
+        "confidence": 1,
+        "text": "Turn data into insights, or tedious tasks"
+      },
+      {
+        "bbox_px": [
+          956,
+          6529,
+          1223,
+          6545
+        ],
+        "confidence": 1,
+        "text": "into auto-generated content with the"
+      },
+      {
+        "bbox_px": [
+          956,
+          6552,
+          1129,
+          6571
+        ],
+        "confidence": 1,
+        "text": "ability to use Al at scale."
+      },
+      {
+        "bbox_px": [
+          240,
+          6404,
+          358,
+          6423
+        ],
+        "confidence": 1,
+        "text": "How can I help?"
+      },
+      {
+        "bbox_px": [
+          185,
+          6475,
+          475,
+          6494
+        ],
+        "confidence": 1,
+        "text": "Get answers faster with Al chat."
+      },
+      {
+        "bbox_px": [
+          182,
+          6504,
+          470,
+          6520
+        ],
+        "confidence": 1,
+        "text": "Spark dynamic dialogue with Coda Al to"
+      },
+      {
+        "bbox_px": [
+          182,
+          6527,
+          428,
+          6546
+        ],
+        "confidence": 1,
+        "text": "brainstorm, create content, or ask"
+      },
+      {
+        "bbox_px": [
+          182,
+          6551,
+          258,
+          6569
+        ],
+        "confidence": 1,
+        "text": "questions."
+      },
+      {
+        "bbox_px": [
+          572,
+          6475,
+          844,
+          6494
+        ],
+        "confidence": 1,
+        "text": "Create more with Al assistant."
+      },
+      {
+        "bbox_px": [
+          569,
+          6504,
+          791,
+          6522
+        ],
+        "confidence": 1,
+        "text": "Let Coda Al start from scratch,"
+      },
+      {
+        "bbox_px": [
+          569,
+          6527,
+          844,
+          6546
+        ],
+        "confidence": 1,
+        "text": "summarize, or generate tables, so you"
+      },
+      {
+        "bbox_px": [
+          569,
+          6551,
+          778,
+          6570
+        ],
+        "confidence": 1,
+        "text": "can share your work-faster."
+      },
+      {
+        "bbox_px": [
+          961,
+          6400,
+          1215,
+          6416
+        ],
+        "confidence": 1,
+        "text": "Hope this email finds you well! I came"
+      },
+      {
+        "bbox_px": [
+          961,
+          6420,
+          1223,
+          6436
+        ],
+        "confidence": 1,
+        "text": "across your startup and was impressed"
+      },
+      {
+        "bbox_px": [
+          956,
+          6475,
+          1191,
+          6494
+        ],
+        "confidence": 1,
+        "text": "Save time with Al column."
+      },
+      {
+        "bbox_px": [
+          956,
+          6504,
+          1238,
+          6520
+        ],
+        "confidence": 1,
+        "text": "Turn data into insights, or tedious tasks"
+      },
+      {
+        "bbox_px": [
+          956,
+          6526,
+          1223,
+          6547
+        ],
+        "confidence": 1,
+        "text": "into auto-generated content with the"
+      },
+      {
+        "bbox_px": [
+          956,
+          6551,
+          1129,
+          6570
+        ],
+        "confidence": 1,
+        "text": "ability to use Al at scale."
+      },
+      {
+        "bbox_px": [
+          164,
+          6797,
+          253,
+          6805
+        ],
+        "confidence": 1,
+        "text": "‹ & Launch Tracker"
+      },
+      {
+        "bbox_px": [
+          175,
+          6834,
+          337,
+          6853
+        ],
+        "confidence": 1,
+        "text": "• Product Review"
+      },
+      {
+        "bbox_px": [
+          486,
+          6792,
+          614,
+          6811
+        ],
+        "confidence": 1,
+        "text": "000 @ Share 88 Insert"
+      },
+      {
+        "bbox_px": [
+          485,
+          6826,
+          577,
+          6846
+        ],
+        "confidence": 1,
+        "text": "Packs & import"
+      },
+      {
+        "bbox_px": [
+          520,
+          6912,
+          559,
+          6918
+        ],
+        "confidence": 0.30000001192092896,
+        "text": "ntercom"
+      },
+      {
+        "bbox_px": [
+          522,
+          7061,
+          593,
+          7072
+        ],
+        "confidence": 1,
+        "text": "Google Calendar"
+      },
+      {
+        "bbox_px": [
+          768,
+          6825,
+          1181,
+          6870
+        ],
+        "confidence": 1,
+        "text": "Create workflows"
+      },
+      {
+        "bbox_px": [
+          765,
+          6888,
+          1192,
+          6938
+        ],
+        "confidence": 1,
+        "text": "across your must-"
+      },
+      {
+        "bbox_px": [
+          767,
+          6938,
+          1025,
+          6987
+        ],
+        "confidence": 1,
+        "text": "have tools."
+      },
+      {
+        "bbox_px": [
+          768,
+          7003,
+          1257,
+          7025
+        ],
+        "confidence": 1,
+        "text": "Pull Google Calendars into the team wiki, push updates"
+      },
+      {
+        "bbox_px": [
+          765,
+          7029,
+          1272,
+          7057
+        ],
+        "confidence": 1,
+        "text": "into Slack automatically, embed Figma files into a project"
+      },
+      {
+        "bbox_px": [
+          768,
+          7061,
+          1262,
+          7088
+        ],
+        "confidence": 1,
+        "text": "brief, create Jira tickets from feedback tables, and more"
+      },
+      {
+        "bbox_px": [
+          765,
+          7092,
+          1008,
+          7114
+        ],
+        "confidence": 1,
+        "text": "with our 600+ integrations."
+      },
+      {
+        "bbox_px": [
+          783,
+          7149,
+          844,
+          7165
+        ],
+        "confidence": 1,
+        "text": "Browse"
+      },
+      {
+        "bbox_px": [
+          522,
+          7174,
+          561,
+          7187
+        ],
+        "confidence": 1,
+        "text": "YouTube"
+      },
+      {
+        "bbox_px": [
+          519,
+          7212,
+          552,
+          7228
+        ],
+        "confidence": 1,
+        "text": "Zoom"
+      },
+      {
+        "bbox_px": [
+          154,
+          7396,
+          794,
+          7449
+        ],
+        "confidence": 1,
+        "text": "And getting started is easy."
+      },
+      {
+        "bbox_px": [
+          151,
+          7459,
+          674,
+          7481
+        ],
+        "confidence": 1,
+        "text": "With customizable solutions and templates for every team."
+      },
+      {
+        "bbox_px": [
+          185,
+          7621,
+          266,
+          7642
+        ],
+        "confidence": 1,
+        "text": "Product"
+      },
+      {
+        "bbox_px": [
+          355,
+          7621,
+          407,
+          7640
+        ],
+        "confidence": 1,
+        "text": "Sales"
+      },
+      {
+        "bbox_px": [
+          151,
+          7712,
+          475,
+          7752
+        ],
+        "confidence": 1,
+        "text": "For product teams"
+      },
+      {
+        "bbox_px": [
+          224,
+          7817,
+          389,
+          7836
+        ],
+        "confidence": 1,
+        "text": "Product team hub"
+      },
+      {
+        "bbox_px": [
+          431,
+          7815,
+          452,
+          7838
+        ],
+        "confidence": 1,
+        "text": "→"
+      },
+      {
+        "bbox_px": [
+          222,
+          7906,
+          342,
+          7922
+        ],
+        "confidence": 1,
+        "text": "Decision doc"
+      },
+      {
+        "bbox_px": [
+          224,
+          7992,
+          415,
+          8014
+        ],
+        "confidence": 1,
+        "text": "$100 voting exercise"
+      },
+      {
+        "bbox_px": [
+          224,
+          8079,
+          360,
+          8103
+        ],
+        "confidence": 1,
+        "text": "Meeting forum"
+      },
+      {
+        "bbox_px": [
+          493,
+          7621,
+          608,
+          7645
+        ],
+        "confidence": 1,
+        "text": "Engineering"
+      },
+      {
+        "bbox_px": [
+          687,
+          7621,
+          755,
+          7645
+        ],
+        "confidence": 1,
+        "text": "Design"
+      },
+      {
+        "bbox_px": [
+          831,
+          7621,
+          932,
+          7645
+        ],
+        "confidence": 1,
+        "text": "Marketing"
+      },
+      {
+        "bbox_px": [
+          1029,
+          7621,
+          1063,
+          7642
+        ],
+        "confidence": 1,
+        "text": "HR"
+      },
+      {
+        "bbox_px": [
+          543,
+          7797,
+          655,
+          7810
+        ],
+        "confidence": 1,
+        "text": "Product team hub"
+      },
+      {
+        "bbox_px": [
+          543,
+          7815,
+          611,
+          7828
+        ],
+        "confidence": 1,
+        "text": "quickstart"
+      },
+      {
+        "bbox_px": [
+          559,
+          7849,
+          650,
+          7862
+        ],
+        "confidence": 1,
+        "text": "A Team resources"
+      },
+      {
+        "bbox_px": [
+          559,
+          7878,
+          645,
+          7891
+        ],
+        "confidence": 1,
+        "text": "Project Tracker"
+      },
+      {
+        "bbox_px": [
+          574,
+          7906,
+          658,
+          7920
+        ],
+        "confidence": 1,
+        "text": "Standup meeting"
+      },
+      {
+        "bbox_px": [
+          569,
+          7932,
+          601,
+          7946
+        ],
+        "confidence": 1,
+        "text": "1 PRD"
+      },
+      {
+        "bbox_px": [
+          543,
+          7959,
+          630,
+          7974
+        ],
+        "confidence": 1,
+        "text": "› + More tools"
+      },
+      {
+        "bbox_px": [
+          760,
+          7770,
+          972,
+          7794
+        ],
+        "confidence": 1,
+        "text": "Team resources"
+      },
+      {
+        "bbox_px": [
+          763,
+          7810,
+          1272,
+          7828
+        ],
+        "confidence": 1,
+        "text": "Keep your team moving in lockstep by organizing your team in one place"
+      },
+      {
+        "bbox_px": [
+          982,
+          7859,
+          1061,
+          7872
+        ],
+        "confidence": 1,
+        "text": "Welcome"
+      },
+      {
+        "bbox_px": [
+          773,
+          7883,
+          1262,
+          7897
+        ],
+        "confidence": 1,
+        "text": "Make it easy for your team to find key channels, tools, and meetings. To replace a link, right-click on a"
+      },
+      {
+        "bbox_px": [
+          859,
+          7898,
+          1170,
+          7912
+        ],
+        "confidence": 1,
+        "text": "hyperlink or button and configure the settings to suit your team."
+      },
+      {
+        "bbox_px": [
+          763,
+          7943,
+          870,
+          7956
+        ],
+        "confidence": 1,
+        "text": "Where we work"
+      },
+      {
+        "bbox_px": [
+          1029,
+          7943,
+          1144,
+          7956
+        ],
+        "confidence": 1,
+        "text": "How we connect"
+      },
+      {
+        "bbox_px": [
+          807,
+          7980,
+          946,
+          7996
+        ],
+        "confidence": 1,
+        "text": "Our messaging channels"
+      },
+      {
+        "bbox_px": [
+          807,
+          8003,
+          912,
+          8014
+        ],
+        "confidence": 1,
+        "text": "#team-slack-channel"
+      },
+      {
+        "bbox_px": [
+          807,
+          8027,
+          912,
+          8037
+        ],
+        "confidence": 1,
+        "text": "#story-slack-channel"
+      },
+      {
+        "bbox_px": [
+          1070,
+          7977,
+          1129,
+          7997
+        ],
+        "confidence": 1,
+        "text": "Meetings"
+      },
+      {
+        "bbox_px": [
+          1073,
+          8000,
+          1249,
+          8019
+        ],
+        "confidence": 1,
+        "text": "Weekly kickoff: Monday, 9:00 AM"
+      },
+      {
+        "bbox_px": [
+          1074,
+          8026,
+          1243,
+          8040
+        ],
+        "confidence": 1,
+        "text": "Design review: Tuesday, 1:00 PM"
+      },
+      {
+        "bbox_px": [
+          1071,
+          8047,
+          1220,
+          8064
+        ],
+        "confidence": 1,
+        "text": "Demos: Thursday, 12:00 PM"
+      },
+      {
+        "bbox_px": [
+          807,
+          8071,
+          872,
+          8084
+        ],
+        "confidence": 1,
+        "text": "Quick links"
+      },
+      {
+        "bbox_px": [
+          815,
+          8121,
+          896,
+          8134
+        ],
+        "confidence": 1,
+        "text": "• Miro brainstorm"
+      },
+      {
+        "bbox_px": [
+          1029,
+          8095,
+          1113,
+          8111
+        ],
+        "confidence": 1,
+        "text": "Our mission"
+      },
+      {
+        "bbox_px": [
+          1029,
+          8121,
+          1241,
+          8139
+        ],
+        "confidence": 1,
+        "text": "Your team mission goes here."
+      },
+      {
+        "bbox_px": [
+          222,
+          8000,
+          415,
+          8016
+        ],
+        "confidence": 1,
+        "text": "plou voting exercise"
+      },
+      {
+        "bbox_px": [
+          778,
+          8070,
+          797,
+          8083
+        ],
+        "confidence": 1,
+        "text": "co"
+      },
+      {
+        "bbox_px": [
+          807,
+          8002,
+          912,
+          8015
+        ],
+        "confidence": 1,
+        "text": "#team-slack-channel"
+      },
+      {
+        "bbox_px": [
+          804,
+          8026,
+          912,
+          8039
+        ],
+        "confidence": 1,
+        "text": "#story-slack-channel"
+      },
+      {
+        "bbox_px": [
+          807,
+          8070,
+          870,
+          8083
+        ],
+        "confidence": 1,
+        "text": "Quick links"
+      },
+      {
+        "bbox_px": [
+          222,
+          8081,
+          360,
+          8105
+        ],
+        "confidence": 1,
+        "text": "Meeting forum"
+      },
+      {
+        "bbox_px": [
+          1071,
+          8002,
+          1249,
+          8016
+        ],
+        "confidence": 1,
+        "text": "Weekly kickoff: Monday, 9:00 AM"
+      },
+      {
+        "bbox_px": [
+          1071,
+          8026,
+          1243,
+          8039
+        ],
+        "confidence": 1,
+        "text": "Design review: Tuesday, 1:00 PM"
+      },
+      {
+        "bbox_px": [
+          1071,
+          8047,
+          1217,
+          8063
+        ],
+        "confidence": 1,
+        "text": "Demos: Thursday, 12:00 PM"
+      },
+      {
+        "bbox_px": [
+          1029,
+          8096,
+          1113,
+          8109
+        ],
+        "confidence": 1,
+        "text": "Our mission"
+      },
+      {
+        "bbox_px": [
+          1032,
+          8120,
+          1241,
+          8139
+        ],
+        "confidence": 1,
+        "text": "Your team mission goes here."
+      },
+      {
+        "bbox_px": [
+          548,
+          8253,
+          710,
+          8269
+        ],
+        "confidence": 1,
+        "text": "Product team hub"
+      },
+      {
+        "bbox_px": [
+          548,
+          8284,
+          1006,
+          8306
+        ],
+        "confidence": 1,
+        "text": "Everything you need to organize your product team"
+      },
+      {
+        "bbox_px": [
+          546,
+          8316,
+          661,
+          8335
+        ],
+        "confidence": 1,
+        "text": "in one place."
+      },
+      {
+        "bbox_px": [
+          1086,
+          8287,
+          1270,
+          8307
+        ],
+        "confidence": 1,
+        "text": "Start using this template"
+      },
+      {
+        "bbox_px": [
+          151,
+          8460,
+          826,
+          8503
+        ],
+        "confidence": 1,
+        "text": "Want to know more about running your"
+      },
+      {
+        "bbox_px": [
+          150,
+          8497,
+          559,
+          8547
+        ],
+        "confidence": 1,
+        "text": "product team on Coda?"
+      },
+      {
+        "bbox_px": [
+          171,
+          8579,
+          298,
+          8601
+        ],
+        "confidence": 1,
+        "text": "Coda for product"
+      },
+      {
+        "bbox_px": [
+          350,
+          8580,
+          496,
+          8597
+        ],
+        "confidence": 1,
+        "text": "Read the handbook"
+      },
+      {
+        "bbox_px": [
+          193,
+          8902,
+          371,
+          8936
+        ],
+        "confidence": 1,
+        "text": "• Pinterest"
+      },
+      {
+        "bbox_px": [
+          188,
+          8978,
+          974,
+          9022
+        ],
+        "confidence": 1,
+        "text": "ẠạỊHaving an all-in-one solution, compared to siloed"
+      },
+      {
+        "bbox_px": [
+          185,
+          9032,
+          948,
+          9072
+        ],
+        "confidence": 1,
+        "text": "into, ensures teams can better understand action"
+      },
+      {
+        "bbox_px": [
+          187,
+          9077,
+          990,
+          9129
+        ],
+        "confidence": 1,
+        "text": "OKRS and work transparently across the business.\""
+      },
+      {
+        "bbox_px": [
+          243,
+          9163,
+          355,
+          9179
+        ],
+        "confidence": 1,
+        "text": "Naveen Gavini"
+      },
+      {
+        "bbox_px": [
+          243,
+          9187,
+          475,
+          9201
+        ],
+        "confidence": 1,
+        "text": "Former SVP of Products at Pinterest"
+      },
+      {
+        "bbox_px": [
+          151,
+          9504,
+          606,
+          9546
+        ],
+        "confidence": 1,
+        "text": "Collaboration costs"
+      },
+      {
+        "bbox_px": [
+          151,
+          9555,
+          632,
+          9609
+        ],
+        "confidence": 1,
+        "text": "(much) less in Coda."
+      },
+      {
+        "bbox_px": [
+          151,
+          9621,
+          655,
+          9643
+        ],
+        "confidence": 1,
+        "text": "Charging per seat doesn't sit well with us. We price Coda"
+      },
+      {
+        "bbox_px": [
+          151,
+          9653,
+          671,
+          9674
+        ],
+        "confidence": 1,
+        "text": "differently to erase the limits that hinder expanding teams."
+      },
+      {
+        "bbox_px": [
+          172,
+          9707,
+          313,
+          9724
+        ],
+        "confidence": 1,
+        "text": "Get started for free"
+      },
+      {
+        "bbox_px": [
+          365,
+          9705,
+          478,
+          9726
+        ],
+        "confidence": 1,
+        "text": "Explore pricing"
+      },
+      {
+        "bbox_px": [
+          828,
+          9498,
+          917,
+          9515
+        ],
+        "confidence": 1,
+        "text": "Meet Coda"
+      },
+      {
+        "bbox_px": [
+          1204,
+          9516,
+          1272,
+          9533
+        ],
+        "confidence": 1,
+        "text": "Copy link"
+      },
+      {
+        "bbox_px": [
+          776,
+          9737,
+          927,
+          9752
+        ],
+        "confidence": 1,
+        "text": "Watch on • YouTube"
+      },
+      {
+        "bbox_px": [
+          150,
+          9622,
+          657,
+          9646
+        ],
+        "confidence": 1,
+        "text": "Charging per seat doesn't sit well with us. We price Coda"
+      },
+      {
+        "bbox_px": [
+          150,
+          9651,
+          673,
+          9675
+        ],
+        "confidence": 1,
+        "text": "differently to erase the limits that hinder expanding teams."
+      },
+      {
+        "bbox_px": [
+          173,
+          9708,
+          313,
+          9724
+        ],
+        "confidence": 1,
+        "text": "Get started for free"
+      },
+      {
+        "bbox_px": [
+          364,
+          9706,
+          477,
+          9728
+        ],
+        "confidence": 1,
+        "text": "Explore pricing"
+      },
+      {
+        "bbox_px": [
+          173,
+          9988,
+          240,
+          10007
+        ],
+        "confidence": 1,
+        "text": "A doc as"
+      },
+      {
+        "bbox_px": [
+          173,
+          10005,
+          264,
+          10024
+        ],
+        "confidence": 1,
+        "text": "powerful as"
+      },
+      {
+        "bbox_px": [
+          170,
+          10021,
+          233,
+          10043
+        ],
+        "confidence": 1,
+        "text": "an app."
+      },
+      {
+        "bbox_px": [
+          343,
+          9910,
+          416,
+          9929
+        ],
+        "confidence": 1,
+        "text": "Company"
+      },
+      {
+        "bbox_px": [
+          343,
+          9947,
+          412,
+          9964
+        ],
+        "confidence": 1,
+        "text": "About us"
+      },
+      {
+        "bbox_px": [
+          343,
+          9983,
+          378,
+          10002
+        ],
+        "confidence": 1,
+        "text": "Blog"
+      },
+      {
+        "bbox_px": [
+          343,
+          10018,
+          450,
+          10036
+        ],
+        "confidence": 1,
+        "text": "Coda on Coda"
+      },
+      {
+        "bbox_px": [
+          343,
+          10054,
+          403,
+          10071
+        ],
+        "confidence": 1,
+        "text": "Careers"
+      },
+      {
+        "bbox_px": [
+          343,
+          10090,
+          387,
+          10106
+        ],
+        "confidence": 1,
+        "text": "Press"
+      },
+      {
+        "bbox_px": [
+          345,
+          10127,
+          456,
+          10142
+        ],
+        "confidence": 1,
+        "text": "Partner with us"
+      },
+      {
+        "bbox_px": [
+          535,
+          9907,
+          600,
+          9929
+        ],
+        "confidence": 1,
+        "text": "Product"
+      },
+      {
+        "bbox_px": [
+          537,
+          9945,
+          648,
+          9966
+        ],
+        "confidence": 1,
+        "text": "Compare Coda"
+      },
+      {
+        "bbox_px": [
+          535,
+          9980,
+          634,
+          10000
+        ],
+        "confidence": 1,
+        "text": "Case studies"
+      },
+      {
+        "bbox_px": [
+          535,
+          10016,
+          598,
+          10037
+        ],
+        "confidence": 1,
+        "text": "Coda Al"
+      },
+      {
+        "bbox_px": [
+          535,
+          10049,
+          586,
+          10074
+        ],
+        "confidence": 1,
+        "text": "Packs"
+      },
+      {
+        "bbox_px": [
+          535,
+          10085,
+          569,
+          10108
+        ],
+        "confidence": 1,
+        "text": "АPІ"
+      },
+      {
+        "bbox_px": [
+          535,
+          10123,
+          638,
+          10146
+        ],
+        "confidence": 1,
+        "text": "Explore Coda"
+      },
+      {
+        "bbox_px": [
+          150,
+          10226,
+          466,
+          10248
+        ],
+        "confidence": 1,
+        "text": "Copyright © 2024 Coda. All rights reserved."
+      },
+      {
+        "bbox_px": [
+          496,
+          10224,
+          554,
+          10247
+        ],
+        "confidence": 1,
+        "text": "Privacy"
+      },
+      {
+        "bbox_px": [
+          579,
+          10225,
+          701,
+          10249
+        ],
+        "confidence": 1,
+        "text": "Legal & security"
+      },
+      {
+        "bbox_px": [
+          778,
+          9737,
+          847,
+          9753
+        ],
+        "confidence": 1,
+        "text": "Watch on"
+      },
+      {
+        "bbox_px": [
+          860,
+          9738,
+          927,
+          9755
+        ],
+        "confidence": 1,
+        "text": "• YouTube"
+      },
+      {
+        "bbox_px": [
+          730,
+          9905,
+          803,
+          9928
+        ],
+        "confidence": 1,
+        "text": "Solutions"
+      },
+      {
+        "bbox_px": [
+          728,
+          9942,
+          795,
+          9965
+        ],
+        "confidence": 1,
+        "text": "For PMs"
+      },
+      {
+        "bbox_px": [
+          728,
+          9980,
+          845,
+          9999
+        ],
+        "confidence": 1,
+        "text": "For sales teams"
+      },
+      {
+        "bbox_px": [
+          726,
+          10016,
+          833,
+          10037
+        ],
+        "confidence": 1,
+        "text": "For enterprise"
+      },
+      {
+        "bbox_px": [
+          726,
+          10051,
+          829,
+          10074
+        ],
+        "confidence": 1,
+        "text": "For meetings"
+      },
+      {
+        "bbox_px": [
+          728,
+          10085,
+          803,
+          10108
+        ],
+        "confidence": 1,
+        "text": "For OKRs"
+      },
+      {
+        "bbox_px": [
+          730,
+          10123,
+          822,
+          10146
+        ],
+        "confidence": 1,
+        "text": "All solutions"
+      },
+      {
+        "bbox_px": [
+          918,
+          9909,
+          1056,
+          9931
+        ],
+        "confidence": 1,
+        "text": "Popular templates"
+      },
+      {
+        "bbox_px": [
+          922,
+          9942,
+          1000,
+          9967
+        ],
+        "confidence": 1,
+        "text": "Team hub"
+      },
+      {
+        "bbox_px": [
+          923,
+          9979,
+          1015,
+          10000
+        ],
+        "confidence": 1,
+        "text": "OKR tracker"
+      },
+      {
+        "bbox_px": [
+          922,
+          10016,
+          1029,
+          10039
+        ],
+        "confidence": 1,
+        "text": "Meeting notes"
+      },
+      {
+        "bbox_px": [
+          923,
+          10050,
+          1052,
+          10073
+        ],
+        "confidence": 1,
+        "text": "Product roadmap"
+      },
+      {
+        "bbox_px": [
+          922,
+          10089,
+          1019,
+          10109
+        ],
+        "confidence": 1,
+        "text": "Decision doc"
+      },
+      {
+        "bbox_px": [
+          922,
+          10122,
+          1021,
+          10147
+        ],
+        "confidence": 1,
+        "text": "All templates"
+      },
+      {
+        "bbox_px": [
+          1115,
+          9909,
+          1195,
+          9929
+        ],
+        "confidence": 1,
+        "text": "Resources"
+      },
+      {
+        "bbox_px": [
+          1115,
+          9945,
+          1203,
+          9966
+        ],
+        "confidence": 1,
+        "text": "Help center"
+      },
+      {
+        "bbox_px": [
+          1115,
+          9978,
+          1241,
+          10002
+        ],
+        "confidence": 1,
+        "text": "Contact support"
+      },
+      {
+        "bbox_px": [
+          1115,
+          10017,
+          1201,
+          10038
+        ],
+        "confidence": 1,
+        "text": "Community"
+      },
+      {
+        "bbox_px": [
+          1115,
+          10049,
+          1205,
+          10073
+        ],
+        "confidence": 1,
+        "text": "Learn Coda"
+      },
+      {
+        "bbox_px": [
+          1115,
+          10087,
+          1209,
+          10111
+        ],
+        "confidence": 1,
+        "text": "Android app"
+      },
+      {
+        "bbox_px": [
+          1112,
+          10123,
+          1179,
+          10147
+        ],
+        "confidence": 1,
+        "text": "¡OS app"
+      },
+      {
+        "bbox_px": [
+          730,
+          10224,
+          784,
+          10244
+        ],
+        "confidence": 1,
+        "text": "Status"
+      },
+      {
+        "bbox_px": [
+          811,
+          10226,
+          879,
+          10246
+        ],
+        "confidence": 1,
+        "text": "Site map"
+      },
+      {
+        "bbox_px": [
+          910,
+          10228,
+          1098,
+          10249
+        ],
+        "confidence": 1,
+        "text": "Cx Your Privacy Choices"
+      },
+      {
+        "bbox_px": [
+          1130,
+          10219,
+          1291,
+          10249
+        ],
+        "confidence": 0.30000001192092896,
+        "text": "y o in O"
+      }
+    ],
+    "path": "screenshots/coda.png",
+    "width": 1440
+  }
+]

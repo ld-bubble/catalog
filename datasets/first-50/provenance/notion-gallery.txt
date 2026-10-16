@@ -1,0 +1,76 @@
+✨ Looking for app inspiration? Check out SaaS Interface ✨
+Inspiration
+App Inspiration
+Templates
+Advertise
+Visit Website
+Notion
+
+Notion is a digital workspace that lets individuals and teams manage notes, tasks, projects, records, and more. The product has millions of customers and hundreds of active fan groups on the web.
+
+Fonts
+Inter
+Palette
+000000
+0275de
+Stacks
+Next.js, React
+Tags
+Bento Style, Productivity
+Categories
+Landing page
+Date
+September 2026
+Recommended
+Inspiration
+Landing pages
+Pricing pages
+About Us pages
+Features pages
+Blog pages
+Testimonials pages
+FAQ pages
+Contact Us pages
+Templates
+Framer
+Webflow
+React
+HTML
+Next.js
+Tailwind CSS
+Vue
+View all
+Resources
+Blog
+Resources & Tools
+Popular stacks
+React
+Next.js
+Tailwind CSS
+Webflow
+GSAP
+Framer
+WordPress
+View all
+Popular tags
+Productivity
+AI
+Code Tool
+Finance
+Design Tool
+B2B
+FinTech
+View all
+Popular fonts
+Inter
+Graphik
+Geist Sans
+Suisse Int'l
+Roobert
+Geist Mono
+Tiempos Headline
+View all
+Advertise on SLP
+ Privacy Policy
+Day / Night toggle
+A project by Davide Pacilio.

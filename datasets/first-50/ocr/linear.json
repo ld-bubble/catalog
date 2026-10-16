@@ -1,0 +1,3919 @@
+[
+  {
+    "height": 10833,
+    "lines": [
+      {
+        "bbox_px": [
+          104,
+          28,
+          169,
+          49
+        ],
+        "confidence": 1,
+        "text": "Linear"
+      },
+      {
+        "bbox_px": [
+          750,
+          28,
+          812,
+          44
+        ],
+        "confidence": 1,
+        "text": "Product"
+      },
+      {
+        "bbox_px": [
+          812,
+          28,
+          891,
+          44
+        ],
+        "confidence": 1,
+        "text": "Resources"
+      },
+      {
+        "bbox_px": [
+          909,
+          28,
+          982,
+          44
+        ],
+        "confidence": 1,
+        "text": "Customers"
+      },
+      {
+        "bbox_px": [
+          998,
+          28,
+          1173,
+          47
+        ],
+        "confidence": 1,
+        "text": "Pricing Now Contact"
+      },
+      {
+        "bbox_px": [
+          1217,
+          31,
+          1254,
+          44
+        ],
+        "confidence": 1,
+        "text": "Docs"
+      },
+      {
+        "bbox_px": [
+          1283,
+          31,
+          1348,
+          44
+        ],
+        "confidence": 1,
+        "text": "Open app"
+      },
+      {
+        "bbox_px": [
+          75,
+          279,
+          786,
+          346
+        ],
+        "confidence": 1,
+        "text": "The product development"
+      },
+      {
+        "bbox_px": [
+          75,
+          342,
+          862,
+          408
+        ],
+        "confidence": 1,
+        "text": "system for teams and agents"
+      },
+      {
+        "bbox_px": [
+          78,
+          436,
+          585,
+          455
+        ],
+        "confidence": 1,
+        "text": "Purpose-built for planning and building products. Designed for the Al era."
+      },
+      {
+        "bbox_px": [
+          1144,
+          436,
+          1358,
+          453
+        ],
+        "confidence": 1,
+        "text": "New Linear Reviews (Beta) →"
+      },
+      {
+        "bbox_px": [
+          80,
+          546,
+          167,
+          565
+        ],
+        "confidence": 1,
+        "text": "• Linear v"
+      },
+      {
+        "bbox_px": [
+          83,
+          588,
+          143,
+          604
+        ],
+        "confidence": 1,
+        "text": "• Inbox"
+      },
+      {
+        "bbox_px": [
+          80,
+          617,
+          170,
+          636
+        ],
+        "confidence": 1,
+        "text": "My issues"
+      },
+      {
+        "bbox_px": [
+          80,
+          648,
+          159,
+          664
+        ],
+        "confidence": 1,
+        "text": "* Reviews"
+      },
+      {
+        "bbox_px": [
+          81,
+          680,
+          141,
+          696
+        ],
+        "confidence": 1,
+        "text": "+ Pulse"
+      },
+      {
+        "bbox_px": [
+          78,
+          718,
+          164,
+          735
+        ],
+        "confidence": 1,
+        "text": "Workspace •"
+      },
+      {
+        "bbox_px": [
+          81,
+          747,
+          164,
+          761
+        ],
+        "confidence": 1,
+        "text": "Q Initiatives"
+      },
+      {
+        "bbox_px": [
+          83,
+          776,
+          159,
+          792
+        ],
+        "confidence": 1,
+        "text": "• Projects"
+      },
+      {
+        "bbox_px": [
+          81,
+          805,
+          138,
+          822
+        ],
+        "confidence": 1,
+        "text": "•.• More"
+      },
+      {
+        "bbox_px": [
+          78,
+          847,
+          151,
+          861
+        ],
+        "confidence": 1,
+        "text": "Favorites •"
+      },
+      {
+        "bbox_px": [
+          99,
+          876,
+          216,
+          892
+        ],
+        "confidence": 1,
+        "text": "Faster app launch"
+      },
+      {
+        "bbox_px": [
+          81,
+          905,
+          180,
+          921
+        ],
+        "confidence": 1,
+        "text": "F Agent tasks"
+      },
+      {
+        "bbox_px": [
+          83,
+          936,
+          172,
+          949
+        ],
+        "confidence": 1,
+        "text": "% UI Refresh"
+      },
+      {
+        "bbox_px": [
+          101,
+          968,
+          203,
+          981
+        ],
+        "confidence": 1,
+        "text": "Agents Insights"
+      },
+      {
+        "bbox_px": [
+          328,
+          549,
+          436,
+          567
+        ],
+        "confidence": 1,
+        "text": "Faster app launch"
+      },
+      {
+        "bbox_px": [
+          365,
+          632,
+          535,
+          651
+        ],
+        "confidence": 1,
+        "text": "Faster app launch"
+      },
+      {
+        "bbox_px": [
+          365,
+          666,
+          888,
+          682
+        ],
+        "confidence": 1,
+        "text": "Render Ul before vehicle_state sync when minimum required state is present,"
+      },
+      {
+        "bbox_px": [
+          365,
+          690,
+          708,
+          709
+        ],
+        "confidence": 1,
+        "text": "instead of blocking on full refresh during iOS startup."
+      },
+      {
+        "bbox_px": [
+          365,
+          739,
+          428,
+          759
+        ],
+        "confidence": 1,
+        "text": "Activity"
+      },
+      {
+        "bbox_px": [
+          368,
+          787,
+          747,
+          801
+        ],
+        "confidence": 1,
+        "text": "Linear created the issue via Slack on behalf of karri • 2min ago"
+      },
+      {
+        "bbox_px": [
+          368,
+          818,
+          781,
+          834
+        ],
+        "confidence": 1,
+        "text": "• Triage Intelligence added the label Performance and iOS • 2min ago"
+      },
+      {
+        "bbox_px": [
+          365,
+          871,
+          486,
+          886
+        ],
+        "confidence": 1,
+        "text": "• karri • 4 min ago"
+      },
+      {
+        "bbox_px": [
+          365,
+          900,
+          875,
+          913
+        ],
+        "confidence": 1,
+        "text": "Right now we show a spinner forever, which makes it look like the car disappeared..."
+      },
+      {
+        "bbox_px": [
+          368,
+          943,
+          470,
+          960
+        ],
+        "confidence": 1,
+        "text": "• jori • just now"
+      },
+      {
+        "bbox_px": [
+          391,
+          967,
+          661,
+          987
+        ],
+        "confidence": 1,
+        "text": "@GitHub Copilot can you take a stab at this?"
+      },
+      {
+        "bbox_px": [
+          392,
+          996,
+          655,
+          1012
+        ],
+        "confidence": 1,
+        "text": "jori connected GitHub Copilot • just now"
+      },
+      {
+        "bbox_px": [
+          365,
+          1062,
+          475,
+          1081
+        ],
+        "confidence": 1,
+        "text": "® GitHub Copilot"
+      },
+      {
+        "bbox_px": [
+          365,
+          1093,
+          533,
+          1109
+        ],
+        "confidence": 1,
+        "text": "Examining issue ENG-2703"
+      },
+      {
+        "bbox_px": [
+          368,
+          1148,
+          721,
+          1164
+        ],
+        "confidence": 1,
+        "text": "• GitHub Copilot moved from Todo to In Progress • just now"
+      },
+      {
+        "bbox_px": [
+          914,
+          549,
+          1021,
+          565
+        ],
+        "confidence": 1,
+        "text": "02/145 ^ v"
+      },
+      {
+        "bbox_px": [
+          1079,
+          549,
+          1147,
+          562
+        ],
+        "confidence": 1,
+        "text": "ENG-2703"
+      },
+      {
+        "bbox_px": [
+          1079,
+          611,
+          1170,
+          628
+        ],
+        "confidence": 1,
+        "text": "• In Progress"
+      },
+      {
+        "bbox_px": [
+          1079,
+          643,
+          1134,
+          659
+        ],
+        "confidence": 1,
+        "text": "Il High"
+      },
+      {
+        "bbox_px": [
+          1079,
+          675,
+          1134,
+          688
+        ],
+        "confidence": 1,
+        "text": "Karri"
+      },
+      {
+        "bbox_px": [
+          1100,
+          706,
+          1215,
+          722
+        ],
+        "confidence": 1,
+        "text": "® GitHub Copilot"
+      },
+      {
+        "bbox_px": [
+          1270,
+          546,
+          1340,
+          565
+        ],
+        "confidence": 0.30000001192092896,
+        "text": ". . !"
+      },
+      {
+        "bbox_px": [
+          980,
+          795,
+          1089,
+          811
+        ],
+        "confidence": 1,
+        "text": "• GitHub Copilot"
+      },
+      {
+        "bbox_px": [
+          974,
+          841,
+          1319,
+          858
+        ],
+        "confidence": 1,
+        "text": "I received your request and will let you know when the PR is"
+      },
+      {
+        "bbox_px": [
+          974,
+          860,
+          1016,
+          873
+        ],
+        "confidence": 1,
+        "text": "ready."
+      },
+      {
+        "bbox_px": [
+          977,
+          889,
+          1207,
+          902
+        ],
+        "confidence": 1,
+        "text": "Start github-mcp-server MCP server"
+      },
+      {
+        "bbox_px": [
+          977,
+          918,
+          1155,
+          931
+        ],
+        "confidence": 1,
+        "text": "Start playwright MCP server"
+      },
+      {
+        "bbox_px": [
+          974,
+          947,
+          1338,
+          960
+        ],
+        "confidence": 1,
+        "text": "I'll start by exploring the repository structure to understand the"
+      },
+      {
+        "bbox_px": [
+          977,
+          961,
+          1301,
+          980
+        ],
+        "confidence": 1,
+        "text": "codebase and then implement the necessary changes to"
+      },
+      {
+        "bbox_px": [
+          977,
+          980,
+          1202,
+          994
+        ],
+        "confidence": 1,
+        "text": "render Ul before vehicle_state sync"
+      },
+      {
+        "bbox_px": [
+          977,
+          1009,
+          1309,
+          1023
+        ],
+        "confidence": 1,
+        "text": "Bash: Check current directory and list repository contents"
+      },
+      {
+        "bbox_px": [
+          977,
+          1041,
+          1243,
+          1056
+        ],
+        "confidence": 1,
+        "text": "View/home/runner/kinetic/kinetic-ios"
+      },
+      {
+        "bbox_px": [
+          977,
+          1075,
+          1055,
+          1096
+        ],
+        "confidence": 1,
+        "text": "Thinking"
+      },
+      {
+        "bbox_px": [
+          982,
+          1159,
+          1147,
+          1175
+        ],
+        "confidence": 1,
+        "text": "Message GitHub Copilot..."
+      },
+      {
+        "bbox_px": [
+          78,
+          1474,
+          172,
+          1499
+        ],
+        "confidence": 1,
+        "text": "A Vercel"
+      },
+      {
+        "bbox_px": [
+          243,
+          1469,
+          350,
+          1499
+        ],
+        "confidence": 1,
+        "text": "→ CURSOR"
+      },
+      {
+        "bbox_px": [
+          420,
+          1478,
+          496,
+          1499
+        ],
+        "confidence": 1,
+        "text": "oscar"
+      },
+      {
+        "bbox_px": [
+          569,
+          1475,
+          655,
+          1499
+        ],
+        "confidence": 1,
+        "text": "OpenAl"
+      },
+      {
+        "bbox_px": [
+          729,
+          1475,
+          833,
+          1494
+        ],
+        "confidence": 1,
+        "text": "coinbase"
+      },
+      {
+        "bbox_px": [
+          940,
+          1474,
+          1021,
+          1494
+        ],
+        "confidence": 1,
+        "text": "Cash App"
+      },
+      {
+        "bbox_px": [
+          1105,
+          1472,
+          1196,
+          1499
+        ],
+        "confidence": 1,
+        "text": "* BOOM"
+      },
+      {
+        "bbox_px": [
+          1264,
+          1472,
+          1359,
+          1501
+        ],
+        "confidence": 1,
+        "text": "ramp L"
+      },
+      {
+        "bbox_px": [
+          78,
+          1598,
+          1217,
+          1645
+        ],
+        "confidence": 1,
+        "text": "A new species of product tool. Purpose-built for modern"
+      },
+      {
+        "bbox_px": [
+          75,
+          1641,
+          1152,
+          1706
+        ],
+        "confidence": 1,
+        "text": "teams with Al workflows at its core, Linear sets a new"
+      },
+      {
+        "bbox_px": [
+          78,
+          1694,
+          974,
+          1745
+        ],
+        "confidence": 1,
+        "text": "standard for planning and building products."
+      },
+      {
+        "bbox_px": [
+          78,
+          1600,
+          1217,
+          1647
+        ],
+        "confidence": 1,
+        "text": "A new species of product tool. Purpose-built for modern"
+      },
+      {
+        "bbox_px": [
+          75,
+          1642,
+          1152,
+          1705
+        ],
+        "confidence": 1,
+        "text": "teams with Al workflows at its core, Linear sets a new"
+      },
+      {
+        "bbox_px": [
+          75,
+          1696,
+          977,
+          1744
+        ],
+        "confidence": 1,
+        "text": "standard for planning and building products."
+      },
+      {
+        "bbox_px": [
+          80,
+          1876,
+          133,
+          1890
+        ],
+        "confidence": 1,
+        "text": "FIG 0.2"
+      },
+      {
+        "bbox_px": [
+          538,
+          1877,
+          590,
+          1890
+        ],
+        "confidence": 1,
+        "text": "FIG 0.3"
+      },
+      {
+        "bbox_px": [
+          961,
+          1876,
+          1016,
+          1890
+        ],
+        "confidence": 1,
+        "text": "FIG 0.4"
+      },
+      {
+        "bbox_px": [
+          77,
+          2265,
+          199,
+          2287
+        ],
+        "confidence": 1,
+        "text": "Built for purpose"
+      },
+      {
+        "bbox_px": [
+          78,
+          2298,
+          339,
+          2317
+        ],
+        "confidence": 1,
+        "text": "Linear is shaped by the practices and"
+      },
+      {
+        "bbox_px": [
+          78,
+          2324,
+          358,
+          2340
+        ],
+        "confidence": 1,
+        "text": "principles of world-class product teams."
+      },
+      {
+        "bbox_px": [
+          535,
+          2266,
+          692,
+          2285
+        ],
+        "confidence": 1,
+        "text": "Powered by Al agents"
+      },
+      {
+        "bbox_px": [
+          538,
+          2298,
+          865,
+          2317
+        ],
+        "confidence": 1,
+        "text": "Designed for workflows shared by humans and"
+      },
+      {
+        "bbox_px": [
+          535,
+          2321,
+          838,
+          2340
+        ],
+        "confidence": 1,
+        "text": "agents. From drafting PRDs to pushing PRs."
+      },
+      {
+        "bbox_px": [
+          961,
+          2266,
+          1102,
+          2282
+        ],
+        "confidence": 1,
+        "text": "Designed for speed"
+      },
+      {
+        "bbox_px": [
+          961,
+          2298,
+          1257,
+          2314
+        ],
+        "confidence": 1,
+        "text": "Reduces noise and restores momentum to"
+      },
+      {
+        "bbox_px": [
+          961,
+          2321,
+          1275,
+          2340
+        ],
+        "confidence": 1,
+        "text": "help teams ship with high velocity and focus."
+      },
+      {
+        "bbox_px": [
+          77,
+          2644,
+          366,
+          2703
+        ],
+        "confidence": 1,
+        "text": "Make product"
+      },
+      {
+        "bbox_px": [
+          78,
+          2691,
+          536,
+          2743
+        ],
+        "confidence": 1,
+        "text": "operations self-driving"
+      },
+      {
+        "bbox_px": [
+          747,
+          2646,
+          1215,
+          2670
+        ],
+        "confidence": 1,
+        "text": "Turn conversations and customer feedback"
+      },
+      {
+        "bbox_px": [
+          747,
+          2677,
+          1147,
+          2706
+        ],
+        "confidence": 1,
+        "text": "into actionable issues that are routed,"
+      },
+      {
+        "bbox_px": [
+          747,
+          2706,
+          1184,
+          2739
+        ],
+        "confidence": 1,
+        "text": "labeled, and prioritized for the right team."
+      },
+      {
+        "bbox_px": [
+          750,
+          2787,
+          849,
+          2803
+        ],
+        "confidence": 1,
+        "text": "1.0 Intake →"
+      },
+      {
+        "bbox_px": [
+          81,
+          2897,
+          243,
+          2913
+        ],
+        "confidence": 1,
+        "text": "1. Thread in #feedback"
+      },
+      {
+        "bbox_px": [
+          645,
+          2939,
+          718,
+          2952
+        ],
+        "confidence": 1,
+        "text": "• Todo 71"
+      },
+      {
+        "bbox_px": [
+          645,
+          2991,
+          689,
+          3002
+        ],
+        "confidence": 1,
+        "text": "ENG-926"
+      },
+      {
+        "bbox_px": [
+          642,
+          3009,
+          799,
+          3023
+        ],
+        "confidence": 1,
+        "text": "Remove Ul inconsistencies"
+      },
+      {
+        "bbox_px": [
+          961,
+          2939,
+          1068,
+          2955
+        ],
+        "confidence": 1,
+        "text": "• In Progress 3"
+      },
+      {
+        "bbox_px": [
+          128,
+          2984,
+          224,
+          2997
+        ],
+        "confidence": 1,
+        "text": "lena 12:34 PM"
+      },
+      {
+        "bbox_px": [
+          128,
+          3007,
+          496,
+          3023
+        ],
+        "confidence": 1,
+        "text": "Anyone else noticing the iOS app feels slow to open if"
+      },
+      {
+        "bbox_px": [
+          127,
+          3025,
+          316,
+          3046
+        ],
+        "confidence": 1,
+        "text": "you haven't used it in a bit?"
+      },
+      {
+        "bbox_px": [
+          128,
+          3069,
+          235,
+          3086
+        ],
+        "confidence": 1,
+        "text": "didier 12:34 PM"
+      },
+      {
+        "bbox_px": [
+          127,
+          3092,
+          436,
+          3114
+        ],
+        "confidence": 1,
+        "text": "Yea, we're still blocking initial render on a full"
+      },
+      {
+        "bbox_px": [
+          128,
+          3116,
+          339,
+          3133
+        ],
+        "confidence": 1,
+        "text": "vehicle_state sync every time..."
+      },
+      {
+        "bbox_px": [
+          128,
+          3159,
+          250,
+          3174
+        ],
+        "confidence": 1,
+        "text": "andreas 12:34 PM"
+      },
+      {
+        "bbox_px": [
+          128,
+          3182,
+          493,
+          3198
+        ],
+        "confidence": 1,
+        "text": "Feels like we could render sooner and load the rest in"
+      },
+      {
+        "bbox_px": [
+          128,
+          3203,
+          491,
+          3222
+        ],
+        "confidence": 1,
+        "text": "the background. Probably also worth tracking startup"
+      },
+      {
+        "bbox_px": [
+          128,
+          3227,
+          423,
+          3243
+        ],
+        "confidence": 1,
+        "text": "timing so we know how often this happens!"
+      },
+      {
+        "bbox_px": [
+          959,
+          2994,
+          1006,
+          2999
+        ],
+        "confidence": 0.5,
+        "text": "EN6-148"
+      },
+      {
+        "bbox_px": [
+          959,
+          3009,
+          1189,
+          3023
+        ],
+        "confidence": 1,
+        "text": "Remove contentData from GraphQL API"
+      },
+      {
+        "bbox_px": [
+          990,
+          3051,
+          1037,
+          3065
+        ],
+        "confidence": 1,
+        "text": "13 61039"
+      },
+      {
+        "bbox_px": [
+          535,
+          3114,
+          572,
+          3127
+        ],
+        "confidence": 1,
+        "text": "reams"
+      },
+      {
+        "bbox_px": [
+          535,
+          3219,
+          588,
+          3233
+        ],
+        "confidence": 1,
+        "text": "icle sync"
+      },
+      {
+        "bbox_px": [
+          642,
+          3112,
+          841,
+          3127
+        ],
+        "confidence": 1,
+        "text": "TypeError: Cannot read properties"
+      },
+      {
+        "bbox_px": [
+          673,
+          3156,
+          706,
+          3168
+        ],
+        "confidence": 0.5,
+        "text": "• B4g"
+      },
+      {
+        "bbox_px": [
+          642,
+          3216,
+          810,
+          3233
+        ],
+        "confidence": 1,
+        "text": "Upgrade to Claude Opus 4.5"
+      },
+      {
+        "bbox_px": [
+          959,
+          3114,
+          1076,
+          3127
+        ],
+        "confidence": 1,
+        "text": "Launch page assets"
+      },
+      {
+        "bbox_px": [
+          990,
+          3156,
+          1037,
+          3169
+        ],
+        "confidence": 1,
+        "text": "• Design"
+      },
+      {
+        "bbox_px": [
+          959,
+          3198,
+          1008,
+          3211
+        ],
+        "confidence": 1,
+        "text": "ENG-2187"
+      },
+      {
+        "bbox_px": [
+          958,
+          3216,
+          1194,
+          3234
+        ],
+        "confidence": 1,
+        "text": "Prevent duplicate ride requests on poor.."
+      },
+      {
+        "bbox_px": [
+          86,
+          3297,
+          418,
+          3314
+        ],
+        "confidence": 1,
+        "text": "@Linear create urgent issues and assign to me"
+      },
+      {
+        "bbox_px": [
+          535,
+          3326,
+          569,
+          3334
+        ],
+        "confidence": 1,
+        "text": "outng"
+      },
+      {
+        "bbox_px": [
+          645,
+          3321,
+          760,
+          3334
+        ],
+        "confidence": 1,
+        "text": "Optimize load times"
+      },
+      {
+        "bbox_px": [
+          128,
+          3205,
+          491,
+          3221
+        ],
+        "confidence": 1,
+        "text": "the background. Probably also worth tracking startup"
+      },
+      {
+        "bbox_px": [
+          128,
+          3226,
+          425,
+          3244
+        ],
+        "confidence": 1,
+        "text": "timing so we know how often this happens!"
+      },
+      {
+        "bbox_px": [
+          86,
+          3299,
+          420,
+          3315
+        ],
+        "confidence": 1,
+        "text": "@Linear create urgent issues and assign to me"
+      },
+      {
+        "bbox_px": [
+          193,
+          3396,
+          211,
+          3411
+        ],
+        "confidence": 1,
+        "text": "a"
+      },
+      {
+        "bbox_px": [
+          535,
+          3218,
+          588,
+          3231
+        ],
+        "confidence": 1,
+        "text": "icle sync"
+      },
+      {
+        "bbox_px": [
+          540,
+          3322,
+          572,
+          3336
+        ],
+        "confidence": 1,
+        "text": "uting"
+      },
+      {
+        "bbox_px": [
+          78,
+          3859,
+          290,
+          3903
+        ],
+        "confidence": 1,
+        "text": "Define the"
+      },
+      {
+        "bbox_px": [
+          77,
+          3904,
+          426,
+          3956
+        ],
+        "confidence": 1,
+        "text": "product direction"
+      },
+      {
+        "bbox_px": [
+          240,
+          4147,
+          271,
+          4157
+        ],
+        "confidence": 1,
+        "text": "MAR"
+      },
+      {
+        "bbox_px": [
+          360,
+          4173,
+          381,
+          4183
+        ],
+        "confidence": 1,
+        "text": "23"
+      },
+      {
+        "bbox_px": [
+          78,
+          4230,
+          143,
+          4244
+        ],
+        "confidence": 1,
+        "text": "Initiatives"
+      },
+      {
+        "bbox_px": [
+          107,
+          4293,
+          193,
+          4309
+        ],
+        "confidence": 1,
+        "text": "Core Product"
+      },
+      {
+        "bbox_px": [
+          104,
+          4348,
+          206,
+          4364
+        ],
+        "confidence": 1,
+        "text": "Infra stability"
+      },
+      {
+        "bbox_px": [
+          125,
+          4400,
+          261,
+          4417
+        ],
+        "confidence": 1,
+        "text": "Autonomous systems"
+      },
+      {
+        "bbox_px": [
+          125,
+          4450,
+          203,
+          4466
+        ],
+        "confidence": 1,
+        "text": "Mobile apps"
+      },
+      {
+        "bbox_px": [
+          107,
+          4521,
+          211,
+          4536
+        ],
+        "confidence": 1,
+        "text": "APAC Expansion"
+      },
+      {
+        "bbox_px": [
+          125,
+          4575,
+          216,
+          4592
+        ],
+        "confidence": 1,
+        "text": "Japan Launch"
+      },
+      {
+        "bbox_px": [
+          125,
+          4627,
+          290,
+          4641
+        ],
+        "confidence": 1,
+        "text": "Customer-driven priorities"
+      },
+      {
+        "bbox_px": [
+          397,
+          4147,
+          428,
+          4160
+        ],
+        "confidence": 1,
+        "text": "APR"
+      },
+      {
+        "bbox_px": [
+          399,
+          4170,
+          420,
+          4183
+        ],
+        "confidence": 1,
+        "text": "30"
+      },
+      {
+        "bbox_px": [
+          415,
+          4293,
+          436,
+          4309
+        ],
+        "confidence": 1,
+        "text": "99"
+      },
+      {
+        "bbox_px": [
+          415,
+          4348,
+          436,
+          4361
+        ],
+        "confidence": 1,
+        "text": "28"
+      },
+      {
+        "bbox_px": [
+          418,
+          4400,
+          436,
+          4413
+        ],
+        "confidence": 1,
+        "text": "16"
+      },
+      {
+        "bbox_px": [
+          418,
+          4523,
+          436,
+          4536
+        ],
+        "confidence": 1,
+        "text": "21"
+      },
+      {
+        "bbox_px": [
+          418,
+          4576,
+          436,
+          4589
+        ],
+        "confidence": 1,
+        "text": "12"
+      },
+      {
+        "bbox_px": [
+          520,
+          4170,
+          540,
+          4183
+        ],
+        "confidence": 1,
+        "text": "20"
+      },
+      {
+        "bbox_px": [
+          559,
+          4147,
+          590,
+          4160
+        ],
+        "confidence": 1,
+        "text": "MAY"
+      },
+      {
+        "bbox_px": [
+          561,
+          4170,
+          580,
+          4183
+        ],
+        "confidence": 1,
+        "text": "27"
+      },
+      {
+        "bbox_px": [
+          509,
+          4355,
+          608,
+          4369
+        ],
+        "confidence": 1,
+        "text": "• Split fares ~"
+      },
+      {
+        "bbox_px": [
+          645,
+          3200,
+          689,
+          3213
+        ],
+        "confidence": 1,
+        "text": "ENG-924"
+      },
+      {
+        "bbox_px": [
+          642,
+          3215,
+          810,
+          3234
+        ],
+        "confidence": 1,
+        "text": "Upgrade to Claude Opus 4.5"
+      },
+      {
+        "bbox_px": [
+          909,
+          3200,
+          927,
+          3215
+        ],
+        "confidence": 1,
+        "text": "e"
+      },
+      {
+        "bbox_px": [
+          961,
+          3200,
+          1008,
+          3210
+        ],
+        "confidence": 1,
+        "text": "ENG-2187"
+      },
+      {
+        "bbox_px": [
+          959,
+          3218,
+          1194,
+          3231
+        ],
+        "confidence": 1,
+        "text": "Prevent duplicate ride requests on poor.."
+      },
+      {
+        "bbox_px": [
+          676,
+          3259,
+          697,
+          3270
+        ],
+        "confidence": 0.5,
+        "text": "• AI"
+      },
+      {
+        "bbox_px": [
+          645,
+          3302,
+          695,
+          3315
+        ],
+        "confidence": 1,
+        "text": "ENG-1882"
+      },
+      {
+        "bbox_px": [
+          645,
+          3322,
+          760,
+          3336
+        ],
+        "confidence": 1,
+        "text": "Optimize load times"
+      },
+      {
+        "bbox_px": [
+          671,
+          3364,
+          750,
+          3377
+        ],
+        "confidence": 1,
+        "text": "• Performance"
+      },
+      {
+        "bbox_px": [
+          990,
+          3260,
+          1024,
+          3273
+        ],
+        "confidence": 1,
+        "text": "* Bug"
+      },
+      {
+        "bbox_px": [
+          1037,
+          3260,
+          1089,
+          3273
+        ],
+        "confidence": 1,
+        "text": "I) 62048"
+      },
+      {
+        "bbox_px": [
+          749,
+          3570,
+          878,
+          3590
+        ],
+        "confidence": 1,
+        "text": "1.1 Linear Agent"
+      },
+      {
+        "bbox_px": [
+          749,
+          3599,
+          925,
+          3619
+        ],
+        "confidence": 1,
+        "text": "1.3 Customer Requests"
+      },
+      {
+        "bbox_px": [
+          1107,
+          3571,
+          1192,
+          3589
+        ],
+        "confidence": 1,
+        "text": "1.2 Triage"
+      },
+      {
+        "bbox_px": [
+          1108,
+          3599,
+          1228,
+          3615
+        ],
+        "confidence": 1,
+        "text": "1.4 Linear Asks"
+      },
+      {
+        "bbox_px": [
+          750,
+          3861,
+          1215,
+          3888
+        ],
+        "confidence": 1,
+        "text": "Plan and navigate from idea to launch. Align"
+      },
+      {
+        "bbox_px": [
+          750,
+          3895,
+          1204,
+          3917
+        ],
+        "confidence": 1,
+        "text": "your team with product initiatives, strategic"
+      },
+      {
+        "bbox_px": [
+          749,
+          3924,
+          1163,
+          3952
+        ],
+        "confidence": 1,
+        "text": "roadmaps, and clear, up-to-date PRDs."
+      },
+      {
+        "bbox_px": [
+          750,
+          4005,
+          836,
+          4021
+        ],
+        "confidence": 1,
+        "text": "2.0 Plan →"
+      },
+      {
+        "bbox_px": [
+          718,
+          4147,
+          747,
+          4160
+        ],
+        "confidence": 1,
+        "text": "JUN"
+      },
+      {
+        "bbox_px": [
+          721,
+          4173,
+          742,
+          4183
+        ],
+        "confidence": 1,
+        "text": "25"
+      },
+      {
+        "bbox_px": [
+          637,
+          4248,
+          739,
+          4262
+        ],
+        "confidence": 1,
+        "text": "* UI Refresh"
+      },
+      {
+        "bbox_px": [
+          875,
+          4147,
+          904,
+          4160
+        ],
+        "confidence": 1,
+        "text": "JUL"
+      },
+      {
+        "bbox_px": [
+          870,
+          4172,
+          896,
+          4181
+        ],
+        "confidence": 0.5,
+        "text": "• 22"
+      },
+      {
+        "bbox_px": [
+          917,
+          4170,
+          940,
+          4183
+        ],
+        "confidence": 1,
+        "text": "29"
+      },
+      {
+        "bbox_px": [
+          1037,
+          4147,
+          1068,
+          4160
+        ],
+        "confidence": 1,
+        "text": "AUG"
+      },
+      {
+        "bbox_px": [
+          1037,
+          4173,
+          1061,
+          4183
+        ],
+        "confidence": 1,
+        "text": "20"
+      },
+      {
+        "bbox_px": [
+          1079,
+          4173,
+          1097,
+          4183
+        ],
+        "confidence": 1,
+        "text": "27"
+      },
+      {
+        "bbox_px": [
+          763,
+          4306,
+          831,
+          4319
+        ],
+        "confidence": 1,
+        "text": "Core screens"
+      },
+      {
+        "bbox_px": [
+          648,
+          4413,
+          689,
+          4424
+        ],
+        "confidence": 1,
+        "text": "Internal"
+      },
+      {
+        "bbox_px": [
+          953,
+          4413,
+          1014,
+          4427
+        ],
+        "confidence": 1,
+        "text": "Public Beta"
+      },
+      {
+        "bbox_px": [
+          888,
+          4463,
+          1066,
+          4479
+        ],
+        "confidence": 1,
+        "text": "• Autonomy status clarity"
+      },
+      {
+        "bbox_px": [
+          750,
+          4780,
+          778,
+          4795
+        ],
+        "confidence": 1,
+        "text": "2.1"
+      },
+      {
+        "bbox_px": [
+          775,
+          4780,
+          844,
+          4799
+        ],
+        "confidence": 1,
+        "text": "Projects"
+      },
+      {
+        "bbox_px": [
+          750,
+          4809,
+          854,
+          4825
+        ],
+        "confidence": 1,
+        "text": "2.3 Initiatives"
+      },
+      {
+        "bbox_px": [
+          1107,
+          4778,
+          1226,
+          4799
+        ],
+        "confidence": 1,
+        "text": "2.2 Documents"
+      },
+      {
+        "bbox_px": [
+          1107,
+          4806,
+          1252,
+          4827
+        ],
+        "confidence": 1,
+        "text": "2.4 Visual planning"
+      },
+      {
+        "bbox_px": [
+          78,
+          5066,
+          475,
+          5111
+        ],
+        "confidence": 1,
+        "text": "Move work forward"
+      },
+      {
+        "bbox_px": [
+          75,
+          5109,
+          591,
+          5168
+        ],
+        "confidence": 1,
+        "text": "across teams and agents"
+      },
+      {
+        "bbox_px": [
+          83,
+          5354,
+          164,
+          5380
+        ],
+        "confidence": 1,
+        "text": "• Codex"
+      },
+      {
+        "bbox_px": [
+          88,
+          5427,
+          300,
+          5441
+        ],
+        "confidence": 1,
+        "text": "On it! I've received your request."
+      },
+      {
+        "bbox_px": [
+          86,
+          5464,
+          486,
+          5480
+        ],
+        "confidence": 1,
+        "text": "Kicked off atask in kinetic/kinetic-iOS environment."
+      },
+      {
+        "bbox_px": [
+          86,
+          5503,
+          290,
+          5519
+        ],
+        "confidence": 1,
+        "text": "Searching for root AGENTS file"
+      },
+      {
+        "bbox_px": [
+          86,
+          5542,
+          402,
+          5558
+        ],
+        "confidence": 1,
+        "text": "kinetic/kinetic-iOS$ /bin/bash -lc rg"
+      },
+      {
+        "bbox_px": [
+          399,
+          5537,
+          593,
+          5564
+        ],
+        "confidence": 1,
+        "text": "--files -giAGENTS.md'"
+      },
+      {
+        "bbox_px": [
+          86,
+          5569,
+          164,
+          5582
+        ],
+        "confidence": 1,
+        "text": "AGENTS.md"
+      },
+      {
+        "bbox_px": [
+          86,
+          5605,
+          397,
+          5622
+        ],
+        "confidence": 1,
+        "text": "Locating initialization logic for vehicle_state"
+      },
+      {
+        "bbox_px": [
+          88,
+          5639,
+          182,
+          5658
+        ],
+        "confidence": 1,
+        "text": "Thinking..."
+      },
+      {
+        "bbox_px": [
+          78,
+          6233,
+          407,
+          6272
+        ],
+        "confidence": 1,
+        "text": "Review PRs and"
+      },
+      {
+        "bbox_px": [
+          75,
+          6279,
+          345,
+          6332
+        ],
+        "confidence": 1,
+        "text": "agent output"
+      },
+      {
+        "bbox_px": [
+          81,
+          6526,
+          475,
+          6542
+        ],
+        "confidence": 1,
+        "text": "U kinetic-ios/src/screens/Home/HomeScreen.tsx"
+      },
+      {
+        "bbox_px": [
+          750,
+          4810,
+          854,
+          4826
+        ],
+        "confidence": 1,
+        "text": "2.3 Initiatives"
+      },
+      {
+        "bbox_px": [
+          1107,
+          4807,
+          1252,
+          4827
+        ],
+        "confidence": 1,
+        "text": "2.4 Visual planning"
+      },
+      {
+        "bbox_px": [
+          750,
+          5068,
+          1243,
+          5095
+        ],
+        "confidence": 1,
+        "text": "Build and deploy Al agents that work alongside"
+      },
+      {
+        "bbox_px": [
+          747,
+          5100,
+          1215,
+          5130
+        ],
+        "confidence": 1,
+        "text": "your team. Work on complex tasks together"
+      },
+      {
+        "bbox_px": [
+          750,
+          5134,
+          1144,
+          5158
+        ],
+        "confidence": 1,
+        "text": "or delegate entire issues end-to-end."
+      },
+      {
+        "bbox_px": [
+          750,
+          5210,
+          841,
+          5226
+        ],
+        "confidence": 1,
+        "text": "3.0 Build →"
+      },
+      {
+        "bbox_px": [
+          760,
+          5391,
+          849,
+          5409
+        ],
+        "confidence": 1,
+        "text": "Assign to..."
+      },
+      {
+        "bbox_px": [
+          757,
+          5461,
+          838,
+          5483
+        ],
+        "confidence": 1,
+        "text": "Codex"
+      },
+      {
+        "bbox_px": [
+          849,
+          5467,
+          888,
+          5480
+        ],
+        "confidence": 1,
+        "text": "Agent"
+      },
+      {
+        "bbox_px": [
+          776,
+          5521,
+          841,
+          5535
+        ],
+        "confidence": 1,
+        "text": "Steven"
+      },
+      {
+        "bbox_px": [
+          763,
+          5577,
+          823,
+          5592
+        ],
+        "confidence": 1,
+        "text": "Ema"
+      },
+      {
+        "bbox_px": [
+          757,
+          5628,
+          948,
+          5650
+        ],
+        "confidence": 1,
+        "text": "® GitHub Copilot Agent"
+      },
+      {
+        "bbox_px": [
+          757,
+          5686,
+          841,
+          5708
+        ],
+        "confidence": 1,
+        "text": "• Cursor"
+      },
+      {
+        "bbox_px": [
+          841,
+          5692,
+          888,
+          5705
+        ],
+        "confidence": 1,
+        "text": "Agent"
+      },
+      {
+        "bbox_px": [
+          752,
+          5741,
+          823,
+          5766
+        ],
+        "confidence": 0.5,
+        "text": "• Meg"
+      },
+      {
+        "bbox_px": [
+          747,
+          5914,
+          773,
+          5932
+        ],
+        "confidence": 1,
+        "text": "3.1"
+      },
+      {
+        "bbox_px": [
+          783,
+          5916,
+          833,
+          5933
+        ],
+        "confidence": 1,
+        "text": "Issues"
+      },
+      {
+        "bbox_px": [
+          750,
+          5943,
+          776,
+          5959
+        ],
+        "confidence": 1,
+        "text": "3.3"
+      },
+      {
+        "bbox_px": [
+          784,
+          5943,
+          870,
+          5959
+        ],
+        "confidence": 1,
+        "text": "Linear MCP"
+      },
+      {
+        "bbox_px": [
+          750,
+          5971,
+          836,
+          5990
+        ],
+        "confidence": 1,
+        "text": "3.5 Cycles"
+      },
+      {
+        "bbox_px": [
+          1107,
+          5916,
+          1197,
+          5935
+        ],
+        "confidence": 1,
+        "text": "3.2 Agents"
+      },
+      {
+        "bbox_px": [
+          1107,
+          5943,
+          1257,
+          5961
+        ],
+        "confidence": 1,
+        "text": "3.4 Git automations"
+      },
+      {
+        "bbox_px": [
+          750,
+          6233,
+          1212,
+          6260
+        ],
+        "confidence": 1,
+        "text": "Understand code changes at a glance with"
+      },
+      {
+        "bbox_px": [
+          747,
+          6263,
+          1207,
+          6292
+        ],
+        "confidence": 1,
+        "text": "structural diffs for human and agent output."
+      },
+      {
+        "bbox_px": [
+          750,
+          6299,
+          1246,
+          6325
+        ],
+        "confidence": 1,
+        "text": "Review, discuss, and merge - all within Linear."
+      },
+      {
+        "bbox_px": [
+          750,
+          6374,
+          972,
+          6393
+        ],
+        "confidence": 1,
+        "text": "4.0 Reviews (Coming soon) →"
+      },
+      {
+        "bbox_px": [
+          109,
+          6528,
+          475,
+          6541
+        ],
+        "confidence": 1,
+        "text": "kinetic-ios/src/screens/Home/HomeScreen.tsx"
+      },
+      {
+        "bbox_px": [
+          81,
+          6632,
+          99,
+          6645
+        ],
+        "confidence": 1,
+        "text": "02"
+      },
+      {
+        "bbox_px": [
+          81,
+          6656,
+          101,
+          6669
+        ],
+        "confidence": 1,
+        "text": "03"
+      },
+      {
+        "bbox_px": [
+          81,
+          6679,
+          101,
+          6693
+        ],
+        "confidence": 1,
+        "text": "04"
+      },
+      {
+        "bbox_px": [
+          81,
+          6703,
+          99,
+          6716
+        ],
+        "confidence": 1,
+        "text": "05"
+      },
+      {
+        "bbox_px": [
+          81,
+          6729,
+          101,
+          6740
+        ],
+        "confidence": 1,
+        "text": "06"
+      },
+      {
+        "bbox_px": [
+          81,
+          6750,
+          99,
+          6763
+        ],
+        "confidence": 1,
+        "text": "07"
+      },
+      {
+        "bbox_px": [
+          81,
+          6776,
+          101,
+          6789
+        ],
+        "confidence": 1,
+        "text": "08"
+      },
+      {
+        "bbox_px": [
+          81,
+          6800,
+          101,
+          6813
+        ],
+        "confidence": 1,
+        "text": "09"
+      },
+      {
+        "bbox_px": [
+          81,
+          6823,
+          101,
+          6836
+        ],
+        "confidence": 1,
+        "text": "10"
+      },
+      {
+        "bbox_px": [
+          112,
+          6609,
+          169,
+          6622
+        ],
+        "confidence": 1,
+        "text": "import"
+      },
+      {
+        "bbox_px": [
+          169,
+          6604,
+          324,
+          6622
+        ],
+        "confidence": 1,
+        "text": "React fromireact'"
+      },
+      {
+        "bbox_px": [
+          112,
+          6632,
+          167,
+          6645
+        ],
+        "confidence": 1,
+        "text": "import"
+      },
+      {
+        "bbox_px": [
+          169,
+          6629,
+          230,
+          6647
+        ],
+        "confidence": 1,
+        "text": "{ View,"
+      },
+      {
+        "bbox_px": [
+          235,
+          6630,
+          567,
+          6646
+        ],
+        "confidence": 1,
+        "text": "ActivityIndicator } from 'react-native'"
+      },
+      {
+        "bbox_px": [
+          112,
+          6656,
+          164,
+          6669
+        ],
+        "confidence": 1,
+        "text": "import"
+      },
+      {
+        "bbox_px": [
+          185,
+          6651,
+          582,
+          6673
+        ],
+        "confidence": 1,
+        "text": "useVehicleState } from '@hooks/useVehicleState'"
+      },
+      {
+        "bbox_px": [
+          112,
+          6679,
+          167,
+          6693
+        ],
+        "confidence": 1,
+        "text": "import"
+      },
+      {
+        "bbox_px": [
+          169,
+          6677,
+          329,
+          6693
+        ],
+        "confidence": 1,
+        "text": "{ Dashboard } from"
+      },
+      {
+        "bbox_px": [
+          326,
+          6677,
+          525,
+          6693
+        ],
+        "confidence": 1,
+        "text": "'@components/Dashboard'"
+      },
+      {
+        "bbox_px": [
+          109,
+          6724,
+          326,
+          6743
+        ],
+        "confidence": 1,
+        "text": "export const HomeScreen ="
+      },
+      {
+        "bbox_px": [
+          329,
+          6729,
+          373,
+          6740
+        ],
+        "confidence": 0.30000001192092896,
+        "text": "• =>"
+      },
+      {
+        "bbox_px": [
+          127,
+          6748,
+          313,
+          6769
+        ],
+        "confidence": 1,
+        "text": "const { vehicleState,"
+      },
+      {
+        "bbox_px": [
+          310,
+          6750,
+          441,
+          6766
+        ],
+        "confidence": 1,
+        "text": "isFullySynced }"
+      },
+      {
+        "bbox_px": [
+          444,
+          6750,
+          606,
+          6766
+        ],
+        "confidence": 1,
+        "text": "= useVehicleState()"
+      },
+      {
+        "bbox_px": [
+          128,
+          6797,
+          308,
+          6816
+        ],
+        "confidence": 1,
+        "text": "if (!isFullySynced) {"
+      },
+      {
+        "bbox_px": [
+          143,
+          6820,
+          491,
+          6842
+        ],
+        "confidence": 1,
+        "text": "return ‹ActivityIndicator size=\"large\" />"
+      },
+      {
+        "bbox_px": [
+          128,
+          6897,
+          198,
+          6910
+        ],
+        "confidence": 1,
+        "text": "return ("
+      },
+      {
+        "bbox_px": [
+          143,
+          6920,
+          196,
+          6933
+        ],
+        "confidence": 1,
+        "text": "<View>"
+      },
+      {
+        "bbox_px": [
+          146,
+          6967,
+          206,
+          6980
+        ],
+        "confidence": 1,
+        "text": "</View>"
+      },
+      {
+        "bbox_px": [
+          162,
+          6944,
+          449,
+          6957
+        ],
+        "confidence": 1,
+        "text": "‹Dashboard state={vehicleState} /›"
+      },
+      {
+        "bbox_px": [
+          78,
+          7315,
+          324,
+          7354
+        ],
+        "confidence": 1,
+        "text": "Understand"
+      },
+      {
+        "bbox_px": [
+          77,
+          7361,
+          429,
+          7414
+        ],
+        "confidence": 1,
+        "text": "progress at scale"
+      },
+      {
+        "bbox_px": [
+          78,
+          7663,
+          274,
+          7682
+        ],
+        "confidence": 1,
+        "text": "Weekly Pulse for Feb 16"
+      },
+      {
+        "bbox_px": [
+          462,
+          7666,
+          501,
+          7676
+        ],
+        "confidence": 1,
+        "text": "Listen"
+      },
+      {
+        "bbox_px": [
+          78,
+          7721,
+          133,
+          7734
+        ],
+        "confidence": 1,
+        "text": "Projects"
+      },
+      {
+        "bbox_px": [
+          78,
+          7775,
+          151,
+          7789
+        ],
+        "confidence": 1,
+        "text": "Ul refresh"
+      },
+      {
+        "bbox_px": [
+          104,
+          7804,
+          143,
+          7818
+        ],
+        "confidence": 1,
+        "text": "At risk"
+      },
+      {
+        "bbox_px": [
+          151,
+          7804,
+          284,
+          7820
+        ],
+        "confidence": 1,
+        "text": "By romain • 1 day ago"
+      },
+      {
+        "bbox_px": [
+          96,
+          7836,
+          460,
+          7857
+        ],
+        "confidence": 1,
+        "text": "¡OS implementation is mostly complete, but Android"
+      },
+      {
+        "bbox_px": [
+          99,
+          7862,
+          331,
+          7878
+        ],
+        "confidence": 1,
+        "text": "updates are still work in progress"
+      },
+      {
+        "bbox_px": [
+          83,
+          7893,
+          486,
+          7912
+        ],
+        "confidence": 1,
+        "text": "•Risk of timeline slip if remaining design decisions aren't"
+      },
+      {
+        "bbox_px": [
+          99,
+          7916,
+          201,
+          7933
+        ],
+        "confidence": 1,
+        "text": "finalized soon"
+      },
+      {
+        "bbox_px": [
+          78,
+          7969,
+          177,
+          7985
+        ],
+        "confidence": 1,
+        "text": "Tokyo launch"
+      },
+      {
+        "bbox_px": [
+          101,
+          8000,
+          303,
+          8017
+        ],
+        "confidence": 1,
+        "text": "On track By julian • 3 hours ago"
+      },
+      {
+        "bbox_px": [
+          83,
+          8032,
+          389,
+          8048
+        ],
+        "confidence": 1,
+        "text": "• Localization efforts have been completed"
+      },
+      {
+        "bbox_px": [
+          83,
+          8063,
+          478,
+          8082
+        ],
+        "confidence": 1,
+        "text": "• Everything else on track for launch in early September"
+      },
+      {
+        "bbox_px": [
+          666,
+          7705,
+          682,
+          7718
+        ],
+        "confidence": 0.5,
+        "text": "18"
+      },
+      {
+        "bbox_px": [
+          666,
+          7784,
+          682,
+          7799
+        ],
+        "confidence": 1,
+        "text": "14"
+      },
+      {
+        "bbox_px": [
+          742,
+          6609,
+          763,
+          6619
+        ],
+        "confidence": 1,
+        "text": "01"
+      },
+      {
+        "bbox_px": [
+          742,
+          6656,
+          763,
+          6669
+        ],
+        "confidence": 1,
+        "text": "03"
+      },
+      {
+        "bbox_px": [
+          742,
+          6703,
+          763,
+          6716
+        ],
+        "confidence": 1,
+        "text": "05"
+      },
+      {
+        "bbox_px": [
+          742,
+          6750,
+          763,
+          6763
+        ],
+        "confidence": 1,
+        "text": "07"
+      },
+      {
+        "bbox_px": [
+          742,
+          6776,
+          763,
+          6789
+        ],
+        "confidence": 1,
+        "text": "08"
+      },
+      {
+        "bbox_px": [
+          742,
+          6800,
+          763,
+          6813
+        ],
+        "confidence": 1,
+        "text": "09"
+      },
+      {
+        "bbox_px": [
+          742,
+          6823,
+          763,
+          6836
+        ],
+        "confidence": 1,
+        "text": "10"
+      },
+      {
+        "bbox_px": [
+          742,
+          6897,
+          763,
+          6910
+        ],
+        "confidence": 1,
+        "text": "13"
+      },
+      {
+        "bbox_px": [
+          742,
+          6920,
+          763,
+          6931
+        ],
+        "confidence": 1,
+        "text": "14"
+      },
+      {
+        "bbox_px": [
+          747,
+          6944,
+          763,
+          6957
+        ],
+        "confidence": 1,
+        "text": "15"
+      },
+      {
+        "bbox_px": [
+          773,
+          6606,
+          985,
+          6622
+        ],
+        "confidence": 1,
+        "text": "import React fromreact'"
+      },
+      {
+        "bbox_px": [
+          770,
+          6627,
+          1228,
+          6649
+        ],
+        "confidence": 1,
+        "text": "import { View, ActivityIndicator } from 'react-native'"
+      },
+      {
+        "bbox_px": [
+          773,
+          6653,
+          1345,
+          6672
+        ],
+        "confidence": 1,
+        "text": "import { useVehicleState, SyncStatus } from '@hooks/useVehicleState'"
+      },
+      {
+        "bbox_px": [
+          773,
+          6679,
+          831,
+          6693
+        ],
+        "confidence": 1,
+        "text": "import"
+      },
+      {
+        "bbox_px": [
+          828,
+          6676,
+          1186,
+          6695
+        ],
+        "confidence": 1,
+        "text": "{ Dashboard } from '@components/Dashboard'"
+      },
+      {
+        "bbox_px": [
+          773,
+          6727,
+          1053,
+          6742
+        ],
+        "confidence": 1,
+        "text": "export const HomeScreen = () => {"
+      },
+      {
+        "bbox_px": [
+          789,
+          6750,
+          1243,
+          6771
+        ],
+        "confidence": 1,
+        "text": "const { vehicleState, syncStatus } = useVehiclestate()"
+      },
+      {
+        "bbox_px": [
+          789,
+          6797,
+          1129,
+          6816
+        ],
+        "confidence": 1,
+        "text": "if (syncStatus === SyncStatus.PENDING) 1"
+      },
+      {
+        "bbox_px": [
+          807,
+          6820,
+          1152,
+          6842
+        ],
+        "confidence": 1,
+        "text": "return ‹ActivityIndicator size=\"large\" />"
+      },
+      {
+        "bbox_px": [
+          789,
+          6894,
+          862,
+          6910
+        ],
+        "confidence": 1,
+        "text": "return ("
+      },
+      {
+        "bbox_px": [
+          807,
+          6920,
+          859,
+          6933
+        ],
+        "confidence": 1,
+        "text": "<View>"
+      },
+      {
+        "bbox_px": [
+          807,
+          6967,
+          867,
+          6980
+        ],
+        "confidence": 1,
+        "text": "</View>"
+      },
+      {
+        "bbox_px": [
+          825,
+          6944,
+          1311,
+          6960
+        ],
+        "confidence": 1,
+        "text": "‹Dashboard state={vehicleState} syncStatus={syncStatus} /≥"
+      },
+      {
+        "bbox_px": [
+          747,
+          7315,
+          1264,
+          7341
+        ],
+        "confidence": 1,
+        "text": "Take the guesswork out of product development"
+      },
+      {
+        "bbox_px": [
+          747,
+          7346,
+          1254,
+          7377
+        ],
+        "confidence": 1,
+        "text": "with project updates, analytics, and dashboards"
+      },
+      {
+        "bbox_px": [
+          747,
+          7380,
+          1165,
+          7407
+        ],
+        "confidence": 1,
+        "text": "that surface what needs your attention."
+      },
+      {
+        "bbox_px": [
+          750,
+          7456,
+          862,
+          7472
+        ],
+        "confidence": 1,
+        "text": "5.0 Monitor →"
+      },
+      {
+        "bbox_px": [
+          750,
+          7632,
+          883,
+          7647
+        ],
+        "confidence": 1,
+        "text": "Cycle time by agent"
+      },
+      {
+        "bbox_px": [
+          1047,
+          8097,
+          1087,
+          8111
+        ],
+        "confidence": 1,
+        "text": "Codex"
+      },
+      {
+        "bbox_px": [
+          81,
+          8000,
+          303,
+          8016
+        ],
+        "confidence": 1,
+        "text": "~ On track By julian • 3 hours ago"
+      },
+      {
+        "bbox_px": [
+          83,
+          8031,
+          389,
+          8050
+        ],
+        "confidence": 1,
+        "text": "• Localization efforts have been completed"
+      },
+      {
+        "bbox_px": [
+          83,
+          8065,
+          480,
+          8084
+        ],
+        "confidence": 1,
+        "text": "•Everything else on track for launch in early September"
+      },
+      {
+        "bbox_px": [
+          820,
+          8099,
+          862,
+          8109
+        ],
+        "confidence": 1,
+        "text": "Cursor"
+      },
+      {
+        "bbox_px": [
+          1045,
+          8102,
+          1084,
+          8107
+        ],
+        "confidence": 0.30000001192092896,
+        "text": "1002>"
+      },
+      {
+        "bbox_px": [
+          1264,
+          8098,
+          1322,
+          8112
+        ],
+        "confidence": 1,
+        "text": "No Agent"
+      },
+      {
+        "bbox_px": [
+          750,
+          8211,
+          776,
+          8227
+        ],
+        "confidence": 1,
+        "text": "5.1"
+      },
+      {
+        "bbox_px": [
+          784,
+          8214,
+          825,
+          8227
+        ],
+        "confidence": 1,
+        "text": "Pulse"
+      },
+      {
+        "bbox_px": [
+          750,
+          8240,
+          776,
+          8256
+        ],
+        "confidence": 1,
+        "text": "5.3"
+      },
+      {
+        "bbox_px": [
+          778,
+          8240,
+          872,
+          8256
+        ],
+        "confidence": 1,
+        "text": "Dashboards"
+      },
+      {
+        "bbox_px": [
+          1107,
+          8210,
+          1202,
+          8231
+        ],
+        "confidence": 1,
+        "text": "5.2 Insights"
+      },
+      {
+        "bbox_px": [
+          75,
+          8558,
+          303,
+          8606
+        ],
+        "confidence": 1,
+        "text": "Changelog"
+      },
+      {
+        "bbox_px": [
+          78,
+          8754,
+          433,
+          8775
+        ],
+        "confidence": 1,
+        "text": "Advanced filters and share issues in private teams"
+      },
+      {
+        "bbox_px": [
+          78,
+          8787,
+          428,
+          8806
+        ],
+        "confidence": 1,
+        "text": "Refine your searches, views, and dashboards with"
+      },
+      {
+        "bbox_px": [
+          78,
+          8810,
+          397,
+          8832
+        ],
+        "confidence": 1,
+        "text": "advanced filters. Combine multiple AND/OR..."
+      },
+      {
+        "bbox_px": [
+          78,
+          8852,
+          169,
+          8869
+        ],
+        "confidence": 1,
+        "text": "FEB 12, 2026"
+      },
+      {
+        "bbox_px": [
+          491,
+          8754,
+          755,
+          8776
+        ],
+        "confidence": 1,
+        "text": "Linear MCP for product management"
+      },
+      {
+        "bbox_px": [
+          493,
+          8787,
+          708,
+          8806
+        ],
+        "confidence": 1,
+        "text": "We've expanded Linear's MCP"
+      },
+      {
+        "bbox_px": [
+          493,
+          8810,
+          736,
+          8829
+        ],
+        "confidence": 1,
+        "text": "server with support for initiatives,..."
+      },
+      {
+        "bbox_px": [
+          493,
+          8852,
+          577,
+          8869
+        ],
+        "confidence": 1,
+        "text": "FEB 4, 2026"
+      },
+      {
+        "bbox_px": [
+          814,
+          8755,
+          917,
+          8774
+        ],
+        "confidence": 1,
+        "text": "Time in status"
+      },
+      {
+        "bbox_px": [
+          815,
+          8787,
+          982,
+          8807
+        ],
+        "confidence": 1,
+        "text": "Time spent in individual"
+      },
+      {
+        "bbox_px": [
+          815,
+          8813,
+          1024,
+          8829
+        ],
+        "confidence": 1,
+        "text": "statuses is now tracked and..."
+      },
+      {
+        "bbox_px": [
+          815,
+          8852,
+          906,
+          8869
+        ],
+        "confidence": 1,
+        "text": "JAN 28, 2026"
+      },
+      {
+        "bbox_px": [
+          1084,
+          8753,
+          1361,
+          8774
+        ],
+        "confidence": 1,
+        "text": "Customizable Linear Mobile navigation"
+      },
+      {
+        "bbox_px": [
+          1084,
+          8787,
+          1353,
+          8808
+        ],
+        "confidence": 1,
+        "text": "Now you can customize Linear Mobile"
+      },
+      {
+        "bbox_px": [
+          1084,
+          8813,
+          1264,
+          8829
+        ],
+        "confidence": 1,
+        "text": "to fit your daily workflow."
+      },
+      {
+        "bbox_px": [
+          1084,
+          8852,
+          1176,
+          8869
+        ],
+        "confidence": 1,
+        "text": "JAN 21, 2026"
+      },
+      {
+        "bbox_px": [
+          75,
+          8954,
+          206,
+          8970
+        ],
+        "confidence": 1,
+        "text": "See all releases →"
+      },
+      {
+        "bbox_px": [
+          75,
+          9171,
+          436,
+          9208
+        ],
+        "confidence": 1,
+        "text": "\"You just have to use it and"
+      },
+      {
+        "bbox_px": [
+          88,
+          9210,
+          410,
+          9245
+        ],
+        "confidence": 1,
+        "text": "you will see, you will just"
+      },
+      {
+        "bbox_px": [
+          88,
+          9245,
+          182,
+          9274
+        ],
+        "confidence": 1,
+        "text": "feel itiẠạỊi"
+      },
+      {
+        "bbox_px": [
+          958,
+          9168,
+          1249,
+          9212
+        ],
+        "confidence": 1,
+        "text": "\"Our speed is intense"
+      },
+      {
+        "bbox_px": [
+          977,
+          9211,
+          1275,
+          9243
+        ],
+        "confidence": 1,
+        "text": "and Linear helps us be"
+      },
+      {
+        "bbox_px": [
+          974,
+          9242,
+          1173,
+          9274
+        ],
+        "confidence": 1,
+        "text": "action biasedẠại"
+      },
+      {
+        "bbox_px": [
+          159,
+          9561,
+          243,
+          9577
+        ],
+        "confidence": 1,
+        "text": "Gabriel Peal"
+      },
+      {
+        "bbox_px": [
+          159,
+          9582,
+          211,
+          9598
+        ],
+        "confidence": 1,
+        "text": "OpenAl"
+      },
+      {
+        "bbox_px": [
+          1045,
+          9561,
+          1121,
+          9577
+        ],
+        "confidence": 1,
+        "text": "Nik Koblov"
+      },
+      {
+        "bbox_px": [
+          1045,
+          9582,
+          1225,
+          9601
+        ],
+        "confidence": 1,
+        "text": "Head of Engineering, Ramp"
+      },
+      {
+        "bbox_px": [
+          78,
+          9674,
+          692,
+          9695
+        ],
+        "confidence": 1,
+        "text": "Linear powers over 20,000 product teams. From ambitious startups to major enterprises."
+      },
+      {
+        "bbox_px": [
+          1220,
+          9676,
+          1358,
+          9693
+        ],
+        "confidence": 1,
+        "text": "Customer stories →"
+      },
+      {
+        "bbox_px": [
+          79,
+          9676,
+          694,
+          9694
+        ],
+        "confidence": 1,
+        "text": "Linear powers over 20,000 product teams. From ambitious startups to major enterprises."
+      },
+      {
+        "bbox_px": [
+          440,
+          9923,
+          1007,
+          9995
+        ],
+        "confidence": 1,
+        "text": "Built for the future."
+      },
+      {
+        "bbox_px": [
+          459,
+          9986,
+          964,
+          10074
+        ],
+        "confidence": 1,
+        "text": "Available today."
+      },
+      {
+        "bbox_px": [
+          627,
+          10117,
+          697,
+          10133
+        ],
+        "confidence": 1,
+        "text": "Open app"
+      },
+      {
+        "bbox_px": [
+          740,
+          10118,
+          816,
+          10130
+        ],
+        "confidence": 1,
+        "text": "Download"
+      },
+      {
+        "bbox_px": [
+          299,
+          10427,
+          355,
+          10442
+        ],
+        "confidence": 1,
+        "text": "Product"
+      },
+      {
+        "bbox_px": [
+          299,
+          10475,
+          343,
+          10492
+        ],
+        "confidence": 1,
+        "text": "Intake"
+      },
+      {
+        "bbox_px": [
+          299,
+          10504,
+          332,
+          10521
+        ],
+        "confidence": 1,
+        "text": "Plan"
+      },
+      {
+        "bbox_px": [
+          299,
+          10534,
+          336,
+          10550
+        ],
+        "confidence": 1,
+        "text": "Build"
+      },
+      {
+        "bbox_px": [
+          299,
+          10561,
+          355,
+          10582
+        ],
+        "confidence": 1,
+        "text": "Reviews"
+      },
+      {
+        "bbox_px": [
+          299,
+          10594,
+          353,
+          10611
+        ],
+        "confidence": 1,
+        "text": "Monitor"
+      },
+      {
+        "bbox_px": [
+          301,
+          10625,
+          347,
+          10643
+        ],
+        "confidence": 1,
+        "text": "Pricing"
+      },
+      {
+        "bbox_px": [
+          301,
+          10655,
+          355,
+          10672
+        ],
+        "confidence": 1,
+        "text": "Security"
+      },
+      {
+        "bbox_px": [
+          523,
+          10427,
+          583,
+          10444
+        ],
+        "confidence": 1,
+        "text": "Features"
+      },
+      {
+        "bbox_px": [
+          523,
+          10475,
+          560,
+          10492
+        ],
+        "confidence": 1,
+        "text": "Asks"
+      },
+      {
+        "bbox_px": [
+          525,
+          10506,
+          573,
+          10524
+        ],
+        "confidence": 1,
+        "text": "Agents"
+      },
+      {
+        "bbox_px": [
+          525,
+          10534,
+          648,
+          10553
+        ],
+        "confidence": 1,
+        "text": "Customer Requests"
+      },
+      {
+        "bbox_px": [
+          523,
+          10563,
+          577,
+          10582
+        ],
+        "confidence": 1,
+        "text": "Insights"
+      },
+      {
+        "bbox_px": [
+          525,
+          10592,
+          573,
+          10611
+        ],
+        "confidence": 1,
+        "text": "Mobile"
+      },
+      {
+        "bbox_px": [
+          523,
+          10623,
+          602,
+          10643
+        ],
+        "confidence": 1,
+        "text": "Integrations"
+      },
+      {
+        "bbox_px": [
+          525,
+          10655,
+          596,
+          10674
+        ],
+        "confidence": 1,
+        "text": "Changelog"
+      },
+      {
+        "bbox_px": [
+          748,
+          10426,
+          814,
+          10445
+        ],
+        "confidence": 1,
+        "text": "Company"
+      },
+      {
+        "bbox_px": [
+          749,
+          10475,
+          791,
+          10492
+        ],
+        "confidence": 1,
+        "text": "About"
+      },
+      {
+        "bbox_px": [
+          749,
+          10504,
+          820,
+          10521
+        ],
+        "confidence": 1,
+        "text": "Customers"
+      },
+      {
+        "bbox_px": [
+          749,
+          10534,
+          801,
+          10552
+        ],
+        "confidence": 1,
+        "text": "Careers"
+      },
+      {
+        "bbox_px": [
+          749,
+          10563,
+          780,
+          10584
+        ],
+        "confidence": 1,
+        "text": "Blog"
+      },
+      {
+        "bbox_px": [
+          747,
+          10594,
+          801,
+          10611
+        ],
+        "confidence": 1,
+        "text": "Method"
+      },
+      {
+        "bbox_px": [
+          747,
+          10621,
+          798,
+          10646
+        ],
+        "confidence": 1,
+        "text": "Quality"
+      },
+      {
+        "bbox_px": [
+          749,
+          10653,
+          791,
+          10672
+        ],
+        "confidence": 1,
+        "text": "Brand"
+      },
+      {
+        "bbox_px": [
+          971,
+          10425,
+          1044,
+          10444
+        ],
+        "confidence": 1,
+        "text": "Resources"
+      },
+      {
+        "bbox_px": [
+          973,
+          10473,
+          1019,
+          10492
+        ],
+        "confidence": 1,
+        "text": "Switch"
+      },
+      {
+        "bbox_px": [
+          971,
+          10504,
+          1040,
+          10521
+        ],
+        "confidence": 1,
+        "text": "Download"
+      },
+      {
+        "bbox_px": [
+          971,
+          10533,
+          1071,
+          10553
+        ],
+        "confidence": 1,
+        "text": "Documentation"
+      },
+      {
+        "bbox_px": [
+          973,
+          10563,
+          1046,
+          10582
+        ],
+        "confidence": 1,
+        "text": "Developers"
+      },
+      {
+        "bbox_px": [
+          973,
+          10594,
+          1017,
+          10611
+        ],
+        "confidence": 1,
+        "text": "Status"
+      },
+      {
+        "bbox_px": [
+          973,
+          10623,
+          1040,
+          10643
+        ],
+        "confidence": 1,
+        "text": "Enterprise"
+      },
+      {
+        "bbox_px": [
+          973,
+          10653,
+          1029,
+          10674
+        ],
+        "confidence": 1,
+        "text": "Startups"
+      },
+      {
+        "bbox_px": [
+          303,
+          10757,
+          454,
+          10774
+        ],
+        "confidence": 1,
+        "text": "Privacy Terms DPA"
+      },
+      {
+        "bbox_px": [
+          1222,
+          9678,
+          1360,
+          9691
+        ],
+        "confidence": 1,
+        "text": "Customer stories →"
+      },
+      {
+        "bbox_px": [
+          1197,
+          10423,
+          1257,
+          10444
+        ],
+        "confidence": 1,
+        "text": "Connect"
+      },
+      {
+        "bbox_px": [
+          1197,
+          10473,
+          1268,
+          10492
+        ],
+        "confidence": 1,
+        "text": "Contact us"
+      },
+      {
+        "bbox_px": [
+          1197,
+          10504,
+          1272,
+          10524
+        ],
+        "confidence": 1,
+        "text": "Community"
+      },
+      {
+        "bbox_px": [
+          1195,
+          10534,
+          1266,
+          10553
+        ],
+        "confidence": 1,
+        "text": "X (Twitter)"
+      },
+      {
+        "bbox_px": [
+          1197,
+          10563,
+          1245,
+          10582
+        ],
+        "confidence": 1,
+        "text": "GitHub"
+      },
+      {
+        "bbox_px": [
+          1195,
+          10592,
+          1255,
+          10611
+        ],
+        "confidence": 1,
+        "text": "YouTube"
+      }
+    ],
+    "path": "screenshots/linear.png",
+    "width": 1440
+  }
+]

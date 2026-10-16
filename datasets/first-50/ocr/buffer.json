@@ -1,0 +1,3219 @@
+[
+  {
+    "height": 7635,
+    "lines": [
+      {
+        "bbox_px": [
+          36,
+          22,
+          154,
+          55
+        ],
+        "confidence": 1,
+        "text": "C Buffer"
+      },
+      {
+        "bbox_px": [
+          324,
+          28,
+          418,
+          44
+        ],
+        "confidence": 1,
+        "text": "Features v"
+      },
+      {
+        "bbox_px": [
+          443,
+          26,
+          570,
+          48
+        ],
+        "confidence": 1,
+        "text": "Integrations v"
+      },
+      {
+        "bbox_px": [
+          598,
+          28,
+          695,
+          44
+        ],
+        "confidence": 1,
+        "text": "Made for v"
+      },
+      {
+        "bbox_px": [
+          723,
+          28,
+          836,
+          44
+        ],
+        "confidence": 1,
+        "text": "Resources v"
+      },
+      {
+        "bbox_px": [
+          850,
+          23,
+          923,
+          50
+        ],
+        "confidence": 1,
+        "text": "Pricing"
+      },
+      {
+        "bbox_px": [
+          1109,
+          28,
+          1166,
+          49
+        ],
+        "confidence": 1,
+        "text": "Log in"
+      },
+      {
+        "bbox_px": [
+          1220,
+          28,
+          1382,
+          47
+        ],
+        "confidence": 1,
+        "text": "Get started for free"
+      },
+      {
+        "bbox_px": [
+          386,
+          162,
+          1050,
+          225
+        ],
+        "confidence": 1,
+        "text": "Your social media"
+      },
+      {
+        "bbox_px": [
+          511,
+          249,
+          930,
+          328
+        ],
+        "confidence": 1,
+        "text": "workspace"
+      },
+      {
+        "bbox_px": [
+          506,
+          354,
+          933,
+          389
+        ],
+        "confidence": 1,
+        "text": "Works with every platform you post to,"
+      },
+      {
+        "bbox_px": [
+          535,
+          392,
+          899,
+          419
+        ],
+        "confidence": 1,
+        "text": "and plugs into your favorite tools"
+      },
+      {
+        "bbox_px": [
+          433,
+          478,
+          582,
+          499
+        ],
+        "confidence": 1,
+        "text": "Enter your email..."
+      },
+      {
+        "bbox_px": [
+          823,
+          478,
+          1008,
+          497
+        ],
+        "confidence": 1,
+        "text": "Get started for free →"
+      },
+      {
+        "bbox_px": [
+          538,
+          541,
+          930,
+          557
+        ],
+        "confidence": 1,
+        "text": "By entering your email, you agree to receive emails from Buffer."
+      },
+      {
+        "bbox_px": [
+          42,
+          851,
+          108,
+          877
+        ],
+        "confidence": 1,
+        "text": "METALLIC"
+      },
+      {
+        "bbox_px": [
+          198,
+          852,
+          300,
+          886
+        ],
+        "confidence": 1,
+        "text": "benefit"
+      },
+      {
+        "bbox_px": [
+          368,
+          854,
+          491,
+          885
+        ],
+        "confidence": 1,
+        "text": "WIRED"
+      },
+      {
+        "bbox_px": [
+          483,
+          805,
+          956,
+          829
+        ],
+        "confidence": 1,
+        "text": "260,491 creators, brands, and agencies using Buffer"
+      },
+      {
+        "bbox_px": [
+          564,
+          858,
+          716,
+          882
+        ],
+        "confidence": 1,
+        "text": "O SEMRUSH"
+      },
+      {
+        "bbox_px": [
+          783,
+          848,
+          928,
+          885
+        ],
+        "confidence": 1,
+        "text": "crocs™"
+      },
+      {
+        "bbox_px": [
+          987,
+          858,
+          1144,
+          881
+        ],
+        "confidence": 1,
+        "text": "IIElevenLabs"
+      },
+      {
+        "bbox_px": [
+          441,
+          1022,
+          504,
+          1036
+        ],
+        "confidence": 1,
+        "text": "January 2026"
+      },
+      {
+        "bbox_px": [
+          125,
+          1033,
+          227,
+          1047
+        ],
+        "confidence": 1,
+        "text": "Create Post o Tags -"
+      },
+      {
+        "bbox_px": [
+          1280,
+          1072,
+          1322,
+          1078
+        ],
+        "confidence": 0.30000001192092896,
+        "text": "0100s V"
+      },
+      {
+        "bbox_px": [
+          169,
+          1125,
+          316,
+          1138
+        ],
+        "confidence": 1,
+        "text": "Registration opens this Sunday!"
+      },
+      {
+        "bbox_px": [
+          820,
+          1085,
+          891,
+          1098
+        ],
+        "confidence": 1,
+        "text": "ge Generate Ideas"
+      },
+      {
+        "bbox_px": [
+          815,
+          1119,
+          995,
+          1133
+        ],
+        "confidence": 1,
+        "text": "Let's begin with a few questions /"
+      },
+      {
+        "bbox_px": [
+          815,
+          1145,
+          948,
+          1159
+        ],
+        "confidence": 1,
+        "text": "What is your business about?"
+      },
+      {
+        "bbox_px": [
+          820,
+          1168,
+          946,
+          1185
+        ],
+        "confidence": 1,
+        "text": "A training and fitness brand"
+      },
+      {
+        "bbox_px": [
+          815,
+          1208,
+          951,
+          1222
+        ],
+        "confidence": 1,
+        "text": "What is your target audience?"
+      },
+      {
+        "bbox_px": [
+          820,
+          1234,
+          990,
+          1248
+        ],
+        "confidence": 1,
+        "text": "Busy working professionals worldwide"
+      },
+      {
+        "bbox_px": [
+          878,
+          1284,
+          961,
+          1298
+        ],
+        "confidence": 1,
+        "text": "Generate Ideas"
+      },
+      {
+        "bbox_px": [
+          1089,
+          1109,
+          1123,
+          1115
+        ],
+        "confidence": 1,
+        "text": "Todo 4"
+      },
+      {
+        "bbox_px": [
+          1092,
+          1134,
+          1126,
+          1140
+        ],
+        "confidence": 1,
+        "text": "Vid Ideas"
+      },
+      {
+        "bbox_px": [
+          1097,
+          1156,
+          1217,
+          1167
+        ],
+        "confidence": 1,
+        "text": "• Explaining a Restoration Process"
+      },
+      {
+        "bbox_px": [
+          318,
+          1211,
+          402,
+          1217
+        ],
+        "confidence": 1,
+        "text": "123 O Start a inreao"
+      },
+      {
+        "bbox_px": [
+          439,
+          1208,
+          491,
+          1222
+        ],
+        "confidence": 1,
+        "text": "Posting Slots"
+      },
+      {
+        "bbox_px": [
+          449,
+          1229,
+          501,
+          1243
+        ],
+        "confidence": 1,
+        "text": "* 6:00 PM"
+      },
+      {
+        "bbox_px": [
+          441,
+          1255,
+          483,
+          1261
+        ],
+        "confidence": 0.30000001192092896,
+        "text": "Selec ime"
+      },
+      {
+        "bbox_px": [
+          358,
+          1263,
+          405,
+          1276
+        ],
+        "confidence": 1,
+        "text": "~t Topping"
+      },
+      {
+        "bbox_px": [
+          548,
+          1271,
+          619,
+          1284
+        ],
+        "confidence": 1,
+        "text": "Europe/Londor"
+      },
+      {
+        "bbox_px": [
+          441,
+          1307,
+          548,
+          1321
+        ],
+        "confidence": 1,
+        "text": "+ More Posting Actions"
+      },
+      {
+        "bbox_px": [
+          582,
+          1307,
+          621,
+          1321
+        ],
+        "confidence": 1,
+        "text": "v Done"
+      },
+      {
+        "bbox_px": [
+          120,
+          1359,
+          185,
+          1365
+        ],
+        "confidence": 1,
+        "text": "L Create Anoine."
+      },
+      {
+        "bbox_px": [
+          454,
+          1354,
+          533,
+          1368
+        ],
+        "confidence": 1,
+        "text": "t8 14 Jun, 16:00 ~"
+      },
+      {
+        "bbox_px": [
+          546,
+          1354,
+          606,
+          1368
+        ],
+        "confidence": 1,
+        "text": "Schedule Posts"
+      },
+      {
+        "bbox_px": [
+          60,
+          1454,
+          133,
+          1470
+        ],
+        "confidence": 1,
+        "text": "PUBLISH"
+      },
+      {
+        "bbox_px": [
+          59,
+          1488,
+          671,
+          1525
+        ],
+        "confidence": 1,
+        "text": "The most complete set of publishing integrations,"
+      },
+      {
+        "bbox_px": [
+          62,
+          1522,
+          117,
+          1540
+        ],
+        "confidence": 1,
+        "text": "ever"
+      },
+      {
+        "bbox_px": [
+          62,
+          1556,
+          669,
+          1577
+        ],
+        "confidence": 1,
+        "text": "Schedule your content to the most popular platforms including Facebook,"
+      },
+      {
+        "bbox_px": [
+          62,
+          1582,
+          650,
+          1604
+        ],
+        "confidence": 1,
+        "text": "Instagram, TikTok, Linkedln, Threads, Bluesky, YouTube Shorts, Pinterest,"
+      },
+      {
+        "bbox_px": [
+          62,
+          1606,
+          345,
+          1629
+        ],
+        "confidence": 1,
+        "text": "Google Business, Mastodon and X."
+      },
+      {
+        "bbox_px": [
+          65,
+          1658,
+          162,
+          1679
+        ],
+        "confidence": 1,
+        "text": "Learn more →"
+      },
+      {
+        "bbox_px": [
+          1259,
+          1208,
+          1372,
+          1214
+        ],
+        "confidence": 1,
+        "text": "The subtle art ot table stvino idel"
+      },
+      {
+        "bbox_px": [
+          1257,
+          1276,
+          1348,
+          1290
+        ],
+        "confidence": 1,
+        "text": "Design Tips in 30 Seconds"
+      },
+      {
+        "bbox_px": [
+          1257,
+          1302,
+          1374,
+          1308
+        ],
+        "confidence": 1,
+        "text": "sovice such as how to mox paitern"
+      },
+      {
+        "bbox_px": [
+          1296,
+          1359,
+          1343,
+          1365
+        ],
+        "confidence": 1,
+        "text": "+ New Ide:"
+      },
+      {
+        "bbox_px": [
+          755,
+          1454,
+          820,
+          1470
+        ],
+        "confidence": 1,
+        "text": "CREATE"
+      },
+      {
+        "bbox_px": [
+          752,
+          1491,
+          1183,
+          1523
+        ],
+        "confidence": 1,
+        "text": "Turn any idea into the perfect post"
+      },
+      {
+        "bbox_px": [
+          752,
+          1556,
+          1306,
+          1577
+        ],
+        "confidence": 1,
+        "text": "Whether you're flying solo or working with a team, Buffer has all the"
+      },
+      {
+        "bbox_px": [
+          752,
+          1582,
+          1353,
+          1601
+        ],
+        "confidence": 1,
+        "text": "features to help you create, organize, and repurpose your content for any"
+      },
+      {
+        "bbox_px": [
+          752,
+          1603,
+          1163,
+          1628
+        ],
+        "confidence": 1,
+        "text": "channel. There's also an Al Assistant if you need it."
+      },
+      {
+        "bbox_px": [
+          752,
+          1658,
+          854,
+          1674
+        ],
+        "confidence": 1,
+        "text": "Learn more →"
+      },
+      {
+        "bbox_px": [
+          62,
+          1607,
+          342,
+          1629
+        ],
+        "confidence": 1,
+        "text": "Google Business, Mastodon and X."
+      },
+      {
+        "bbox_px": [
+          62,
+          1660,
+          162,
+          1675
+        ],
+        "confidence": 1,
+        "text": "Learn more →"
+      },
+      {
+        "bbox_px": [
+          114,
+          1801,
+          206,
+          1817
+        ],
+        "confidence": 1,
+        "text": "88 All channels"
+      },
+      {
+        "bbox_px": [
+          114,
+          1855,
+          172,
+          1867
+        ],
+        "confidence": 1,
+        "text": "© Amazing00920"
+      },
+      {
+        "bbox_px": [
+          114,
+          1929,
+          203,
+          1935
+        ],
+        "confidence": 0.5,
+        "text": "iny paws, bd pefscnamyr"
+      },
+      {
+        "bbox_px": [
+          117,
+          1939,
+          201,
+          1945
+        ],
+        "confidence": 1,
+        "text": "My lavone una oi crent"
+      },
+      {
+        "bbox_px": [
+          114,
+          1971,
+          175,
+          1985
+        ],
+        "confidence": 1,
+        "text": "• AmazingDoggos"
+      },
+      {
+        "bbox_px": [
+          117,
+          2023,
+          172,
+          2036
+        ],
+        "confidence": 0.30000001192092896,
+        "text": "•AmazingDogp9"
+      },
+      {
+        "bbox_px": [
+          114,
+          2081,
+          175,
+          2094
+        ],
+        "confidence": 0.5,
+        "text": "•AnazngDop3os"
+      },
+      {
+        "bbox_px": [
+          62,
+          2220,
+          167,
+          2235
+        ],
+        "confidence": 1,
+        "text": "COMMUNITY"
+      },
+      {
+        "bbox_px": [
+          420,
+          1806,
+          548,
+          1814
+        ],
+        "confidence": 0.30000001192092896,
+        "text": "Unanswered**"
+      },
+      {
+        "bbox_px": [
+          559,
+          1804,
+          629,
+          1817
+        ],
+        "confidence": 1,
+        "text": "I By post Lise"
+      },
+      {
+        "bbox_px": [
+          271,
+          1840,
+          407,
+          1846
+        ],
+        "confidence": 1,
+        "text": "10s Amazinc 0000os Feb 3, 10115 PM (0 Reel"
+      },
+      {
+        "bbox_px": [
+          274,
+          1855,
+          473,
+          1861
+        ],
+        "confidence": 1,
+        "text": "Meet Barney, He sat for 0.3 seconds, I cot the shot, Worth it."
+      },
+      {
+        "bbox_px": [
+          300,
+          1921,
+          402,
+          1927
+        ],
+        "confidence": 0.30000001192092896,
+        "text": "Nesamny morelaes 13 mnues so"
+      },
+      {
+        "bbox_px": [
+          303,
+          1934,
+          598,
+          1940
+        ],
+        "confidence": 1,
+        "text": "wow, these doo pnotos are absoluteiv stunninoltne wav vou captured their oersonsleies"
+      },
+      {
+        "bbox_px": [
+          303,
+          1945,
+          588,
+          1951
+        ],
+        "confidence": 1,
+        "text": "reasy brings them to afe. what kind of camera or settings did you use to get such clean"
+      },
+      {
+        "bbox_px": [
+          310,
+          1999,
+          441,
+          2013
+        ],
+        "confidence": 1,
+        "text": "Thank you @amy.florela23! I use my Ca"
+      },
+      {
+        "bbox_px": [
+          310,
+          2057,
+          358,
+          2070
+        ],
+        "confidence": 0.30000001192092896,
+        "text": "..."
+      },
+      {
+        "bbox_px": [
+          300,
+          2108,
+          402,
+          2118
+        ],
+        "confidence": 1,
+        "text": "Private Account 14 minuses 299"
+      },
+      {
+        "bbox_px": [
+          303,
+          2120,
+          590,
+          2134
+        ],
+        "confidence": 1,
+        "text": "These photos are so cheerful and full of life! Do you have any tips for making dogs feel"
+      },
+      {
+        "bbox_px": [
+          60,
+          2259,
+          415,
+          2288
+        ],
+        "confidence": 1,
+        "text": "Reply to comments in a flash"
+      },
+      {
+        "bbox_px": [
+          62,
+          2321,
+          682,
+          2343
+        ],
+        "confidence": 1,
+        "text": "Engage with your audience across all your channels at 10x speed. Buffer will"
+      },
+      {
+        "bbox_px": [
+          60,
+          2348,
+          635,
+          2367
+        ],
+        "confidence": 1,
+        "text": "help you triage and respond to comments from one simple dashboard."
+      },
+      {
+        "bbox_px": [
+          60,
+          2400,
+          162,
+          2419
+        ],
+        "confidence": 1,
+        "text": "Learn more →"
+      },
+      {
+        "bbox_px": [
+          752,
+          1607,
+          1160,
+          1626
+        ],
+        "confidence": 1,
+        "text": "channel. There's also an Al Assistant if you need it"
+      },
+      {
+        "bbox_px": [
+          752,
+          1660,
+          851,
+          1673
+        ],
+        "confidence": 1,
+        "text": "Learn more →"
+      },
+      {
+        "bbox_px": [
+          966,
+          1806,
+          1087,
+          1822
+        ],
+        "confidence": 1,
+        "text": "All Channels Q"
+      },
+      {
+        "bbox_px": [
+          838,
+          1858,
+          925,
+          1875
+        ],
+        "confidence": 1,
+        "text": "Top 5 posts"
+      },
+      {
+        "bbox_px": [
+          838,
+          1882,
+          930,
+          1890
+        ],
+        "confidence": 1,
+        "text": "May 18 - Jun 16, 2028"
+      },
+      {
+        "bbox_px": [
+          925,
+          1911,
+          969,
+          1924
+        ],
+        "confidence": 1,
+        "text": "38k Likes"
+      },
+      {
+        "bbox_px": [
+          1074,
+          1911,
+          1118,
+          1924
+        ],
+        "confidence": 1,
+        "text": "32k Likes"
+      },
+      {
+        "bbox_px": [
+          843,
+          1934,
+          893,
+          1948
+        ],
+        "confidence": 1,
+        "text": "d 3:15 PM"
+      },
+      {
+        "bbox_px": [
+          844,
+          1950,
+          919,
+          1963
+        ],
+        "confidence": 1,
+        "text": "London - you"
+      },
+      {
+        "bbox_px": [
+          844,
+          1966,
+          888,
+          1979
+        ],
+        "confidence": 1,
+        "text": "ready?..."
+      },
+      {
+        "bbox_px": [
+          993,
+          1934,
+          1042,
+          1945
+        ],
+        "confidence": 1,
+        "text": "G 1:00 PM"
+      },
+      {
+        "bbox_px": [
+          990,
+          1950,
+          1095,
+          1963
+        ],
+        "confidence": 1,
+        "text": "We're back on stage"
+      },
+      {
+        "bbox_px": [
+          990,
+          1965,
+          1115,
+          1979
+        ],
+        "confidence": 1,
+        "text": "March 22nd at The Und.."
+      },
+      {
+        "bbox_px": [
+          927,
+          2018,
+          1021,
+          2031
+        ],
+        "confidence": 1,
+        "text": "Posts by month"
+      },
+      {
+        "bbox_px": [
+          1220,
+          1911,
+          1267,
+          1924
+        ],
+        "confidence": 1,
+        "text": "28k Likes"
+      },
+      {
+        "bbox_px": [
+          1142,
+          1934,
+          1189,
+          1945
+        ],
+        "confidence": 1,
+        "text": "d 3:15 PM"
+      },
+      {
+        "bbox_px": [
+          1139,
+          1950,
+          1220,
+          1963
+        ],
+        "confidence": 1,
+        "text": "New songs. Old"
+      },
+      {
+        "bbox_px": [
+          1142,
+          1965,
+          1223,
+          1979
+        ],
+        "confidence": 1,
+        "text": "favourites. Prob."
+      },
+      {
+        "bbox_px": [
+          1372,
+          1911,
+          1395,
+          1924
+        ],
+        "confidence": 1,
+        "text": "27k l"
+      },
+      {
+        "bbox_px": [
+          1288,
+          1934,
+          1338,
+          1945
+        ],
+        "confidence": 1,
+        "text": "C 1:15 PM"
+      },
+      {
+        "bbox_px": [
+          1288,
+          1950,
+          1390,
+          1963
+        ],
+        "confidence": 1,
+        "text": "Introducing the latest"
+      },
+      {
+        "bbox_px": [
+          1288,
+          1965,
+          1395,
+          1979
+        ],
+        "confidence": 1,
+        "text": "collection of adorable •"
+      },
+      {
+        "bbox_px": [
+          1079,
+          2107,
+          1173,
+          2120
+        ],
+        "confidence": 1,
+        "text": "• +3k d Tiktok"
+      },
+      {
+        "bbox_px": [
+          1079,
+          2125,
+          1225,
+          2138
+        ],
+        "confidence": 1,
+        "text": "25,828 → 28,000 (+11.5%)"
+      },
+      {
+        "bbox_px": [
+          752,
+          2220,
+          836,
+          2235
+        ],
+        "confidence": 1,
+        "text": "INSIGHTS"
+      },
+      {
+        "bbox_px": [
+          754,
+          2256,
+          1084,
+          2292
+        ],
+        "confidence": 1,
+        "text": "Answers, not just analytics"
+      },
+      {
+        "bbox_px": [
+          752,
+          2321,
+          1364,
+          2343
+        ],
+        "confidence": 1,
+        "text": "Whether it's basic analytics or in-depth reporting, Buffer will help you learn"
+      },
+      {
+        "bbox_px": [
+          752,
+          2348,
+          1021,
+          2367
+        ],
+        "confidence": 1,
+        "text": "what works and how to improve."
+      },
+      {
+        "bbox_px": [
+          752,
+          2399,
+          854,
+          2417
+        ],
+        "confidence": 1,
+        "text": "Learn more →"
+      },
+      {
+        "bbox_px": [
+          493,
+          2518,
+          946,
+          2563
+        ],
+        "confidence": 1,
+        "text": "...and so much more!"
+      },
+      {
+        "bbox_px": [
+          507,
+          2656,
+          588,
+          2670
+        ],
+        "confidence": 1,
+        "text": "Your Queue"
+      },
+      {
+        "bbox_px": [
+          441,
+          2706,
+          567,
+          2722
+        ],
+        "confidence": 1,
+        "text": "• Tomorrow 11:45 AM"
+      },
+      {
+        "bbox_px": [
+          1092,
+          2656,
+          1160,
+          2670
+        ],
+        "confidence": 1,
+        "text": "Al Assistant"
+      },
+      {
+        "bbox_px": [
+          1089,
+          2682,
+          1215,
+          2696
+        ],
+        "confidence": 1,
+        "text": "What do you want to v"
+      },
+      {
+        "bbox_px": [
+          216,
+          2706,
+          334,
+          2719
+        ],
+        "confidence": 1,
+        "text": "Let's add \"DM or visit the link"
+      },
+      {
+        "bbox_px": [
+          214,
+          2719,
+          277,
+          2730
+        ],
+        "confidence": 1,
+        "text": "in blo to book\""
+      },
+      {
+        "bbox_px": [
+          198,
+          2753,
+          279,
+          2766
+        ],
+        "confidence": 1,
+        "text": "Good call! Done!"
+      },
+      {
+        "bbox_px": [
+          54,
+          2876,
+          164,
+          2895
+        ],
+        "confidence": 1,
+        "text": "Collaborate"
+      },
+      {
+        "bbox_px": [
+          52,
+          2918,
+          324,
+          2936
+        ],
+        "confidence": 1,
+        "text": "Manage, edit, and approve social"
+      },
+      {
+        "bbox_px": [
+          51,
+          2939,
+          290,
+          2965
+        ],
+        "confidence": 1,
+        "text": "media posts from your team."
+      },
+      {
+        "bbox_px": [
+          52,
+          2986,
+          154,
+          3002
+        ],
+        "confidence": 1,
+        "text": "Learn more →"
+      },
+      {
+        "bbox_px": [
+          399,
+          2876,
+          499,
+          2896
+        ],
+        "confidence": 1,
+        "text": "Mobile app"
+      },
+      {
+        "bbox_px": [
+          399,
+          2918,
+          692,
+          2936
+        ],
+        "confidence": 1,
+        "text": "Manage your social media accounts"
+      },
+      {
+        "bbox_px": [
+          397,
+          2944,
+          527,
+          2963
+        ],
+        "confidence": 1,
+        "text": "trom anywhere."
+      },
+      {
+        "bbox_px": [
+          399,
+          2986,
+          499,
+          3002
+        ],
+        "confidence": 1,
+        "text": "Learn more →"
+      },
+      {
+        "bbox_px": [
+          744,
+          2876,
+          847,
+          2895
+        ],
+        "confidence": 1,
+        "text": "Start page"
+      },
+      {
+        "bbox_px": [
+          744,
+          2915,
+          1037,
+          2937
+        ],
+        "confidence": 1,
+        "text": "Turn your social bio into a powerful,"
+      },
+      {
+        "bbox_px": [
+          744,
+          2941,
+          888,
+          2960
+        ],
+        "confidence": 1,
+        "text": "personalized hub."
+      },
+      {
+        "bbox_px": [
+          744,
+          2983,
+          844,
+          2999
+        ],
+        "confidence": 1,
+        "text": "Learn more →"
+      },
+      {
+        "bbox_px": [
+          1270,
+          2787,
+          1343,
+          2804
+        ],
+        "confidence": 1,
+        "text": "* Generate"
+      },
+      {
+        "bbox_px": [
+          1089,
+          2876,
+          1204,
+          2895
+        ],
+        "confidence": 1,
+        "text": "Al assistant"
+      },
+      {
+        "bbox_px": [
+          1089,
+          2915,
+          1366,
+          2934
+        ],
+        "confidence": 1,
+        "text": "Brainstorm ideas, rewrite content,"
+      },
+      {
+        "bbox_px": [
+          1089,
+          2939,
+          1364,
+          2963
+        ],
+        "confidence": 1,
+        "text": "and craft platform-specific posts"
+      },
+      {
+        "bbox_px": [
+          1089,
+          2983,
+          1191,
+          2999
+        ],
+        "confidence": 1,
+        "text": "Learn more →"
+      },
+      {
+        "bbox_px": [
+          64,
+          3127,
+          232,
+          3155
+        ],
+        "confidence": 1,
+        "text": "Connect your"
+      },
+      {
+        "bbox_px": [
+          65,
+          3153,
+          285,
+          3180
+        ],
+        "confidence": 1,
+        "text": "favorite accounts"
+      },
+      {
+        "bbox_px": [
+          504,
+          3146,
+          527,
+          3167
+        ],
+        "confidence": 1,
+        "text": "in"
+      },
+      {
+        "bbox_px": [
+          546,
+          3300,
+          609,
+          3314
+        ],
+        "confidence": 1,
+        "text": "Creators"
+      },
+      {
+        "bbox_px": [
+          655,
+          3297,
+          778,
+          3313
+        ],
+        "confidence": 1,
+        "text": "Small businesses"
+      },
+      {
+        "bbox_px": [
+          823,
+          3300,
+          893,
+          3318
+        ],
+        "confidence": 1,
+        "text": "Agencies"
+      },
+      {
+        "bbox_px": [
+          543,
+          3299,
+          611,
+          3315
+        ],
+        "confidence": 1,
+        "text": "Creators"
+      },
+      {
+        "bbox_px": [
+          655,
+          3299,
+          778,
+          3315
+        ],
+        "confidence": 1,
+        "text": "Small businesses"
+      },
+      {
+        "bbox_px": [
+          822,
+          3297,
+          897,
+          3319
+        ],
+        "confidence": 1,
+        "text": "Agencies"
+      },
+      {
+        "bbox_px": [
+          159,
+          3395,
+          444,
+          3424
+        ],
+        "confidence": 1,
+        "text": "Grow from zero →"
+      },
+      {
+        "bbox_px": [
+          164,
+          3432,
+          439,
+          3462
+        ],
+        "confidence": 1,
+        "text": "one → one million"
+      },
+      {
+        "bbox_px": [
+          39,
+          3479,
+          564,
+          3498
+        ],
+        "confidence": 1,
+        "text": "Whether you're just getting started on your creator journey or scaling your"
+      },
+      {
+        "bbox_px": [
+          54,
+          3500,
+          548,
+          3519
+        ],
+        "confidence": 1,
+        "text": "audience to new heights, Buffer will get your content in front of more"
+      },
+      {
+        "bbox_px": [
+          274,
+          3526,
+          329,
+          3540
+        ],
+        "confidence": 1,
+        "text": "people."
+      },
+      {
+        "bbox_px": [
+          175,
+          3581,
+          457,
+          3600
+        ],
+        "confidence": 1,
+        "text": "Save all your ideas as inspiration strikes"
+      },
+      {
+        "bbox_px": [
+          122,
+          3618,
+          486,
+          3634
+        ],
+        "confidence": 1,
+        "text": "v Learn exactly what content works best and why"
+      },
+      {
+        "bbox_px": [
+          167,
+          3652,
+          444,
+          3671
+        ],
+        "confidence": 1,
+        "text": "V Create once, crosspost everywhere"
+      },
+      {
+        "bbox_px": [
+          637,
+          3401,
+          930,
+          3417
+        ],
+        "confidence": 1,
+        "text": "THE BUFFER CREATOR COMMUNITY"
+      },
+      {
+        "bbox_px": [
+          705,
+          3565,
+          807,
+          3585
+        ],
+        "confidence": 1,
+        "text": "@rita_codes"
+      },
+      {
+        "bbox_px": [
+          666,
+          3591,
+          841,
+          3608
+        ],
+        "confidence": 1,
+        "text": "34.9K FOLLOWERS ON X"
+      },
+      {
+        "bbox_px": [
+          935,
+          3566,
+          1074,
+          3584
+        ],
+        "confidence": 1,
+        "text": "@Pauldelobaume"
+      },
+      {
+        "bbox_px": [
+          930,
+          3591,
+          1076,
+          3608
+        ],
+        "confidence": 1,
+        "text": "21K FOLLOWERS ON"
+      },
+      {
+        "bbox_px": [
+          966,
+          3610,
+          1037,
+          3626
+        ],
+        "confidence": 1,
+        "text": "LINKEDIN"
+      },
+      {
+        "bbox_px": [
+          1194,
+          3566,
+          1309,
+          3584
+        ],
+        "confidence": 1,
+        "text": "@yola_bastos"
+      },
+      {
+        "bbox_px": [
+          1170,
+          3591,
+          1330,
+          3608
+        ],
+        "confidence": 1,
+        "text": "14.6K FOLLOWERS ON"
+      },
+      {
+        "bbox_px": [
+          1204,
+          3610,
+          1296,
+          3626
+        ],
+        "confidence": 1,
+        "text": "INSTAGRAM"
+      },
+      {
+        "bbox_px": [
+          36,
+          3866,
+          211,
+          3882
+        ],
+        "confidence": 1,
+        "text": "CUSTOMER SUPPORT"
+      },
+      {
+        "bbox_px": [
+          36,
+          3908,
+          614,
+          3963
+        ],
+        "confidence": 1,
+        "text": "Human support, worldwide"
+      },
+      {
+        "bbox_px": [
+          36,
+          3973,
+          676,
+          3992
+        ],
+        "confidence": 1,
+        "text": "Our global Customer Advocacy team is spread across time zones to make sure"
+      },
+      {
+        "bbox_px": [
+          33,
+          4000,
+          632,
+          4019
+        ],
+        "confidence": 1,
+        "text": "help is always nearby. Whether you have a quick question, need technical"
+      },
+      {
+        "bbox_px": [
+          33,
+          4023,
+          682,
+          4045
+        ],
+        "confidence": 1,
+        "text": "support, or just want to connect, we're here for you - no bots, just real people"
+      },
+      {
+        "bbox_px": [
+          33,
+          4050,
+          120,
+          4067
+        ],
+        "confidence": 1,
+        "text": "who care."
+      },
+      {
+        "bbox_px": [
+          52,
+          4099,
+          209,
+          4116
+        ],
+        "confidence": 1,
+        "text": "Visit the Help Center"
+      },
+      {
+        "bbox_px": [
+          250,
+          4099,
+          344,
+          4116
+        ],
+        "confidence": 1,
+        "text": "Join Discord"
+      },
+      {
+        "bbox_px": [
+          36,
+          4167,
+          616,
+          4186
+        ],
+        "confidence": 1,
+        "text": "We prioritize customer connection as a company and you could end up"
+      },
+      {
+        "bbox_px": [
+          33,
+          4191,
+          661,
+          4212
+        ],
+        "confidence": 1,
+        "text": "speaking with a teammate in any role at Buffer, from Marketers to Engineers."
+      },
+      {
+        "bbox_px": [
+          36,
+          4235,
+          337,
+          4254
+        ],
+        "confidence": 1,
+        "text": "Learn more about our global team →"
+      },
+      {
+        "bbox_px": [
+          36,
+          4421,
+          138,
+          4440
+        ],
+        "confidence": 1,
+        "text": "RESOURCES"
+      },
+      {
+        "bbox_px": [
+          36,
+          4455,
+          509,
+          4502
+        ],
+        "confidence": 1,
+        "text": "Fuel your social media"
+      },
+      {
+        "bbox_px": [
+          36,
+          4510,
+          216,
+          4539
+        ],
+        "confidence": 1,
+        "text": "success"
+      },
+      {
+        "bbox_px": [
+          755,
+          4478,
+          1298,
+          4500
+        ],
+        "confidence": 1,
+        "text": "Everything you need to level up your social strategy-in one place."
+      },
+      {
+        "bbox_px": [
+          60,
+          4628,
+          313,
+          4657
+        ],
+        "confidence": 1,
+        "text": "Free Marketing Tools"
+      },
+      {
+        "bbox_px": [
+          62,
+          4665,
+          428,
+          4683
+        ],
+        "confidence": 1,
+        "text": "A collection of free tools to make your social"
+      },
+      {
+        "bbox_px": [
+          62,
+          4690,
+          412,
+          4709
+        ],
+        "confidence": 1,
+        "text": "media marketing easier and more effective"
+      },
+      {
+        "bbox_px": [
+          431,
+          4631,
+          449,
+          4652
+        ],
+        "confidence": 1,
+        "text": "→"
+      },
+      {
+        "bbox_px": [
+          522,
+          4624,
+          789,
+          4657
+        ],
+        "confidence": 1,
+        "text": "Social Media Glossary"
+      },
+      {
+        "bbox_px": [
+          904,
+          4631,
+          919,
+          4649
+        ],
+        "confidence": 1,
+        "text": "→"
+      },
+      {
+        "bbox_px": [
+          522,
+          4664,
+          925,
+          4686
+        ],
+        "confidence": 1,
+        "text": "A glossary of the most popular terms to help you"
+      },
+      {
+        "bbox_px": [
+          522,
+          4688,
+          846,
+          4709
+        ],
+        "confidence": 1,
+        "text": "make sense of all the social media lingo"
+      },
+      {
+        "bbox_px": [
+          1077,
+          4642,
+          1191,
+          4676
+        ],
+        "confidence": 1,
+        "text": "Social Media Terms: A"
+      },
+      {
+        "bbox_px": [
+          1043,
+          4651,
+          1225,
+          4693
+        ],
+        "confidence": 1,
+        "text": "Comprehensive Glossary by Buffer"
+      },
+      {
+        "bbox_px": [
+          138,
+          4801,
+          337,
+          4814
+        ],
+        "confidence": 1,
+        "text": "Create your next social media"
+      },
+      {
+        "bbox_px": [
+          172,
+          4811,
+          311,
+          4831
+        ],
+        "confidence": 1,
+        "text": "post with one click*"
+      },
+      {
+        "bbox_px": [
+          759,
+          4869,
+          819,
+          4888
+        ],
+        "confidence": 1,
+        "text": "Best cont"
+      },
+      {
+        "bbox_px": [
+          621,
+          4906,
+          722,
+          4928
+        ],
+        "confidence": 1,
+        "text": "Best time to pos"
+      },
+      {
+        "bbox_px": [
+          516,
+          4944,
+          615,
+          4967
+        ],
+        "confidence": 1,
+        "text": "Best day to pos"
+      },
+      {
+        "bbox_px": [
+          870,
+          4876,
+          1155,
+          4897
+        ],
+        "confidence": 1,
+        "text": "Social Media Resources"
+      },
+      {
+        "bbox_px": [
+          870,
+          4908,
+          1322,
+          4934
+        ],
+        "confidence": 1,
+        "text": "A collection of articles and interviews packed with tips,"
+      },
+      {
+        "bbox_px": [
+          867,
+          4939,
+          1353,
+          4958
+        ],
+        "confidence": 1,
+        "text": "stories, and insights to level up your social media marketing"
+      },
+      {
+        "bbox_px": [
+          867,
+          4965,
+          917,
+          4984
+        ],
+        "confidence": 1,
+        "text": "game"
+      },
+      {
+        "bbox_px": [
+          1351,
+          4877,
+          1372,
+          4897
+        ],
+        "confidence": 1,
+        "text": "→"
+      },
+      {
+        "bbox_px": [
+          138,
+          4800,
+          337,
+          4816
+        ],
+        "confidence": 1,
+        "text": "Create your next social media"
+      },
+      {
+        "bbox_px": [
+          172,
+          4815,
+          310,
+          4829
+        ],
+        "confidence": 1,
+        "text": "post with one click *"
+      },
+      {
+        "bbox_px": [
+          759,
+          4869,
+          819,
+          4889
+        ],
+        "confidence": 1,
+        "text": "Best con"
+      },
+      {
+        "bbox_px": [
+          783,
+          4889,
+          815,
+          4896
+        ],
+        "confidence": 0.5,
+        "text": "on in"
+      },
+      {
+        "bbox_px": [
+          621,
+          4906,
+          722,
+          4929
+        ],
+        "confidence": 1,
+        "text": "Best time to pos"
+      },
+      {
+        "bbox_px": [
+          516,
+          4945,
+          617,
+          4966
+        ],
+        "confidence": 1,
+        "text": "Best day to pos"
+      },
+      {
+        "bbox_px": [
+          867,
+          4875,
+          1155,
+          4899
+        ],
+        "confidence": 1,
+        "text": "Social Media Resources"
+      },
+      {
+        "bbox_px": [
+          867,
+          4911,
+          1322,
+          4933
+        ],
+        "confidence": 1,
+        "text": "A collection of articles and interviews packed with tips,"
+      },
+      {
+        "bbox_px": [
+          867,
+          4938,
+          1353,
+          4957
+        ],
+        "confidence": 1,
+        "text": "stories, and insights to level up your social media marketing"
+      },
+      {
+        "bbox_px": [
+          867,
+          4967,
+          917,
+          4983
+        ],
+        "confidence": 1,
+        "text": "game"
+      },
+      {
+        "bbox_px": [
+          880,
+          5061,
+          922,
+          5075
+        ],
+        "confidence": 1,
+        "text": "* Buffer"
+      },
+      {
+        "bbox_px": [
+          59,
+          5088,
+          382,
+          5122
+        ],
+        "confidence": 1,
+        "text": "Social Media Marketing 101"
+      },
+      {
+        "bbox_px": [
+          62,
+          5129,
+          428,
+          5151
+        ],
+        "confidence": 1,
+        "text": "Your go-to guide for mastering the basics of"
+      },
+      {
+        "bbox_px": [
+          62,
+          5155,
+          266,
+          5174
+        ],
+        "confidence": 1,
+        "text": "social media and beyond"
+      },
+      {
+        "bbox_px": [
+          428,
+          5095,
+          449,
+          5116
+        ],
+        "confidence": 1,
+        "text": "→"
+      },
+      {
+        "bbox_px": [
+          685,
+          5116,
+          791,
+          5148
+        ],
+        "confidence": 1,
+        "text": "Weikday evenings are best!"
+      },
+      {
+        "bbox_px": [
+          1167,
+          5118,
+          1237,
+          5139
+        ],
+        "confidence": 0.30000001192092896,
+        "text": "Tew Cot Tree eca"
+      },
+      {
+        "bbox_px": [
+          1170,
+          5171,
+          1220,
+          5187
+        ],
+        "confidence": 0.30000001192092896,
+        "text": "2028 (+ ном 50 г"
+      },
+      {
+        "bbox_px": [
+          163,
+          5340,
+          276,
+          5369
+        ],
+        "confidence": 1,
+        "text": "Your Everything Guide to"
+      },
+      {
+        "bbox_px": [
+          165,
+          5356,
+          250,
+          5387
+        ],
+        "confidence": 1,
+        "text": "trategy to Growth"
+      },
+      {
+        "bbox_px": [
+          226,
+          5359,
+          293,
+          5379
+        ],
+        "confidence": 1,
+        "text": "arketing: From"
+      },
+      {
+        "bbox_px": [
+          595,
+          5161,
+          629,
+          5174
+        ],
+        "confidence": 1,
+        "text": "Pridags"
+      },
+      {
+        "bbox_px": [
+          525,
+          5273,
+          742,
+          5297
+        ],
+        "confidence": 1,
+        "text": "Best Time to Post"
+      },
+      {
+        "bbox_px": [
+          525,
+          5312,
+          784,
+          5331
+        ],
+        "confidence": 1,
+        "text": "Discover the best times to post"
+      },
+      {
+        "bbox_px": [
+          522,
+          5338,
+          797,
+          5357
+        ],
+        "confidence": 1,
+        "text": "on social media to maximize your"
+      },
+      {
+        "bbox_px": [
+          522,
+          5365,
+          632,
+          5383
+        ],
+        "confidence": 1,
+        "text": "engagement"
+      },
+      {
+        "bbox_px": [
+          932,
+          5365,
+          972,
+          5378
+        ],
+        "confidence": 1,
+        "text": "Latest"
+      },
+      {
+        "bbox_px": [
+          1110,
+          5383,
+          1136,
+          5393
+        ],
+        "confidence": 1,
+        "text": "40-"
+      },
+      {
+        "bbox_px": [
+          33,
+          5582,
+          122,
+          5600
+        ],
+        "confidence": 1,
+        "text": "ABOUT US"
+      },
+      {
+        "bbox_px": [
+          36,
+          5626,
+          585,
+          5675
+        ],
+        "confidence": 1,
+        "text": "We are an open company"
+      },
+      {
+        "bbox_px": [
+          36,
+          5689,
+          781,
+          5712
+        ],
+        "confidence": 1,
+        "text": "Since 2013, we've shared Buffer's finances, team salaries, and other key metrics openly. Our"
+      },
+      {
+        "bbox_px": [
+          36,
+          5715,
+          692,
+          5734
+        ],
+        "confidence": 1,
+        "text": "commitment to transparency is rooted in our belief that it fosters trust, keeps us"
+      },
+      {
+        "bbox_px": [
+          33,
+          5741,
+          567,
+          5762
+        ],
+        "confidence": 1,
+        "text": "accountable, and helps drive positive change within our industry."
+      },
+      {
+        "bbox_px": [
+          54,
+          5854,
+          96,
+          5872
+        ],
+        "confidence": 1,
+        "text": "MAU"
+      },
+      {
+        "bbox_px": [
+          52,
+          5877,
+          203,
+          5894
+        ],
+        "confidence": 1,
+        "text": "Monthly active users"
+      },
+      {
+        "bbox_px": [
+          399,
+          5856,
+          551,
+          5872
+        ],
+        "confidence": 1,
+        "text": "Total customers"
+      },
+      {
+        "bbox_px": [
+          399,
+          5876,
+          517,
+          5893
+        ],
+        "confidence": 1,
+        "text": "Total customers"
+      },
+      {
+        "bbox_px": [
+          52,
+          5935,
+          175,
+          5972
+        ],
+        "confidence": 1,
+        "text": "260,491"
+      },
+      {
+        "bbox_px": [
+          397,
+          5937,
+          493,
+          5972
+        ],
+        "confidence": 1,
+        "text": "81,201"
+      },
+      {
+        "bbox_px": [
+          1215,
+          5662,
+          1379,
+          5681
+        ],
+        "confidence": 1,
+        "text": "Open dashboard →"
+      },
+      {
+        "bbox_px": [
+          744,
+          5854,
+          857,
+          5875
+        ],
+        "confidence": 1,
+        "text": "Teammates"
+      },
+      {
+        "bbox_px": [
+          744,
+          5877,
+          888,
+          5894
+        ],
+        "confidence": 1,
+        "text": "Across 15 countries"
+      },
+      {
+        "bbox_px": [
+          742,
+          5932,
+          786,
+          5964
+        ],
+        "confidence": 1,
+        "text": "73"
+      },
+      {
+        "bbox_px": [
+          1092,
+          5854,
+          1131,
+          5872
+        ],
+        "confidence": 1,
+        "text": "ARR"
+      },
+      {
+        "bbox_px": [
+          1092,
+          5877,
+          1272,
+          5894
+        ],
+        "confidence": 1,
+        "text": "Annual recurring revenue"
+      },
+      {
+        "bbox_px": [
+          1089,
+          5931,
+          1218,
+          5967
+        ],
+        "confidence": 1,
+        "text": "$26.5M"
+      },
+      {
+        "bbox_px": [
+          339,
+          6218,
+          1097,
+          6278
+        ],
+        "confidence": 1,
+        "text": "Grow your social presence"
+      },
+      {
+        "bbox_px": [
+          488,
+          6277,
+          951,
+          6330
+        ],
+        "confidence": 1,
+        "text": "with confidence"
+      },
+      {
+        "bbox_px": [
+          627,
+          6390,
+          812,
+          6406
+        ],
+        "confidence": 1,
+        "text": "Get started for free →"
+      },
+      {
+        "bbox_px": [
+          569,
+          6466,
+          870,
+          6484
+        ],
+        "confidence": 1,
+        "text": "No credit card needed. Free forever."
+      },
+      {
+        "bbox_px": [
+          77,
+          6675,
+          136,
+          6692
+        ],
+        "confidence": 1,
+        "text": "Features"
+      },
+      {
+        "bbox_px": [
+          77,
+          6704,
+          146,
+          6722
+        ],
+        "confidence": 1,
+        "text": "Buffer API"
+      },
+      {
+        "bbox_px": [
+          79,
+          6740,
+          152,
+          6753
+        ],
+        "confidence": 1,
+        "text": "Collaborate"
+      },
+      {
+        "bbox_px": [
+          79,
+          6774,
+          154,
+          6790
+        ],
+        "confidence": 1,
+        "text": "Community"
+      },
+      {
+        "bbox_px": [
+          77,
+          6807,
+          125,
+          6824
+        ],
+        "confidence": 1,
+        "text": "Create"
+      },
+      {
+        "bbox_px": [
+          77,
+          6842,
+          129,
+          6859
+        ],
+        "confidence": 1,
+        "text": "Insights"
+      },
+      {
+        "bbox_px": [
+          142,
+          6843,
+          171,
+          6855
+        ],
+        "confidence": 1,
+        "text": "New"
+      },
+      {
+        "bbox_px": [
+          75,
+          6876,
+          127,
+          6893
+        ],
+        "confidence": 1,
+        "text": "Publish"
+      },
+      {
+        "bbox_px": [
+          75,
+          6930,
+          115,
+          6947
+        ],
+        "confidence": 1,
+        "text": "Tools"
+      },
+      {
+        "bbox_px": [
+          75,
+          6960,
+          155,
+          6980
+        ],
+        "confidence": 1,
+        "text": "Al Assistant"
+      },
+      {
+        "bbox_px": [
+          75,
+          6997,
+          159,
+          7014
+        ],
+        "confidence": 1,
+        "text": "Android App"
+      },
+      {
+        "bbox_px": [
+          77,
+          7027,
+          197,
+          7045
+        ],
+        "confidence": 1,
+        "text": "Browser Extension"
+      },
+      {
+        "bbox_px": [
+          75,
+          7064,
+          157,
+          7083
+        ],
+        "confidence": 1,
+        "text": "Integrations"
+      },
+      {
+        "bbox_px": [
+          75,
+          7097,
+          131,
+          7116
+        ],
+        "confidence": 1,
+        "text": "¡OS App"
+      },
+      {
+        "bbox_px": [
+          77,
+          7133,
+          192,
+          7150
+        ],
+        "confidence": 1,
+        "text": "Social Media MCP"
+      },
+      {
+        "bbox_px": [
+          75,
+          7166,
+          146,
+          7185
+        ],
+        "confidence": 1,
+        "text": "Start Page"
+      },
+      {
+        "bbox_px": [
+          75,
+          7200,
+          184,
+          7219
+        ],
+        "confidence": 1,
+        "text": "Template Library"
+      },
+      {
+        "bbox_px": [
+          299,
+          6675,
+          362,
+          6692
+        ],
+        "confidence": 1,
+        "text": "Channels"
+      },
+      {
+        "bbox_px": [
+          298,
+          6704,
+          352,
+          6724
+        ],
+        "confidence": 1,
+        "text": "Bluesky"
+      },
+      {
+        "bbox_px": [
+          301,
+          6739,
+          366,
+          6753
+        ],
+        "confidence": 1,
+        "text": "Facebook"
+      },
+      {
+        "bbox_px": [
+          301,
+          6773,
+          449,
+          6788
+        ],
+        "confidence": 1,
+        "text": "Google Business Profile"
+      },
+      {
+        "bbox_px": [
+          301,
+          6809,
+          366,
+          6824
+        ],
+        "confidence": 1,
+        "text": "Instagram"
+      },
+      {
+        "bbox_px": [
+          301,
+          6842,
+          357,
+          6855
+        ],
+        "confidence": 1,
+        "text": "Linkedln"
+      },
+      {
+        "bbox_px": [
+          298,
+          6874,
+          366,
+          6893
+        ],
+        "confidence": 1,
+        "text": "Mastodon"
+      },
+      {
+        "bbox_px": [
+          299,
+          6909,
+          359,
+          6926
+        ],
+        "confidence": 1,
+        "text": "Pinterest"
+      },
+      {
+        "bbox_px": [
+          299,
+          6943,
+          353,
+          6960
+        ],
+        "confidence": 1,
+        "text": "Threads"
+      },
+      {
+        "bbox_px": [
+          299,
+          6976,
+          343,
+          6993
+        ],
+        "confidence": 1,
+        "text": "TikTok"
+      },
+      {
+        "bbox_px": [
+          297,
+          7045,
+          357,
+          7062
+        ],
+        "confidence": 1,
+        "text": "YouTube"
+      },
+      {
+        "bbox_px": [
+          77,
+          7311,
+          303,
+          7325
+        ],
+        "confidence": 1,
+        "text": "Free tools and social media data v"
+      },
+      {
+        "bbox_px": [
+          77,
+          7331,
+          481,
+          7350
+        ],
+        "confidence": 1,
+        "text": "Benchmarks, best times to post, and tools you can use right now."
+      },
+      {
+        "bbox_px": [
+          175,
+          7477,
+          439,
+          7556
+        ],
+        "confidence": 1,
+        "text": "Buffer"
+      },
+      {
+        "bbox_px": [
+          573,
+          6463,
+          870,
+          6483
+        ],
+        "confidence": 1,
+        "text": "No credit card needed. Free forever."
+      },
+      {
+        "bbox_px": [
+          521,
+          6675,
+          583,
+          6692
+        ],
+        "confidence": 1,
+        "text": "Made for"
+      },
+      {
+        "bbox_px": [
+          523,
+          6704,
+          583,
+          6721
+        ],
+        "confidence": 1,
+        "text": "Agencies"
+      },
+      {
+        "bbox_px": [
+          525,
+          6740,
+          579,
+          6753
+        ],
+        "confidence": 1,
+        "text": "Creators"
+      },
+      {
+        "bbox_px": [
+          520,
+          6774,
+          596,
+          6790
+        ],
+        "confidence": 1,
+        "text": "Developers"
+      },
+      {
+        "bbox_px": [
+          521,
+          6809,
+          634,
+          6826
+        ],
+        "confidence": 1,
+        "text": "Higher Education"
+      },
+      {
+        "bbox_px": [
+          523,
+          6843,
+          594,
+          6857
+        ],
+        "confidence": 1,
+        "text": "Nonprofits"
+      },
+      {
+        "bbox_px": [
+          522,
+          6874,
+          619,
+          6891
+        ],
+        "confidence": 1,
+        "text": "Small Business"
+      },
+      {
+        "bbox_px": [
+          523,
+          6911,
+          579,
+          6924
+        ],
+        "confidence": 1,
+        "text": "Startups"
+      },
+      {
+        "bbox_px": [
+          745,
+          6675,
+          814,
+          6690
+        ],
+        "confidence": 1,
+        "text": "Resources"
+      },
+      {
+        "bbox_px": [
+          741,
+          6703,
+          778,
+          6725
+        ],
+        "confidence": 1,
+        "text": "Blog"
+      },
+      {
+        "bbox_px": [
+          747,
+          6740,
+          847,
+          6755
+        ],
+        "confidence": 1,
+        "text": "Our Community"
+      },
+      {
+        "bbox_px": [
+          744,
+          6770,
+          854,
+          6791
+        ],
+        "confidence": 1,
+        "text": "Resource Library"
+      },
+      {
+        "bbox_px": [
+          747,
+          6809,
+          868,
+          6822
+        ],
+        "confidence": 1,
+        "text": "Social Media Terms"
+      },
+      {
+        "bbox_px": [
+          744,
+          6831,
+          802,
+          6852
+        ],
+        "confidence": 1,
+        "text": "Glossary"
+      },
+      {
+        "bbox_px": [
+          964,
+          6674,
+          1023,
+          6695
+        ],
+        "confidence": 1,
+        "text": "Support"
+      },
+      {
+        "bbox_px": [
+          966,
+          6703,
+          1038,
+          6724
+        ],
+        "confidence": 1,
+        "text": "Changelog"
+      },
+      {
+        "bbox_px": [
+          964,
+          6738,
+          1069,
+          6757
+        ],
+        "confidence": 1,
+        "text": "Developer Docs"
+      },
+      {
+        "bbox_px": [
+          966,
+          6771,
+          1048,
+          6790
+        ],
+        "confidence": 1,
+        "text": "Help Center"
+      },
+      {
+        "bbox_px": [
+          964,
+          6807,
+          1084,
+          6826
+        ],
+        "confidence": 1,
+        "text": "Request a Feature"
+      },
+      {
+        "bbox_px": [
+          966,
+          6840,
+          1013,
+          6859
+        ],
+        "confidence": 1,
+        "text": "Status"
+      },
+      {
+        "bbox_px": [
+          964,
+          6894,
+          1054,
+          6914
+        ],
+        "confidence": 1,
+        "text": "Transparency"
+      },
+      {
+        "bbox_px": [
+          966,
+          6926,
+          1036,
+          6945
+        ],
+        "confidence": 1,
+        "text": "Open Hub"
+      },
+      {
+        "bbox_px": [
+          964,
+          6958,
+          1082,
+          6979
+        ],
+        "confidence": 1,
+        "text": "Product Roadmap"
+      },
+      {
+        "bbox_px": [
+          964,
+          6995,
+          1094,
+          7012
+        ],
+        "confidence": 1,
+        "text": "Transparent Metrics"
+      },
+      {
+        "bbox_px": [
+          964,
+          7028,
+          1090,
+          7047
+        ],
+        "confidence": 1,
+        "text": "Transparent Pricing"
+      },
+      {
+        "bbox_px": [
+          964,
+          7062,
+          1096,
+          7081
+        ],
+        "confidence": 1,
+        "text": "Transparent Salaries"
+      },
+      {
+        "bbox_px": [
+          1186,
+          6673,
+          1254,
+          6695
+        ],
+        "confidence": 1,
+        "text": "Company"
+      },
+      {
+        "bbox_px": [
+          1188,
+          6705,
+          1232,
+          6721
+        ],
+        "confidence": 1,
+        "text": "About"
+      },
+      {
+        "bbox_px": [
+          1188,
+          6738,
+          1243,
+          6757
+        ],
+        "confidence": 1,
+        "text": "Careers"
+      },
+      {
+        "bbox_px": [
+          1186,
+          6774,
+          1226,
+          6792
+        ],
+        "confidence": 1,
+        "text": "Legal"
+      },
+      {
+        "bbox_px": [
+          1186,
+          6807,
+          1295,
+          6826
+        ],
+        "confidence": 1,
+        "text": "Partner Program"
+      },
+      {
+        "bbox_px": [
+          1186,
+          6840,
+          1228,
+          6859
+        ],
+        "confidence": 1,
+        "text": "Press"
+      },
+      {
+        "bbox_px": [
+          1188,
+          6872,
+          1247,
+          6894
+        ],
+        "confidence": 1,
+        "text": "Sitemap"
+      },
+      {
+        "bbox_px": [
+          1255,
+          7444,
+          1362,
+          7466
+        ],
+        "confidence": 1,
+        "text": "English ~"
+      },
+      {
+        "bbox_px": [
+          1017,
+          7543,
+          1362,
+          7562
+        ],
+        "confidence": 1,
+        "text": "Copyright ©2026 Buffer | Privacy | Terms | Security"
+      }
+    ],
+    "path": "screenshots/buffer.png",
+    "width": 1440
+  }
+]

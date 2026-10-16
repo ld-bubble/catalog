@@ -1,0 +1,1819 @@
+[
+  {
+    "height": 5069,
+    "lines": [
+      {
+        "bbox_px": [
+          15,
+          23,
+          107,
+          47
+        ],
+        "confidence": 1,
+        "text": "runway"
+      },
+      {
+        "bbox_px": [
+          378,
+          25,
+          637,
+          46
+        ],
+        "confidence": 1,
+        "text": "Creative • Dev v Robotics v"
+      },
+      {
+        "bbox_px": [
+          658,
+          26,
+          1061,
+          44
+        ],
+        "confidence": 1,
+        "text": "Research v Resources v Enterprise v Pricing"
+      },
+      {
+        "bbox_px": [
+          1142,
+          28,
+          1246,
+          44
+        ],
+        "confidence": 1,
+        "text": "Enterprise Sales"
+      },
+      {
+        "bbox_px": [
+          1270,
+          28,
+          1309,
+          44
+        ],
+        "confidence": 1,
+        "text": "Login"
+      },
+      {
+        "bbox_px": [
+          1332,
+          25,
+          1411,
+          42
+        ],
+        "confidence": 1,
+        "text": "Try Runway"
+      },
+      {
+        "bbox_px": [
+          62,
+          371,
+          611,
+          416
+        ],
+        "confidence": 1,
+        "text": "Building Real-World Intelligence"
+      },
+      {
+        "bbox_px": [
+          62,
+          436,
+          624,
+          455
+        ],
+        "confidence": 1,
+        "text": "Runway is building foundational Real-World Intelligence that can"
+      },
+      {
+        "bbox_px": [
+          62,
+          463,
+          629,
+          487
+        ],
+        "confidence": 1,
+        "text": "understand, simulate and act in the world. We offer products and"
+      },
+      {
+        "bbox_px": [
+          62,
+          496,
+          614,
+          518
+        ],
+        "confidence": 1,
+        "text": "services built on-top of this intelligence to empower individuals"
+      },
+      {
+        "bbox_px": [
+          62,
+          526,
+          431,
+          550
+        ],
+        "confidence": 1,
+        "text": "and organizations to do more in the world."
+      },
+      {
+        "bbox_px": [
+          73,
+          588,
+          232,
+          607
+        ],
+        "confidence": 1,
+        "text": "Try Runway for free ›"
+      },
+      {
+        "bbox_px": [
+          279,
+          777,
+          326,
+          790
+        ],
+        "confidence": 1,
+        "text": "IVIDIA."
+      },
+      {
+        "bbox_px": [
+          384,
+          771,
+          470,
+          795
+        ],
+        "confidence": 1,
+        "text": "141 Adobe"
+      },
+      {
+        "bbox_px": [
+          446,
+          713,
+          993,
+          732
+        ],
+        "confidence": 1,
+        "text": "We partner with the world's leading organizations to advance their industries:"
+      },
+      {
+        "bbox_px": [
+          530,
+          774,
+          609,
+          790
+        ],
+        "confidence": 1,
+        "text": "@ Allstate®"
+      },
+      {
+        "bbox_px": [
+          665,
+          761,
+          735,
+          806
+        ],
+        "confidence": 1,
+        "text": "gut"
+      },
+      {
+        "bbox_px": [
+          789,
+          774,
+          872,
+          790
+        ],
+        "confidence": 1,
+        "text": "LEGENDARY"
+      },
+      {
+        "bbox_px": [
+          930,
+          773,
+          1016,
+          790
+        ],
+        "confidence": 1,
+        "text": "LIONSGATE"
+      },
+      {
+        "bbox_px": [
+          1073,
+          767,
+          1160,
+          793
+        ],
+        "confidence": 1,
+        "text": "amazon"
+      },
+      {
+        "bbox_px": [
+          240,
+          962,
+          1199,
+          1015
+        ],
+        "confidence": 1,
+        "text": "Three platforms built on-top of the same"
+      },
+      {
+        "bbox_px": [
+          346,
+          1013,
+          1093,
+          1086
+        ],
+        "confidence": 1,
+        "text": "Real-World Intelligence models"
+      },
+      {
+        "bbox_px": [
+          17,
+          1134,
+          201,
+          1163
+        ],
+        "confidence": 1,
+        "text": "Runway Creative"
+      },
+      {
+        "bbox_px": [
+          488,
+          1135,
+          630,
+          1162
+        ],
+        "confidence": 1,
+        "text": "Runway Dev"
+      },
+      {
+        "bbox_px": [
+          959,
+          1134,
+          1147,
+          1161
+        ],
+        "confidence": 1,
+        "text": "Runway Robotics"
+      },
+      {
+        "bbox_px": [
+          318,
+          1242,
+          347,
+          1255
+        ],
+        "confidence": 0.30000001192092896,
+        "text": "254"
+      },
+      {
+        "bbox_px": [
+          20,
+          1470,
+          373,
+          1491
+        ],
+        "confidence": 1,
+        "text": "Your complete Creative Suite with"
+      },
+      {
+        "bbox_px": [
+          20,
+          1498,
+          324,
+          1522
+        ],
+        "confidence": 1,
+        "text": "everything you need, to make"
+      },
+      {
+        "bbox_px": [
+          15,
+          1530,
+          216,
+          1554
+        ],
+        "confidence": 1,
+        "text": "anything you want."
+      },
+      {
+        "bbox_px": [
+          18,
+          1575,
+          407,
+          1588
+        ],
+        "confidence": 1,
+        "text": "An all-in-one cloud-based creative platform that offers endless"
+      },
+      {
+        "bbox_px": [
+          18,
+          1595,
+          376,
+          1611
+        ],
+        "confidence": 1,
+        "text": "ways to generate and edit video, images and audio in one"
+      },
+      {
+        "bbox_px": [
+          18,
+          1616,
+          350,
+          1633
+        ],
+        "confidence": 1,
+        "text": "workspace. Built for individuals and teams of all sizes."
+      },
+      {
+        "bbox_px": [
+          488,
+          1465,
+          878,
+          1498
+        ],
+        "confidence": 1,
+        "text": "The Al media platform for developers"
+      },
+      {
+        "bbox_px": [
+          488,
+          1498,
+          849,
+          1522
+        ],
+        "confidence": 1,
+        "text": "to build with the best models from"
+      },
+      {
+        "bbox_px": [
+          488,
+          1530,
+          736,
+          1556
+        ],
+        "confidence": 1,
+        "text": "Runway and other labs."
+      },
+      {
+        "bbox_px": [
+          491,
+          1575,
+          870,
+          1588
+        ],
+        "confidence": 1,
+        "text": "The API platform with Runway's expertise built in. Access the"
+      },
+      {
+        "bbox_px": [
+          488,
+          1595,
+          870,
+          1611
+        ],
+        "confidence": 1,
+        "text": "best models and the creative tooling to easily get production-"
+      },
+      {
+        "bbox_px": [
+          488,
+          1616,
+          695,
+          1633
+        ],
+        "confidence": 1,
+        "text": "ready output from them, at scale."
+      },
+      {
+        "bbox_px": [
+          28,
+          1690,
+          81,
+          1705
+        ],
+        "confidence": 1,
+        "text": "Try now"
+      },
+      {
+        "bbox_px": [
+          104,
+          1689,
+          180,
+          1703
+        ],
+        "confidence": 1,
+        "text": "Learn more"
+      },
+      {
+        "bbox_px": [
+          203,
+          1690,
+          295,
+          1705
+        ],
+        "confidence": 1,
+        "text": "For Enterprise"
+      },
+      {
+        "bbox_px": [
+          18,
+          1731,
+          376,
+          1745
+        ],
+        "confidence": 1,
+        "text": "Used by 60m+ creatives around the world. Try free, cancel anytime."
+      },
+      {
+        "bbox_px": [
+          499,
+          1690,
+          574,
+          1705
+        ],
+        "confidence": 1,
+        "text": "Get API Key"
+      },
+      {
+        "bbox_px": [
+          601,
+          1690,
+          734,
+          1703
+        ],
+        "confidence": 1,
+        "text": "View documentation"
+      },
+      {
+        "bbox_px": [
+          757,
+          1690,
+          851,
+          1705
+        ],
+        "confidence": 1,
+        "text": "For Enterprise"
+      },
+      {
+        "bbox_px": [
+          961,
+          1464,
+          1286,
+          1494
+        ],
+        "confidence": 1,
+        "text": "A complete toolkit to run policy"
+      },
+      {
+        "bbox_px": [
+          959,
+          1498,
+          1296,
+          1522
+        ],
+        "confidence": 1,
+        "text": "inference through photorealistic"
+      },
+      {
+        "bbox_px": [
+          958,
+          1528,
+          1079,
+          1556
+        ],
+        "confidence": 1,
+        "text": "simulation."
+      },
+      {
+        "bbox_px": [
+          961,
+          1574,
+          1298,
+          1591
+        ],
+        "confidence": 1,
+        "text": "From policy inference and evaluation to synthetic data"
+      },
+      {
+        "bbox_px": [
+          961,
+          1595,
+          1345,
+          1611
+        ],
+        "confidence": 1,
+        "text": "generation, every component is powered by GWM-1, our state-"
+      },
+      {
+        "bbox_px": [
+          961,
+          1616,
+          1332,
+          1633
+        ],
+        "confidence": 1,
+        "text": "of-the-art General World Model. Pick the surface you need -"
+      },
+      {
+        "bbox_px": [
+          961,
+          1635,
+          1233,
+          1657
+        ],
+        "confidence": 1,
+        "text": "we'll work with you to fit it to your hardware."
+      },
+      {
+        "bbox_px": [
+          969,
+          1690,
+          1045,
+          1703
+        ],
+        "confidence": 1,
+        "text": "Learn more"
+      },
+      {
+        "bbox_px": [
+          1068,
+          1690,
+          1160,
+          1705
+        ],
+        "confidence": 1,
+        "text": "Contact Sales"
+      },
+      {
+        "bbox_px": [
+          18,
+          1600,
+          373,
+          1610
+        ],
+        "confidence": 1,
+        "text": "ways to generate ana ealt video, images ana aualo in one"
+      },
+      {
+        "bbox_px": [
+          18,
+          1618,
+          350,
+          1631
+        ],
+        "confidence": 1,
+        "text": "workspace. Built for individuals and teams of all sizes."
+      },
+      {
+        "bbox_px": [
+          491,
+          1600,
+          870,
+          1610
+        ],
+        "confidence": 1,
+        "text": "pest modeis ana the creative tooling to easlly get production-"
+      },
+      {
+        "bbox_px": [
+          491,
+          1615,
+          695,
+          1631
+        ],
+        "confidence": 1,
+        "text": "ready output from them, at scale."
+      },
+      {
+        "bbox_px": [
+          959,
+          1600,
+          1345,
+          1610
+        ],
+        "confidence": 1,
+        "text": "generation, every component is powerea py avvivi-i, our state-"
+      },
+      {
+        "bbox_px": [
+          959,
+          1613,
+          1332,
+          1634
+        ],
+        "confidence": 1,
+        "text": "of-the-art General World Model. Pick the surface you need -"
+      },
+      {
+        "bbox_px": [
+          959,
+          1636,
+          1233,
+          1654
+        ],
+        "confidence": 1,
+        "text": "we'll work with you to fit it to your hardware."
+      },
+      {
+        "bbox_px": [
+          28,
+          1691,
+          81,
+          1705
+        ],
+        "confidence": 1,
+        "text": "Try now"
+      },
+      {
+        "bbox_px": [
+          104,
+          1691,
+          180,
+          1705
+        ],
+        "confidence": 1,
+        "text": "Learn more"
+      },
+      {
+        "bbox_px": [
+          203,
+          1688,
+          295,
+          1705
+        ],
+        "confidence": 1,
+        "text": "For Enterprise"
+      },
+      {
+        "bbox_px": [
+          18,
+          1730,
+          376,
+          1744
+        ],
+        "confidence": 1,
+        "text": "Used by 60m+ creatives around the world. Try free, cancel anytime."
+      },
+      {
+        "bbox_px": [
+          501,
+          1688,
+          577,
+          1705
+        ],
+        "confidence": 1,
+        "text": "Get API Key"
+      },
+      {
+        "bbox_px": [
+          598,
+          1688,
+          734,
+          1705
+        ],
+        "confidence": 1,
+        "text": "View documentation"
+      },
+      {
+        "bbox_px": [
+          755,
+          1688,
+          849,
+          1705
+        ],
+        "confidence": 1,
+        "text": "For Enterprise"
+      },
+      {
+        "bbox_px": [
+          969,
+          1689,
+          1045,
+          1705
+        ],
+        "confidence": 1,
+        "text": "Learn more"
+      },
+      {
+        "bbox_px": [
+          1068,
+          1688,
+          1160,
+          1705
+        ],
+        "confidence": 1,
+        "text": "Contact Sales"
+      },
+      {
+        "bbox_px": [
+          18,
+          1947,
+          198,
+          1974
+        ],
+        "confidence": 1,
+        "text": "Runway Creative"
+      },
+      {
+        "bbox_px": [
+          648,
+          1947,
+          784,
+          1972
+        ],
+        "confidence": 1,
+        "text": "Runway Dev"
+      },
+      {
+        "bbox_px": [
+          1230,
+          1947,
+          1419,
+          1975
+        ],
+        "confidence": 1,
+        "text": "Runway Robotics"
+      },
+      {
+        "bbox_px": [
+          75,
+          2193,
+          300,
+          2222
+        ],
+        "confidence": 1,
+        "text": "How Runway is Used"
+      },
+      {
+        "bbox_px": [
+          75,
+          2251,
+          266,
+          2278
+        ],
+        "confidence": 1,
+        "text": "Create with Agent"
+      },
+      {
+        "bbox_px": [
+          75,
+          2303,
+          347,
+          2330
+        ],
+        "confidence": 1,
+        "text": "Build your own Workflows"
+      },
+      {
+        "bbox_px": [
+          75,
+          2358,
+          253,
+          2384
+        ],
+        "confidence": 1,
+        "text": "Enterprise-grade"
+      },
+      {
+        "bbox_px": [
+          75,
+          2413,
+          337,
+          2435
+        ],
+        "confidence": 1,
+        "text": "The World's Best Models"
+      },
+      {
+        "bbox_px": [
+          851,
+          2526,
+          940,
+          2547
+        ],
+        "confidence": 1,
+        "text": "MALVA"
+      },
+      {
+        "bbox_px": [
+          104,
+          2891,
+          222,
+          2908
+        ],
+        "confidence": 1,
+        "text": "Runway Research"
+      },
+      {
+        "bbox_px": [
+          104,
+          2936,
+          564,
+          2960
+        ],
+        "confidence": 1,
+        "text": "We are building foundational General World"
+      },
+      {
+        "bbox_px": [
+          106,
+          2960,
+          541,
+          2989
+        ],
+        "confidence": 1,
+        "text": "Models that will be capable of simulating"
+      },
+      {
+        "bbox_px": [
+          107,
+          2993,
+          535,
+          3018
+        ],
+        "confidence": 1,
+        "text": "all possible worlds and experiences. The"
+      },
+      {
+        "bbox_px": [
+          107,
+          3025,
+          551,
+          3049
+        ],
+        "confidence": 1,
+        "text": "next frontier of intelligence will come from"
+      },
+      {
+        "bbox_px": [
+          106,
+          3053,
+          515,
+          3080
+        ],
+        "confidence": 1,
+        "text": "models that can understand, perceive,"
+      },
+      {
+        "bbox_px": [
+          106,
+          3083,
+          426,
+          3109
+        ],
+        "confidence": 1,
+        "text": "generate and act in the world."
+      },
+      {
+        "bbox_px": [
+          946,
+          2923,
+          1014,
+          2942
+        ],
+        "confidence": 1,
+        "text": "GWM-1"
+      },
+      {
+        "bbox_px": [
+          946,
+          2949,
+          1314,
+          2966
+        ],
+        "confidence": 1,
+        "text": "A state-of-the-art General World Model built to interact with"
+      },
+      {
+        "bbox_px": [
+          946,
+          2968,
+          1254,
+          2981
+        ],
+        "confidence": 1,
+        "text": "the real world. And a major step towards universal"
+      },
+      {
+        "bbox_px": [
+          946,
+          2986,
+          1016,
+          2999
+        ],
+        "confidence": 1,
+        "text": "simulation."
+      },
+      {
+        "bbox_px": [
+          948,
+          3059,
+          1019,
+          3076
+        ],
+        "confidence": 1,
+        "text": "Gen-4.5"
+      },
+      {
+        "bbox_px": [
+          946,
+          3088,
+          1288,
+          3102
+        ],
+        "confidence": 1,
+        "text": "The world's best video model, featuring state-of-the-art"
+      },
+      {
+        "bbox_px": [
+          946,
+          3106,
+          1270,
+          3120
+        ],
+        "confidence": 1,
+        "text": "motion quality, prompt adherence and visual fidelity."
+      },
+      {
+        "bbox_px": [
+          114,
+          3154,
+          190,
+          3167
+        ],
+        "confidence": 1,
+        "text": "Learn more"
+      },
+      {
+        "bbox_px": [
+          948,
+          3179,
+          1144,
+          3198
+        ],
+        "confidence": 1,
+        "text": "General World Models"
+      },
+      {
+        "bbox_px": [
+          945,
+          3205,
+          1278,
+          3225
+        ],
+        "confidence": 1,
+        "text": "Our long-term research effort to build Al systems that"
+      },
+      {
+        "bbox_px": [
+          946,
+          3224,
+          1230,
+          3240
+        ],
+        "confidence": 1,
+        "text": "understand the visual world and its dynamics."
+      },
+      {
+        "bbox_px": [
+          948,
+          3207,
+          1277,
+          3223
+        ],
+        "confidence": 1,
+        "text": "Our long-term research effort to build Al systems that"
+      },
+      {
+        "bbox_px": [
+          946,
+          3226,
+          1230,
+          3239
+        ],
+        "confidence": 1,
+        "text": "understand the visual world and its dynamics."
+      },
+      {
+        "bbox_px": [
+          20,
+          3560,
+          481,
+          3603
+        ],
+        "confidence": 1,
+        "text": "See the latest from Runway"
+      },
+      {
+        "bbox_px": [
+          381,
+          3657,
+          624,
+          3684
+        ],
+        "confidence": 1,
+        "text": "Introducing Team Plan"
+      },
+      {
+        "bbox_px": [
+          384,
+          3689,
+          676,
+          3702
+        ],
+        "confidence": 1,
+        "text": "Runway's collaboration plan for creative teams,"
+      },
+      {
+        "bbox_px": [
+          384,
+          3704,
+          703,
+          3721
+        ],
+        "confidence": 1,
+        "text": "with shared projects, pooled credits and Brand Kits"
+      },
+      {
+        "bbox_px": [
+          383,
+          3721,
+          481,
+          3739
+        ],
+        "confidence": 1,
+        "text": "for 2 to 9 seats."
+      },
+      {
+        "bbox_px": [
+          384,
+          3754,
+          480,
+          3770
+        ],
+        "confidence": 1,
+        "text": "Learn more >"
+      },
+      {
+        "bbox_px": [
+          1097,
+          3652,
+          1299,
+          3686
+        ],
+        "confidence": 1,
+        "text": "Introducing Solaris"
+      },
+      {
+        "bbox_px": [
+          1100,
+          3689,
+          1395,
+          3702
+        ],
+        "confidence": 1,
+        "text": "Our first Interface World Model: real-time Al that"
+      },
+      {
+        "bbox_px": [
+          1097,
+          3707,
+          1395,
+          3723
+        ],
+        "confidence": 1,
+        "text": "generates interactive intertaces frame by frame,"
+      },
+      {
+        "bbox_px": [
+          1097,
+          3720,
+          1187,
+          3739
+        ],
+        "confidence": 1,
+        "text": "with no code."
+      },
+      {
+        "bbox_px": [
+          1097,
+          3754,
+          1194,
+          3770
+        ],
+        "confidence": 1,
+        "text": "Learn more >"
+      },
+      {
+        "bbox_px": [
+          384,
+          3866,
+          582,
+          3890
+        ],
+        "confidence": 1,
+        "text": "The Next Phase of"
+      },
+      {
+        "bbox_px": [
+          384,
+          3892,
+          561,
+          3916
+        ],
+        "confidence": 1,
+        "text": "Enterprise Video"
+      },
+      {
+        "bbox_px": [
+          384,
+          3916,
+          504,
+          3940
+        ],
+        "confidence": 1,
+        "text": "Generation"
+      },
+      {
+        "bbox_px": [
+          384,
+          3947,
+          640,
+          3964
+        ],
+        "confidence": 1,
+        "text": "Five themes from hundreds of enterprise"
+      },
+      {
+        "bbox_px": [
+          384,
+          3966,
+          674,
+          3982
+        ],
+        "confidence": 1,
+        "text": "conversations, from data sovereignty and cost"
+      },
+      {
+        "bbox_px": [
+          384,
+          3982,
+          687,
+          3997
+        ],
+        "confidence": 1,
+        "text": "economics to autonomous execution and model"
+      },
+      {
+        "bbox_px": [
+          384,
+          4000,
+          454,
+          4016
+        ],
+        "confidence": 1,
+        "text": "ownership."
+      },
+      {
+        "bbox_px": [
+          384,
+          4031,
+          478,
+          4047
+        ],
+        "confidence": 1,
+        "text": "Learn more >"
+      },
+      {
+        "bbox_px": [
+          1095,
+          3866,
+          1387,
+          3895
+        ],
+        "confidence": 1,
+        "text": "Introducing GWM Worlds 2"
+      },
+      {
+        "bbox_px": [
+          1097,
+          3898,
+          1413,
+          3919
+        ],
+        "confidence": 1,
+        "text": "GWM Worlds 2 generates interactive worlds in real"
+      },
+      {
+        "bbox_px": [
+          1095,
+          3916,
+          1416,
+          3937
+        ],
+        "confidence": 1,
+        "text": "time: continuous 720p video at 24 fps and audio at"
+      },
+      {
+        "bbox_px": [
+          1095,
+          3932,
+          1374,
+          3953
+        ],
+        "confidence": 1,
+        "text": "48,000 Hz, responding to your inputs as you"
+      },
+      {
+        "bbox_px": [
+          1095,
+          3953,
+          1149,
+          3971
+        ],
+        "confidence": 1,
+        "text": "explore."
+      },
+      {
+        "bbox_px": [
+          1094,
+          3981,
+          1194,
+          4003
+        ],
+        "confidence": 1,
+        "text": "Learn more >"
+      },
+      {
+        "bbox_px": [
+          18,
+          4238,
+          70,
+          4251
+        ],
+        "confidence": 1,
+        "text": "Creative"
+      },
+      {
+        "bbox_px": [
+          18,
+          4298,
+          65,
+          4314
+        ],
+        "confidence": 1,
+        "text": "Agent"
+      },
+      {
+        "bbox_px": [
+          18,
+          4395,
+          57,
+          4411
+        ],
+        "confidence": 1,
+        "text": "MCР"
+      },
+      {
+        "bbox_px": [
+          18,
+          4471,
+          62,
+          4487
+        ],
+        "confidence": 1,
+        "text": "Login"
+      },
+      {
+        "bbox_px": [
+          18,
+          4549,
+          75,
+          4563
+        ],
+        "confidence": 1,
+        "text": "Research"
+      },
+      {
+        "bbox_px": [
+          18,
+          4584,
+          120,
+          4600
+        ],
+        "confidence": 1,
+        "text": "Research Hub"
+      },
+      {
+        "bbox_px": [
+          18,
+          4607,
+          133,
+          4626
+        ],
+        "confidence": 1,
+        "text": "Research News"
+      },
+      {
+        "bbox_px": [
+          18,
+          4633,
+          109,
+          4649
+        ],
+        "confidence": 1,
+        "text": "Publications"
+      },
+      {
+        "bbox_px": [
+          18,
+          4659,
+          75,
+          4673
+        ],
+        "confidence": 1,
+        "text": "Gen-4.5"
+      },
+      {
+        "bbox_px": [
+          17,
+          4683,
+          86,
+          4702
+        ],
+        "confidence": 1,
+        "text": "Aleph 2.0"
+      },
+      {
+        "bbox_px": [
+          18,
+          4709,
+          81,
+          4725
+        ],
+        "confidence": 1,
+        "text": "Act-Two"
+      },
+      {
+        "bbox_px": [
+          18,
+          4733,
+          70,
+          4748
+        ],
+        "confidence": 1,
+        "text": "Solaris"
+      },
+      {
+        "bbox_px": [
+          18,
+          4759,
+          86,
+          4772
+        ],
+        "confidence": 1,
+        "text": "Robotics"
+      },
+      {
+        "bbox_px": [
+          18,
+          4782,
+          141,
+          4798
+        ],
+        "confidence": 1,
+        "text": "World Simulation"
+      },
+      {
+        "bbox_px": [
+          373,
+          4238,
+          399,
+          4251
+        ],
+        "confidence": 1,
+        "text": "Dev"
+      },
+      {
+        "bbox_px": [
+          729,
+          4238,
+          784,
+          4251
+        ],
+        "confidence": 1,
+        "text": "Robotics"
+      },
+      {
+        "bbox_px": [
+          729,
+          4272,
+          799,
+          4288
+        ],
+        "confidence": 1,
+        "text": "Overview"
+      },
+      {
+        "bbox_px": [
+          729,
+          4298,
+          823,
+          4314
+        ],
+        "confidence": 1,
+        "text": "Policy Model"
+      },
+      {
+        "bbox_px": [
+          729,
+          4321,
+          899,
+          4338
+        ],
+        "confidence": 1,
+        "text": "Offline Policy Evaluation"
+      },
+      {
+        "bbox_px": [
+          729,
+          4345,
+          867,
+          4364
+        ],
+        "confidence": 1,
+        "text": "Data Augmentation"
+      },
+      {
+        "bbox_px": [
+          726,
+          4366,
+          891,
+          4393
+        ],
+        "confidence": 1,
+        "text": "Video Model Licensing"
+      },
+      {
+        "bbox_px": [
+          729,
+          4397,
+          812,
+          4411
+        ],
+        "confidence": 1,
+        "text": "Get Access"
+      },
+      {
+        "bbox_px": [
+          1081,
+          4236,
+          1147,
+          4256
+        ],
+        "confidence": 1,
+        "text": "Enterprise"
+      },
+      {
+        "bbox_px": [
+          1081,
+          4272,
+          1155,
+          4291
+        ],
+        "confidence": 1,
+        "text": "Overview"
+      },
+      {
+        "bbox_px": [
+          1084,
+          4296,
+          1184,
+          4313
+        ],
+        "confidence": 1,
+        "text": "Data Security"
+      },
+      {
+        "bbox_px": [
+          1084,
+          4321,
+          1210,
+          4338
+        ],
+        "confidence": 1,
+        "text": "Customer Stories"
+      },
+      {
+        "bbox_px": [
+          1084,
+          4344,
+          1186,
+          4364
+        ],
+        "confidence": 1,
+        "text": "For Education"
+      },
+      {
+        "bbox_px": [
+          1081,
+          4369,
+          1186,
+          4390
+        ],
+        "confidence": 1,
+        "text": "Contact Sales"
+      },
+      {
+        "bbox_px": [
+          473,
+          4421,
+          499,
+          4440
+        ],
+        "confidence": 1,
+        "text": "nz"
+      },
+      {
+        "bbox_px": [
+          371,
+          4445,
+          425,
+          4466
+        ],
+        "confidence": 1,
+        "text": "Pricing"
+      },
+      {
+        "bbox_px": [
+          373,
+          4549,
+          436,
+          4563
+        ],
+        "confidence": 1,
+        "text": "Resources"
+      },
+      {
+        "bbox_px": [
+          373,
+          4583,
+          457,
+          4601
+        ],
+        "confidence": 1,
+        "text": "Academy »"
+      },
+      {
+        "bbox_px": [
+          373,
+          4610,
+          473,
+          4625
+        ],
+        "confidence": 1,
+        "text": "Help Center x"
+      },
+      {
+        "bbox_px": [
+          373,
+          4633,
+          475,
+          4649
+        ],
+        "confidence": 1,
+        "text": "Resource Hub"
+      },
+      {
+        "bbox_px": [
+          372,
+          4658,
+          419,
+          4676
+        ],
+        "confidence": 1,
+        "text": "News"
+      },
+      {
+        "bbox_px": [
+          376,
+          4683,
+          454,
+          4701
+        ],
+        "confidence": 1,
+        "text": "Changelog"
+      },
+      {
+        "bbox_px": [
+          373,
+          4709,
+          452,
+          4725
+        ],
+        "confidence": 1,
+        "text": "Meetups x"
+      },
+      {
+        "bbox_px": [
+          728,
+          4547,
+          839,
+          4567
+        ],
+        "confidence": 1,
+        "text": "Events & Programs"
+      },
+      {
+        "bbox_px": [
+          729,
+          4583,
+          815,
+          4599
+        ],
+        "confidence": 1,
+        "text": "Al Festival 7"
+      },
+      {
+        "bbox_px": [
+          729,
+          4607,
+          857,
+          4626
+        ],
+        "confidence": 1,
+        "text": "AI Summit 2026 >"
+      },
+      {
+        "bbox_px": [
+          729,
+          4633,
+          784,
+          4649
+        ],
+        "confidence": 1,
+        "text": "Gen:48"
+      },
+      {
+        "bbox_px": [
+          729,
+          4659,
+          786,
+          4672
+        ],
+        "confidence": 1,
+        "text": "Studios"
+      },
+      {
+        "bbox_px": [
+          731,
+          4681,
+          917,
+          4702
+        ],
+        "confidence": 1,
+        "text": "Creative Partners Program"
+      },
+      {
+        "bbox_px": [
+          729,
+          4709,
+          849,
+          4725
+        ],
+        "confidence": 1,
+        "text": "Runway Builders"
+      },
+      {
+        "bbox_px": [
+          728,
+          4730,
+          849,
+          4752
+        ],
+        "confidence": 1,
+        "text": "Affiliate Program"
+      },
+      {
+        "bbox_px": [
+          729,
+          4758,
+          851,
+          4775
+        ],
+        "confidence": 1,
+        "text": "Talent Network x"
+      },
+      {
+        "bbox_px": [
+          1084,
+          4550,
+          1145,
+          4566
+        ],
+        "confidence": 1,
+        "text": "Company"
+      },
+      {
+        "bbox_px": [
+          1084,
+          4583,
+          1152,
+          4599
+        ],
+        "confidence": 1,
+        "text": "About Us"
+      },
+      {
+        "bbox_px": [
+          1084,
+          4609,
+          1144,
+          4626
+        ],
+        "confidence": 1,
+        "text": "Careers"
+      },
+      {
+        "bbox_px": [
+          1083,
+          4631,
+          1132,
+          4652
+        ],
+        "confidence": 1,
+        "text": "Safety"
+      },
+      {
+        "bbox_px": [
+          1084,
+          4659,
+          1270,
+          4675
+        ],
+        "confidence": 1,
+        "text": "Verify Content Credentials"
+      },
+      {
+        "bbox_px": [
+          1084,
+          4682,
+          1207,
+          4699
+        ],
+        "confidence": 1,
+        "text": "Brand Guidelines"
+      },
+      {
+        "bbox_px": [
+          1084,
+          4709,
+          1129,
+          4725
+        ],
+        "confidence": 1,
+        "text": "Press"
+      },
+      {
+        "bbox_px": [
+          1084,
+          4733,
+          1176,
+          4748
+        ],
+        "confidence": 1,
+        "text": "Partnerships"
+      },
+      {
+        "bbox_px": [
+          14,
+          5009,
+          121,
+          5036
+        ],
+        "confidence": 1,
+        "text": "runway"
+      },
+      {
+        "bbox_px": [
+          230,
+          5012,
+          906,
+          5027
+        ],
+        "confidence": 1,
+        "text": "© 2026 RUNWAY AI, INC. / TERMS OF USE / PRIVACY POLICY / CALIFORNIA NOTICES / YOUR PRIVACY CHOICES CB / Cookie Settings"
+      },
+      {
+        "bbox_px": [
+          228,
+          5027,
+          504,
+          5042
+        ],
+        "confidence": 1,
+        "text": "CODE OF CONDUCT / SYSTEM STATUS / ENGLISH"
+      }
+    ],
+    "path": "screenshots/runway.png",
+    "width": 1440
+  }
+]

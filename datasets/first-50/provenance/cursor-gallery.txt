@@ -1,0 +1,77 @@
+✨ Looking for app inspiration? Check out SaaS Interface ✨
+Inspiration
+App Inspiration
+Templates
+Advertise
+Visit Website
+Cursor
+
+Cursor is an AI-powered code editor that understands your entire codebase and lets you issue natural language commands to write, refactor, or fix code across files — combining autocomplete, agent assistants, and deep context awareness to accelerate development.
+
+Fonts
+Cursor Gothic
+Palette
+26251E
+f54e00
+F7F7F4
+Stacks
+Next.js, React, Tailwind CSS
+Tags
+AI, Code Tool
+Categories
+Landing page
+Date
+September 2025
+Sponsored
+Inspiration
+Landing pages
+Pricing pages
+About Us pages
+Features pages
+Blog pages
+Testimonials pages
+FAQ pages
+Contact Us pages
+Templates
+Framer
+Webflow
+React
+HTML
+Next.js
+Tailwind CSS
+Vue
+View all
+Resources
+Blog
+Resources & Tools
+Popular stacks
+React
+Next.js
+Tailwind CSS
+Webflow
+GSAP
+Framer
+WordPress
+View all
+Popular tags
+Productivity
+AI
+Code Tool
+Finance
+Design Tool
+B2B
+FinTech
+View all
+Popular fonts
+Inter
+Graphik
+Geist Sans
+Suisse Int'l
+Roobert
+Geist Mono
+Tiempos Headline
+View all
+Advertise on SLP
+ Privacy Policy
+Day / Night toggle
+A project by Davide Pacilio.

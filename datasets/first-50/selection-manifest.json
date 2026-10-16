@@ -1,0 +1,402 @@
+[
+  {
+    "id": "acorns",
+    "gallery_url": "https://saaslandingpage.com/acorns",
+    "gallery_saved_at": "2026-09-29T15:13:55.222Z",
+    "archive_image_basename": "acorn.jpg",
+    "source_sha256": "433c640f9a437b1758c109b0d80c482c5fb48cbf6ea6144d0fdd2009f9feffb4",
+    "selection_reason": "Editorially recognizable brand plus contribution to industry/style/intended-action coverage; no quantitative prominence ranking."
+  },
+  {
+    "id": "stripe",
+    "gallery_url": "https://saaslandingpage.com/stripe",
+    "gallery_saved_at": "2026-09-29T15:05:34.431Z",
+    "archive_image_basename": "stripe-1.png",
+    "source_sha256": "c8bc67bf92e7446bd2113c8d44b81c0267ee103173b1dbb70156d82413380f23",
+    "selection_reason": "Editorially recognizable brand plus contribution to industry/style/intended-action coverage; no quantitative prominence ranking."
+  },
+  {
+    "id": "mercury",
+    "gallery_url": "https://saaslandingpage.com/mercury",
+    "gallery_saved_at": "2026-09-29T15:10:20.926Z",
+    "archive_image_basename": "mercury.jpg",
+    "source_sha256": "b60a5c194292af8fc4e5c3ae96fcb7768da3510fe328b2ff6bf9757882db7233",
+    "selection_reason": "Editorially recognizable brand plus contribution to industry/style/intended-action coverage; no quantitative prominence ranking."
+  },
+  {
+    "id": "wise",
+    "gallery_url": "https://saaslandingpage.com/wise",
+    "gallery_saved_at": "2026-09-29T15:12:52.239Z",
+    "archive_image_basename": "wise.png",
+    "source_sha256": "bb09df9c2123042d7327a888fddd4f4c132125c8b844b91438cfbfa8af5e3dda",
+    "selection_reason": "Editorially recognizable brand plus contribution to industry/style/intended-action coverage; no quantitative prominence ranking."
+  },
+  {
+    "id": "revolut",
+    "gallery_url": "https://saaslandingpage.com/revolut",
+    "gallery_saved_at": "2026-09-29T15:14:42.027Z",
+    "archive_image_basename": "revolut.png",
+    "source_sha256": "6febf36bd3270feed05982fb20698ea69ee384e14078c1d7b4db97e7c9e5db03",
+    "selection_reason": "Editorially recognizable brand plus contribution to industry/style/intended-action coverage; no quantitative prominence ranking."
+  },
+  {
+    "id": "ramp",
+    "gallery_url": "https://saaslandingpage.com/ramp",
+    "gallery_saved_at": "2026-09-29T15:08:51.012Z",
+    "archive_image_basename": "ramp.png",
+    "source_sha256": "c2ea270b607f87b16b76d15f2023c5707cb680921ac3ed78c4c23c4e7a76b19a",
+    "selection_reason": "Editorially recognizable brand plus contribution to industry/style/intended-action coverage; no quantitative prominence ranking."
+  },
+  {
+    "id": "gusto",
+    "gallery_url": "https://saaslandingpage.com/gusto",
+    "gallery_saved_at": "2026-09-29T15:17:37.399Z",
+    "archive_image_basename": "gusto-3.png",
+    "source_sha256": "c5644bec1fb78488de4dbd9e18fec1e7975d0ef7f8cdd83096cfa3a73f715402",
+    "selection_reason": "Editorially recognizable brand plus contribution to industry/style/intended-action coverage; no quantitative prominence ranking."
+  },
+  {
+    "id": "deel",
+    "gallery_url": "https://saaslandingpage.com/deel",
+    "gallery_saved_at": "2026-09-29T15:08:07.361Z",
+    "archive_image_basename": "deel-1.png",
+    "source_sha256": "3804e687b38fd81cbf4c59e7ac62cfa6e9a23084f92030f9e5ada360bd78816f",
+    "selection_reason": "Editorially recognizable brand plus contribution to industry/style/intended-action coverage; no quantitative prominence ranking."
+  },
+  {
+    "id": "remote-2",
+    "gallery_url": "https://saaslandingpage.com/remote-2",
+    "gallery_saved_at": "2026-09-29T15:12:02.844Z",
+    "archive_image_basename": "remote-2.png",
+    "source_sha256": "631f63b2e684ee48bf039d1d811c4ea7d19ac3704a92dc1f8a737efad0122823",
+    "selection_reason": "Editorially recognizable brand plus contribution to industry/style/intended-action coverage; no quantitative prominence ranking."
+  },
+  {
+    "id": "qonto",
+    "gallery_url": "https://saaslandingpage.com/qonto",
+    "gallery_saved_at": "2026-09-29T15:09:54.200Z",
+    "archive_image_basename": "qonto.png",
+    "source_sha256": "680ee2f17c69a39f823a12288a15c735a59b46286fa36a0df3bbde577d10d454",
+    "selection_reason": "Editorially recognizable brand plus contribution to industry/style/intended-action coverage; no quantitative prominence ranking."
+  },
+  {
+    "id": "linear",
+    "gallery_url": "https://saaslandingpage.com/linear",
+    "gallery_saved_at": "2026-09-29T15:05:28.702Z",
+    "archive_image_basename": "linear.png",
+    "source_sha256": "af3922d866d540fc3ee6c36da8938feebb69bf3ba9cba87ea8ce54d884654b51",
+    "selection_reason": "Editorially recognizable brand plus contribution to industry/style/intended-action coverage; no quantitative prominence ranking."
+  },
+  {
+    "id": "notion",
+    "gallery_url": "https://saaslandingpage.com/notion",
+    "gallery_saved_at": "2026-09-29T15:08:43.886Z",
+    "archive_image_basename": "notion.png",
+    "source_sha256": "46c48c795b72d5c5597932fe6607341f7aa25b9bc156e5522554d80a0a09cc22",
+    "selection_reason": "Editorially recognizable brand plus contribution to industry/style/intended-action coverage; no quantitative prominence ranking."
+  },
+  {
+    "id": "figma",
+    "gallery_url": "https://saaslandingpage.com/figma",
+    "gallery_saved_at": "2026-09-29T15:09:52.346Z",
+    "archive_image_basename": "figma.png",
+    "source_sha256": "f42809708f313048176f1f88c810f839f62b052f8e94997a70c5c2df4b74e796",
+    "selection_reason": "Editorially recognizable brand plus contribution to industry/style/intended-action coverage; no quantitative prominence ranking."
+  },
+  {
+    "id": "webflow",
+    "gallery_url": "https://saaslandingpage.com/webflow",
+    "gallery_saved_at": "2026-09-29T15:08:40.967Z",
+    "archive_image_basename": "webflow-1.png",
+    "source_sha256": "2674299bb1c190afa96fa80b7fd017d5b020e3d07ee5fced5724c7b2df942363",
+    "selection_reason": "Editorially recognizable brand plus contribution to industry/style/intended-action coverage; no quantitative prominence ranking."
+  },
+  {
+    "id": "framer",
+    "gallery_url": "https://saaslandingpage.com/framer",
+    "gallery_saved_at": "2026-09-29T15:03:17.869Z",
+    "archive_image_basename": "framer.png",
+    "source_sha256": "ad214a45b0a4d4c15b457888e70750da33b1c197f472ad1ead0b974852ea287e",
+    "selection_reason": "Editorially recognizable brand plus contribution to industry/style/intended-action coverage; no quantitative prominence ranking."
+  },
+  {
+    "id": "squarespace",
+    "gallery_url": "https://saaslandingpage.com/squarespace",
+    "gallery_saved_at": "2026-09-29T15:03:37.297Z",
+    "archive_image_basename": "squarespace.png",
+    "source_sha256": "8345e978c1cffee0bf4b7d65ed7d64872d13b019c8a658c5bce8d3a49ab3ae4d",
+    "selection_reason": "Editorially recognizable brand plus contribution to industry/style/intended-action coverage; no quantitative prominence ranking."
+  },
+  {
+    "id": "shopify",
+    "gallery_url": "https://saaslandingpage.com/shopify",
+    "gallery_saved_at": "2026-09-29T15:09:19.130Z",
+    "archive_image_basename": "shopify-3.png",
+    "source_sha256": "8e9fd370f61b5c4595ff4aee542be7ac69d76a534b94957fe7cae3a06ec672fc",
+    "selection_reason": "Editorially recognizable brand plus contribution to industry/style/intended-action coverage; no quantitative prominence ranking."
+  },
+  {
+    "id": "github",
+    "gallery_url": "https://saaslandingpage.com/github",
+    "gallery_saved_at": "2026-09-29T15:11:32.544Z",
+    "archive_image_basename": "github.png",
+    "source_sha256": "1bd1d14e98ef4abab2957080f95b7ae80f435e2566f8d0c5a7ecaee8b67b3c6a",
+    "selection_reason": "Editorially recognizable brand plus contribution to industry/style/intended-action coverage; no quantitative prominence ranking."
+  },
+  {
+    "id": "vercel",
+    "gallery_url": "https://saaslandingpage.com/vercel",
+    "gallery_saved_at": "2026-09-29T15:11:37.062Z",
+    "archive_image_basename": "vercel.png",
+    "source_sha256": "b96d8853af2abe4d2bc9033d124cb4a10e46564997e88bd03bd40736c3fd59f1",
+    "selection_reason": "Editorially recognizable brand plus contribution to industry/style/intended-action coverage; no quantitative prominence ranking."
+  },
+  {
+    "id": "supabase",
+    "gallery_url": "https://saaslandingpage.com/supabase",
+    "gallery_saved_at": "2026-09-29T15:09:31.467Z",
+    "archive_image_basename": "supabase.png",
+    "source_sha256": "7159784ff8dab53a25edb5680400a72cea641983ebb4d545512a6b0dbd99f133",
+    "selection_reason": "Editorially recognizable brand plus contribution to industry/style/intended-action coverage; no quantitative prominence ranking."
+  },
+  {
+    "id": "cloudflare-workers",
+    "gallery_url": "https://saaslandingpage.com/cloudflare-workers",
+    "gallery_saved_at": "2026-09-29T15:06:38.342Z",
+    "archive_image_basename": "cloudflare.png",
+    "source_sha256": "f9f88196192d04353b1b0aa92e776f2f4a3dbc5a7b37433fae455deed309f0ef",
+    "selection_reason": "Editorially recognizable brand plus contribution to industry/style/intended-action coverage; no quantitative prominence ranking."
+  },
+  {
+    "id": "cursor",
+    "gallery_url": "https://saaslandingpage.com/cursor",
+    "gallery_saved_at": "2026-09-29T15:06:42.748Z",
+    "archive_image_basename": "cursor.png",
+    "source_sha256": "fe9cff3c2458b00da63affc564d918c19ec40bcecde49c5129a6edc9380e827d",
+    "selection_reason": "Editorially recognizable brand plus contribution to industry/style/intended-action coverage; no quantitative prominence ranking."
+  },
+  {
+    "id": "claude",
+    "gallery_url": "https://saaslandingpage.com/claude",
+    "gallery_saved_at": "2026-09-29T15:06:21.269Z",
+    "archive_image_basename": "claude.png",
+    "source_sha256": "4c562c1dff1cd6e34b3df9fac624db59b9d901f4638ebddff606192d1261ed32",
+    "selection_reason": "Editorially recognizable brand plus contribution to industry/style/intended-action coverage; no quantitative prominence ranking."
+  },
+  {
+    "id": "chatgpt",
+    "gallery_url": "https://saaslandingpage.com/chatgpt",
+    "gallery_saved_at": "2026-09-29T15:09:24.019Z",
+    "archive_image_basename": "chatgpt-1.png",
+    "source_sha256": "20b7f77e3621697803949c111e2541df4b62f2b6ea90f0bd6952fc3b42d182bf",
+    "selection_reason": "Editorially recognizable brand plus contribution to industry/style/intended-action coverage; no quantitative prominence ranking."
+  },
+  {
+    "id": "runway",
+    "gallery_url": "https://saaslandingpage.com/runway",
+    "gallery_saved_at": "2026-09-29T15:08:16.341Z",
+    "archive_image_basename": "runway-1.png",
+    "source_sha256": "3451c94291c293a8abb48b9ff2460b6e667413f1bd87bad81e036423ff50494f",
+    "selection_reason": "Editorially recognizable brand plus contribution to industry/style/intended-action coverage; no quantitative prominence ranking."
+  },
+  {
+    "id": "descript-2",
+    "gallery_url": "https://saaslandingpage.com/descript-2",
+    "gallery_saved_at": "2026-09-29T15:09:14.429Z",
+    "archive_image_basename": "descript-1.png",
+    "source_sha256": "a2e6eb6a489ce79363de6cc30fcda1613b1f45da3fc712eace7823c1f56d93fc",
+    "selection_reason": "Editorially recognizable brand plus contribution to industry/style/intended-action coverage; no quantitative prominence ranking."
+  },
+  {
+    "id": "grammarly",
+    "gallery_url": "https://saaslandingpage.com/grammarly",
+    "gallery_saved_at": "2026-09-29T15:18:39.347Z",
+    "archive_image_basename": "grammarly-1.png",
+    "source_sha256": "bda6837a6976f93e79534c7e3bc2f4a3bec44a88fde97b5904b510121ded530c",
+    "selection_reason": "Editorially recognizable brand plus contribution to industry/style/intended-action coverage; no quantitative prominence ranking."
+  },
+  {
+    "id": "intercom",
+    "gallery_url": "https://saaslandingpage.com/intercom",
+    "gallery_saved_at": "2026-09-29T15:04:31.076Z",
+    "archive_image_basename": "intercom-3.png",
+    "source_sha256": "d6c3509bc0cd03cb0925b68d41aa892444f4aaaad6164eab3bb23776e2b5076d",
+    "selection_reason": "Editorially recognizable brand plus contribution to industry/style/intended-action coverage; no quantitative prominence ranking."
+  },
+  {
+    "id": "zendesk",
+    "gallery_url": "https://saaslandingpage.com/zendesk",
+    "gallery_saved_at": "2026-09-29T15:16:55.467Z",
+    "archive_image_basename": "zendesk-1.png",
+    "source_sha256": "709cb84b55fefb0caf8c3c22b52af13d3fb4362b0d1290b00adb79ebff81cc28",
+    "selection_reason": "Editorially recognizable brand plus contribution to industry/style/intended-action coverage; no quantitative prominence ranking."
+  },
+  {
+    "id": "mailchimp",
+    "gallery_url": "https://saaslandingpage.com/mailchimp",
+    "gallery_saved_at": "2026-09-29T15:13:56.776Z",
+    "archive_image_basename": "mailchimp.png",
+    "source_sha256": "1584eb865856f8811f3c822794feae95de4aea6d295717754098c0513f3dfd6c",
+    "selection_reason": "Editorially recognizable brand plus contribution to industry/style/intended-action coverage; no quantitative prominence ranking."
+  },
+  {
+    "id": "buffer",
+    "gallery_url": "https://saaslandingpage.com/buffer",
+    "gallery_saved_at": "2026-09-29T15:03:30.270Z",
+    "archive_image_basename": "buffer-2.png",
+    "source_sha256": "9f50143295a320f0b27ac76cc6e286ee786d702b59853985662e7290acde1faf",
+    "selection_reason": "Editorially recognizable brand plus contribution to industry/style/intended-action coverage; no quantitative prominence ranking."
+  },
+  {
+    "id": "ahrefs",
+    "gallery_url": "https://saaslandingpage.com/ahrefs",
+    "gallery_saved_at": "2026-09-29T15:16:01.720Z",
+    "archive_image_basename": "ahrefs.png",
+    "source_sha256": "af347dcf99043d0d6c1fbd1593dc7a9e46309814f8a4fa78493644cc3650af8e",
+    "selection_reason": "Editorially recognizable brand plus contribution to industry/style/intended-action coverage; no quantitative prominence ranking."
+  },
+  {
+    "id": "semrush",
+    "gallery_url": "https://saaslandingpage.com/semrush",
+    "gallery_saved_at": "2026-09-29T15:04:32.871Z",
+    "archive_image_basename": "semrush.png",
+    "source_sha256": "26bf2929ef283a60fabb75891188624dbfb2c3f152c6f9425afa553b067ff947",
+    "selection_reason": "Editorially recognizable brand plus contribution to industry/style/intended-action coverage; no quantitative prominence ranking."
+  },
+  {
+    "id": "typeform",
+    "gallery_url": "https://saaslandingpage.com/typeform",
+    "gallery_saved_at": "2026-09-29T15:08:31.767Z",
+    "archive_image_basename": "typeform.png",
+    "source_sha256": "ef13e3f0191d030318fc49027feb53cacff879032229aaeb9634005a89e0ae3e",
+    "selection_reason": "Editorially recognizable brand plus contribution to industry/style/intended-action coverage; no quantitative prominence ranking."
+  },
+  {
+    "id": "calendly",
+    "gallery_url": "https://saaslandingpage.com/calendly",
+    "gallery_saved_at": "2026-09-29T15:03:19.193Z",
+    "archive_image_basename": "calendly.png",
+    "source_sha256": "edae7afca97e94831c171ee24d2c4926a7c5bb3cb8611472b611a8c337873f72",
+    "selection_reason": "Editorially recognizable brand plus contribution to industry/style/intended-action coverage; no quantitative prominence ranking."
+  },
+  {
+    "id": "basecamp",
+    "gallery_url": "https://saaslandingpage.com/basecamp",
+    "gallery_saved_at": "2026-09-29T15:07:58.035Z",
+    "archive_image_basename": "basecamp.png",
+    "source_sha256": "732954108503c3d3434e786aec3f97636e4fdc828c7922996809b9eb2a24d8d3",
+    "selection_reason": "Editorially recognizable brand plus contribution to industry/style/intended-action coverage; no quantitative prominence ranking."
+  },
+  {
+    "id": "todoist",
+    "gallery_url": "https://saaslandingpage.com/todoist",
+    "gallery_saved_at": "2026-09-29T15:11:46.704Z",
+    "archive_image_basename": "todoist-1.png",
+    "source_sha256": "492ddba1a3d6ac5fd024ffa0fecdd209b2b9969887503051b6ae6222817d2332",
+    "selection_reason": "Editorially recognizable brand plus contribution to industry/style/intended-action coverage; no quantitative prominence ranking."
+  },
+  {
+    "id": "dropbox",
+    "gallery_url": "https://saaslandingpage.com/dropbox",
+    "gallery_saved_at": "2026-09-29T15:11:06.406Z",
+    "archive_image_basename": "dropbox-2.png",
+    "source_sha256": "984d301005efb4bdec5f07df9c8b54b3556dcfad172a539541ffbef01313d3a9",
+    "selection_reason": "Editorially recognizable brand plus contribution to industry/style/intended-action coverage; no quantitative prominence ranking."
+  },
+  {
+    "id": "miro",
+    "gallery_url": "https://saaslandingpage.com/miro",
+    "gallery_saved_at": "2026-09-29T15:11:48.216Z",
+    "archive_image_basename": "miro.png",
+    "source_sha256": "d781c0b535067696ed2ab22bb450cba2e89be06916ba79beb19c6f88de35fa81",
+    "selection_reason": "Editorially recognizable brand plus contribution to industry/style/intended-action coverage; no quantitative prominence ranking."
+  },
+  {
+    "id": "coda",
+    "gallery_url": "https://saaslandingpage.com/coda",
+    "gallery_saved_at": "2026-09-29T15:10:53.430Z",
+    "archive_image_basename": "coda.png",
+    "source_sha256": "5ca45257a5164df6cd4498d93774db02676f9dc58e437d02a1798e951aa700fc",
+    "selection_reason": "Editorially recognizable brand plus contribution to industry/style/intended-action coverage; no quantitative prominence ranking."
+  },
+  {
+    "id": "pitch",
+    "gallery_url": "https://saaslandingpage.com/pitch",
+    "gallery_saved_at": "2026-09-29T15:17:14.155Z",
+    "archive_image_basename": "pitch-3.png",
+    "source_sha256": "4e54efed582cdd224c0c92f5828dfeb6162f825aab878b964c040f2b950e7356",
+    "selection_reason": "Editorially recognizable brand plus contribution to industry/style/intended-action coverage; no quantitative prominence ranking."
+  },
+  {
+    "id": "raycast",
+    "gallery_url": "https://saaslandingpage.com/raycast",
+    "gallery_saved_at": "2026-09-29T15:10:19.225Z",
+    "archive_image_basename": "raycast.png",
+    "source_sha256": "a5f325a09d6e7bd021f74daa7924fde0f7d400de46229c531963c94f65689799",
+    "selection_reason": "Editorially recognizable brand plus contribution to industry/style/intended-action coverage; no quantitative prominence ranking."
+  },
+  {
+    "id": "patreon",
+    "gallery_url": "https://saaslandingpage.com/patreon",
+    "gallery_saved_at": "2026-09-29T15:05:02.794Z",
+    "archive_image_basename": "patreon.png",
+    "source_sha256": "9deba77f9e71c41296d1d2b5cb22e0e42610779d81b902a3f05778e6bf405b2a",
+    "selection_reason": "Editorially recognizable brand plus contribution to industry/style/intended-action coverage; no quantitative prominence ranking."
+  },
+  {
+    "id": "substack",
+    "gallery_url": "https://saaslandingpage.com/substack",
+    "gallery_saved_at": "2026-09-29T15:14:05.598Z",
+    "archive_image_basename": "substack.jpg",
+    "source_sha256": "eb2798aaf5172c37a812a872f6d118c85b0b9e51d24da94efa761b25d53ee3ac",
+    "selection_reason": "Editorially recognizable brand plus contribution to industry/style/intended-action coverage; no quantitative prominence ranking."
+  },
+  {
+    "id": "teachable",
+    "gallery_url": "https://saaslandingpage.com/teachable",
+    "gallery_saved_at": "2026-09-29T15:17:32.993Z",
+    "archive_image_basename": "teachable.jpg",
+    "source_sha256": "6bd27f9b80395f5a25af811892ccd55e6db7a1d3ce025e7283835464a64a0824",
+    "selection_reason": "Editorially recognizable brand plus contribution to industry/style/intended-action coverage; no quantitative prominence ranking."
+  },
+  {
+    "id": "brilliant",
+    "gallery_url": "https://saaslandingpage.com/brilliant",
+    "gallery_saved_at": "2026-09-29T15:18:02.410Z",
+    "archive_image_basename": "brilliant-4.png",
+    "source_sha256": "4b9fb4a65a776383fe737efab6d27d909192ade514d48a87c261dc1bbacc3c41",
+    "selection_reason": "Editorially recognizable brand plus contribution to industry/style/intended-action coverage; no quantitative prominence ranking."
+  },
+  {
+    "id": "oscar",
+    "gallery_url": "https://saaslandingpage.com/oscar",
+    "gallery_saved_at": "2026-09-29T15:03:00.437Z",
+    "archive_image_basename": "oscar.png",
+    "source_sha256": "ac16a142a07231784475b94e3fa8e6fa0d33d430e0dcc8841e2f18a8a396e7d9",
+    "selection_reason": "Editorially recognizable brand plus contribution to industry/style/intended-action coverage; no quantitative prominence ranking."
+  },
+  {
+    "id": "infermedica",
+    "gallery_url": "https://saaslandingpage.com/infermedica",
+    "gallery_saved_at": "2026-09-29T15:18:27.869Z",
+    "archive_image_basename": "infermedica-4.png",
+    "source_sha256": "8e6522ddfc777e88f79020b6e92390e2d86380fb2f2c63bdade4eef46303da65",
+    "selection_reason": "Editorially recognizable brand plus contribution to industry/style/intended-action coverage; no quantitative prominence ranking."
+  },
+  {
+    "id": "shipbob",
+    "gallery_url": "https://saaslandingpage.com/shipbob",
+    "gallery_saved_at": "2026-09-29T15:18:24.982Z",
+    "archive_image_basename": "shipbob.png",
+    "source_sha256": "bd82e9bcbe59da5e722d4b21c7f4b3a32cd5bedad01c507cd0396f69647b41ea",
+    "selection_reason": "Editorially recognizable brand plus contribution to industry/style/intended-action coverage; no quantitative prominence ranking."
+  },
+  {
+    "id": "mapbox",
+    "gallery_url": "https://saaslandingpage.com/mapbox",
+    "gallery_saved_at": "2026-09-29T15:17:16.439Z",
+    "archive_image_basename": "mapbox-1.png",
+    "source_sha256": "a144bee840f38369c888837d39dfead69c3b26c2e27eabd9a89f8735f20c0fa9",
+    "selection_reason": "Editorially recognizable brand plus contribution to industry/style/intended-action coverage; no quantitative prominence ranking."
+  }
+]

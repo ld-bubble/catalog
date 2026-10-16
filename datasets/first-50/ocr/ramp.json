@@ -1,0 +1,4499 @@
+[
+  {
+    "height": 11512,
+    "lines": [
+      {
+        "bbox_px": [
+          62,
+          21,
+          138,
+          42
+        ],
+        "confidence": 1,
+        "text": "ramp L"
+      },
+      {
+        "bbox_px": [
+          164,
+          23,
+          248,
+          39
+        ],
+        "confidence": 1,
+        "text": "Products v"
+      },
+      {
+        "bbox_px": [
+          269,
+          23,
+          347,
+          39
+        ],
+        "confidence": 1,
+        "text": "Partners v"
+      },
+      {
+        "bbox_px": [
+          370,
+          23,
+          455,
+          40
+        ],
+        "confidence": 1,
+        "text": "Solutions v"
+      },
+      {
+        "bbox_px": [
+          475,
+          26,
+          551,
+          39
+        ],
+        "confidence": 1,
+        "text": "Resources"
+      },
+      {
+        "bbox_px": [
+          592,
+          23,
+          666,
+          41
+        ],
+        "confidence": 1,
+        "text": "Customers"
+      },
+      {
+        "bbox_px": [
+          687,
+          26,
+          734,
+          39
+        ],
+        "confidence": 1,
+        "text": "Pricing"
+      },
+      {
+        "bbox_px": [
+          1191,
+          23,
+          1238,
+          39
+        ],
+        "confidence": 1,
+        "text": "Sign in"
+      },
+      {
+        "bbox_px": [
+          1280,
+          23,
+          1361,
+          39
+        ],
+        "confidence": 1,
+        "text": "See a demo"
+      },
+      {
+        "bbox_px": [
+          62,
+          140,
+          386,
+          154
+        ],
+        "confidence": 1,
+        "text": "US CORPORATE PAYMENTS PROCESSED BY RAMP: 0.8047444%"
+      },
+      {
+        "bbox_px": [
+          60,
+          187,
+          810,
+          251
+        ],
+        "confidence": 1,
+        "text": "Time is money. Save both."
+      },
+      {
+        "bbox_px": [
+          65,
+          263,
+          428,
+          282
+        ],
+        "confidence": 1,
+        "text": "Cards, expenses, bill payments, and banking*"
+      },
+      {
+        "bbox_px": [
+          449,
+          263,
+          585,
+          279
+        ],
+        "confidence": 1,
+        "text": "in the blink of Al."
+      },
+      {
+        "bbox_px": [
+          88,
+          339,
+          263,
+          355
+        ],
+        "confidence": 1,
+        "text": "What's your work email?"
+      },
+      {
+        "bbox_px": [
+          331,
+          339,
+          491,
+          355
+        ],
+        "confidence": 1,
+        "text": "Learn more, get a grill"
+      },
+      {
+        "bbox_px": [
+          62,
+          395,
+          512,
+          411
+        ],
+        "confidence": 1,
+        "text": "Take a call to learn more about Procurement with Ramp and get a Blackstone"
+      },
+      {
+        "bbox_px": [
+          62,
+          415,
+          94,
+          429
+        ],
+        "confidence": 1,
+        "text": "grilliẠ"
+      },
+      {
+        "bbox_px": [
+          318,
+          546,
+          399,
+          559
+        ],
+        "confidence": 1,
+        "text": "MATCHING TO P.O."
+      },
+      {
+        "bbox_px": [
+          593,
+          622,
+          739,
+          635
+        ],
+        "confidence": 1,
+        "text": "Loft Labs Development™"
+      },
+      {
+        "bbox_px": [
+          595,
+          690,
+          658,
+          696
+        ],
+        "confidence": 0.30000001192092896,
+        "text": "Now YOrk NY 00S"
+      },
+      {
+        "bbox_px": [
+          1011,
+          659,
+          1047,
+          665
+        ],
+        "confidence": 1,
+        "text": "04/02 2E"
+      },
+      {
+        "bbox_px": [
+          1014,
+          674,
+          1050,
+          685
+        ],
+        "confidence": 1,
+        "text": "CI-1384"
+      },
+      {
+        "bbox_px": [
+          896,
+          695,
+          935,
+          701
+        ],
+        "confidence": 0.30000001192092896,
+        "text": "ue date"
+      },
+      {
+        "bbox_px": [
+          703,
+          771,
+          736,
+          782
+        ],
+        "confidence": 1,
+        "text": "$225.00"
+      },
+      {
+        "bbox_px": [
+          703,
+          795,
+          742,
+          805
+        ],
+        "confidence": 1,
+        "text": "$1.000.00"
+      },
+      {
+        "bbox_px": [
+          703,
+          821,
+          742,
+          826
+        ],
+        "confidence": 1,
+        "text": "55.040.00"
+      },
+      {
+        "bbox_px": [
+          755,
+          664,
+          815,
+          675
+        ],
+        "confidence": 1,
+        "text": "Invoice details:"
+      },
+      {
+        "bbox_px": [
+          757,
+          677,
+          841,
+          690
+        ],
+        "confidence": 1,
+        "text": "Invoice date 04/03/26"
+      },
+      {
+        "bbox_px": [
+          807,
+          693,
+          838,
+          698
+        ],
+        "confidence": 1,
+        "text": "CI-1395"
+      },
+      {
+        "bbox_px": [
+          807,
+          706,
+          838,
+          711
+        ],
+        "confidence": 1,
+        "text": "04/31/26"
+      },
+      {
+        "bbox_px": [
+          799,
+          774,
+          838,
+          779
+        ],
+        "confidence": 1,
+        "text": "$11.250.00"
+      },
+      {
+        "bbox_px": [
+          823,
+          855,
+          885,
+          868
+        ],
+        "confidence": 1,
+        "text": "AUTO-CODING"
+      },
+      {
+        "bbox_px": [
+          747,
+          879,
+          812,
+          887
+        ],
+        "confidence": 1,
+        "text": "Sales tax (8%): $"
+      },
+      {
+        "bbox_px": [
+          784,
+          894,
+          815,
+          907
+        ],
+        "confidence": 1,
+        "text": "$68."
+      },
+      {
+        "bbox_px": [
+          833,
+          902,
+          901,
+          916
+        ],
+        "confidence": 1,
+        "text": "Software License"
+      },
+      {
+        "bbox_px": [
+          823,
+          934,
+          862,
+          947
+        ],
+        "confidence": 1,
+        "text": "Category"
+      },
+      {
+        "bbox_px": [
+          906,
+          936,
+          951,
+          941
+        ],
+        "confidence": 0.30000001192092896,
+        "text": "ueрвnmen"
+      },
+      {
+        "bbox_px": [
+          982,
+          881,
+          1016,
+          886
+        ],
+        "confidence": 0.30000001192092896,
+        "text": "Ameuni"
+      },
+      {
+        "bbox_px": [
+          998,
+          957,
+          1053,
+          968
+        ],
+        "confidence": 1,
+        "text": "New York, NY"
+      },
+      {
+        "bbox_px": [
+          70,
+          1137,
+          222,
+          1154
+        ],
+        "confidence": 1,
+        "text": ":: AGENTS AT WORK TODAY:"
+      },
+      {
+        "bbox_px": [
+          287,
+          1140,
+          342,
+          1153
+        ],
+        "confidence": 1,
+        "text": "1,155,287"
+      },
+      {
+        "bbox_px": [
+          368,
+          1140,
+          520,
+          1154
+        ],
+        "confidence": 1,
+        "text": "ACCOUNTING FIELDS CODED:"
+      },
+      {
+        "bbox_px": [
+          527,
+          1140,
+          572,
+          1153
+        ],
+        "confidence": 1,
+        "text": "976.971"
+      },
+      {
+        "bbox_px": [
+          598,
+          1140,
+          716,
+          1154
+        ],
+        "confidence": 1,
+        "text": "AGENT INTERACTIONS:"
+      },
+      {
+        "bbox_px": [
+          726,
+          1140,
+          750,
+          1153
+        ],
+        "confidence": 1,
+        "text": "782"
+      },
+      {
+        "bbox_px": [
+          778,
+          1140,
+          891,
+          1154
+        ],
+        "confidence": 1,
+        "text": "EXPENSES REVIEWED:"
+      },
+      {
+        "bbox_px": [
+          896,
+          1140,
+          946,
+          1156
+        ],
+        "confidence": 1,
+        "text": "178,09šł"
+      },
+      {
+        "bbox_px": [
+          969,
+          1140,
+          1071,
+          1154
+        ],
+        "confidence": 1,
+        "text": "SPEND ALLOCATED:"
+      },
+      {
+        "bbox_px": [
+          1079,
+          1140,
+          1115,
+          1153
+        ],
+        "confidence": 1,
+        "text": "9,158"
+      },
+      {
+        "bbox_px": [
+          1139,
+          1140,
+          1257,
+          1154
+        ],
+        "confidence": 1,
+        "text": "INVOICES PROCESSED:"
+      },
+      {
+        "bbox_px": [
+          1267,
+          1140,
+          1309,
+          1153
+        ],
+        "confidence": 1,
+        "text": "26,54šŘŚę"
+      },
+      {
+        "bbox_px": [
+          60,
+          1245,
+          585,
+          1276
+        ],
+        "confidence": 1,
+        "text": "Join 70,000 of the world's most ambitious"
+      },
+      {
+        "bbox_px": [
+          59,
+          1270,
+          520,
+          1313
+        ],
+        "confidence": 1,
+        "text": "companies growing 3.2x faster than"
+      },
+      {
+        "bbox_px": [
+          60,
+          1307,
+          470,
+          1339
+        ],
+        "confidence": 1,
+        "text": "the average American business."
+      },
+      {
+        "bbox_px": [
+          57,
+          1365,
+          203,
+          1387
+        ],
+        "confidence": 1,
+        "text": "Read the report →"
+      },
+      {
+        "bbox_px": [
+          263,
+          1506,
+          355,
+          1533
+        ],
+        "confidence": 1,
+        "text": "& GoodRx"
+      },
+      {
+        "bbox_px": [
+          117,
+          1674,
+          175,
+          1692
+        ],
+        "confidence": 1,
+        "text": "Quora"
+      },
+      {
+        "bbox_px": [
+          284,
+          1669,
+          339,
+          1695
+        ],
+        "confidence": 1,
+        "text": "A24"
+      },
+      {
+        "bbox_px": [
+          418,
+          1506,
+          530,
+          1530
+        ],
+        "confidence": 1,
+        "text": "•Betterment"
+      },
+      {
+        "bbox_px": [
+          446,
+          1666,
+          499,
+          1690
+        ],
+        "confidence": 1,
+        "text": "8VC"
+      },
+      {
+        "bbox_px": [
+          580,
+          1503,
+          697,
+          1533
+        ],
+        "confidence": 1,
+        "text": "- CURSOR"
+      },
+      {
+        "bbox_px": [
+          768,
+          1509,
+          836,
+          1525
+        ],
+        "confidence": 1,
+        "text": "Opendoor"
+      },
+      {
+        "bbox_px": [
+          935,
+          1509,
+          993,
+          1525
+        ],
+        "confidence": 1,
+        "text": "a Zillow"
+      },
+      {
+        "bbox_px": [
+          601,
+          1671,
+          669,
+          1695
+        ],
+        "confidence": 1,
+        "text": "AVercel"
+      },
+      {
+        "bbox_px": [
+          760,
+          1671,
+          841,
+          1687
+        ],
+        "confidence": 1,
+        "text": "eventbrite"
+      },
+      {
+        "bbox_px": [
+          922,
+          1674,
+          1006,
+          1690
+        ],
+        "confidence": 1,
+        "text": "ZOLACO"
+      },
+      {
+        "bbox_px": [
+          1068,
+          1611,
+          1124,
+          1632
+        ],
+        "confidence": 1,
+        "text": "Vanta"
+      },
+      {
+        "bbox_px": [
+          1067,
+          1654,
+          1266,
+          1713
+        ],
+        "confidence": 1,
+        "text": "3 Days"
+      },
+      {
+        "bbox_px": [
+          1068,
+          1718,
+          1160,
+          1735
+        ],
+        "confidence": 1,
+        "text": "Faster close"
+      },
+      {
+        "bbox_px": [
+          120,
+          1673,
+          175,
+          1688
+        ],
+        "confidence": 1,
+        "text": "Quora"
+      },
+      {
+        "bbox_px": [
+          284,
+          1670,
+          337,
+          1694
+        ],
+        "confidence": 1,
+        "text": "A24"
+      },
+      {
+        "bbox_px": [
+          446,
+          1668,
+          499,
+          1691
+        ],
+        "confidence": 1,
+        "text": "8VC"
+      },
+      {
+        "bbox_px": [
+          606,
+          1675,
+          669,
+          1688
+        ],
+        "confidence": 1,
+        "text": "AVercel"
+      },
+      {
+        "bbox_px": [
+          760,
+          1673,
+          841,
+          1689
+        ],
+        "confidence": 1,
+        "text": "eventbrite"
+      },
+      {
+        "bbox_px": [
+          922,
+          1673,
+          1006,
+          1689
+        ],
+        "confidence": 1,
+        "text": "ZOLACO"
+      },
+      {
+        "bbox_px": [
+          1068,
+          1613,
+          1126,
+          1628
+        ],
+        "confidence": 1,
+        "text": "Vanta"
+      },
+      {
+        "bbox_px": [
+          1067,
+          1654,
+          1266,
+          1714
+        ],
+        "confidence": 1,
+        "text": "3 Days"
+      },
+      {
+        "bbox_px": [
+          1068,
+          1720,
+          1160,
+          1736
+        ],
+        "confidence": 1,
+        "text": "Faster close"
+      },
+      {
+        "bbox_px": [
+          62,
+          1898,
+          608,
+          1935
+        ],
+        "confidence": 1,
+        "text": "One platform for all of finance."
+      },
+      {
+        "bbox_px": [
+          62,
+          1937,
+          789,
+          1983
+        ],
+        "confidence": 1,
+        "text": "Agents for every workflow, working 24/7."
+      },
+      {
+        "bbox_px": [
+          78,
+          2020,
+          274,
+          2041
+        ],
+        "confidence": 1,
+        "text": "Switch in days, not months"
+      },
+      {
+        "bbox_px": [
+          313,
+          2021,
+          399,
+          2037
+        ],
+        "confidence": 1,
+        "text": "View Demo"
+      },
+      {
+        "bbox_px": [
+          96,
+          2146,
+          344,
+          2170
+        ],
+        "confidence": 1,
+        "text": "Cards & Expenses that"
+      },
+      {
+        "bbox_px": [
+          96,
+          2175,
+          300,
+          2194
+        ],
+        "confidence": 1,
+        "text": "handle themselves"
+      },
+      {
+        "bbox_px": [
+          760,
+          2146,
+          1011,
+          2172
+        ],
+        "confidence": 1,
+        "text": "Procure to pay without"
+      },
+      {
+        "bbox_px": [
+          760,
+          2174,
+          962,
+          2204
+        ],
+        "confidence": 1,
+        "text": "chasing approvals"
+      },
+      {
+        "bbox_px": [
+          1134,
+          2248,
+          1199,
+          2261
+        ],
+        "confidence": 1,
+        "text": "Ramp.Admin"
+      },
+      {
+        "bbox_px": [
+          141,
+          2429,
+          263,
+          2481
+        ],
+        "confidence": 0.30000001192092896,
+        "text": "ramp"
+      },
+      {
+        "bbox_px": [
+          548,
+          2431,
+          632,
+          2460
+        ],
+        "confidence": 1,
+        "text": "VISA"
+      },
+      {
+        "bbox_px": [
+          527,
+          2462,
+          629,
+          2476
+        ],
+        "confidence": 1,
+        "text": "Signature Business"
+      },
+      {
+        "bbox_px": [
+          870,
+          2352,
+          1006,
+          2369
+        ],
+        "confidence": 1,
+        "text": "Loft Labs Development™"
+      },
+      {
+        "bbox_px": [
+          870,
+          2395,
+          896,
+          2406
+        ],
+        "confidence": 1,
+        "text": "Bill to:"
+      },
+      {
+        "bbox_px": [
+          868,
+          2535,
+          902,
+          2551
+        ],
+        "confidence": 1,
+        "text": "Support"
+      },
+      {
+        "bbox_px": [
+          969,
+          2492,
+          1003,
+          2505
+        ],
+        "confidence": 1,
+        "text": "$225.00"
+      },
+      {
+        "bbox_px": [
+          969,
+          2518,
+          1006,
+          2524
+        ],
+        "confidence": 1,
+        "text": "S 000.00"
+      },
+      {
+        "bbox_px": [
+          969,
+          2536,
+          1008,
+          2547
+        ],
+        "confidence": 1,
+        "text": "$5.000.00"
+      },
+      {
+        "bbox_px": [
+          99,
+          2653,
+          352,
+          2677
+        ],
+        "confidence": 1,
+        "text": "Accounting automation"
+      },
+      {
+        "bbox_px": [
+          96,
+          2680,
+          334,
+          2701
+        ],
+        "confidence": 1,
+        "text": "eliminates month-end"
+      },
+      {
+        "bbox_px": [
+          96,
+          2709,
+          196,
+          2730
+        ],
+        "confidence": 1,
+        "text": "madness"
+      },
+      {
+        "bbox_px": [
+          120,
+          2816,
+          224,
+          2830
+        ],
+        "confidence": 1,
+        "text": "Q. Search or add filter..."
+      },
+      {
+        "bbox_px": [
+          112,
+          2853,
+          154,
+          2858
+        ],
+        "confidence": 0.30000001192092896,
+        "text": "Imercnan"
+      },
+      {
+        "bbox_px": [
+          148,
+          2877,
+          196,
+          2891
+        ],
+        "confidence": 1,
+        "text": "WeWork"
+      },
+      {
+        "bbox_px": [
+          148,
+          2895,
+          180,
+          2908
+        ],
+        "confidence": 1,
+        "text": "Office"
+      },
+      {
+        "bbox_px": [
+          148,
+          2929,
+          227,
+          2942
+        ],
+        "confidence": 1,
+        "text": "Alaska Airlines"
+      },
+      {
+        "bbox_px": [
+          147,
+          2973,
+          247,
+          3000
+        ],
+        "confidence": 1,
+        "text": "Marriott Hotels g"
+      },
+      {
+        "bbox_px": [
+          148,
+          2997,
+          188,
+          3010
+        ],
+        "confidence": 1,
+        "text": "Lodging"
+      },
+      {
+        "bbox_px": [
+          148,
+          3031,
+          182,
+          3044
+        ],
+        "confidence": 1,
+        "text": "Apple"
+      },
+      {
+        "bbox_px": [
+          148,
+          3080,
+          190,
+          3093
+        ],
+        "confidence": 1,
+        "text": "Jetblue"
+      },
+      {
+        "bbox_px": [
+          148,
+          3099,
+          185,
+          3109
+        ],
+        "confidence": 1,
+        "text": "Airlines"
+      },
+      {
+        "bbox_px": [
+          266,
+          2816,
+          360,
+          2829
+        ],
+        "confidence": 1,
+        "text": "8 Accounting status"
+      },
+      {
+        "bbox_px": [
+          373,
+          2816,
+          439,
+          2829
+        ],
+        "confidence": 1,
+        "text": "Needs Review"
+      },
+      {
+        "bbox_px": [
+          266,
+          2847,
+          366,
+          2864
+        ],
+        "confidence": 1,
+        "text": "QuickBooks Category"
+      },
+      {
+        "bbox_px": [
+          271,
+          2884,
+          363,
+          2900
+        ],
+        "confidence": 1,
+        "text": "# 66800 - Rent"
+      },
+      {
+        "bbox_px": [
+          271,
+          2936,
+          410,
+          2949
+        ],
+        "confidence": 1,
+        "text": "#: 66700 - Travel: Airlines"
+      },
+      {
+        "bbox_px": [
+          271,
+          2984,
+          415,
+          3002
+        ],
+        "confidence": 1,
+        "text": "::: 66800 - Travel: Lodging"
+      },
+      {
+        "bbox_px": [
+          271,
+          3038,
+          371,
+          3052
+        ],
+        "confidence": 1,
+        "text": ":: 66500 - Office"
+      },
+      {
+        "bbox_px": [
+          271,
+          3088,
+          410,
+          3102
+        ],
+        "confidence": 1,
+        "text": "#: 66700 - Travel: Airlines"
+      },
+      {
+        "bbox_px": [
+          459,
+          2929,
+          478,
+          2942
+        ],
+        "confidence": 1,
+        "text": "Ke"
+      },
+      {
+        "bbox_px": [
+          459,
+          2981,
+          480,
+          2991
+        ],
+        "confidence": 1,
+        "text": "Tol"
+      },
+      {
+        "bbox_px": [
+          538,
+          2654,
+          820,
+          2681
+        ],
+        "confidence": 1,
+        "text": "Banking that flows money"
+      },
+      {
+        "bbox_px": [
+          535,
+          2680,
+          760,
+          2707
+        ],
+        "confidence": 1,
+        "text": "to the highest return"
+      },
+      {
+        "bbox_px": [
+          577,
+          2835,
+          747,
+          2864
+        ],
+        "confidence": 1,
+        "text": "Cash & Treasury"
+      },
+      {
+        "bbox_px": [
+          588,
+          2889,
+          627,
+          2895
+        ],
+        "confidence": 1,
+        "text": "wervtew"
+      },
+      {
+        "bbox_px": [
+          579,
+          2936,
+          765,
+          2960
+        ],
+        "confidence": 1,
+        "text": "$658,356.89 $14,581.77"
+      },
+      {
+        "bbox_px": [
+          580,
+          2959,
+          653,
+          2965
+        ],
+        "confidence": 0.30000001192092896,
+        "text": "Aralabls $008,356.0:"
+      },
+      {
+        "bbox_px": [
+          567,
+          3069,
+          700,
+          3086
+        ],
+        "confidence": 1,
+        "text": "• Requires your approval"
+      },
+      {
+        "bbox_px": [
+          595,
+          3091,
+          763,
+          3120
+        ],
+        "confidence": 1,
+        "text": "M $30.000.00 withdrawal by Notion"
+      },
+      {
+        "bbox_px": [
+          619,
+          3111,
+          755,
+          3125
+        ],
+        "confidence": 1,
+        "text": "From Checking - Expires in 21 hours"
+      },
+      {
+        "bbox_px": [
+          1210,
+          2311,
+          1325,
+          2329
+        ],
+        "confidence": 1,
+        "text": "Draft Invoice"
+      },
+      {
+        "bbox_px": [
+          1207,
+          2354,
+          1267,
+          2369
+        ],
+        "confidence": 1,
+        "text": "Line Items"
+      },
+      {
+        "bbox_px": [
+          1019,
+          2410,
+          1097,
+          2416
+        ],
+        "confidence": 0.30000001192092896,
+        "text": "nvoce dste 05032o"
+      },
+      {
+        "bbox_px": [
+          1236,
+          2403,
+          1319,
+          2416
+        ],
+        "confidence": 1,
+        "text": "Software License"
+      },
+      {
+        "bbox_px": [
+          1058,
+          2492,
+          1100,
+          2505
+        ],
+        "confidence": 1,
+        "text": "$11.250.00ł"
+      },
+      {
+        "bbox_px": [
+          1058,
+          2518,
+          1097,
+          2523
+        ],
+        "confidence": 1,
+        "text": "S50,000.00"
+      },
+      {
+        "bbox_px": [
+          1235,
+          2503,
+          1343,
+          2522
+        ],
+        "confidence": 1,
+        "text": "Development Services"
+      },
+      {
+        "bbox_px": [
+          1061,
+          2536,
+          1100,
+          2549
+        ],
+        "confidence": 1,
+        "text": "$5.000.00"
+      },
+      {
+        "bbox_px": [
+          1225,
+          2541,
+          1264,
+          2552
+        ],
+        "confidence": 1,
+        "text": "Category"
+      },
+      {
+        "bbox_px": [
+          1058,
+          2578,
+          1100,
+          2591
+        ],
+        "confidence": 1,
+        "text": "$66.250.00"
+      },
+      {
+        "bbox_px": [
+          982,
+          2653,
+          1246,
+          2677
+        ],
+        "confidence": 1,
+        "text": "200+ Integrations to the"
+      },
+      {
+        "bbox_px": [
+          984,
+          2679,
+          1215,
+          2707
+        ],
+        "confidence": 1,
+        "text": "tools you already use"
+      },
+      {
+        "bbox_px": [
+          1217,
+          2827,
+          1241,
+          2840
+        ],
+        "confidence": 0.30000001192092896,
+        "text": "CRNCU"
+      },
+      {
+        "bbox_px": [
+          1181,
+          2887,
+          1215,
+          2900
+        ],
+        "confidence": 1,
+        "text": "Uber"
+      },
+      {
+        "bbox_px": [
+          1338,
+          2541,
+          1374,
+          2552
+        ],
+        "confidence": 1,
+        "text": "Departm"
+      },
+      {
+        "bbox_px": [
+          1115,
+          3002,
+          1142,
+          3023
+        ],
+        "confidence": 1,
+        "text": "M"
+      },
+      {
+        "bbox_px": [
+          1087,
+          3052,
+          1110,
+          3072
+        ],
+        "confidence": 1,
+        "text": "AI"
+      },
+      {
+        "bbox_px": [
+          1152,
+          3057,
+          1176,
+          3070
+        ],
+        "confidence": 1,
+        "text": "Soge"
+      },
+      {
+        "bbox_px": [
+          444,
+          3360,
+          995,
+          3397
+        ],
+        "confidence": 1,
+        "text": "Systems that never spoke"
+      },
+      {
+        "bbox_px": [
+          444,
+          3359,
+          995,
+          3407
+        ],
+        "confidence": 1,
+        "text": "Systems that never spoke"
+      },
+      {
+        "bbox_px": [
+          486,
+          3425,
+          951,
+          3443
+        ],
+        "confidence": 1,
+        "text": "This is what five separate systems to reimburse a flight looks like."
+      },
+      {
+        "bbox_px": [
+          1251,
+          3502,
+          1377,
+          3516
+        ],
+        "confidence": 1,
+        "text": "Re: VP Approval required"
+      },
+      {
+        "bbox_px": [
+          1089,
+          3589,
+          1168,
+          3597
+        ],
+        "confidence": 0.30000001192092896,
+        "text": "ФНвАОО"
+      },
+      {
+        "bbox_px": [
+          1115,
+          3633,
+          1199,
+          3650
+        ],
+        "confidence": 1,
+        "text": "Company policy"
+      },
+      {
+        "bbox_px": [
+          350,
+          3676,
+          394,
+          3689
+        ],
+        "confidence": 1,
+        "text": "Receipts"
+      },
+      {
+        "bbox_px": [
+          245,
+          3730,
+          470,
+          3744
+        ],
+        "confidence": 1,
+        "text": "Can you submit your expenses today?"
+      },
+      {
+        "bbox_px": [
+          590,
+          3633,
+          687,
+          3647
+        ],
+        "confidence": 1,
+        "text": "Enter your card details"
+      },
+      {
+        "bbox_px": [
+          590,
+          3681,
+          640,
+          3694
+        ],
+        "confidence": 1,
+        "text": "Expiry date"
+      },
+      {
+        "bbox_px": [
+          598,
+          3702,
+          629,
+          3715
+        ],
+        "confidence": 1,
+        "text": "08/28"
+      },
+      {
+        "bbox_px": [
+          590,
+          3731,
+          650,
+          3742
+        ],
+        "confidence": 1,
+        "text": "Security code"
+      },
+      {
+        "bbox_px": [
+          590,
+          3780,
+          729,
+          3789
+        ],
+        "confidence": 1,
+        "text": "What's your mother's pet's name?"
+      },
+      {
+        "bbox_px": [
+          593,
+          3827,
+          742,
+          3836
+        ],
+        "confidence": 1,
+        "text": "& The detaus entered to not match"
+      },
+      {
+        "bbox_px": [
+          831,
+          3728,
+          862,
+          3749
+        ],
+        "confidence": 1,
+        "text": "(Е)"
+      },
+      {
+        "bbox_px": [
+          473,
+          3867,
+          543,
+          3880
+        ],
+        "confidence": 1,
+        "text": "invoice.pdf"
+      },
+      {
+        "bbox_px": [
+          867,
+          3851,
+          896,
+          3864
+        ],
+        "confidence": 1,
+        "text": "Omar"
+      },
+      {
+        "bbox_px": [
+          867,
+          3866,
+          1006,
+          3882
+        ],
+        "confidence": 1,
+        "text": "Is this flight in policy?"
+      },
+      {
+        "bbox_px": [
+          1142,
+          3864,
+          1296,
+          3877
+        ],
+        "confidence": 0.30000001192092896,
+        "text": "deod eid ante podo e boe coeede. A le f il noad"
+      },
+      {
+        "bbox_px": [
+          546,
+          3973,
+          629,
+          3987
+        ],
+        "confidence": 1,
+        "text": "[UNPAID] invoices"
+      },
+      {
+        "bbox_px": [
+          1147,
+          3971,
+          1178,
+          3984
+        ],
+        "confidence": 1,
+        "text": "7,251"
+      },
+      {
+        "bbox_px": [
+          703,
+          4083,
+          755,
+          4097
+        ],
+        "confidence": 1,
+        "text": "O Chicago, RL"
+      },
+      {
+        "bbox_px": [
+          865,
+          4083,
+          932,
+          4097
+        ],
+        "confidence": 1,
+        "text": "= © Where to?"
+      },
+      {
+        "bbox_px": [
+          770,
+          4130,
+          919,
+          4144
+        ],
+        "confidence": 1,
+        "text": "CHICAGO, IL TO SAN FRANCISCO, CA"
+      },
+      {
+        "bbox_px": [
+          770,
+          4141,
+          880,
+          4150
+        ],
+        "confidence": 1,
+        "text": "WED, MAR 15 - SUN, MAR 19"
+      },
+      {
+        "bbox_px": [
+          987,
+          4083,
+          1037,
+          4097
+        ],
+        "confidence": 1,
+        "text": "• Departure"
+      },
+      {
+        "bbox_px": [
+          1246,
+          4073,
+          1296,
+          4086
+        ],
+        "confidence": 1,
+        "text": "Payrolls"
+      },
+      {
+        "bbox_px": [
+          1249,
+          4089,
+          1293,
+          4094
+        ],
+        "confidence": 0.30000001192092896,
+        "text": "H0uve reyto"
+      },
+      {
+        "bbox_px": [
+          616,
+          4154,
+          682,
+          4168
+        ],
+        "confidence": 1,
+        "text": "(+) Seloct Flights"
+      },
+      {
+        "bbox_px": [
+          1196,
+          4201,
+          1325,
+          4215
+        ],
+        "confidence": 1,
+        "text": "hey quick question"
+      },
+      {
+        "bbox_px": [
+          878,
+          4228,
+          938,
+          4233
+        ],
+        "confidence": 0.30000001192092896,
+        "text": "Vw ta 0000s t ae D"
+      },
+      {
+        "bbox_px": [
+          219,
+          4442,
+          1225,
+          4489
+        ],
+        "confidence": 1,
+        "text": "Built on the intelligence of 70k+ finance teams."
+      },
+      {
+        "bbox_px": [
+          371,
+          4491,
+          1074,
+          4539
+        ],
+        "confidence": 1,
+        "text": "One platform for the agentic era."
+      },
+      {
+        "bbox_px": [
+          619,
+          4578,
+          815,
+          4603
+        ],
+        "confidence": 1,
+        "text": "Explore Ramp Intelligence"
+      },
+      {
+        "bbox_px": [
+          60,
+          4743,
+          501,
+          4772
+        ],
+        "confidence": 1,
+        "text": "Introducing Stack by Ramp. The Al"
+      },
+      {
+        "bbox_px": [
+          62,
+          4772,
+          530,
+          4806
+        ],
+        "confidence": 1,
+        "text": "operating system built for today's top"
+      },
+      {
+        "bbox_px": [
+          62,
+          4809,
+          287,
+          4838
+        ],
+        "confidence": 1,
+        "text": "accounting firms."
+      },
+      {
+        "bbox_px": [
+          62,
+          4858,
+          266,
+          4877
+        ],
+        "confidence": 1,
+        "text": "Learn about Ramp Stack →"
+      },
+      {
+        "bbox_px": [
+          62,
+          4807,
+          287,
+          4837
+        ],
+        "confidence": 1,
+        "text": "accounting firms."
+      },
+      {
+        "bbox_px": [
+          62,
+          4860,
+          263,
+          4875
+        ],
+        "confidence": 1,
+        "text": "Learn about Ramp Stack →"
+      },
+      {
+        "bbox_px": [
+          54,
+          5343,
+          577,
+          5362
+        ],
+        "confidence": 1,
+        "text": "\"Stack has finally automated what we all knew was coming with Al, but it"
+      },
+      {
+        "bbox_px": [
+          62,
+          5365,
+          363,
+          5383
+        ],
+        "confidence": 1,
+        "text": "did it in a reliable and consistent manneriẠạ"
+      },
+      {
+        "bbox_px": [
+          62,
+          5412,
+          138,
+          5431
+        ],
+        "confidence": 1,
+        "text": "Tyler Otto"
+      },
+      {
+        "bbox_px": [
+          62,
+          5435,
+          282,
+          5451
+        ],
+        "confidence": 1,
+        "text": "President, Specialized Accounting"
+      },
+      {
+        "bbox_px": [
+          62,
+          5479,
+          201,
+          5498
+        ],
+        "confidence": 1,
+        "text": "Read their story →"
+      },
+      {
+        "bbox_px": [
+          188,
+          5856,
+          242,
+          5884
+        ],
+        "confidence": 0.30000001192092896,
+        "text": "MHITINY"
+      },
+      {
+        "bbox_px": [
+          109,
+          5892,
+          299,
+          5982
+        ],
+        "confidence": 1,
+        "text": "perplexity"
+      },
+      {
+        "bbox_px": [
+          133,
+          5971,
+          321,
+          6062
+        ],
+        "confidence": 1,
+        "text": "perplexity"
+      },
+      {
+        "bbox_px": [
+          132,
+          6052,
+          374,
+          6224
+        ],
+        "confidence": 0.5,
+        "text": "PIX"
+      },
+      {
+        "bbox_px": [
+          258,
+          6200,
+          308,
+          6226
+        ],
+        "confidence": 0.30000001192092896,
+        "text": "(S PPLX.A"
+      },
+      {
+        "bbox_px": [
+          469,
+          6036,
+          512,
+          6076
+        ],
+        "confidence": 0.30000001192092896,
+        "text": "OESS"
+      },
+      {
+        "bbox_px": [
+          62,
+          6521,
+          551,
+          6553
+        ],
+        "confidence": 1,
+        "text": "Al that learns from your team. And gets"
+      },
+      {
+        "bbox_px": [
+          62,
+          6552,
+          496,
+          6584
+        ],
+        "confidence": 1,
+        "text": "smarter with every team that joins."
+      },
+      {
+        "bbox_px": [
+          681,
+          5040,
+          1321,
+          5187
+        ],
+        "confidence": 1,
+        "text": "S Stack"
+      },
+      {
+        "bbox_px": [
+          1220,
+          5437,
+          1332,
+          5451
+        ],
+        "confidence": 1,
+        "text": "• Watch Video"
+      },
+      {
+        "bbox_px": [
+          830,
+          5629,
+          1288,
+          5666
+        ],
+        "confidence": 1,
+        "text": "Keep your finance team focused on"
+      },
+      {
+        "bbox_px": [
+          831,
+          5663,
+          1366,
+          5695
+        ],
+        "confidence": 1,
+        "text": "strategy. Let agents handle the busywork."
+      },
+      {
+        "bbox_px": [
+          841,
+          5725,
+          1087,
+          5748
+        ],
+        "confidence": 1,
+        "text": "Learn about Ramp Intelligence →"
+      },
+      {
+        "bbox_px": [
+          689,
+          6327,
+          776,
+          6341
+        ],
+        "confidence": 1,
+        "text": "Watch Video"
+      },
+      {
+        "bbox_px": [
+          833,
+          6217,
+          1372,
+          6238
+        ],
+        "confidence": 1,
+        "text": "\"Gone are the days of scrambling to chase receipts, manually coding really"
+      },
+      {
+        "bbox_px": [
+          833,
+          6241,
+          1361,
+          6259
+        ],
+        "confidence": 1,
+        "text": "large data sets. All of that has been automatically addressed throughout"
+      },
+      {
+        "bbox_px": [
+          833,
+          6259,
+          1008,
+          6280
+        ],
+        "confidence": 1,
+        "text": "the month in real timeiạiạ"
+      },
+      {
+        "bbox_px": [
+          833,
+          6309,
+          951,
+          6325
+        ],
+        "confidence": 1,
+        "text": "Lauren Feeney"
+      },
+      {
+        "bbox_px": [
+          833,
+          6330,
+          974,
+          6346
+        ],
+        "confidence": 1,
+        "text": "Controller, Perplexity"
+      },
+      {
+        "bbox_px": [
+          833,
+          6367,
+          980,
+          6386
+        ],
+        "confidence": 1,
+        "text": "Read their story →"
+      },
+      {
+        "bbox_px": [
+          62,
+          6522,
+          551,
+          6551
+        ],
+        "confidence": 1,
+        "text": "Al that learns from your team. And gets"
+      },
+      {
+        "bbox_px": [
+          62,
+          6553,
+          496,
+          6583
+        ],
+        "confidence": 1,
+        "text": "smarter with every team that joins."
+      },
+      {
+        "bbox_px": [
+          62,
+          6604,
+          277,
+          6622
+        ],
+        "confidence": 1,
+        "text": "Learn about Policy Agents →"
+      },
+      {
+        "bbox_px": [
+          705,
+          6881,
+          956,
+          6908
+        ],
+        "confidence": 1,
+        "text": "* Checking spend behavior"
+      },
+      {
+        "bbox_px": [
+          57,
+          7140,
+          574,
+          7159
+        ],
+        "confidence": 1,
+        "text": "\"We have thousands of transactions a month, and the number of manual"
+      },
+      {
+        "bbox_px": [
+          62,
+          7163,
+          595,
+          7182
+        ],
+        "confidence": 1,
+        "text": "edits I make has dropped drastically. Ramp's Al just keeps getting smarter"
+      },
+      {
+        "bbox_px": [
+          61,
+          7181,
+          160,
+          7206
+        ],
+        "confidence": 1,
+        "text": "every week.\""
+      },
+      {
+        "bbox_px": [
+          59,
+          7228,
+          193,
+          7254
+        ],
+        "confidence": 1,
+        "text": "Neusha Sayadian"
+      },
+      {
+        "bbox_px": [
+          60,
+          7252,
+          219,
+          7273
+        ],
+        "confidence": 1,
+        "text": "Fractional CFO, Valence"
+      },
+      {
+        "bbox_px": [
+          125,
+          7464,
+          412,
+          7488
+        ],
+        "confidence": 1,
+        "text": "See what agents can automate."
+      },
+      {
+        "bbox_px": [
+          128,
+          7493,
+          695,
+          7515
+        ],
+        "confidence": 1,
+        "text": "Get a personalized look at the busy work agents can take off your team's plate."
+      },
+      {
+        "bbox_px": [
+          553,
+          7701,
+          894,
+          7747
+        ],
+        "confidence": 1,
+        "text": "Scale the team."
+      },
+      {
+        "bbox_px": [
+          482,
+          7746,
+          962,
+          7805
+        ],
+        "confidence": 1,
+        "text": "Shrink the paperwork."
+      },
+      {
+        "bbox_px": [
+          517,
+          7817,
+          922,
+          7838
+        ],
+        "confidence": 1,
+        "text": "You had a bureaucracy. Now you have a business again."
+      },
+      {
+        "bbox_px": [
+          172,
+          8000,
+          326,
+          8017
+        ],
+        "confidence": 1,
+        "text": "When a bill is created"
+      },
+      {
+        "bbox_px": [
+          154,
+          8082,
+          193,
+          8095
+        ],
+        "confidence": 1,
+        "text": "If the"
+      },
+      {
+        "bbox_px": [
+          216,
+          8082,
+          277,
+          8095
+        ],
+        "confidence": 1,
+        "text": "Amount"
+      },
+      {
+        "bbox_px": [
+          297,
+          8082,
+          483,
+          8097
+        ],
+        "confidence": 1,
+        "text": "is greater than or equal to"
+      },
+      {
+        "bbox_px": [
+          504,
+          8079,
+          606,
+          8098
+        ],
+        "confidence": 1,
+        "text": "$5,000.00 x"
+      },
+      {
+        "bbox_px": [
+          203,
+          8161,
+          264,
+          8180
+        ],
+        "confidence": 1,
+        "text": "Require"
+      },
+      {
+        "bbox_px": [
+          284,
+          8160,
+          310,
+          8176
+        ],
+        "confidence": 1,
+        "text": "DO"
+      },
+      {
+        "bbox_px": [
+          329,
+          8160,
+          470,
+          8179
+        ],
+        "confidence": 1,
+        "text": "Department Owner"
+      },
+      {
+        "bbox_px": [
+          493,
+          8160,
+          514,
+          8179
+        ],
+        "confidence": 1,
+        "text": "+"
+      },
+      {
+        "bbox_px": [
+          546,
+          8160,
+          561,
+          8176
+        ],
+        "confidence": 1,
+        "text": "IT"
+      },
+      {
+        "bbox_px": [
+          582,
+          8160,
+          642,
+          8176
+        ],
+        "confidence": 1,
+        "text": "IT Team"
+      },
+      {
+        "bbox_px": [
+          1042,
+          6679,
+          1369,
+          6724
+        ],
+        "confidence": 1,
+        "text": "Gilbane T&E Policy"
+      },
+      {
+        "bbox_px": [
+          1055,
+          6760,
+          1197,
+          6795
+        ],
+        "confidence": 1,
+        "text": "D Nov 2025"
+      },
+      {
+        "bbox_px": [
+          1055,
+          6812,
+          1238,
+          6842
+        ],
+        "confidence": 1,
+        "text": "• All employees"
+      },
+      {
+        "bbox_px": [
+          1126,
+          6870,
+          1369,
+          6902
+        ],
+        "confidence": 1,
+        "text": "Tina Cruz Dave Agent"
+      },
+      {
+        "bbox_px": [
+          1042,
+          6952,
+          1160,
+          6986
+        ],
+        "confidence": 1,
+        "text": "Projects"
+      },
+      {
+        "bbox_px": [
+          1042,
+          6998,
+          1382,
+          7031
+        ],
+        "confidence": 1,
+        "text": "Project-related expenses must be r"
+      },
+      {
+        "bbox_px": [
+          1045,
+          7035,
+          1377,
+          7057
+        ],
+        "confidence": 1,
+        "text": "related, and approved according tc"
+      },
+      {
+        "bbox_px": [
+          1045,
+          7064,
+          1379,
+          7088
+        ],
+        "confidence": 1,
+        "text": "Employees are responsible for assi!"
+      },
+      {
+        "bbox_px": [
+          1045,
+          7093,
+          1380,
+          7117
+        ],
+        "confidence": 1,
+        "text": "and project information at the time"
+      },
+      {
+        "bbox_px": [
+          1207,
+          7480,
+          1293,
+          7496
+        ],
+        "confidence": 1,
+        "text": "View Demo"
+      },
+      {
+        "bbox_px": [
+          1243,
+          7980,
+          1283,
+          7993
+        ],
+        "confidence": 1,
+        "text": "€52,000"
+      },
+      {
+        "bbox_px": [
+          1267,
+          8011,
+          1306,
+          8022
+        ],
+        "confidence": 1,
+        "text": "£48,000"
+      },
+      {
+        "bbox_px": [
+          172,
+          8000,
+          326,
+          8016
+        ],
+        "confidence": 1,
+        "text": "When a bill is created"
+      },
+      {
+        "bbox_px": [
+          154,
+          8080,
+          193,
+          8096
+        ],
+        "confidence": 1,
+        "text": "If the"
+      },
+      {
+        "bbox_px": [
+          216,
+          8081,
+          277,
+          8096
+        ],
+        "confidence": 1,
+        "text": "Amount"
+      },
+      {
+        "bbox_px": [
+          297,
+          8079,
+          483,
+          8099
+        ],
+        "confidence": 1,
+        "text": "is greater than or equal to"
+      },
+      {
+        "bbox_px": [
+          203,
+          8161,
+          264,
+          8178
+        ],
+        "confidence": 1,
+        "text": "Require"
+      },
+      {
+        "bbox_px": [
+          284,
+          8162,
+          310,
+          8175
+        ],
+        "confidence": 1,
+        "text": "DO"
+      },
+      {
+        "bbox_px": [
+          329,
+          8161,
+          467,
+          8178
+        ],
+        "confidence": 1,
+        "text": "Department Owner"
+      },
+      {
+        "bbox_px": [
+          203,
+          8240,
+          250,
+          8259
+        ],
+        "confidence": 1,
+        "text": "Notify"
+      },
+      {
+        "bbox_px": [
+          274,
+          8243,
+          297,
+          8256
+        ],
+        "confidence": 1,
+        "text": "VO"
+      },
+      {
+        "bbox_px": [
+          315,
+          8241,
+          491,
+          8259
+        ],
+        "confidence": 1,
+        "text": "Vendor Owner Manager"
+      },
+      {
+        "bbox_px": [
+          1219,
+          8006,
+          1304,
+          8024
+        ],
+        "confidence": 1,
+        "text": "LONDON €48,000"
+      },
+      {
+        "bbox_px": [
+          504,
+          8081,
+          606,
+          8097
+        ],
+        "confidence": 1,
+        "text": "$5,000.00 X"
+      },
+      {
+        "bbox_px": [
+          582,
+          8161,
+          642,
+          8178
+        ],
+        "confidence": 1,
+        "text": "IT Team"
+      },
+      {
+        "bbox_px": [
+          1189,
+          8274,
+          1236,
+          8287
+        ],
+        "confidence": 1,
+        "text": "MX$95,000"
+      },
+      {
+        "bbox_px": [
+          514,
+          8306,
+          564,
+          8321
+        ],
+        "confidence": 1,
+        "text": "Admin"
+      },
+      {
+        "bbox_px": [
+          62,
+          8449,
+          431,
+          8479
+        ],
+        "confidence": 1,
+        "text": "Set user access on autopilot."
+      },
+      {
+        "bbox_px": [
+          62,
+          8493,
+          446,
+          8510
+        ],
+        "confidence": 1,
+        "text": "Provision cards, permissions, and limits automatically"
+      },
+      {
+        "bbox_px": [
+          62,
+          8515,
+          454,
+          8534
+        ],
+        "confidence": 1,
+        "text": "based on role, location, department and custom fields."
+      },
+      {
+        "bbox_px": [
+          62,
+          8557,
+          229,
+          8572
+        ],
+        "confidence": 1,
+        "text": "Enterprise Solutions →"
+      },
+      {
+        "bbox_px": [
+          729,
+          8449,
+          1215,
+          8481
+        ],
+        "confidence": 1,
+        "text": "One platform for all your global spend."
+      },
+      {
+        "bbox_px": [
+          731,
+          8493,
+          1149,
+          8512
+        ],
+        "confidence": 1,
+        "text": "Issue cards in 30+ currencies and reimburse employees in"
+      },
+      {
+        "bbox_px": [
+          729,
+          8515,
+          1147,
+          8534
+        ],
+        "confidence": 1,
+        "text": "local currencies, including pounds, euros, yen, and pesos."
+      },
+      {
+        "bbox_px": [
+          731,
+          8557,
+          953,
+          8576
+        ],
+        "confidence": 1,
+        "text": "Global Spend Management →"
+      },
+      {
+        "bbox_px": [
+          619,
+          8703,
+          820,
+          8719
+        ],
+        "confidence": 1,
+        "text": "70,000 teams and counting"
+      },
+      {
+        "bbox_px": [
+          472,
+          8738,
+          973,
+          8800
+        ],
+        "confidence": 1,
+        "text": "We've got the receipts."
+      },
+      {
+        "bbox_px": [
+          676,
+          8821,
+          763,
+          8834
+        ],
+        "confidence": 1,
+        "text": "View Demo"
+      },
+      {
+        "bbox_px": [
+          148,
+          8949,
+          287,
+          8962
+        ],
+        "confidence": 1,
+        "text": "Shannon McCormick"
+      },
+      {
+        "bbox_px": [
+          146,
+          8967,
+          371,
+          8986
+        ],
+        "confidence": 1,
+        "text": "International Workplace Experien..."
+      },
+      {
+        "bbox_px": [
+          94,
+          9004,
+          365,
+          9020
+        ],
+        "confidence": 1,
+        "text": "As soon as I texted my first Ramp receipt, I"
+      },
+      {
+        "bbox_px": [
+          94,
+          9025,
+          334,
+          9041
+        ],
+        "confidence": 1,
+        "text": "realized Ramp is a game-changer. It's"
+      },
+      {
+        "bbox_px": [
+          96,
+          9046,
+          216,
+          9059
+        ],
+        "confidence": 1,
+        "text": "incredibly intuitive."
+      },
+      {
+        "bbox_px": [
+          67,
+          9155,
+          185,
+          9172
+        ],
+        "confidence": 1,
+        "text": "yor Neil Bradshaw"
+      },
+      {
+        "bbox_px": [
+          62,
+          9177,
+          219,
+          9193
+        ],
+        "confidence": 1,
+        "text": "ayor, City of Ketchum, ID"
+      },
+      {
+        "bbox_px": [
+          65,
+          9213,
+          245,
+          9230
+        ],
+        "confidence": 1,
+        "text": "us the ability to make more"
+      },
+      {
+        "bbox_px": [
+          70,
+          9234,
+          261,
+          9248
+        ],
+        "confidence": 1,
+        "text": "ancial policy decisions. It was"
+      },
+      {
+        "bbox_px": [
+          70,
+          9252,
+          269,
+          9268
+        ],
+        "confidence": 1,
+        "text": "est decisions we've ever made."
+      },
+      {
+        "bbox_px": [
+          483,
+          8949,
+          585,
+          8962
+        ],
+        "confidence": 1,
+        "text": "Heather Bruzus"
+      },
+      {
+        "bbox_px": [
+          483,
+          8967,
+          710,
+          8983
+        ],
+        "confidence": 1,
+        "text": "Principal Accountant, Mindbody &..."
+      },
+      {
+        "bbox_px": [
+          431,
+          9004,
+          666,
+          9020
+        ],
+        "confidence": 1,
+        "text": "We got positive feedback, which just"
+      },
+      {
+        "bbox_px": [
+          431,
+          9025,
+          708,
+          9041
+        ],
+        "confidence": 1,
+        "text": "doesn't happen very often. That proved this"
+      },
+      {
+        "bbox_px": [
+          431,
+          9046,
+          574,
+          9062
+        ],
+        "confidence": 1,
+        "text": "was the right decision."
+      },
+      {
+        "bbox_px": [
+          817,
+          8947,
+          912,
+          8965
+        ],
+        "confidence": 1,
+        "text": "Tzu-San Hung"
+      },
+      {
+        "bbox_px": [
+          818,
+          8967,
+          1034,
+          8983
+        ],
+        "confidence": 1,
+        "text": "Head of Strategic Finance, Notion"
+      },
+      {
+        "bbox_px": [
+          765,
+          9004,
+          982,
+          9020
+        ],
+        "confidence": 1,
+        "text": "Beautiful tools use beautiful tools."
+      },
+      {
+        "bbox_px": [
+          1155,
+          8949,
+          1291,
+          8965
+        ],
+        "confidence": 1,
+        "text": "Matteo Franceschetti"
+      },
+      {
+        "bbox_px": [
+          1155,
+          8967,
+          1267,
+          8986
+        ],
+        "confidence": 1,
+        "text": "CEO, Eight Sleep"
+      },
+      {
+        "bbox_px": [
+          1102,
+          9004,
+          1366,
+          9020
+        ],
+        "confidence": 1,
+        "text": "Ramp was a complete game changer. It's"
+      },
+      {
+        "bbox_px": [
+          1100,
+          9025,
+          1338,
+          9041
+        ],
+        "confidence": 1,
+        "text": "single platform that can handle every"
+      },
+      {
+        "bbox_px": [
+          1100,
+          9046,
+          1254,
+          9062
+        ],
+        "confidence": 1,
+        "text": "aspect of our spending."
+      },
+      {
+        "bbox_px": [
+          1053,
+          9155,
+          1139,
+          9172
+        ],
+        "confidence": 1,
+        "text": "Ben Whipple"
+      },
+      {
+        "bbox_px": [
+          1053,
+          9177,
+          1280,
+          9193
+        ],
+        "confidence": 1,
+        "text": "Director of Public Works, City of K..."
+      },
+      {
+        "bbox_px": [
+          1000,
+          9213,
+          1233,
+          9227
+        ],
+        "confidence": 1,
+        "text": "I snap a picture of the receipt, Ramp"
+      },
+      {
+        "bbox_px": [
+          1000,
+          9232,
+          1270,
+          9247
+        ],
+        "confidence": 1,
+        "text": "handles the rest like magic, and I move on."
+      },
+      {
+        "bbox_px": [
+          67,
+          9419,
+          164,
+          9436
+        ],
+        "confidence": 1,
+        "text": "ap is effortless."
+      },
+      {
+        "bbox_px": [
+          384,
+          9155,
+          454,
+          9172
+        ],
+        "confidence": 1,
+        "text": "Bret Taylor"
+      },
+      {
+        "bbox_px": [
+          384,
+          9176,
+          459,
+          9190
+        ],
+        "confidence": 1,
+        "text": "CEO, Sierra"
+      },
+      {
+        "bbox_px": [
+          331,
+          9213,
+          606,
+          9227
+        ],
+        "confidence": 1,
+        "text": "It's almost like we're a more self-actualized"
+      },
+      {
+        "bbox_px": [
+          331,
+          9232,
+          606,
+          9247
+        ],
+        "confidence": 1,
+        "text": "company because everyone is just working"
+      },
+      {
+        "bbox_px": [
+          331,
+          9252,
+          496,
+          9268
+        ],
+        "confidence": 1,
+        "text": "on what we do differently."
+      },
+      {
+        "bbox_px": [
+          284,
+          9365,
+          384,
+          9379
+        ],
+        "confidence": 1,
+        "text": "Andrew Clarke"
+      },
+      {
+        "bbox_px": [
+          287,
+          9384,
+          412,
+          9400
+        ],
+        "confidence": 1,
+        "text": "SVP Finance, Studs"
+      },
+      {
+        "bbox_px": [
+          235,
+          9420,
+          507,
+          9436
+        ],
+        "confidence": 1,
+        "text": "We've consolidated four platforms into one"
+      },
+      {
+        "bbox_px": [
+          234,
+          9439,
+          306,
+          9457
+        ],
+        "confidence": 1,
+        "text": "with Ramp."
+      },
+      {
+        "bbox_px": [
+          718,
+          9155,
+          810,
+          9172
+        ],
+        "confidence": 1,
+        "text": "Michael Bohn"
+      },
+      {
+        "bbox_px": [
+          718,
+          9174,
+          946,
+          9193
+        ],
+        "confidence": 1,
+        "text": "Head of Business Operations, Fou..."
+      },
+      {
+        "bbox_px": [
+          669,
+          9213,
+          904,
+          9230
+        ],
+        "confidence": 1,
+        "text": "The average person can figure Ramp"
+      },
+      {
+        "bbox_px": [
+          666,
+          9232,
+          912,
+          9247
+        ],
+        "confidence": 1,
+        "text": "out without training. That's what drives"
+      },
+      {
+        "bbox_px": [
+          668,
+          9251,
+          771,
+          9268
+        ],
+        "confidence": 1,
+        "text": "100% adoption."
+      },
+      {
+        "bbox_px": [
+          619,
+          9365,
+          718,
+          9381
+        ],
+        "confidence": 1,
+        "text": "Jason Penegar"
+      },
+      {
+        "bbox_px": [
+          621,
+          9384,
+          841,
+          9400
+        ],
+        "confidence": 1,
+        "text": "VP Controller, Boys & Girls Clubs ..."
+      },
+      {
+        "bbox_px": [
+          569,
+          9420,
+          831,
+          9436
+        ],
+        "confidence": 1,
+        "text": "The Ramp journey has been incredible. A"
+      },
+      {
+        "bbox_px": [
+          567,
+          9441,
+          734,
+          9457
+        ],
+        "confidence": 1,
+        "text": "flawless implementation..."
+      },
+      {
+        "bbox_px": [
+          909,
+          9376,
+          943,
+          9386
+        ],
+        "confidence": 1,
+        "text": "Seed\""
+      },
+      {
+        "bbox_px": [
+          956,
+          9365,
+          1027,
+          9379
+        ],
+        "confidence": 1,
+        "text": "Sarah Bird"
+      },
+      {
+        "bbox_px": [
+          956,
+          9384,
+          1108,
+          9400
+        ],
+        "confidence": 1,
+        "text": "Controller, Seed Health"
+      },
+      {
+        "bbox_px": [
+          904,
+          9420,
+          1181,
+          9436
+        ],
+        "confidence": 1,
+        "text": "It's rare to feel like a company and a team is"
+      },
+      {
+        "bbox_px": [
+          904,
+          9441,
+          1139,
+          9457
+        ],
+        "confidence": 1,
+        "text": "a partner, and that they really want to"
+      },
+      {
+        "bbox_px": [
+          904,
+          9459,
+          1155,
+          9475
+        ],
+        "confidence": 1,
+        "text": "understand what you need. That's what"
+      },
+      {
+        "bbox_px": [
+          904,
+          9480,
+          1100,
+          9497
+        ],
+        "confidence": 1,
+        "text": "we've experienced with Ramp."
+      },
+      {
+        "bbox_px": [
+          1293,
+          9365,
+          1369,
+          9381
+        ],
+        "confidence": 1,
+        "text": "Carolynn Yi"
+      },
+      {
+        "bbox_px": [
+          1291,
+          9384,
+          1364,
+          9397
+        ],
+        "confidence": 1,
+        "text": "Assistant ("
+      },
+      {
+        "bbox_px": [
+          1238,
+          9420,
+          1364,
+          9438
+        ],
+        "confidence": 1,
+        "text": "It's very easy to use"
+      },
+      {
+        "bbox_px": [
+          1238,
+          9441,
+          1361,
+          9455
+        ],
+        "confidence": 1,
+        "text": "requires almost zei"
+      },
+      {
+        "bbox_px": [
+          580,
+          9692,
+          862,
+          9716
+        ],
+        "confidence": 1,
+        "text": "Time is money. Save both."
+      },
+      {
+        "bbox_px": [
+          491,
+          9762,
+          669,
+          9781
+        ],
+        "confidence": 1,
+        "text": "What's your work email?"
+      },
+      {
+        "bbox_px": [
+          786,
+          9763,
+          946,
+          9784
+        ],
+        "confidence": 1,
+        "text": "Learn more, get a grill"
+      },
+      {
+        "bbox_px": [
+          580,
+          9691,
+          862,
+          9719
+        ],
+        "confidence": 1,
+        "text": "Time is money. Save both."
+      },
+      {
+        "bbox_px": [
+          491,
+          9764,
+          669,
+          9781
+        ],
+        "confidence": 1,
+        "text": "What's your work email?"
+      },
+      {
+        "bbox_px": [
+          786,
+          9764,
+          948,
+          9781
+        ],
+        "confidence": 1,
+        "text": "Learn more, get a grill"
+      },
+      {
+        "bbox_px": [
+          478,
+          9819,
+          961,
+          9838
+        ],
+        "confidence": 1,
+        "text": "Take a call to learn more about Procurement with Ramp and get a Blackstone grill.\""
+      },
+      {
+        "bbox_px": [
+          62,
+          10091,
+          122,
+          10105
+        ],
+        "confidence": 1,
+        "text": "About us"
+      },
+      {
+        "bbox_px": [
+          62,
+          10118,
+          117,
+          10131
+        ],
+        "confidence": 1,
+        "text": "Careers"
+      },
+      {
+        "bbox_px": [
+          62,
+          10144,
+          167,
+          10160
+        ],
+        "confidence": 1,
+        "text": "Emerging talent"
+      },
+      {
+        "bbox_px": [
+          62,
+          10170,
+          135,
+          10183
+        ],
+        "confidence": 1,
+        "text": "Customers"
+      },
+      {
+        "bbox_px": [
+          60,
+          10196,
+          141,
+          10212
+        ],
+        "confidence": 1,
+        "text": "Help center"
+      },
+      {
+        "bbox_px": [
+          62,
+          10219,
+          172,
+          10235
+        ],
+        "confidence": 1,
+        "text": "Product releases"
+      },
+      {
+        "bbox_px": [
+          62,
+          10248,
+          172,
+          10264
+        ],
+        "confidence": 1,
+        "text": "Ramp for Agents"
+      },
+      {
+        "bbox_px": [
+          60,
+          10275,
+          138,
+          10288
+        ],
+        "confidence": 1,
+        "text": "Ramp Labs"
+      },
+      {
+        "bbox_px": [
+          62,
+          10298,
+          188,
+          10314
+        ],
+        "confidence": 1,
+        "text": "API documentation"
+      },
+      {
+        "bbox_px": [
+          60,
+          10324,
+          107,
+          10340
+        ],
+        "confidence": 1,
+        "text": "Versus"
+      },
+      {
+        "bbox_px": [
+          284,
+          10091,
+          347,
+          10104
+        ],
+        "confidence": 1,
+        "text": "Products"
+      },
+      {
+        "bbox_px": [
+          284,
+          10117,
+          394,
+          10133
+        ],
+        "confidence": 1,
+        "text": "Corporate cards"
+      },
+      {
+        "bbox_px": [
+          284,
+          10144,
+          431,
+          10160
+        ],
+        "confidence": 1,
+        "text": "Expense management"
+      },
+      {
+        "bbox_px": [
+          284,
+          10169,
+          418,
+          10186
+        ],
+        "confidence": 1,
+        "text": "Spend management"
+      },
+      {
+        "bbox_px": [
+          284,
+          10196,
+          342,
+          10212
+        ],
+        "confidence": 1,
+        "text": "Budgets"
+      },
+      {
+        "bbox_px": [
+          284,
+          10222,
+          339,
+          10238
+        ],
+        "confidence": 1,
+        "text": "Banking"
+      },
+      {
+        "bbox_px": [
+          284,
+          10248,
+          326,
+          10261
+        ],
+        "confidence": 1,
+        "text": "Travel"
+      },
+      {
+        "bbox_px": [
+          284,
+          10275,
+          397,
+          10288
+        ],
+        "confidence": 1,
+        "text": "Reimbursements"
+      },
+      {
+        "bbox_px": [
+          284,
+          10299,
+          371,
+          10315
+        ],
+        "confidence": 1,
+        "text": "Procurement"
+      },
+      {
+        "bbox_px": [
+          284,
+          10326,
+          402,
+          10340
+        ],
+        "confidence": 1,
+        "text": "Accounts payable"
+      },
+      {
+        "bbox_px": [
+          284,
+          10350,
+          423,
+          10367
+        ],
+        "confidence": 1,
+        "text": "Vendor management"
+      },
+      {
+        "bbox_px": [
+          284,
+          10379,
+          352,
+          10392
+        ],
+        "confidence": 1,
+        "text": "Approvals"
+      },
+      {
+        "bbox_px": [
+          284,
+          10402,
+          342,
+          10419
+        ],
+        "confidence": 1,
+        "text": "Security"
+      },
+      {
+        "bbox_px": [
+          284,
+          10429,
+          321,
+          10442
+        ],
+        "confidence": 1,
+        "text": "Trust"
+      },
+      {
+        "bbox_px": [
+          284,
+          10455,
+          402,
+          10469
+        ],
+        "confidence": 1,
+        "text": "Bank connections"
+      },
+      {
+        "bbox_px": [
+          284,
+          10479,
+          361,
+          10498
+        ],
+        "confidence": 1,
+        "text": "Mobile app"
+      },
+      {
+        "bbox_px": [
+          284,
+          10507,
+          373,
+          10520
+        ],
+        "confidence": 1,
+        "text": "Ramp Sheets"
+      },
+      {
+        "bbox_px": [
+          507,
+          10091,
+          564,
+          10104
+        ],
+        "confidence": 1,
+        "text": "Platform"
+      },
+      {
+        "bbox_px": [
+          507,
+          10118,
+          624,
+          10131
+        ],
+        "confidence": 1,
+        "text": "Platform overview"
+      },
+      {
+        "bbox_px": [
+          507,
+          10144,
+          661,
+          10160
+        ],
+        "confidence": 1,
+        "text": "Accounting automation"
+      },
+      {
+        "bbox_px": [
+          506,
+          10170,
+          585,
+          10186
+        ],
+        "confidence": 1,
+        "text": "Intelligence"
+      },
+      {
+        "bbox_px": [
+          506,
+          10195,
+          575,
+          10213
+        ],
+        "confidence": 1,
+        "text": "Reporting"
+      },
+      {
+        "bbox_px": [
+          506,
+          10221,
+          562,
+          10237
+        ],
+        "confidence": 1,
+        "text": "Savings"
+      },
+      {
+        "bbox_px": [
+          507,
+          10248,
+          585,
+          10264
+        ],
+        "confidence": 1,
+        "text": "Integrations"
+      },
+      {
+        "bbox_px": [
+          507,
+          10275,
+          582,
+          10288
+        ],
+        "confidence": 1,
+        "text": "Multi-entity"
+      },
+      {
+        "bbox_px": [
+          506,
+          10298,
+          554,
+          10314
+        ],
+        "confidence": 1,
+        "text": "Global"
+      },
+      {
+        "bbox_px": [
+          507,
+          10324,
+          697,
+          10340
+        ],
+        "confidence": 1,
+        "text": "Al Token Spend Management"
+      },
+      {
+        "bbox_px": [
+          728,
+          10090,
+          787,
+          10108
+        ],
+        "confidence": 1,
+        "text": "Partners"
+      },
+      {
+        "bbox_px": [
+          729,
+          10117,
+          841,
+          10133
+        ],
+        "confidence": 1,
+        "text": "Accounting firms"
+      },
+      {
+        "bbox_px": [
+          729,
+          10144,
+          820,
+          10160
+        ],
+        "confidence": 1,
+        "text": "Private equity"
+      },
+      {
+        "bbox_px": [
+          729,
+          10169,
+          828,
+          10183
+        ],
+        "confidence": 1,
+        "text": "Venture capital"
+      },
+      {
+        "bbox_px": [
+          729,
+          10196,
+          851,
+          10212
+        ],
+        "confidence": 1,
+        "text": "System integrators"
+      },
+      {
+        "bbox_px": [
+          728,
+          10219,
+          865,
+          10240
+        ],
+        "confidence": 1,
+        "text": "Technology partners"
+      },
+      {
+        "bbox_px": [
+          728,
+          10244,
+          904,
+          10266
+        ],
+        "confidence": 1,
+        "text": "Spend and payroll partners"
+      },
+      {
+        "bbox_px": [
+          729,
+          10274,
+          841,
+          10291
+        ],
+        "confidence": 1,
+        "text": "Reseller partners"
+      },
+      {
+        "bbox_px": [
+          729,
+          10300,
+          851,
+          10317
+        ],
+        "confidence": 1,
+        "text": "Franchise partners"
+      },
+      {
+        "bbox_px": [
+          951,
+          10089,
+          1016,
+          10107
+        ],
+        "confidence": 1,
+        "text": "Solutions"
+      },
+      {
+        "bbox_px": [
+          951,
+          10117,
+          1011,
+          10133
+        ],
+        "confidence": 1,
+        "text": "Startups"
+      },
+      {
+        "bbox_px": [
+          951,
+          10140,
+          1050,
+          10160
+        ],
+        "confidence": 1,
+        "text": "Small business"
+      },
+      {
+        "bbox_px": [
+          951,
+          10169,
+          1029,
+          10183
+        ],
+        "confidence": 1,
+        "text": "Mid market"
+      },
+      {
+        "bbox_px": [
+          950,
+          10193,
+          1022,
+          10214
+        ],
+        "confidence": 1,
+        "text": "Enterprise"
+      },
+      {
+        "bbox_px": [
+          62,
+          10648,
+          162,
+          10662
+        ],
+        "confidence": 1,
+        "text": "Terms of Service"
+      },
+      {
+        "bbox_px": [
+          175,
+          10648,
+          295,
+          10662
+        ],
+        "confidence": 1,
+        "text": "Editorial Guidelines"
+      },
+      {
+        "bbox_px": [
+          303,
+          10648,
+          392,
+          10662
+        ],
+        "confidence": 1,
+        "text": "Privacy Policy"
+      },
+      {
+        "bbox_px": [
+          389,
+          10648,
+          527,
+          10662
+        ],
+        "confidence": 1,
+        "text": "Your Privacy Choices"
+      },
+      {
+        "bbox_px": [
+          577,
+          10648,
+          705,
+          10665
+        ],
+        "confidence": 1,
+        "text": "Manage Preferences"
+      },
+      {
+        "bbox_px": [
+          62,
+          10674,
+          692,
+          10690
+        ],
+        "confidence": 1,
+        "text": "© 2026 Ramp Business Corporation. \"Ramp\" and the Ramp logo are registered trademarks of the company."
+      },
+      {
+        "bbox_px": [
+          62,
+          10701,
+          263,
+          10715
+        ],
+        "confidence": 1,
+        "text": "Ramp Support: +1-855-206-7283"
+      },
+      {
+        "bbox_px": [
+          62,
+          10723,
+          705,
+          10743
+        ],
+        "confidence": 1,
+        "text": "The Ramp Visa Corporate Card is issued in the U.S. by Celtic Bank, and to U.S. corporations operating globally"
+      },
+      {
+        "bbox_px": [
+          62,
+          10741,
+          708,
+          10761
+        ],
+        "confidence": 1,
+        "text": "by Column N.A., Member FDIC, and is subject to credit approval. The Ramp Visa Commercial Card is issued by"
+      },
+      {
+        "bbox_px": [
+          62,
+          10763,
+          705,
+          10779
+        ],
+        "confidence": 1,
+        "text": "Sutton Bank, Member FDIC. The Ramp Visa Business Card is issued by Lead Bank, Member FDIC. Each card is"
+      },
+      {
+        "bbox_px": [
+          62,
+          10782,
+          337,
+          10798
+        ],
+        "confidence": 1,
+        "text": "issued pursuant to a license from Visa USA Inc."
+      },
+      {
+        "bbox_px": [
+          62,
+          10806,
+          674,
+          10826
+        ],
+        "confidence": 1,
+        "text": "Ramp Visa Business Cards are issued in Canada by Peoples Trust Company, pursuant to license by Visa*"
+      },
+      {
+        "bbox_px": [
+          62,
+          10827,
+          666,
+          10842
+        ],
+        "confidence": 1,
+        "text": "International. Visa Int./Peoples Trust Company, Licensed User. Card Balance not insured by the Canada"
+      },
+      {
+        "bbox_px": [
+          62,
+          10844,
+          697,
+          10861
+        ],
+        "confidence": 1,
+        "text": "Deposit Insurance Corporation. Ramp Business Corporation is registered as a Payment Service Provider with"
+      },
+      {
+        "bbox_px": [
+          62,
+          10865,
+          182,
+          10879
+        ],
+        "confidence": 1,
+        "text": "the Bank of Canada."
+      },
+      {
+        "bbox_px": [
+          62,
+          10889,
+          703,
+          10906
+        ],
+        "confidence": 1,
+        "text": "Ramp cards are issued in the UK by Stripe Payments UK Limited, an electronic money institution authorized by"
+      },
+      {
+        "bbox_px": [
+          62,
+          10907,
+          700,
+          10924
+        ],
+        "confidence": 1,
+        "text": "the Financial Conduct Authority (firm reference number: 900461). Ramp cards are issued in the EEA by Stripe"
+      },
+      {
+        "bbox_px": [
+          62,
+          10925,
+          679,
+          10945
+        ],
+        "confidence": 1,
+        "text": "Technology Europe Limited, an electronic money institution authorized by the Central Bank of Ireland (firm"
+      },
+      {
+        "bbox_px": [
+          62,
+          10946,
+          687,
+          10963
+        ],
+        "confidence": 1,
+        "text": "reference number: C187865). Cards are issued under the Visa card scheme pursuant to a license from Visa"
+      },
+      {
+        "bbox_px": [
+          62,
+          10965,
+          156,
+          10981
+        ],
+        "confidence": 1,
+        "text": "Europe Limited."
+      },
+      {
+        "bbox_px": [
+          62,
+          10991,
+          710,
+          11005
+        ],
+        "confidence": 1,
+        "text": "Visa is a registered trademark of Visa International Service Association. All other trademarks and service marks"
+      },
+      {
+        "bbox_px": [
+          62,
+          11010,
+          263,
+          11025
+        ],
+        "confidence": 1,
+        "text": "belong to their respective owners."
+      },
+      {
+        "bbox_px": [
+          62,
+          11033,
+          412,
+          11049
+        ],
+        "confidence": 1,
+        "text": "*Terms and conditions apply. See ramp.com/p-tc for details."
+      },
+      {
+        "bbox_px": [
+          65,
+          11054,
+          671,
+          11070
+        ],
+        "confidence": 1,
+        "text": "*Ramp Business Corporation is a financial technology company and is not a bank. Bank deposit services"
+      },
+      {
+        "bbox_px": [
+          62,
+          11072,
+          394,
+          11089
+        ],
+        "confidence": 1,
+        "text": "provided by First Internet Bank of Indiana, Member FDIC."
+      },
+      {
+        "bbox_px": [
+          62,
+          11091,
+          679,
+          11107
+        ],
+        "confidence": 1,
+        "text": "†Investment account with portfolios managed by Moment Advisors, LLC. Investing involves risk, including"
+      },
+      {
+        "bbox_px": [
+          62,
+          11111,
+          703,
+          11125
+        ],
+        "confidence": 1,
+        "text": "possible loss of principal. Asset allocation does not guarantee profit or protect against loss. Past performance"
+      },
+      {
+        "bbox_px": [
+          62,
+          11130,
+          687,
+          11146
+        ],
+        "confidence": 1,
+        "text": "does not guarantee future results. Additional information can be found here. Securities products offered by"
+      },
+      {
+        "bbox_px": [
+          62,
+          11148,
+          689,
+          11164
+        ],
+        "confidence": 1,
+        "text": "Apex Clearing Corporation, member FINRA, SIPC. The Investment Account is not insured by the FDIC, not a"
+      },
+      {
+        "bbox_px": [
+          62,
+          11169,
+          279,
+          11183
+        ],
+        "confidence": 1,
+        "text": "deposit product, and may lose value."
+      },
+      {
+        "bbox_px": [
+          62,
+          11193,
+          682,
+          11209
+        ],
+        "confidence": 1,
+        "text": "Ramp Payments Corporation - NMLS 2371465 Disclosures, Ramp Financing Corporation - NMLS 2431387"
+      },
+      {
+        "bbox_px": [
+          729,
+          10646,
+          899,
+          10662
+        ],
+        "confidence": 1,
+        "text": "Ramp Business Corporation"
+      },
+      {
+        "bbox_px": [
+          729,
+          10664,
+          896,
+          10681
+        ],
+        "confidence": 1,
+        "text": "28 West 23rd Street, Floor 2"
+      },
+      {
+        "bbox_px": [
+          729,
+          10683,
+          849,
+          10699
+        ],
+        "confidence": 1,
+        "text": "New York, NY 10010"
+      },
+      {
+        "bbox_px": [
+          62,
+          11255,
+          446,
+          11269
+        ],
+        "confidence": 1,
+        "text": "Join the 70,000+ businesses simplifying their finances with Ramp."
+      },
+      {
+        "bbox_px": [
+          86,
+          11311,
+          263,
+          11329
+        ],
+        "confidence": 1,
+        "text": "What's your work email?"
+      },
+      {
+        "bbox_px": [
+          381,
+          11311,
+          540,
+          11329
+        ],
+        "confidence": 1,
+        "text": "Learn more, get a grill"
+      },
+      {
+        "bbox_px": [
+          62,
+          11368,
+          543,
+          11384
+        ],
+        "confidence": 1,
+        "text": "Take a call to learn more about Procurement with Ramp and get a Blackstone grillẠạẠi"
+      },
+      {
+        "bbox_px": [
+          1173,
+          10091,
+          1335,
+          10108
+        ],
+        "confidence": 1,
+        "text": "Free tools and resources"
+      },
+      {
+        "bbox_px": [
+          1173,
+          10118,
+          1296,
+          10131
+        ],
+        "confidence": 1,
+        "text": "Perks and rewards"
+      },
+      {
+        "bbox_px": [
+          1173,
+          10141,
+          1301,
+          10157
+        ],
+        "confidence": 1,
+        "text": "Find an accountant"
+      },
+      {
+        "bbox_px": [
+          1173,
+          10167,
+          1322,
+          10187
+        ],
+        "confidence": 1,
+        "text": "Find a services partner"
+      },
+      {
+        "bbox_px": [
+          1173,
+          10193,
+          1296,
+          10214
+        ],
+        "confidence": 1,
+        "text": "Savings calculator"
+      },
+      {
+        "bbox_px": [
+          1173,
+          10219,
+          1359,
+          10239
+        ],
+        "confidence": 1,
+        "text": "Mission statement generator"
+      },
+      {
+        "bbox_px": [
+          1176,
+          10248,
+          1264,
+          10264
+        ],
+        "confidence": 1,
+        "text": "Charge finder"
+      },
+      {
+        "bbox_px": [
+          1173,
+          10275,
+          1301,
+          10288
+        ],
+        "confidence": 1,
+        "text": "Per diem calculator"
+      },
+      {
+        "bbox_px": [
+          1173,
+          10301,
+          1327,
+          10314
+        ],
+        "confidence": 1,
+        "text": "Mileage reimbursement"
+      },
+      {
+        "bbox_px": [
+          1173,
+          10322,
+          1241,
+          10335
+        ],
+        "confidence": 1,
+        "text": "calculator"
+      },
+      {
+        "bbox_px": [
+          1176,
+          10345,
+          1317,
+          10361
+        ],
+        "confidence": 1,
+        "text": "Card comparison tool"
+      },
+      {
+        "bbox_px": [
+          1173,
+          10371,
+          1291,
+          10387
+        ],
+        "confidence": 1,
+        "text": "Investor database"
+      },
+      {
+        "bbox_px": [
+          1173,
+          10397,
+          1327,
+          10414
+        ],
+        "confidence": 1,
+        "text": "Expense categorization"
+      },
+      {
+        "bbox_px": [
+          1173,
+          10423,
+          1322,
+          10440
+        ],
+        "confidence": 1,
+        "text": "Expense policy builder"
+      },
+      {
+        "bbox_px": [
+          1172,
+          10447,
+          1286,
+          10468
+        ],
+        "confidence": 1,
+        "text": "Vendor directory"
+      },
+      {
+        "bbox_px": [
+          1173,
+          10474,
+          1259,
+          10492
+        ],
+        "confidence": 1,
+        "text": "Virtual cards"
+      },
+      {
+        "bbox_px": [
+          1173,
+          10500,
+          1262,
+          10516
+        ],
+        "confidence": 1,
+        "text": "Answers Hub"
+      },
+      {
+        "bbox_px": [
+          1189,
+          10701,
+          1246,
+          10717
+        ],
+        "confidence": 1,
+        "text": "• App Stor"
+      },
+      {
+        "bbox_px": [
+          1173,
+          10735,
+          1228,
+          10748
+        ],
+        "confidence": 1,
+        "text": "LinkedIn"
+      },
+      {
+        "bbox_px": [
+          1173,
+          10782,
+          1238,
+          10798
+        ],
+        "confidence": 1,
+        "text": "Facebook"
+      },
+      {
+        "bbox_px": [
+          1293,
+          10703,
+          1338,
+          10717
+        ],
+        "confidence": 1,
+        "text": "Soogle Pla"
+      },
+      {
+        "bbox_px": [
+          87,
+          11310,
+          263,
+          11328
+        ],
+        "confidence": 0.30000001192092896,
+        "text": "illeшe om пon szu"
+      }
+    ],
+    "path": "screenshots/ramp.png",
+    "width": 1440
+  }
+]

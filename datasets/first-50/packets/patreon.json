@@ -1,0 +1,89 @@
+{
+  "id": "patreon",
+  "name": "Patreon",
+  "annotation_status": "pilot_partial",
+  "facets": {
+    "industry": "Creator platforms",
+    "audience": "Creators",
+    "conversion_goal": "signup",
+    "style": "photography-led",
+    "color_family": "natural",
+    "hero_layout": "distributed"
+  },
+  "observed_composition": "A full-bleed creator portrait uses large white words spread across the lower hero and a compact centered brand navigation.",
+  "copy_examples": [
+    {
+      "id": "copy-01",
+      "section_id": "top-window",
+      "role": "headline",
+      "text_verbatim": "Make it making art",
+      "visible_lines": [],
+      "evidence_ids": [
+        "hero-window",
+        "full"
+      ],
+      "reading_order": 0,
+      "transcription_status": "visually_verified",
+      "uncertainties": [
+        "Visual line wrapping is not transcribed; use the screenshot.",
+        "Reading order is grouped editorially by copy role, not a DOM reading-order measurement."
+      ]
+    },
+    {
+      "id": "copy-02",
+      "section_id": "top-window",
+      "role": "navigation",
+      "text_verbatim": "Get Started",
+      "visible_lines": [],
+      "evidence_ids": [
+        "hero-window",
+        "full"
+      ],
+      "reading_order": 1,
+      "transcription_status": "visually_verified",
+      "uncertainties": [
+        "Visual line wrapping is not transcribed; use the screenshot.",
+        "Reading order is grouped editorially by copy role, not a DOM reading-order measurement."
+      ]
+    }
+  ],
+  "evidence_images": [
+    {
+      "id": "full",
+      "path": "screenshots/patreon.png",
+      "sha256": "9deba77f9e71c41296d1d2b5cb22e0e42610779d81b902a3f05778e6bf405b2a",
+      "width": 1440,
+      "height": 7467,
+      "role": "source",
+      "parent_id": null,
+      "bbox_px": null
+    },
+    {
+      "id": "hero-window",
+      "path": "crops/patreon-hero.png",
+      "sha256": "9a4782799231b7ad1f81e1ff1108617cfaf6ed2ba88a45d2f40d235197d227c9",
+      "width": 1440,
+      "height": 1000,
+      "role": "crop",
+      "parent_id": "full",
+      "bbox_px": [
+        0,
+        0,
+        1440,
+        1000
+      ]
+    }
+  ],
+  "expand": {
+    "record": "records/patreon.json",
+    "full_page_ocr": "ocr/patreon.json"
+  },
+  "limitations": [
+    "No conversion-performance data; conversion_goal describes an intended visible action.",
+    "No verified mobile layout, animation, interaction, DOM, source code, font names, or CSS spacing values.",
+    "Screenshot capture date is unknown; gallery savedAt is the download date.",
+    "Full-page semantic section boundaries and body copy classification remain unreviewed.",
+    "The first 1000 pixels are an evidence window, not a browser viewport or exact hero boundary.",
+    "Copy text omits decorative icons; text punctuation is transcribed as visible, but font-specific glyph identity is not established."
+  ]
+}

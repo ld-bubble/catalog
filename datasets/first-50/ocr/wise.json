@@ -1,0 +1,2219 @@
+[
+  {
+    "height": 11343,
+    "lines": [
+      {
+        "bbox_px": [
+          159,
+          31,
+          253,
+          55
+        ],
+        "confidence": 0.5,
+        "text": "aWIse"
+      },
+      {
+        "bbox_px": [
+          305,
+          33,
+          376,
+          49
+        ],
+        "confidence": 1,
+        "text": "Personal"
+      },
+      {
+        "bbox_px": [
+          402,
+          33,
+          473,
+          50
+        ],
+        "confidence": 1,
+        "text": "Business"
+      },
+      {
+        "bbox_px": [
+          854,
+          30,
+          1178,
+          52
+        ],
+        "confidence": 1,
+        "text": "Features - Pricing Help EN Log in"
+      },
+      {
+        "bbox_px": [
+          1204,
+          33,
+          1272,
+          53
+        ],
+        "confidence": 1,
+        "text": "Register"
+      },
+      {
+        "bbox_px": [
+          253,
+          164,
+          1204,
+          298
+        ],
+        "confidence": 1,
+        "text": "MONEY FOR HERE,"
+      },
+      {
+        "bbox_px": [
+          428,
+          268,
+          1009,
+          374
+        ],
+        "confidence": 1,
+        "text": "THERE AND"
+      },
+      {
+        "bbox_px": [
+          378,
+          379,
+          1061,
+          478
+        ],
+        "confidence": 1,
+        "text": "EVERYWHERE"
+      },
+      {
+        "bbox_px": [
+          452,
+          512,
+          990,
+          536
+        ],
+        "confidence": 1,
+        "text": "One place to manage your money. Save when you send,"
+      },
+      {
+        "bbox_px": [
+          574,
+          538,
+          865,
+          562
+        ],
+        "confidence": 1,
+        "text": "receive and spend worldwide."
+      },
+      {
+        "bbox_px": [
+          543,
+          612,
+          682,
+          631
+        ],
+        "confidence": 1,
+        "text": "Open an account"
+      },
+      {
+        "bbox_px": [
+          742,
+          612,
+          878,
+          631
+        ],
+        "confidence": 1,
+        "text": "Send money now"
+      },
+      {
+        "bbox_px": [
+          101,
+          1427,
+          486,
+          1480
+        ],
+        "confidence": 1,
+        "text": "Manage all your"
+      },
+      {
+        "bbox_px": [
+          101,
+          1486,
+          543,
+          1528
+        ],
+        "confidence": 1,
+        "text": "currencies all over"
+      },
+      {
+        "bbox_px": [
+          99,
+          1541,
+          329,
+          1587
+        ],
+        "confidence": 1,
+        "text": "the world"
+      },
+      {
+        "bbox_px": [
+          101,
+          1629,
+          540,
+          1651
+        ],
+        "confidence": 1,
+        "text": "Whether you're looking for the best deal when"
+      },
+      {
+        "bbox_px": [
+          99,
+          1658,
+          509,
+          1679
+        ],
+        "confidence": 1,
+        "text": "converting currencies, paying international"
+      },
+      {
+        "bbox_px": [
+          99,
+          1684,
+          540,
+          1708
+        ],
+        "confidence": 1,
+        "text": "bills, or receiving money from abroad, you can"
+      },
+      {
+        "bbox_px": [
+          99,
+          1713,
+          473,
+          1735
+        ],
+        "confidence": 1,
+        "text": "do it all on the go with a Wise account."
+      },
+      {
+        "bbox_px": [
+          674,
+          1674,
+          700,
+          1687
+        ],
+        "confidence": 1,
+        "text": "9:41"
+      },
+      {
+        "bbox_px": [
+          823,
+          1708,
+          872,
+          1722
+        ],
+        "confidence": 1,
+        "text": "Earn €90"
+      },
+      {
+        "bbox_px": [
+          666,
+          1747,
+          750,
+          1765
+        ],
+        "confidence": 1,
+        "text": "Account"
+      },
+      {
+        "bbox_px": [
+          96,
+          1628,
+          540,
+          1655
+        ],
+        "confidence": 1,
+        "text": "Whether you're looking for the best deal when"
+      },
+      {
+        "bbox_px": [
+          96,
+          1657,
+          509,
+          1683
+        ],
+        "confidence": 1,
+        "text": "converting currencies, paying international"
+      },
+      {
+        "bbox_px": [
+          96,
+          1683,
+          540,
+          1710
+        ],
+        "confidence": 1,
+        "text": "bills, or receiving money from abroad, you can"
+      },
+      {
+        "bbox_px": [
+          96,
+          1712,
+          470,
+          1739
+        ],
+        "confidence": 1,
+        "text": "do it all on the go with a Wise account."
+      },
+      {
+        "bbox_px": [
+          674,
+          1673,
+          700,
+          1686
+        ],
+        "confidence": 1,
+        "text": "9:41"
+      },
+      {
+        "bbox_px": [
+          823,
+          1707,
+          870,
+          1720
+        ],
+        "confidence": 1,
+        "text": "Earn €90"
+      },
+      {
+        "bbox_px": [
+          666,
+          1746,
+          750,
+          1765
+        ],
+        "confidence": 1,
+        "text": "Account"
+      },
+      {
+        "bbox_px": [
+          125,
+          1793,
+          261,
+          1809
+        ],
+        "confidence": 1,
+        "text": "Open an account"
+      },
+      {
+        "bbox_px": [
+          106,
+          1880,
+          188,
+          1904
+        ],
+        "confidence": 1,
+        "text": "• App Store"
+      },
+      {
+        "bbox_px": [
+          243,
+          1877,
+          266,
+          1882
+        ],
+        "confidence": 1,
+        "text": "SETITO"
+      },
+      {
+        "bbox_px": [
+          218,
+          1880,
+          309,
+          1900
+        ],
+        "confidence": 1,
+        "text": "• Google Play"
+      },
+      {
+        "bbox_px": [
+          674,
+          1874,
+          742,
+          1890
+        ],
+        "confidence": 1,
+        "text": "3,418.00"
+      },
+      {
+        "bbox_px": [
+          673,
+          1896,
+          698,
+          1908
+        ],
+        "confidence": 0.30000001192092896,
+        "text": "Neure"
+      },
+      {
+        "bbox_px": [
+          663,
+          1945,
+          760,
+          1961
+        ],
+        "confidence": 1,
+        "text": "Transactions"
+      },
+      {
+        "bbox_px": [
+          708,
+          1987,
+          750,
+          2000
+        ],
+        "confidence": 1,
+        "text": "Airbnb"
+      },
+      {
+        "bbox_px": [
+          708,
+          2005,
+          765,
+          2019
+        ],
+        "confidence": 1,
+        "text": "Spent • Tue"
+      },
+      {
+        "bbox_px": [
+          663,
+          2052,
+          786,
+          2071
+        ],
+        "confidence": 1,
+        "text": "Spend anywhere"
+      },
+      {
+        "bbox_px": [
+          825,
+          1874,
+          891,
+          1890
+        ],
+        "confidence": 1,
+        "text": "1,905.96"
+      },
+      {
+        "bbox_px": [
+          823,
+          1895,
+          891,
+          1909
+        ],
+        "confidence": 1,
+        "text": "British pound"
+      },
+      {
+        "bbox_px": [
+          875,
+          1945,
+          912,
+          1958
+        ],
+        "confidence": 1,
+        "text": "See all"
+      },
+      {
+        "bbox_px": [
+          833,
+          1986,
+          912,
+          2000
+        ],
+        "confidence": 1,
+        "text": "1,341.24 GBP"
+      },
+      {
+        "bbox_px": [
+          849,
+          2005,
+          912,
+          2019
+        ],
+        "confidence": 1,
+        "text": "1520.97 EUR"
+      },
+      {
+        "bbox_px": [
+          791,
+          2122,
+          862,
+          2145
+        ],
+        "confidence": 1,
+        "text": "OSIML"
+      },
+      {
+        "bbox_px": [
+          133,
+          2721,
+          705,
+          2772
+        ],
+        "confidence": 1,
+        "text": "Save up to 9x when you"
+      },
+      {
+        "bbox_px": [
+          130,
+          2777,
+          522,
+          2819
+        ],
+        "confidence": 1,
+        "text": "send currencies"
+      },
+      {
+        "bbox_px": [
+          133,
+          2855,
+          457,
+          2878
+        ],
+        "confidence": 1,
+        "text": "Sending money shouldn't cost the"
+      },
+      {
+        "bbox_px": [
+          130,
+          2884,
+          465,
+          2905
+        ],
+        "confidence": 1,
+        "text": "earth, so we built Wise to save you"
+      },
+      {
+        "bbox_px": [
+          130,
+          2912,
+          418,
+          2934
+        ],
+        "confidence": 1,
+        "text": "money when you transfer and"
+      },
+      {
+        "bbox_px": [
+          133,
+          2939,
+          478,
+          2960
+        ],
+        "confidence": 1,
+        "text": "exchange internationally. We charge"
+      },
+      {
+        "bbox_px": [
+          133,
+          2968,
+          473,
+          2990
+        ],
+        "confidence": 1,
+        "text": "as little as possible: right now a tiny"
+      },
+      {
+        "bbox_px": [
+          128,
+          2996,
+          324,
+          3018
+        ],
+        "confidence": 1,
+        "text": "fee, eventually free."
+      },
+      {
+        "bbox_px": [
+          859,
+          2627,
+          980,
+          2643
+        ],
+        "confidence": 1,
+        "text": "You send exactly"
+      },
+      {
+        "bbox_px": [
+          875,
+          2675,
+          932,
+          2704
+        ],
+        "confidence": 1,
+        "text": "1,000"
+      },
+      {
+        "bbox_px": [
+          888,
+          2748,
+          964,
+          2764
+        ],
+        "confidence": 1,
+        "text": "9.20 EUR"
+      },
+      {
+        "bbox_px": [
+          862,
+          2782,
+          985,
+          2798
+        ],
+        "confidence": 1,
+        "text": "= 990.80 EUR"
+      },
+      {
+        "bbox_px": [
+          862,
+          2813,
+          966,
+          2830
+        ],
+        "confidence": 1,
+        "text": "× 0.887300"
+      },
+      {
+        "bbox_px": [
+          859,
+          2866,
+          959,
+          2882
+        ],
+        "confidence": 1,
+        "text": "Recipient gets"
+      },
+      {
+        "bbox_px": [
+          875,
+          2913,
+          943,
+          2934
+        ],
+        "confidence": 1,
+        "text": "879.14"
+      },
+      {
+        "bbox_px": [
+          859,
+          2986,
+          1102,
+          3005
+        ],
+        "confidence": 1,
+        "text": "You could save up to 25.15 EUR"
+      },
+      {
+        "bbox_px": [
+          859,
+          3010,
+          1053,
+          3026
+        ],
+        "confidence": 1,
+        "text": "Should arrive in seconds"
+      },
+      {
+        "bbox_px": [
+          898,
+          3070,
+          1019,
+          3090
+        ],
+        "confidence": 1,
+        "text": "Compare price"
+      },
+      {
+        "bbox_px": [
+          1180,
+          2674,
+          1257,
+          2699
+        ],
+        "confidence": 1,
+        "text": "EUR v"
+      },
+      {
+        "bbox_px": [
+          1126,
+          2751,
+          1272,
+          2769
+        ],
+        "confidence": 1,
+        "text": "Fast transfer fee v"
+      },
+      {
+        "bbox_px": [
+          1068,
+          2779,
+          1275,
+          2798
+        ],
+        "confidence": 1,
+        "text": "Total amount we'll convert"
+      },
+      {
+        "bbox_px": [
+          1097,
+          2811,
+          1272,
+          2832
+        ],
+        "confidence": 1,
+        "text": "Guaranteed rate (95h)"
+      },
+      {
+        "bbox_px": [
+          1147,
+          2909,
+          1257,
+          2937
+        ],
+        "confidence": 0.5,
+        "text": "A GBP v"
+      },
+      {
+        "bbox_px": [
+          1129,
+          3069,
+          1220,
+          3086
+        ],
+        "confidence": 1,
+        "text": "Get started"
+      },
+      {
+        "bbox_px": [
+          232,
+          4157,
+          595,
+          4202
+        ],
+        "confidence": 1,
+        "text": "The card that's"
+      },
+      {
+        "bbox_px": [
+          232,
+          4214,
+          585,
+          4269
+        ],
+        "confidence": 1,
+        "text": "always got the"
+      },
+      {
+        "bbox_px": [
+          229,
+          4271,
+          575,
+          4328
+        ],
+        "confidence": 1,
+        "text": "right currency"
+      },
+      {
+        "bbox_px": [
+          232,
+          4351,
+          595,
+          4372
+        ],
+        "confidence": 1,
+        "text": "Save as you spend and withdraw over"
+      },
+      {
+        "bbox_px": [
+          232,
+          4376,
+          507,
+          4395
+        ],
+        "confidence": 1,
+        "text": "50 currencies at the live rate"
+      },
+      {
+        "bbox_px": [
+          227,
+          4406,
+          365,
+          4429
+        ],
+        "confidence": 1,
+        "text": "automatically."
+      },
+      {
+        "bbox_px": [
+          255,
+          4484,
+          381,
+          4504
+        ],
+        "confidence": 1,
+        "text": "Order your card"
+      },
+      {
+        "bbox_px": [
+          441,
+          4486,
+          535,
+          4500
+        ],
+        "confidence": 1,
+        "text": "Learn more"
+      },
+      {
+        "bbox_px": [
+          868,
+          3756,
+          990,
+          3890
+        ],
+        "confidence": 1,
+        "text": "7WISe"
+      },
+      {
+        "bbox_px": [
+          219,
+          4990,
+          509,
+          5009
+        ],
+        "confidence": 1,
+        "text": "We're regulated by the National Bank"
+      },
+      {
+        "bbox_px": [
+          219,
+          5014,
+          305,
+          5033
+        ],
+        "confidence": 1,
+        "text": "of Belgium"
+      },
+      {
+        "bbox_px": [
+          606,
+          4990,
+          904,
+          5009
+        ],
+        "confidence": 1,
+        "text": "We protect your details through strict"
+      },
+      {
+        "bbox_px": [
+          605,
+          5014,
+          687,
+          5032
+        ],
+        "confidence": 1,
+        "text": "standards"
+      },
+      {
+        "bbox_px": [
+          125,
+          5283,
+          1037,
+          5380
+        ],
+        "confidence": 1,
+        "text": "TRUSTED BY BUSI-"
+      },
+      {
+        "bbox_px": [
+          125,
+          5382,
+          1105,
+          5509
+        ],
+        "confidence": 1,
+        "text": "NESSES SMALL AND"
+      },
+      {
+        "bbox_px": [
+          121,
+          5492,
+          468,
+          5599
+        ],
+        "confidence": 1,
+        "text": "LARGE"
+      },
+      {
+        "bbox_px": [
+          830,
+          5692,
+          1220,
+          5718
+        ],
+        "confidence": 1,
+        "text": "Go global with the international business"
+      },
+      {
+        "bbox_px": [
+          831,
+          5720,
+          1275,
+          5744
+        ],
+        "confidence": 1,
+        "text": "account. Pay employees, get paid and manage"
+      },
+      {
+        "bbox_px": [
+          828,
+          5749,
+          1280,
+          5771
+        ],
+        "confidence": 1,
+        "text": "your cash flow in multiple currencies. Join over"
+      },
+      {
+        "bbox_px": [
+          831,
+          5778,
+          1212,
+          5799
+        ],
+        "confidence": 1,
+        "text": "300,000 businesses thriving with Wise."
+      },
+      {
+        "bbox_px": [
+          854,
+          5849,
+          1055,
+          5864
+        ],
+        "confidence": 1,
+        "text": "Open a Business account"
+      },
+      {
+        "bbox_px": [
+          1144,
+          5848,
+          1238,
+          5865
+        ],
+        "confidence": 1,
+        "text": "Learn more"
+      },
+      {
+        "bbox_px": [
+          444,
+          5864,
+          507,
+          6108
+        ],
+        "confidence": 1,
+        "text": "7 WISe"
+      },
+      {
+        "bbox_px": [
+          128,
+          6518,
+          603,
+          6592
+        ],
+        "confidence": 1,
+        "text": "FOR PEOPLE"
+      },
+      {
+        "bbox_px": [
+          128,
+          6519,
+          608,
+          6593
+        ],
+        "confidence": 1,
+        "text": "FOR PEOPLE"
+      },
+      {
+        "bbox_px": [
+          127,
+          6594,
+          719,
+          6684
+        ],
+        "confidence": 1,
+        "text": "GOING PLACES"
+      },
+      {
+        "bbox_px": [
+          762,
+          6603,
+          1132,
+          6655
+        ],
+        "confidence": 1,
+        "text": "\"Wise has changed"
+      },
+      {
+        "bbox_px": [
+          767,
+          6645,
+          1148,
+          6700
+        ],
+        "confidence": 1,
+        "text": "the game in terms of"
+      },
+      {
+        "bbox_px": [
+          767,
+          6697,
+          1029,
+          6747
+        ],
+        "confidence": 1,
+        "text": "simplicity, and"
+      },
+      {
+        "bbox_px": [
+          768,
+          6740,
+          1063,
+          6785
+        ],
+        "confidence": 1,
+        "text": "certainly been a"
+      },
+      {
+        "bbox_px": [
+          765,
+          6783,
+          1098,
+          6830
+        ],
+        "confidence": 1,
+        "text": "lifesaver for expat"
+      },
+      {
+        "bbox_px": [
+          762,
+          6825,
+          907,
+          6876
+        ],
+        "confidence": 1,
+        "text": "livingiẠạ"
+      },
+      {
+        "bbox_px": [
+          1272,
+          6603,
+          1437,
+          6645
+        ],
+        "confidence": 1,
+        "text": "\" I use W"
+      },
+      {
+        "bbox_px": [
+          1280,
+          6659,
+          1437,
+          6698
+        ],
+        "confidence": 1,
+        "text": "mortgag"
+      },
+      {
+        "bbox_px": [
+          1277,
+          6697,
+          1437,
+          6735
+        ],
+        "confidence": 1,
+        "text": "different"
+      },
+      {
+        "bbox_px": [
+          1277,
+          6745,
+          1437,
+          6779
+        ],
+        "confidence": 1,
+        "text": "each mo"
+      },
+      {
+        "bbox_px": [
+          1280,
+          6786,
+          1437,
+          6822
+        ],
+        "confidence": 1,
+        "text": "That sim"
+      },
+      {
+        "bbox_px": [
+          815,
+          6982,
+          917,
+          7002
+        ],
+        "confidence": 1,
+        "text": "Watch video"
+      },
+      {
+        "bbox_px": [
+          1301,
+          6985,
+          1437,
+          7002
+        ],
+        "confidence": 1,
+        "text": "Gerald On Trustp"
+      },
+      {
+        "bbox_px": [
+          133,
+          7328,
+          815,
+          7428
+        ],
+        "confidence": 1,
+        "text": "MEET MONEY"
+      },
+      {
+        "bbox_px": [
+          133,
+          7433,
+          1134,
+          7535
+        ],
+        "confidence": 1,
+        "text": "WITHOUT BORDERS"
+      },
+      {
+        "bbox_px": [
+          729,
+          7568,
+          1215,
+          7595
+        ],
+        "confidence": 1,
+        "text": "Our dream is for people to live and work"
+      },
+      {
+        "bbox_px": [
+          729,
+          7600,
+          1243,
+          7629
+        ],
+        "confidence": 1,
+        "text": "anywhere seamlessly. That means money"
+      },
+      {
+        "bbox_px": [
+          728,
+          7629,
+          1293,
+          7664
+        ],
+        "confidence": 1,
+        "text": "without borders: moving it instantly, transpar-"
+      },
+      {
+        "bbox_px": [
+          729,
+          7665,
+          1257,
+          7698
+        ],
+        "confidence": 1,
+        "text": "ently, conveniently, and - eventually - for"
+      },
+      {
+        "bbox_px": [
+          728,
+          7698,
+          792,
+          7723
+        ],
+        "confidence": 1,
+        "text": "free."
+      },
+      {
+        "bbox_px": [
+          710,
+          8056,
+          763,
+          8073
+        ],
+        "confidence": 1,
+        "text": "TWISe"
+      },
+      {
+        "bbox_px": [
+          710,
+          8057,
+          760,
+          8073
+        ],
+        "confidence": 1,
+        "text": "TWISe"
+      },
+      {
+        "bbox_px": [
+          710,
+          8298,
+          760,
+          8313
+        ],
+        "confidence": 1,
+        "text": "7WIse"
+      },
+      {
+        "bbox_px": [
+          133,
+          8507,
+          745,
+          8539
+        ],
+        "confidence": 1,
+        "text": "The Wise account is the universal way for you to manage money"
+      },
+      {
+        "bbox_px": [
+          130,
+          8541,
+          744,
+          8562
+        ],
+        "confidence": 1,
+        "text": "internationally. It's made for the world. And it's built to save your"
+      },
+      {
+        "bbox_px": [
+          130,
+          8569,
+          703,
+          8593
+        ],
+        "confidence": 1,
+        "text": "money and time, so you can do more of the things you love."
+      },
+      {
+        "bbox_px": [
+          1089,
+          8525,
+          1283,
+          8542
+        ],
+        "confidence": 1,
+        "text": "Learn about our mission"
+      },
+      {
+        "bbox_px": [
+          135,
+          8930,
+          794,
+          9014
+        ],
+        "confidence": 1,
+        "text": "Disappoint thieves"
+      },
+      {
+        "bbox_px": [
+          133,
+          9046,
+          611,
+          9067
+        ],
+        "confidence": 1,
+        "text": "Every month, our customers trust us to move over"
+      },
+      {
+        "bbox_px": [
+          130,
+          9071,
+          575,
+          9095
+        ],
+        "confidence": 1,
+        "text": "£9 billion of their money. Here are some of the"
+      },
+      {
+        "bbox_px": [
+          130,
+          9103,
+          452,
+          9122
+        ],
+        "confidence": 1,
+        "text": "Important ways we protect them."
+      },
+      {
+        "bbox_px": [
+          156,
+          9179,
+          397,
+          9199
+        ],
+        "confidence": 1,
+        "text": "How we keep your money safe"
+      },
+      {
+        "bbox_px": [
+          815,
+          9308,
+          859,
+          9352
+        ],
+        "confidence": 1,
+        "text": "•"
+      },
+      {
+        "bbox_px": [
+          133,
+          9391,
+          426,
+          9415
+        ],
+        "confidence": 1,
+        "text": "Our dedicated fraud and security"
+      },
+      {
+        "bbox_px": [
+          130,
+          9418,
+          415,
+          9443
+        ],
+        "confidence": 1,
+        "text": "teams work to keep your money"
+      },
+      {
+        "bbox_px": [
+          130,
+          9446,
+          172,
+          9465
+        ],
+        "confidence": 1,
+        "text": "safe"
+      },
+      {
+        "bbox_px": [
+          493,
+          9393,
+          640,
+          9412
+        ],
+        "confidence": 1,
+        "text": "We use 2-factor"
+      },
+      {
+        "bbox_px": [
+          493,
+          9420,
+          721,
+          9438
+        ],
+        "confidence": 1,
+        "text": "authentication to protect"
+      },
+      {
+        "bbox_px": [
+          493,
+          9446,
+          616,
+          9465
+        ],
+        "confidence": 1,
+        "text": "your account"
+      },
+      {
+        "bbox_px": [
+          794,
+          9394,
+          1019,
+          9415
+        ],
+        "confidence": 1,
+        "text": "We hold your money with"
+      },
+      {
+        "bbox_px": [
+          794,
+          9420,
+          982,
+          9438
+        ],
+        "confidence": 1,
+        "text": "established financial"
+      },
+      {
+        "bbox_px": [
+          791,
+          9446,
+          896,
+          9463
+        ],
+        "confidence": 1,
+        "text": "institutions"
+      },
+      {
+        "bbox_px": [
+          135,
+          9723,
+          875,
+          9777
+        ],
+        "confidence": 1,
+        "text": "Wise works nearly everywhere"
+      },
+      {
+        "bbox_px": [
+          136,
+          9726,
+          877,
+          9777
+        ],
+        "confidence": 1,
+        "text": "Wise works nearly everywhere"
+      },
+      {
+        "bbox_px": [
+          147,
+          9832,
+          261,
+          9845
+        ],
+        "confidence": 1,
+        "text": "Account details"
+      },
+      {
+        "bbox_px": [
+          299,
+          9832,
+          469,
+          9848
+        ],
+        "confidence": 1,
+        "text": "Hold and convert money"
+      },
+      {
+        "bbox_px": [
+          509,
+          9830,
+          598,
+          9848
+        ],
+        "confidence": 1,
+        "text": "Send money"
+      },
+      {
+        "bbox_px": [
+          131,
+          9982,
+          238,
+          9997
+        ],
+        "confidence": 1,
+        "text": "British pound"
+      },
+      {
+        "bbox_px": [
+          131,
+          10012,
+          309,
+          10033
+        ],
+        "confidence": 1,
+        "text": "UK sort code, Account"
+      },
+      {
+        "bbox_px": [
+          131,
+          10038,
+          273,
+          10056
+        ],
+        "confidence": 1,
+        "text": "number, and IBAN"
+      },
+      {
+        "bbox_px": [
+          370,
+          9982,
+          408,
+          9997
+        ],
+        "confidence": 1,
+        "text": "Euro"
+      },
+      {
+        "bbox_px": [
+          370,
+          10012,
+          550,
+          10030
+        ],
+        "confidence": 1,
+        "text": "Bank code (SWIFT/BIC)"
+      },
+      {
+        "bbox_px": [
+          370,
+          10037,
+          443,
+          10054
+        ],
+        "confidence": 1,
+        "text": "and IBAN"
+      },
+      {
+        "bbox_px": [
+          370,
+          10060,
+          560,
+          10076
+        ],
+        "confidence": 1,
+        "text": "Get EUR account details"
+      },
+      {
+        "bbox_px": [
+          607,
+          9979,
+          685,
+          10000
+        ],
+        "confidence": 1,
+        "text": "US dollar"
+      },
+      {
+        "bbox_px": [
+          608,
+          10012,
+          765,
+          10030
+        ],
+        "confidence": 1,
+        "text": "Routing number and"
+      },
+      {
+        "bbox_px": [
+          608,
+          10038,
+          740,
+          10053
+        ],
+        "confidence": 1,
+        "text": "Account number"
+      },
+      {
+        "bbox_px": [
+          608,
+          10060,
+          801,
+          10076
+        ],
+        "confidence": 1,
+        "text": "Get USD account details"
+      },
+      {
+        "bbox_px": [
+          846,
+          9979,
+          978,
+          9997
+        ],
+        "confidence": 1,
+        "text": "Australian dollar"
+      },
+      {
+        "bbox_px": [
+          846,
+          10012,
+          1026,
+          10028
+        ],
+        "confidence": 1,
+        "text": "BSB code and Account"
+      },
+      {
+        "bbox_px": [
+          846,
+          10038,
+          910,
+          10053
+        ],
+        "confidence": 1,
+        "text": "number"
+      },
+      {
+        "bbox_px": [
+          846,
+          10060,
+          986,
+          10076
+        ],
+        "confidence": 1,
+        "text": "Get AUD account"
+      },
+      {
+        "bbox_px": [
+          846,
+          10083,
+          903,
+          10102
+        ],
+        "confidence": 1,
+        "text": "details"
+      },
+      {
+        "bbox_px": [
+          1085,
+          9979,
+          1239,
+          9997
+        ],
+        "confidence": 1,
+        "text": "New Zealand dollar"
+      },
+      {
+        "bbox_px": [
+          1085,
+          10015,
+          1214,
+          10028
+        ],
+        "confidence": 1,
+        "text": "Account number"
+      },
+      {
+        "bbox_px": [
+          1085,
+          10038,
+          1277,
+          10053
+        ],
+        "confidence": 1,
+        "text": "Get NZD account details"
+      },
+      {
+        "bbox_px": [
+          131,
+          10223,
+          263,
+          10240
+        ],
+        "confidence": 1,
+        "text": "Singapore dollar"
+      },
+      {
+        "bbox_px": [
+          131,
+          10252,
+          314,
+          10276
+        ],
+        "confidence": 1,
+        "text": "Bank code, Bank name,"
+      },
+      {
+        "bbox_px": [
+          131,
+          10278,
+          296,
+          10294
+        ],
+        "confidence": 1,
+        "text": "and Account number"
+      },
+      {
+        "bbox_px": [
+          131,
+          10304,
+          324,
+          10319
+        ],
+        "confidence": 1,
+        "text": "Get SGD account details"
+      },
+      {
+        "bbox_px": [
+          370,
+          10223,
+          471,
+          10238
+        ],
+        "confidence": 1,
+        "text": "Romanian lei"
+      },
+      {
+        "bbox_px": [
+          370,
+          10256,
+          550,
+          10271
+        ],
+        "confidence": 1,
+        "text": "Bank code (SWIFT/BIC)"
+      },
+      {
+        "bbox_px": [
+          370,
+          10278,
+          532,
+          10294
+        ],
+        "confidence": 1,
+        "text": "and Account number"
+      },
+      {
+        "bbox_px": [
+          369,
+          10300,
+          509,
+          10321
+        ],
+        "confidence": 1,
+        "text": "Get RON account"
+      },
+      {
+        "bbox_px": [
+          370,
+          10326,
+          426,
+          10342
+        ],
+        "confidence": 1,
+        "text": "details"
+      },
+      {
+        "bbox_px": [
+          608,
+          10223,
+          735,
+          10238
+        ],
+        "confidence": 1,
+        "text": "Canadian dollar"
+      },
+      {
+        "bbox_px": [
+          605,
+          10253,
+          755,
+          10274
+        ],
+        "confidence": 1,
+        "text": "Institution number,"
+      },
+      {
+        "bbox_px": [
+          608,
+          10278,
+          763,
+          10296
+        ],
+        "confidence": 1,
+        "text": "Transit number, and"
+      },
+      {
+        "bbox_px": [
+          608,
+          10304,
+          737,
+          10319
+        ],
+        "confidence": 1,
+        "text": "Account number"
+      },
+      {
+        "bbox_px": [
+          608,
+          10327,
+          747,
+          10342
+        ],
+        "confidence": 1,
+        "text": "Get CAD account"
+      },
+      {
+        "bbox_px": [
+          605,
+          10352,
+          664,
+          10370
+        ],
+        "confidence": 1,
+        "text": "details"
+      },
+      {
+        "bbox_px": [
+          846,
+          10223,
+          978,
+          10240
+        ],
+        "confidence": 1,
+        "text": "Hungarian forint"
+      },
+      {
+        "bbox_px": [
+          846,
+          10253,
+          978,
+          10271
+        ],
+        "confidence": 1,
+        "text": "Account number"
+      },
+      {
+        "bbox_px": [
+          846,
+          10278,
+          1039,
+          10296
+        ],
+        "confidence": 1,
+        "text": "Get HUF account details"
+      },
+      {
+        "bbox_px": [
+          1085,
+          10223,
+          1178,
+          10238
+        ],
+        "confidence": 1,
+        "text": "Turkish lira"
+      },
+      {
+        "bbox_px": [
+          1084,
+          10253,
+          1247,
+          10273
+        ],
+        "confidence": 1,
+        "text": "Bank name and IBAN"
+      },
+      {
+        "bbox_px": [
+          1085,
+          10278,
+          1277,
+          10296
+        ],
+        "confidence": 1,
+        "text": "Get TRY account details"
+      },
+      {
+        "bbox_px": [
+          169,
+          10668,
+          306,
+          10689
+        ],
+        "confidence": 1,
+        "text": "Company and team"
+      },
+      {
+        "bbox_px": [
+          169,
+          10707,
+          304,
+          10722
+        ],
+        "confidence": 1,
+        "text": "Company and team"
+      },
+      {
+        "bbox_px": [
+          166,
+          10728,
+          211,
+          10745
+        ],
+        "confidence": 1,
+        "text": "Press"
+      },
+      {
+        "bbox_px": [
+          166,
+          10750,
+          225,
+          10766
+        ],
+        "confidence": 1,
+        "text": "Careers"
+      },
+      {
+        "bbox_px": [
+          167,
+          10772,
+          268,
+          10788
+        ],
+        "confidence": 1,
+        "text": "Service status"
+      },
+      {
+        "bbox_px": [
+          167,
+          10793,
+          289,
+          10808
+        ],
+        "confidence": 1,
+        "text": "Investor relations"
+      },
+      {
+        "bbox_px": [
+          166,
+          10813,
+          286,
+          10834
+        ],
+        "confidence": 1,
+        "text": "Mission roadmap"
+      },
+      {
+        "bbox_px": [
+          167,
+          10838,
+          349,
+          10854
+        ],
+        "confidence": 1,
+        "text": "Affiliates and partnerships"
+      },
+      {
+        "bbox_px": [
+          166,
+          10860,
+          251,
+          10877
+        ],
+        "confidence": 1,
+        "text": "Help centre"
+      },
+      {
+        "bbox_px": [
+          167,
+          10881,
+          228,
+          10897
+        ],
+        "confidence": 1,
+        "text": "Reviews"
+      },
+      {
+        "bbox_px": [
+          451,
+          10669,
+          552,
+          10684
+        ],
+        "confidence": 1,
+        "text": "Wise Products"
+      },
+      {
+        "bbox_px": [
+          448,
+          10707,
+          651,
+          10722
+        ],
+        "confidence": 1,
+        "text": "International money transfers"
+      },
+      {
+        "bbox_px": [
+          451,
+          10729,
+          545,
+          10745
+        ],
+        "confidence": 1,
+        "text": "Wise account"
+      },
+      {
+        "bbox_px": [
+          448,
+          10750,
+          610,
+          10765
+        ],
+        "confidence": 1,
+        "text": "International debit card"
+      },
+      {
+        "bbox_px": [
+          448,
+          10772,
+          575,
+          10788
+        ],
+        "confidence": 1,
+        "text": "Travel money card"
+      },
+      {
+        "bbox_px": [
+          448,
+          10795,
+          603,
+          10811
+        ],
+        "confidence": 1,
+        "text": "Large amount transfer"
+      },
+      {
+        "bbox_px": [
+          448,
+          10815,
+          555,
+          10834
+        ],
+        "confidence": 1,
+        "text": "Receive money"
+      },
+      {
+        "bbox_px": [
+          448,
+          10838,
+          545,
+          10854
+        ],
+        "confidence": 1,
+        "text": "Wise Platform"
+      },
+      {
+        "bbox_px": [
+          448,
+          10859,
+          550,
+          10874
+        ],
+        "confidence": 1,
+        "text": "Wise Business"
+      },
+      {
+        "bbox_px": [
+          448,
+          10881,
+          585,
+          10899
+        ],
+        "confidence": 1,
+        "text": "Business debit card"
+      },
+      {
+        "bbox_px": [
+          448,
+          10904,
+          557,
+          10920
+        ],
+        "confidence": 1,
+        "text": "Mass payments"
+      },
+      {
+        "bbox_px": [
+          730,
+          10668,
+          808,
+          10684
+        ],
+        "confidence": 1,
+        "text": "Resources"
+      },
+      {
+        "bbox_px": [
+          730,
+          10707,
+          834,
+          10724
+        ],
+        "confidence": 1,
+        "text": "News and blog"
+      },
+      {
+        "bbox_px": [
+          729,
+          10727,
+          867,
+          10746
+        ],
+        "confidence": 1,
+        "text": "Currency converter"
+      },
+      {
+        "bbox_px": [
+          729,
+          10747,
+          844,
+          10768
+        ],
+        "confidence": 1,
+        "text": "Swift/BIC codes"
+      },
+      {
+        "bbox_px": [
+          730,
+          10772,
+          811,
+          10788
+        ],
+        "confidence": 1,
+        "text": "IBAN codes"
+      },
+      {
+        "bbox_px": [
+          730,
+          10792,
+          806,
+          10808
+        ],
+        "confidence": 1,
+        "text": "Rate alerts"
+      },
+      {
+        "bbox_px": [
+          727,
+          10816,
+          905,
+          10836
+        ],
+        "confidence": 1,
+        "text": "Compare exchange rates"
+      },
+      {
+        "bbox_px": [
+          1011,
+          10669,
+          1080,
+          10684
+        ],
+        "confidence": 1,
+        "text": "Follow us"
+      },
+      {
+        "bbox_px": [
+          174,
+          10976,
+          271,
+          11004
+        ],
+        "confidence": 1,
+        "text": "FWISe"
+      },
+      {
+        "bbox_px": [
+          457,
+          10982,
+          500,
+          11004
+        ],
+        "confidence": 1,
+        "text": "Legal"
+      },
+      {
+        "bbox_px": [
+          461,
+          11006,
+          583,
+          11024
+        ],
+        "confidence": 1,
+        "text": "Country site map"
+      },
+      {
+        "bbox_px": [
+          727,
+          10982,
+          829,
+          11004
+        ],
+        "confidence": 1,
+        "text": "Privacy policy"
+      },
+      {
+        "bbox_px": [
+          732,
+          11006,
+          912,
+          11021
+        ],
+        "confidence": 1,
+        "text": "Modern slavery statement"
+      },
+      {
+        "bbox_px": [
+          998,
+          10980,
+          1098,
+          11004
+        ],
+        "confidence": 1,
+        "text": "Cookie Policy"
+      },
+      {
+        "bbox_px": [
+          638,
+          11066,
+          803,
+          11082
+        ],
+        "confidence": 1,
+        "text": "© Wise Europe SA 2023"
+      },
+      {
+        "bbox_px": [
+          357,
+          11104,
+          1082,
+          11122
+        ],
+        "confidence": 1,
+        "text": "Wise Europe SA is a company incorporated in Belgium with registered number 0713629988. Our registered"
+      },
+      {
+        "bbox_px": [
+          360,
+          11127,
+          1077,
+          11143
+        ],
+        "confidence": 1,
+        "text": "office is at Avenue Louise 54, Room s52, 1050 Brussels, Belgium. Wise is a Payment Institution authorised"
+      },
+      {
+        "bbox_px": [
+          608,
+          11147,
+          831,
+          11166
+        ],
+        "confidence": 1,
+        "text": "by the National Bank of Belgium."
+      }
+    ],
+    "path": "screenshots/wise.png",
+    "width": 1440
+  }
+]

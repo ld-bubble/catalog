@@ -1,0 +1,3339 @@
+[
+  {
+    "height": 12247,
+    "lines": [
+      {
+        "bbox_px": [
+          65,
+          36,
+          182,
+          54
+        ],
+        "confidence": 1,
+        "text": "Infermedica"
+      },
+      {
+        "bbox_px": [
+          478,
+          36,
+          556,
+          52
+        ],
+        "confidence": 1,
+        "text": "Industries"
+      },
+      {
+        "bbox_px": [
+          582,
+          36,
+          650,
+          52
+        ],
+        "confidence": 1,
+        "text": "Platform"
+      },
+      {
+        "bbox_px": [
+          674,
+          36,
+          747,
+          52
+        ],
+        "confidence": 1,
+        "text": "Partners"
+      },
+      {
+        "bbox_px": [
+          768,
+          36,
+          857,
+          52
+        ],
+        "confidence": 1,
+        "text": "Resources"
+      },
+      {
+        "bbox_px": [
+          869,
+          36,
+          959,
+          55
+        ],
+        "confidence": 1,
+        "text": "Company"
+      },
+      {
+        "bbox_px": [
+          1202,
+          33,
+          1254,
+          57
+        ],
+        "confidence": 0.30000001192092896,
+        "text": "@ EN"
+      },
+      {
+        "bbox_px": [
+          1304,
+          36,
+          1400,
+          52
+        ],
+        "confidence": 1,
+        "text": "Get in touch"
+      },
+      {
+        "bbox_px": [
+          237,
+          227,
+          1204,
+          272
+        ],
+        "confidence": 1,
+        "text": "Provide the most accurate and efficient"
+      },
+      {
+        "bbox_px": [
+          313,
+          281,
+          1121,
+          353
+        ],
+        "confidence": 1,
+        "text": "care with Infermedica's symptom"
+      },
+      {
+        "bbox_px": [
+          407,
+          353,
+          1033,
+          419
+        ],
+        "confidence": 1,
+        "text": "checker and virtual triage"
+      },
+      {
+        "bbox_px": [
+          640,
+          476,
+          797,
+          494
+        ],
+        "confidence": 1,
+        "text": "Schedule a meeting"
+      },
+      {
+        "bbox_px": [
+          940,
+          714,
+          1047,
+          727
+        ],
+        "confidence": 1,
+        "text": "YOUR SYMPTOMS"
+      },
+      {
+        "bbox_px": [
+          953,
+          750,
+          1024,
+          766
+        ],
+        "confidence": 1,
+        "text": "Headache"
+      },
+      {
+        "bbox_px": [
+          1053,
+          750,
+          1100,
+          766
+        ],
+        "confidence": 1,
+        "text": "Cough"
+      },
+      {
+        "bbox_px": [
+          1126,
+          750,
+          1168,
+          766
+        ],
+        "confidence": 1,
+        "text": "Fever"
+      },
+      {
+        "bbox_px": [
+          940,
+          831,
+          1011,
+          842
+        ],
+        "confidence": 1,
+        "text": "INTERVIEW"
+      },
+      {
+        "bbox_px": [
+          940,
+          860,
+          1262,
+          876
+        ],
+        "confidence": 1,
+        "text": "Has the cough improved or become less intense"
+      },
+      {
+        "bbox_px": [
+          940,
+          883,
+          1079,
+          900
+        ],
+        "confidence": 1,
+        "text": "over the past week?"
+      },
+      {
+        "bbox_px": [
+          940,
+          954,
+          1079,
+          968
+        ],
+        "confidence": 1,
+        "text": "POSSIBLE CONDITIONS"
+      },
+      {
+        "bbox_px": [
+          943,
+          988,
+          1055,
+          1005
+        ],
+        "confidence": 1,
+        "text": "Common cold O"
+      },
+      {
+        "bbox_px": [
+          940,
+          1019,
+          1027,
+          1036
+        ],
+        "confidence": 1,
+        "text": "Hay fever O"
+      },
+      {
+        "bbox_px": [
+          940,
+          1096,
+          1016,
+          1109
+        ],
+        "confidence": 1,
+        "text": "NEXT STEPS"
+      },
+      {
+        "bbox_px": [
+          943,
+          1124,
+          1021,
+          1143
+        ],
+        "confidence": 1,
+        "text": "Self-care"
+      },
+      {
+        "bbox_px": [
+          966,
+          1176,
+          1131,
+          1190
+        ],
+        "confidence": 1,
+        "text": "Review self-care options"
+      },
+      {
+        "bbox_px": [
+          0,
+          1566,
+          88,
+          1588
+        ],
+        "confidence": 1,
+        "text": "Vicrosoft"
+      },
+      {
+        "bbox_px": [
+          162,
+          1561,
+          392,
+          1593
+        ],
+        "confidence": 1,
+        "text": "Allianz I Partners"
+      },
+      {
+        "bbox_px": [
+          467,
+          1562,
+          591,
+          1599
+        ],
+        "confidence": 1,
+        "text": "Gothaer"
+      },
+      {
+        "bbox_px": [
+          697,
+          1569,
+          770,
+          1593
+        ],
+        "confidence": 1,
+        "text": "médis"
+      },
+      {
+        "bbox_px": [
+          854,
+          1561,
+          893,
+          1590
+        ],
+        "confidence": 1,
+        "text": "PZU"
+      },
+      {
+        "bbox_px": [
+          909,
+          1567,
+          980,
+          1582
+        ],
+        "confidence": 1,
+        "text": "ZDROWIE"
+      },
+      {
+        "bbox_px": [
+          1052,
+          1550,
+          1176,
+          1579
+        ],
+        "confidence": 1,
+        "text": "Teladoc®"
+      },
+      {
+        "bbox_px": [
+          1113,
+          1577,
+          1168,
+          1593
+        ],
+        "confidence": 1,
+        "text": "HEALTH"
+      },
+      {
+        "bbox_px": [
+          1249,
+          1558,
+          1419,
+          1589
+        ],
+        "confidence": 1,
+        "text": "diagnostikare."
+      },
+      {
+        "bbox_px": [
+          493,
+          1668,
+          943,
+          1690
+        ],
+        "confidence": 1,
+        "text": "We've helped hundreds of organizations since 2012"
+      },
+      {
+        "bbox_px": [
+          491,
+          1668,
+          943,
+          1689
+        ],
+        "confidence": 1,
+        "text": "We've helped hundreds of organizations since 2012"
+      },
+      {
+        "bbox_px": [
+          579,
+          1921,
+          863,
+          1972
+        ],
+        "confidence": 1,
+        "text": "Who we help"
+      },
+      {
+        "bbox_px": [
+          577,
+          2097,
+          648,
+          2141
+        ],
+        "confidence": 1,
+        "text": "+-"
+      },
+      {
+        "bbox_px": [
+          263,
+          2206,
+          442,
+          2238
+        ],
+        "confidence": 1,
+        "text": "Health plans"
+      },
+      {
+        "bbox_px": [
+          266,
+          2254,
+          648,
+          2275
+        ],
+        "confidence": 1,
+        "text": "Enhance operations, reduce overutilization of"
+      },
+      {
+        "bbox_px": [
+          266,
+          2284,
+          629,
+          2306
+        ],
+        "confidence": 1,
+        "text": "services, improve member experience, cut"
+      },
+      {
+        "bbox_px": [
+          266,
+          2313,
+          572,
+          2337
+        ],
+        "confidence": 1,
+        "text": "costs, and engage rural populations."
+      },
+      {
+        "bbox_px": [
+          781,
+          2206,
+          1147,
+          2238
+        ],
+        "confidence": 1,
+        "text": "Public health/government"
+      },
+      {
+        "bbox_px": [
+          784,
+          2254,
+          1079,
+          2275
+        ],
+        "confidence": 1,
+        "text": "Optimize services, enhance patient"
+      },
+      {
+        "bbox_px": [
+          781,
+          2284,
+          1157,
+          2306
+        ],
+        "confidence": 1,
+        "text": "satisfaction, gather health data, and improve"
+      },
+      {
+        "bbox_px": [
+          781,
+          2313,
+          917,
+          2337
+        ],
+        "confidence": 1,
+        "text": "care navigation."
+      },
+      {
+        "bbox_px": [
+          292,
+          2403,
+          316,
+          2416
+        ],
+        "confidence": 1,
+        "text": "US"
+      },
+      {
+        "bbox_px": [
+          381,
+          2403,
+          420,
+          2416
+        ],
+        "confidence": 1,
+        "text": "IPМI"
+      },
+      {
+        "bbox_px": [
+          486,
+          2403,
+          533,
+          2418
+        ],
+        "confidence": 1,
+        "text": "DACH"
+      },
+      {
+        "bbox_px": [
+          601,
+          2403,
+          632,
+          2418
+        ],
+        "confidence": 1,
+        "text": "PMI"
+      },
+      {
+        "bbox_px": [
+          804,
+          2402,
+          899,
+          2418
+        ],
+        "confidence": 1,
+        "text": "Learn more"
+      },
+      {
+        "bbox_px": [
+          580,
+          2573,
+          632,
+          2599
+        ],
+        "confidence": 0.30000001192092896,
+        "text": "..."
+      },
+      {
+        "bbox_px": [
+          266,
+          2680,
+          611,
+          2712
+        ],
+        "confidence": 1,
+        "text": "Telemedicine companies"
+      },
+      {
+        "bbox_px": [
+          266,
+          2723,
+          637,
+          2751
+        ],
+        "confidence": 1,
+        "text": "Increase revenue, boost provider efficiency,"
+      },
+      {
+        "bbox_px": [
+          266,
+          2758,
+          642,
+          2779
+        ],
+        "confidence": 1,
+        "text": "enhance patient satisfaction, and strengthen"
+      },
+      {
+        "bbox_px": [
+          266,
+          2787,
+          504,
+          2809
+        ],
+        "confidence": 1,
+        "text": "health system partnerships."
+      },
+      {
+        "bbox_px": [
+          781,
+          2680,
+          1074,
+          2713
+        ],
+        "confidence": 1,
+        "text": "Healthcare providers"
+      },
+      {
+        "bbox_px": [
+          784,
+          2727,
+          1076,
+          2749
+        ],
+        "confidence": 1,
+        "text": "Elevate patient support, streamline"
+      },
+      {
+        "bbox_px": [
+          784,
+          2758,
+          1102,
+          2779
+        ],
+        "confidence": 1,
+        "text": "workflows, cut costs, and extend care"
+      },
+      {
+        "bbox_px": [
+          781,
+          2790,
+          851,
+          2806
+        ],
+        "confidence": 1,
+        "text": "access."
+      },
+      {
+        "bbox_px": [
+          290,
+          2876,
+          381,
+          2892
+        ],
+        "confidence": 1,
+        "text": "Learn more"
+      },
+      {
+        "bbox_px": [
+          804,
+          2876,
+          896,
+          2894
+        ],
+        "confidence": 1,
+        "text": "Learn more"
+      },
+      {
+        "bbox_px": [
+          663,
+          3088,
+          776,
+          3102
+        ],
+        "confidence": 1,
+        "text": "OUR SOLUTIONS"
+      },
+      {
+        "bbox_px": [
+          530,
+          3137,
+          912,
+          3177
+        ],
+        "confidence": 1,
+        "text": "Platform modules"
+      },
+      {
+        "bbox_px": [
+          353,
+          3330,
+          393,
+          3349
+        ],
+        "confidence": 1,
+        "text": "Triage"
+      },
+      {
+        "bbox_px": [
+          355,
+          3370,
+          413,
+          3384
+        ],
+        "confidence": 1,
+        "text": "Symptoms"
+      },
+      {
+        "bbox_px": [
+          865,
+          3334,
+          901,
+          3345
+        ],
+        "confidence": 1,
+        "text": "Intake"
+      },
+      {
+        "bbox_px": [
+          865,
+          3371,
+          943,
+          3384
+        ],
+        "confidence": 1,
+        "text": "Medical history"
+      },
+      {
+        "bbox_px": [
+          355,
+          3333,
+          389,
+          3346
+        ],
+        "confidence": 1,
+        "text": "Triage"
+      },
+      {
+        "bbox_px": [
+          355,
+          3370,
+          410,
+          3383
+        ],
+        "confidence": 1,
+        "text": "Symptoms"
+      },
+      {
+        "bbox_px": [
+          355,
+          3416,
+          480,
+          3432
+        ],
+        "confidence": 1,
+        "text": "Add your symptoms"
+      },
+      {
+        "bbox_px": [
+          355,
+          3453,
+          436,
+          3466
+        ],
+        "confidence": 1,
+        "text": "Your symptoms:"
+      },
+      {
+        "bbox_px": [
+          363,
+          3476,
+          441,
+          3490
+        ],
+        "confidence": 1,
+        "text": "Runny nose *"
+      },
+      {
+        "bbox_px": [
+          865,
+          3333,
+          901,
+          3346
+        ],
+        "confidence": 1,
+        "text": "Intake"
+      },
+      {
+        "bbox_px": [
+          865,
+          3372,
+          943,
+          3386
+        ],
+        "confidence": 1,
+        "text": "Medical history"
+      },
+      {
+        "bbox_px": [
+          865,
+          3419,
+          1045,
+          3433
+        ],
+        "confidence": 1,
+        "text": "Do you take any medications,"
+      },
+      {
+        "bbox_px": [
+          865,
+          3438,
+          1066,
+          3453
+        ],
+        "confidence": 1,
+        "text": "supplements, or herbal remedies"
+      },
+      {
+        "bbox_px": [
+          865,
+          3459,
+          982,
+          3475
+        ],
+        "confidence": 1,
+        "text": "on a regular basis?"
+      },
+      {
+        "bbox_px": [
+          457,
+          3474,
+          527,
+          3490
+        ],
+        "confidence": 1,
+        "text": "Headache •"
+      },
+      {
+        "bbox_px": [
+          420,
+          3516,
+          504,
+          3532
+        ],
+        "confidence": 1,
+        "text": "+ Add symptom"
+      },
+      {
+        "bbox_px": [
+          449,
+          3571,
+          478,
+          3584
+        ],
+        "confidence": 1,
+        "text": "Next"
+      },
+      {
+        "bbox_px": [
+          880,
+          3571,
+          938,
+          3597
+        ],
+        "confidence": 1,
+        "text": "X NO"
+      },
+      {
+        "bbox_px": [
+          248,
+          3662,
+          341,
+          3700
+        ],
+        "confidence": 1,
+        "text": "Triage"
+      },
+      {
+        "bbox_px": [
+          250,
+          3725,
+          648,
+          3746
+        ],
+        "confidence": 1,
+        "text": "Integrates into websites, apps, portals, and call"
+      },
+      {
+        "bbox_px": [
+          250,
+          3756,
+          674,
+          3778
+        ],
+        "confidence": 1,
+        "text": "centers for symptom checks, self-triage, condition"
+      },
+      {
+        "bbox_px": [
+          248,
+          3782,
+          653,
+          3808
+        ],
+        "confidence": 1,
+        "text": "insights, patient education, and care navigation."
+      },
+      {
+        "bbox_px": [
+          757,
+          3668,
+          849,
+          3694
+        ],
+        "confidence": 1,
+        "text": "Intake"
+      },
+      {
+        "bbox_px": [
+          763,
+          3725,
+          1123,
+          3746
+        ],
+        "confidence": 1,
+        "text": "Gather symptoms, risk factors, history, and"
+      },
+      {
+        "bbox_px": [
+          760,
+          3757,
+          1183,
+          3776
+        ],
+        "confidence": 1,
+        "text": "demographics pre-visit to reduce admin tasks and"
+      },
+      {
+        "bbox_px": [
+          760,
+          3786,
+          1032,
+          3804
+        ],
+        "confidence": 1,
+        "text": "increase physician-patient time."
+      },
+      {
+        "bbox_px": [
+          274,
+          3866,
+          365,
+          3882
+        ],
+        "confidence": 1,
+        "text": "Learn more"
+      },
+      {
+        "bbox_px": [
+          784,
+          3866,
+          878,
+          3882
+        ],
+        "confidence": 1,
+        "text": "Learn more"
+      },
+      {
+        "bbox_px": [
+          473,
+          4070,
+          966,
+          4110
+        ],
+        "confidence": 1,
+        "text": "Our Solutions in Action"
+      },
+      {
+        "bbox_px": [
+          216,
+          4553,
+          345,
+          4582
+        ],
+        "confidence": 1,
+        "text": "Self-Triage"
+      },
+      {
+        "bbox_px": [
+          216,
+          4591,
+          431,
+          4618
+        ],
+        "confidence": 1,
+        "text": "Symptom Checker"
+      },
+      {
+        "bbox_px": [
+          219,
+          4638,
+          517,
+          4657
+        ],
+        "confidence": 1,
+        "text": "Guide patients and members to the"
+      },
+      {
+        "bbox_px": [
+          219,
+          4670,
+          486,
+          4689
+        ],
+        "confidence": 1,
+        "text": "right level of care - anytime and"
+      },
+      {
+        "bbox_px": [
+          219,
+          4701,
+          303,
+          4718
+        ],
+        "confidence": 1,
+        "text": "anywhere"
+      },
+      {
+        "bbox_px": [
+          561,
+          4555,
+          742,
+          4579
+        ],
+        "confidence": 1,
+        "text": "Pre-Visit Intake"
+      },
+      {
+        "bbox_px": [
+          564,
+          4601,
+          859,
+          4620
+        ],
+        "confidence": 1,
+        "text": "Collect relevant patient data before"
+      },
+      {
+        "bbox_px": [
+          561,
+          4633,
+          778,
+          4652
+        ],
+        "confidence": 1,
+        "text": "telemedicine or in-person"
+      },
+      {
+        "bbox_px": [
+          561,
+          4662,
+          676,
+          4680
+        ],
+        "confidence": 1,
+        "text": "consultations"
+      },
+      {
+        "bbox_px": [
+          904,
+          4554,
+          1152,
+          4584
+        ],
+        "confidence": 1,
+        "text": "Nurse Triage Co-Pilot"
+      },
+      {
+        "bbox_px": [
+          906,
+          4601,
+          1157,
+          4623
+        ],
+        "confidence": 1,
+        "text": "Optimize triage efficiency and"
+      },
+      {
+        "bbox_px": [
+          906,
+          4633,
+          1170,
+          4652
+        ],
+        "confidence": 1,
+        "text": "decision-making for nurses and"
+      },
+      {
+        "bbox_px": [
+          904,
+          4665,
+          1092,
+          4683
+        ],
+        "confidence": 1,
+        "text": "contact center agents"
+      },
+      {
+        "bbox_px": [
+          331,
+          4892,
+          1108,
+          4924
+        ],
+        "confidence": 1,
+        "text": "Need additional workflows? Book a demo to explore API"
+      },
+      {
+        "bbox_px": [
+          579,
+          4931,
+          857,
+          4968
+        ],
+        "confidence": 1,
+        "text": "integration options!"
+      },
+      {
+        "bbox_px": [
+          334,
+          4891,
+          1108,
+          4923
+        ],
+        "confidence": 1,
+        "text": "Need additional workflows? Book a demo to explore API"
+      },
+      {
+        "bbox_px": [
+          579,
+          4933,
+          857,
+          4969
+        ],
+        "confidence": 1,
+        "text": "integration options."
+      },
+      {
+        "bbox_px": [
+          640,
+          5014,
+          797,
+          5033
+        ],
+        "confidence": 1,
+        "text": "Schedule a meeting"
+      },
+      {
+        "bbox_px": [
+          219,
+          5312,
+          637,
+          5344
+        ],
+        "confidence": 1,
+        "text": "Our Al performs with Schmitt-"
+      },
+      {
+        "bbox_px": [
+          219,
+          5357,
+          582,
+          5386
+        ],
+        "confidence": 1,
+        "text": "Thompson-level accuracy"
+      },
+      {
+        "bbox_px": [
+          726,
+          5309,
+          1173,
+          5331
+        ],
+        "confidence": 1,
+        "text": "In our evaluation, Infermedica performed as safely as"
+      },
+      {
+        "bbox_px": [
+          729,
+          5338,
+          1176,
+          5361
+        ],
+        "confidence": 1,
+        "text": "Schmitt-Thompson. Additionally, Infermedica collects"
+      },
+      {
+        "bbox_px": [
+          729,
+          5370,
+          1183,
+          5391
+        ],
+        "confidence": 1,
+        "text": "more initial patient symptoms, allowing for more data-"
+      },
+      {
+        "bbox_px": [
+          729,
+          5401,
+          885,
+          5420
+        ],
+        "confidence": 1,
+        "text": "driven assistance."
+      },
+      {
+        "bbox_px": [
+          729,
+          5451,
+          1074,
+          5470
+        ],
+        "confidence": 1,
+        "text": "The Journal of Hospital Administration →"
+      },
+      {
+        "bbox_px": [
+          290,
+          5697,
+          384,
+          5710
+        ],
+        "confidence": 1,
+        "text": "Expected triage"
+      },
+      {
+        "bbox_px": [
+          305,
+          5762,
+          373,
+          5775
+        ],
+        "confidence": 1,
+        "text": "Emergency"
+      },
+      {
+        "bbox_px": [
+          305,
+          5862,
+          378,
+          5870
+        ],
+        "confidence": 1,
+        "text": "Consultation"
+      },
+      {
+        "bbox_px": [
+          404,
+          5727,
+          491,
+          5746
+        ],
+        "confidence": 1,
+        "text": "Accurate triage"
+      },
+      {
+        "bbox_px": [
+          405,
+          5762,
+          467,
+          5775
+        ],
+        "confidence": 1,
+        "text": "Overtriage"
+      },
+      {
+        "bbox_px": [
+          404,
+          5795,
+          473,
+          5809
+        ],
+        "confidence": 1,
+        "text": "Undertriage"
+      },
+      {
+        "bbox_px": [
+          405,
+          5828,
+          493,
+          5841
+        ],
+        "confidence": 1,
+        "text": "Accurate triage"
+      },
+      {
+        "bbox_px": [
+          404,
+          5859,
+          465,
+          5874
+        ],
+        "confidence": 1,
+        "text": "Overtriage"
+      },
+      {
+        "bbox_px": [
+          402,
+          5892,
+          475,
+          5910
+        ],
+        "confidence": 1,
+        "text": "Undertriage"
+      },
+      {
+        "bbox_px": [
+          404,
+          5922,
+          494,
+          5941
+        ],
+        "confidence": 1,
+        "text": "Accurate triage"
+      },
+      {
+        "bbox_px": [
+          525,
+          5697,
+          640,
+          5710
+        ],
+        "confidence": 1,
+        "text": "Schmitt-Thompson"
+      },
+      {
+        "bbox_px": [
+          577,
+          5728,
+          606,
+          5741
+        ],
+        "confidence": 1,
+        "text": "80%"
+      },
+      {
+        "bbox_px": [
+          582,
+          5760,
+          606,
+          5775
+        ],
+        "confidence": 1,
+        "text": "0%"
+      },
+      {
+        "bbox_px": [
+          577,
+          5794,
+          606,
+          5809
+        ],
+        "confidence": 1,
+        "text": "20%"
+      },
+      {
+        "bbox_px": [
+          580,
+          5828,
+          606,
+          5841
+        ],
+        "confidence": 1,
+        "text": "71%"
+      },
+      {
+        "bbox_px": [
+          577,
+          5859,
+          606,
+          5872
+        ],
+        "confidence": 1,
+        "text": "26%"
+      },
+      {
+        "bbox_px": [
+          582,
+          5893,
+          606,
+          5906
+        ],
+        "confidence": 1,
+        "text": "3%"
+      },
+      {
+        "bbox_px": [
+          577,
+          5925,
+          606,
+          5938
+        ],
+        "confidence": 1,
+        "text": "52%"
+      },
+      {
+        "bbox_px": [
+          679,
+          5697,
+          750,
+          5710
+        ],
+        "confidence": 1,
+        "text": "Infermedica"
+      },
+      {
+        "bbox_px": [
+          700,
+          5728,
+          729,
+          5741
+        ],
+        "confidence": 1,
+        "text": "85%"
+      },
+      {
+        "bbox_px": [
+          705,
+          5762,
+          729,
+          5775
+        ],
+        "confidence": 1,
+        "text": "0%"
+      },
+      {
+        "bbox_px": [
+          700,
+          5794,
+          729,
+          5807
+        ],
+        "confidence": 1,
+        "text": "15%"
+      },
+      {
+        "bbox_px": [
+          700,
+          5828,
+          726,
+          5841
+        ],
+        "confidence": 1,
+        "text": "81%"
+      },
+      {
+        "bbox_px": [
+          703,
+          5859,
+          729,
+          5872
+        ],
+        "confidence": 1,
+        "text": "12%"
+      },
+      {
+        "bbox_px": [
+          708,
+          5893,
+          729,
+          5906
+        ],
+        "confidence": 1,
+        "text": "7%"
+      },
+      {
+        "bbox_px": [
+          700,
+          5924,
+          729,
+          5938
+        ],
+        "confidence": 1,
+        "text": "38%"
+      },
+      {
+        "bbox_px": [
+          219,
+          6091,
+          535,
+          6113
+        ],
+        "confidence": 1,
+        "text": "Peer-Reviewed Research on"
+      },
+      {
+        "bbox_px": [
+          216,
+          6127,
+          509,
+          6155
+        ],
+        "confidence": 1,
+        "text": "Infermedica's Technology"
+      },
+      {
+        "bbox_px": [
+          778,
+          6096,
+          891,
+          6124
+        ],
+        "confidence": 1,
+        "text": "frontiers"
+      },
+      {
+        "bbox_px": [
+          948,
+          6087,
+          1061,
+          6123
+        ],
+        "confidence": 1,
+        "text": "PublMed®"
+      },
+      {
+        "bbox_px": [
+          1115,
+          6087,
+          1223,
+          6118
+        ],
+        "confidence": 1,
+        "text": "SCIEDI™"
+      },
+      {
+        "bbox_px": [
+          219,
+          6186,
+          551,
+          6205
+        ],
+        "confidence": 1,
+        "text": "Access the full library of publications →"
+      },
+      {
+        "bbox_px": [
+          300,
+          6455,
+          747,
+          6489
+        ],
+        "confidence": 1,
+        "text": "Test drive our symptom checker"
+      },
+      {
+        "bbox_px": [
+          888,
+          6500,
+          930,
+          6513
+        ],
+        "confidence": 1,
+        "text": "Results"
+      },
+      {
+        "bbox_px": [
+          297,
+          6521,
+          742,
+          6539
+        ],
+        "confidence": 1,
+        "text": "Assess your symptoms with our Al-powered tool and"
+      },
+      {
+        "bbox_px": [
+          297,
+          6550,
+          744,
+          6571
+        ],
+        "confidence": 1,
+        "text": "receive personalized guidance on your next steps, all"
+      },
+      {
+        "bbox_px": [
+          297,
+          6579,
+          478,
+          6597
+        ],
+        "confidence": 1,
+        "text": "in just a few minutes."
+      },
+      {
+        "bbox_px": [
+          297,
+          6457,
+          747,
+          6489
+        ],
+        "confidence": 1,
+        "text": "Test drive our symptom checker"
+      },
+      {
+        "bbox_px": [
+          297,
+          6520,
+          742,
+          6541
+        ],
+        "confidence": 1,
+        "text": "Assess your symptoms with our Al-powered tool and"
+      },
+      {
+        "bbox_px": [
+          297,
+          6551,
+          744,
+          6573
+        ],
+        "confidence": 1,
+        "text": "receive personalized guidance on your next steps, all"
+      },
+      {
+        "bbox_px": [
+          297,
+          6580,
+          475,
+          6598
+        ],
+        "confidence": 1,
+        "text": "in just a few minutes."
+      },
+      {
+        "bbox_px": [
+          888,
+          6457,
+          909,
+          6478
+        ],
+        "confidence": 1,
+        "text": "•"
+      },
+      {
+        "bbox_px": [
+          888,
+          6499,
+          930,
+          6512
+        ],
+        "confidence": 1,
+        "text": "Results"
+      },
+      {
+        "bbox_px": [
+          321,
+          6700,
+          499,
+          6717
+        ],
+        "confidence": 1,
+        "text": "Check your symptoms"
+      },
+      {
+        "bbox_px": [
+          891,
+          6604,
+          1113,
+          6625
+        ],
+        "confidence": 1,
+        "text": "Self-care may be enough"
+      },
+      {
+        "bbox_px": [
+          888,
+          6637,
+          1118,
+          6651
+        ],
+        "confidence": 1,
+        "text": "The symptoms you have declared may not"
+      },
+      {
+        "bbox_px": [
+          888,
+          6655,
+          1123,
+          6669
+        ],
+        "confidence": 1,
+        "text": "require medical evaluation and they usually"
+      },
+      {
+        "bbox_px": [
+          888,
+          6671,
+          1115,
+          6688
+        ],
+        "confidence": 1,
+        "text": "resolve on their own. Sometimes they can"
+      },
+      {
+        "bbox_px": [
+          891,
+          6690,
+          1100,
+          6703
+        ],
+        "confidence": 1,
+        "text": "be eased with self-care methods. If the"
+      },
+      {
+        "bbox_px": [
+          891,
+          6708,
+          1102,
+          6722
+        ],
+        "confidence": 1,
+        "text": "symptoms get worse or new symptoms"
+      },
+      {
+        "bbox_px": [
+          888,
+          6723,
+          1024,
+          6737
+        ],
+        "confidence": 1,
+        "text": "appear, consult a doctor."
+      },
+      {
+        "bbox_px": [
+          927,
+          6773,
+          1087,
+          6790
+        ],
+        "confidence": 1,
+        "text": "Show common care methods"
+      },
+      {
+        "bbox_px": [
+          219,
+          7138,
+          1040,
+          7165
+        ],
+        "confidence": 1,
+        "text": "We chose to work with Infermedica because they bring a truly intelligent layer"
+      },
+      {
+        "bbox_px": [
+          219,
+          7179,
+          974,
+          7203
+        ],
+        "confidence": 1,
+        "text": "of clinically validated health technology to the Microsoft Healthcare Bot"
+      },
+      {
+        "bbox_px": [
+          219,
+          7216,
+          1008,
+          7242
+        ],
+        "confidence": 1,
+        "text": "Service, empowering our customers to build smarter virtual assistants that"
+      },
+      {
+        "bbox_px": [
+          216,
+          7250,
+          590,
+          7281
+        ],
+        "confidence": 1,
+        "text": "drive better outcomes for patients."
+      },
+      {
+        "bbox_px": [
+          324,
+          7330,
+          441,
+          7347
+        ],
+        "confidence": 1,
+        "text": "Adam Walker"
+      },
+      {
+        "bbox_px": [
+          324,
+          7364,
+          742,
+          7386
+        ],
+        "confidence": 1,
+        "text": "Former Program Manager at Microsoft Healthcare"
+      },
+      {
+        "bbox_px": [
+          216,
+          7659,
+          606,
+          7695
+        ],
+        "confidence": 1,
+        "text": "Virtual Triage can save lives"
+      },
+      {
+        "bbox_px": [
+          729,
+          7658,
+          1191,
+          7679
+        ],
+        "confidence": 1,
+        "text": "Approximately 2 in every 1,000 interviews could lead to"
+      },
+      {
+        "bbox_px": [
+          729,
+          7684,
+          1191,
+          7712
+        ],
+        "confidence": 1,
+        "text": "life-saving decisions, steering users towards necessary"
+      },
+      {
+        "bbox_px": [
+          729,
+          7718,
+          1170,
+          7740
+        ],
+        "confidence": 1,
+        "text": "medical attention they previously hadn't considered."
+      },
+      {
+        "bbox_px": [
+          729,
+          7768,
+          959,
+          7787
+        ],
+        "confidence": 1,
+        "text": "Frontiers in Public Health →"
+      },
+      {
+        "bbox_px": [
+          650,
+          8001,
+          703,
+          8014
+        ],
+        "confidence": 1,
+        "text": "Summary"
+      },
+      {
+        "bbox_px": [
+          956,
+          8005,
+          1050,
+          8024
+        ],
+        "confidence": 1,
+        "text": "Strong evidence"
+      },
+      {
+        "bbox_px": [
+          927,
+          8029,
+          1063,
+          8045
+        ],
+        "confidence": 1,
+        "text": "Pulmonary embolism"
+      },
+      {
+        "bbox_px": [
+          959,
+          8090,
+          1047,
+          8103
+        ],
+        "confidence": 1,
+        "text": "Strong evidence"
+      },
+      {
+        "bbox_px": [
+          927,
+          8110,
+          1063,
+          8127
+        ],
+        "confidence": 1,
+        "text": "Myocardial infarction"
+      },
+      {
+        "bbox_px": [
+          653,
+          8123,
+          807,
+          8140
+        ],
+        "confidence": 1,
+        "text": "Go to the nearest"
+      },
+      {
+        "bbox_px": [
+          653,
+          8144,
+          860,
+          8171
+        ],
+        "confidence": 1,
+        "text": "emergency department"
+      },
+      {
+        "bbox_px": [
+          930,
+          8171,
+          1066,
+          8184
+        ],
+        "confidence": 1,
+        "text": "• Moderate evidence"
+      },
+      {
+        "bbox_px": [
+          650,
+          8002,
+          705,
+          8015
+        ],
+        "confidence": 1,
+        "text": "Summary"
+      },
+      {
+        "bbox_px": [
+          943,
+          8007,
+          1050,
+          8025
+        ],
+        "confidence": 1,
+        "text": "• Strong evidence"
+      },
+      {
+        "bbox_px": [
+          927,
+          8030,
+          1063,
+          8047
+        ],
+        "confidence": 1,
+        "text": "Pulmonary embolism"
+      },
+      {
+        "bbox_px": [
+          943,
+          8088,
+          1050,
+          8105
+        ],
+        "confidence": 1,
+        "text": "• Strong evidence"
+      },
+      {
+        "bbox_px": [
+          927,
+          8112,
+          1063,
+          8128
+        ],
+        "confidence": 1,
+        "text": "Myocardial infarction"
+      },
+      {
+        "bbox_px": [
+          653,
+          8122,
+          807,
+          8141
+        ],
+        "confidence": 1,
+        "text": "Go to the nearest"
+      },
+      {
+        "bbox_px": [
+          653,
+          8149,
+          859,
+          8167
+        ],
+        "confidence": 1,
+        "text": "emergency department"
+      },
+      {
+        "bbox_px": [
+          959,
+          8172,
+          1066,
+          8185
+        ],
+        "confidence": 1,
+        "text": "Moderate evidence"
+      },
+      {
+        "bbox_px": [
+          926,
+          8192,
+          973,
+          8210
+        ],
+        "confidence": 1,
+        "text": "Stroke"
+      },
+      {
+        "bbox_px": [
+          653,
+          8203,
+          873,
+          8222
+        ],
+        "confidence": 1,
+        "text": "Your symptoms are worrisome and you may"
+      },
+      {
+        "bbox_px": [
+          653,
+          8221,
+          857,
+          8238
+        ],
+        "confidence": 1,
+        "text": "require urgent care. If you can't get to an"
+      },
+      {
+        "bbox_px": [
+          650,
+          8240,
+          846,
+          8254
+        ],
+        "confidence": 1,
+        "text": "emergency department, please call an"
+      },
+      {
+        "bbox_px": [
+          650,
+          8256,
+          713,
+          8269
+        ],
+        "confidence": 1,
+        "text": "ambulance."
+      },
+      {
+        "bbox_px": [
+          956,
+          8253,
+          1050,
+          8266
+        ],
+        "confidence": 1,
+        "text": "Strong evidence"
+      },
+      {
+        "bbox_px": [
+          214,
+          8378,
+          367,
+          8438
+        ],
+        "confidence": 1,
+        "text": "18M+"
+      },
+      {
+        "bbox_px": [
+          219,
+          8452,
+          452,
+          8471
+        ],
+        "confidence": 1,
+        "text": "health checkups performed"
+      },
+      {
+        "bbox_px": [
+          548,
+          8383,
+          703,
+          8432
+        ],
+        "confidence": 1,
+        "text": "110K+"
+      },
+      {
+        "bbox_px": [
+          551,
+          8452,
+          752,
+          8468
+        ],
+        "confidence": 1,
+        "text": "hours of medical review"
+      },
+      {
+        "bbox_px": [
+          880,
+          8387,
+          982,
+          8436
+        ],
+        "confidence": 1,
+        "text": "12+"
+      },
+      {
+        "bbox_px": [
+          883,
+          8449,
+          1092,
+          8470
+        ],
+        "confidence": 1,
+        "text": "years of experience in Al"
+      },
+      {
+        "bbox_px": [
+          219,
+          8739,
+          799,
+          8782
+        ],
+        "confidence": 1,
+        "text": "Helping 100+ global customers"
+      },
+      {
+        "bbox_px": [
+          216,
+          8794,
+          773,
+          8845
+        ],
+        "confidence": 1,
+        "text": "in over 32 countries, available"
+      },
+      {
+        "bbox_px": [
+          215,
+          8844,
+          518,
+          8897
+        ],
+        "confidence": 1,
+        "text": "in 24 languages"
+      },
+      {
+        "bbox_px": [
+          242,
+          8970,
+          400,
+          8991
+        ],
+        "confidence": 1,
+        "text": "Schedule a meeting"
+      },
+      {
+        "bbox_px": [
+          216,
+          9281,
+          305,
+          9342
+        ],
+        "confidence": 1,
+        "text": "CE"
+      },
+      {
+        "bbox_px": [
+          219,
+          9368,
+          462,
+          9384
+        ],
+        "confidence": 1,
+        "text": "Selected modules marked as"
+      },
+      {
+        "bbox_px": [
+          219,
+          9396,
+          410,
+          9415
+        ],
+        "confidence": 1,
+        "text": "Class I Medical Device"
+      },
+      {
+        "bbox_px": [
+          577,
+          9291,
+          655,
+          9308
+        ],
+        "confidence": 1,
+        "text": "* GDPR *"
+      },
+      {
+        "bbox_px": [
+          574,
+          9365,
+          849,
+          9387
+        ],
+        "confidence": 1,
+        "text": "Compliant with the General Data"
+      },
+      {
+        "bbox_px": [
+          574,
+          9396,
+          757,
+          9418
+        ],
+        "confidence": 1,
+        "text": "Protection Regulation"
+      },
+      {
+        "bbox_px": [
+          930,
+          9367,
+          1014,
+          9384
+        ],
+        "confidence": 1,
+        "text": "LEI Code:"
+      },
+      {
+        "bbox_px": [
+          927,
+          9397,
+          1149,
+          9418
+        ],
+        "confidence": 1,
+        "text": "984500NIA7B8AFF75805"
+      },
+      {
+        "bbox_px": [
+          245,
+          9522,
+          287,
+          9536
+        ],
+        "confidence": 1,
+        "text": "TUV MORD"
+      },
+      {
+        "bbox_px": [
+          957,
+          9519,
+          1067,
+          9551
+        ],
+        "confidence": 1,
+        "text": "L HIPAA"
+      },
+      {
+        "bbox_px": [
+          977,
+          9546,
+          1068,
+          9561
+        ],
+        "confidence": 1,
+        "text": "COMPLIANT"
+      },
+      {
+        "bbox_px": [
+          219,
+          9608,
+          462,
+          9627
+        ],
+        "confidence": 1,
+        "text": "Quality Management System"
+      },
+      {
+        "bbox_px": [
+          219,
+          9637,
+          425,
+          9656
+        ],
+        "confidence": 1,
+        "text": "certified with PN-EN ISO"
+      },
+      {
+        "bbox_px": [
+          219,
+          9669,
+          321,
+          9684
+        ],
+        "confidence": 1,
+        "text": "13485:2016"
+      },
+      {
+        "bbox_px": [
+          582,
+          9551,
+          621,
+          9564
+        ],
+        "confidence": 1,
+        "text": "DEKRA"
+      },
+      {
+        "bbox_px": [
+          574,
+          9604,
+          818,
+          9625
+        ],
+        "confidence": 1,
+        "text": "Processes and Development"
+      },
+      {
+        "bbox_px": [
+          574,
+          9635,
+          820,
+          9653
+        ],
+        "confidence": 1,
+        "text": "Procedures certified with ISO"
+      },
+      {
+        "bbox_px": [
+          574,
+          9666,
+          674,
+          9682
+        ],
+        "confidence": 1,
+        "text": "27001:2017"
+      },
+      {
+        "bbox_px": [
+          932,
+          9603,
+          1178,
+          9622
+        ],
+        "confidence": 1,
+        "text": "Compliant with standards for"
+      },
+      {
+        "bbox_px": [
+          930,
+          9630,
+          1126,
+          9653
+        ],
+        "confidence": 1,
+        "text": "patient data protection"
+      },
+      {
+        "bbox_px": [
+          216,
+          9607,
+          462,
+          9631
+        ],
+        "confidence": 1,
+        "text": "Quality Management System"
+      },
+      {
+        "bbox_px": [
+          216,
+          9634,
+          428,
+          9660
+        ],
+        "confidence": 1,
+        "text": "certified with PN-EN ISO"
+      },
+      {
+        "bbox_px": [
+          214,
+          9664,
+          321,
+          9689
+        ],
+        "confidence": 1,
+        "text": "13485:2016"
+      },
+      {
+        "bbox_px": [
+          574,
+          9604,
+          818,
+          9623
+        ],
+        "confidence": 1,
+        "text": "Processes and Development"
+      },
+      {
+        "bbox_px": [
+          574,
+          9634,
+          823,
+          9655
+        ],
+        "confidence": 1,
+        "text": "Procedures certified with ISO"
+      },
+      {
+        "bbox_px": [
+          572,
+          9662,
+          674,
+          9686
+        ],
+        "confidence": 1,
+        "text": "27001:2017"
+      },
+      {
+        "bbox_px": [
+          932,
+          9602,
+          1178,
+          9624
+        ],
+        "confidence": 1,
+        "text": "Compliant with standards for"
+      },
+      {
+        "bbox_px": [
+          930,
+          9633,
+          1126,
+          9652
+        ],
+        "confidence": 1,
+        "text": "patient data protection"
+      },
+      {
+        "bbox_px": [
+          504,
+          9955,
+          935,
+          9988
+        ],
+        "confidence": 1,
+        "text": "Discover the power of clinically"
+      },
+      {
+        "bbox_px": [
+          637,
+          9998,
+          802,
+          10025
+        ],
+        "confidence": 1,
+        "text": "validated Al"
+      },
+      {
+        "bbox_px": [
+          504,
+          10036,
+          935,
+          10055
+        ],
+        "confidence": 1,
+        "text": "Connect with us to schedule a demo and learn how"
+      },
+      {
+        "bbox_px": [
+          525,
+          10068,
+          912,
+          10087
+        ],
+        "confidence": 1,
+        "text": "our solutions can enhance your organization's"
+      },
+      {
+        "bbox_px": [
+          645,
+          10099,
+          794,
+          10118
+        ],
+        "confidence": 1,
+        "text": "healthcare goals."
+      },
+      {
+        "bbox_px": [
+          470,
+          10122,
+          561,
+          10144
+        ],
+        "confidence": 1,
+        "text": "Full name *"
+      },
+      {
+        "bbox_px": [
+          491,
+          10172,
+          616,
+          10189
+        ],
+        "confidence": 1,
+        "text": "Enter Your name"
+      },
+      {
+        "bbox_px": [
+          473,
+          10232,
+          601,
+          10251
+        ],
+        "confidence": 1,
+        "text": "Business email *"
+      },
+      {
+        "bbox_px": [
+          491,
+          10282,
+          577,
+          10298
+        ],
+        "confidence": 1,
+        "text": "Enter email"
+      },
+      {
+        "bbox_px": [
+          472,
+          10342,
+          562,
+          10366
+        ],
+        "confidence": 1,
+        "text": "Company *"
+      },
+      {
+        "bbox_px": [
+          491,
+          10392,
+          653,
+          10412
+        ],
+        "confidence": 1,
+        "text": "Enter company name"
+      },
+      {
+        "bbox_px": [
+          472,
+          10452,
+          630,
+          10476
+        ],
+        "confidence": 1,
+        "text": "Organization Type *"
+      },
+      {
+        "bbox_px": [
+          491,
+          10502,
+          616,
+          10518
+        ],
+        "confidence": 1,
+        "text": "Select an option"
+      },
+      {
+        "bbox_px": [
+          472,
+          10562,
+          552,
+          10586
+        ],
+        "confidence": 1,
+        "text": "Country *"
+      },
+      {
+        "bbox_px": [
+          491,
+          10612,
+          616,
+          10631
+        ],
+        "confidence": 1,
+        "text": "Select an option"
+      },
+      {
+        "bbox_px": [
+          473,
+          10674,
+          820,
+          10693
+        ],
+        "confidence": 1,
+        "text": "How can we support your business? (optional)"
+      },
+      {
+        "bbox_px": [
+          488,
+          10721,
+          912,
+          10740
+        ],
+        "confidence": 1,
+        "text": "Help us understand the challenges that your business is"
+      },
+      {
+        "bbox_px": [
+          487,
+          10746,
+          539,
+          10767
+        ],
+        "confidence": 1,
+        "text": "facing"
+      },
+      {
+        "bbox_px": [
+          504,
+          10944,
+          896,
+          10963
+        ],
+        "confidence": 1,
+        "text": "I agree to receive occasional marketing emails from"
+      },
+      {
+        "bbox_px": [
+          507,
+          10970,
+          904,
+          10989
+        ],
+        "confidence": 1,
+        "text": "Infermedica about their products and services. More"
+      },
+      {
+        "bbox_px": [
+          507,
+          10996,
+          930,
+          11015
+        ],
+        "confidence": 1,
+        "text": "information can be found in the Privacy Policy, and I can"
+      },
+      {
+        "bbox_px": [
+          509,
+          11023,
+          778,
+          11042
+        ],
+        "confidence": 1,
+        "text": "withdraw my consent at any time. *"
+      },
+      {
+        "bbox_px": [
+          658,
+          11101,
+          781,
+          11117
+        ],
+        "confidence": 1,
+        "text": "Schedule a Call"
+      },
+      {
+        "bbox_px": [
+          258,
+          11331,
+          381,
+          11355
+        ],
+        "confidence": 1,
+        "text": "Infermedica"
+      },
+      {
+        "bbox_px": [
+          559,
+          11326,
+          770,
+          11345
+        ],
+        "confidence": 1,
+        "text": "Medical Guidance Platform"
+      },
+      {
+        "bbox_px": [
+          559,
+          11360,
+          689,
+          11379
+        ],
+        "confidence": 1,
+        "text": "About the platform"
+      },
+      {
+        "bbox_px": [
+          831,
+          11329,
+          922,
+          11350
+        ],
+        "confidence": 1,
+        "text": "Industries"
+      },
+      {
+        "bbox_px": [
+          830,
+          11360,
+          928,
+          11385
+        ],
+        "confidence": 1,
+        "text": "Health plans"
+      },
+      {
+        "bbox_px": [
+          1113,
+          11329,
+          1202,
+          11350
+        ],
+        "confidence": 1,
+        "text": "Resources"
+      },
+      {
+        "bbox_px": [
+          1112,
+          11361,
+          1199,
+          11385
+        ],
+        "confidence": 1,
+        "text": "Help Center"
+      },
+      {
+        "bbox_px": [
+          223,
+          11329,
+          249,
+          11352
+        ],
+        "confidence": 1,
+        "text": "+"
+      },
+      {
+        "bbox_px": [
+          255,
+          11330,
+          381,
+          11350
+        ],
+        "confidence": 1,
+        "text": "Infermedica"
+      },
+      {
+        "bbox_px": [
+          219,
+          11391,
+          397,
+          11404
+        ],
+        "confidence": 1,
+        "text": "Make healthcare decisions"
+      },
+      {
+        "bbox_px": [
+          219,
+          11414,
+          328,
+          11427
+        ],
+        "confidence": 1,
+        "text": "with confidence"
+      },
+      {
+        "bbox_px": [
+          226,
+          11477,
+          399,
+          11507
+        ],
+        "confidence": 0.30000001192092896,
+        "text": "• x in •"
+      },
+      {
+        "bbox_px": [
+          556,
+          11325,
+          774,
+          11348
+        ],
+        "confidence": 1,
+        "text": "Medical Guidance Platform"
+      },
+      {
+        "bbox_px": [
+          560,
+          11358,
+          692,
+          11384
+        ],
+        "confidence": 1,
+        "text": "About the platform"
+      },
+      {
+        "bbox_px": [
+          560,
+          11419,
+          632,
+          11444
+        ],
+        "confidence": 1,
+        "text": "Modules"
+      },
+      {
+        "bbox_px": [
+          560,
+          11452,
+          609,
+          11477
+        ],
+        "confidence": 1,
+        "text": "Triage"
+      },
+      {
+        "bbox_px": [
+          558,
+          11484,
+          606,
+          11505
+        ],
+        "confidence": 1,
+        "text": "Intake"
+      },
+      {
+        "bbox_px": [
+          560,
+          11513,
+          592,
+          11534
+        ],
+        "confidence": 1,
+        "text": "АPІ"
+      },
+      {
+        "bbox_px": [
+          556,
+          11573,
+          682,
+          11599
+        ],
+        "confidence": 1,
+        "text": "Intelligent core"
+      },
+      {
+        "bbox_px": [
+          558,
+          11605,
+          734,
+          11633
+        ],
+        "confidence": 1,
+        "text": "Medical Knowledge Base"
+      },
+      {
+        "bbox_px": [
+          558,
+          11638,
+          678,
+          11661
+        ],
+        "confidence": 1,
+        "text": "Inference Engine"
+      },
+      {
+        "bbox_px": [
+          560,
+          11672,
+          590,
+          11691
+        ],
+        "confidence": 1,
+        "text": "АPІ"
+      },
+      {
+        "bbox_px": [
+          560,
+          11703,
+          699,
+          11722
+        ],
+        "confidence": 1,
+        "text": "Artificial intelligence"
+      },
+      {
+        "bbox_px": [
+          837,
+          11325,
+          925,
+          11350
+        ],
+        "confidence": 1,
+        "text": "Industries"
+      },
+      {
+        "bbox_px": [
+          839,
+          11358,
+          929,
+          11382
+        ],
+        "confidence": 1,
+        "text": "Health plans"
+      },
+      {
+        "bbox_px": [
+          835,
+          11391,
+          1046,
+          11411
+        ],
+        "confidence": 1,
+        "text": "Public Health and Government"
+      },
+      {
+        "bbox_px": [
+          830,
+          11421,
+          983,
+          11442
+        ],
+        "confidence": 1,
+        "text": "Healthcare providers"
+      },
+      {
+        "bbox_px": [
+          837,
+          11447,
+          933,
+          11474
+        ],
+        "confidence": 1,
+        "text": "Telemedicine"
+      },
+      {
+        "bbox_px": [
+          839,
+          11511,
+          946,
+          11534
+        ],
+        "confidence": 1,
+        "text": "Our Partners"
+      },
+      {
+        "bbox_px": [
+          839,
+          11544,
+          956,
+          11568
+        ],
+        "confidence": 1,
+        "text": "Partner Program"
+      },
+      {
+        "bbox_px": [
+          839,
+          11576,
+          971,
+          11597
+        ],
+        "confidence": 1,
+        "text": "Partners' solutions"
+      },
+      {
+        "bbox_px": [
+          837,
+          11638,
+          931,
+          11660
+        ],
+        "confidence": 1,
+        "text": "Developers"
+      },
+      {
+        "bbox_px": [
+          839,
+          11672,
+          977,
+          11691
+        ],
+        "confidence": 1,
+        "text": "Request an account"
+      },
+      {
+        "bbox_px": [
+          839,
+          11703,
+          946,
+          11720
+        ],
+        "confidence": 1,
+        "text": "Documentation"
+      },
+      {
+        "bbox_px": [
+          839,
+          11734,
+          933,
+          11751
+        ],
+        "confidence": 1,
+        "text": "API reference"
+      },
+      {
+        "bbox_px": [
+          839,
+          11764,
+          912,
+          11781
+        ],
+        "confidence": 1,
+        "text": "API status"
+      },
+      {
+        "bbox_px": [
+          1117,
+          11330,
+          1203,
+          11349
+        ],
+        "confidence": 1,
+        "text": "Resources"
+      },
+      {
+        "bbox_px": [
+          1115,
+          11361,
+          1201,
+          11381
+        ],
+        "confidence": 1,
+        "text": "Help Center"
+      },
+      {
+        "bbox_px": [
+          1117,
+          11394,
+          1207,
+          11411
+        ],
+        "confidence": 1,
+        "text": "Case studies"
+      },
+      {
+        "bbox_px": [
+          1115,
+          11423,
+          1218,
+          11440
+        ],
+        "confidence": 1,
+        "text": "Patient stories"
+      },
+      {
+        "bbox_px": [
+          1115,
+          11454,
+          1203,
+          11473
+        ],
+        "confidence": 1,
+        "text": "Blog articles"
+      },
+      {
+        "bbox_px": [
+          1115,
+          11483,
+          1193,
+          11501
+        ],
+        "confidence": 1,
+        "text": "Newsroom"
+      },
+      {
+        "bbox_px": [
+          1117,
+          11515,
+          1174,
+          11534
+        ],
+        "confidence": 1,
+        "text": "Reports"
+      },
+      {
+        "bbox_px": [
+          1117,
+          11543,
+          1184,
+          11564
+        ],
+        "confidence": 1,
+        "text": "Webinars"
+      },
+      {
+        "bbox_px": [
+          1117,
+          11574,
+          1197,
+          11596
+        ],
+        "confidence": 1,
+        "text": "Vlog Series"
+      },
+      {
+        "bbox_px": [
+          560,
+          11763,
+          648,
+          11783
+        ],
+        "confidence": 1,
+        "text": "Extensions"
+      },
+      {
+        "bbox_px": [
+          560,
+          11797,
+          680,
+          11814
+        ],
+        "confidence": 1,
+        "text": "Platform features"
+      },
+      {
+        "bbox_px": [
+          1117,
+          11636,
+          1195,
+          11658
+        ],
+        "confidence": 1,
+        "text": "Company"
+      },
+      {
+        "bbox_px": [
+          1117,
+          11669,
+          1182,
+          11689
+        ],
+        "confidence": 1,
+        "text": "About us"
+      },
+      {
+        "bbox_px": [
+          1117,
+          11701,
+          1174,
+          11718
+        ],
+        "confidence": 1,
+        "text": "Careers"
+      },
+      {
+        "bbox_px": [
+          1115,
+          11730,
+          1167,
+          11747
+        ],
+        "confidence": 1,
+        "text": "Events"
+      },
+      {
+        "bbox_px": [
+          1115,
+          11762,
+          1159,
+          11778
+        ],
+        "confidence": 1,
+        "text": "Press"
+      },
+      {
+        "bbox_px": [
+          1117,
+          11793,
+          1176,
+          11808
+        ],
+        "confidence": 1,
+        "text": "Contact"
+      },
+      {
+        "bbox_px": [
+          1117,
+          11822,
+          1195,
+          11839
+        ],
+        "confidence": 1,
+        "text": "Newsletter"
+      },
+      {
+        "bbox_px": [
+          560,
+          11858,
+          684,
+          11879
+        ],
+        "confidence": 1,
+        "text": "Quality & safety"
+      },
+      {
+        "bbox_px": [
+          563,
+          11893,
+          678,
+          11906
+        ],
+        "confidence": 1,
+        "text": "Research studies"
+      },
+      {
+        "bbox_px": [
+          560,
+          11923,
+          678,
+          11940
+        ],
+        "confidence": 1,
+        "text": "Public test cases"
+      },
+      {
+        "bbox_px": [
+          1117,
+          11882,
+          1220,
+          11902
+        ],
+        "confidence": 1,
+        "text": "Trust Center"
+      },
+      {
+        "bbox_px": [
+          1115,
+          11916,
+          1220,
+          11935
+        ],
+        "confidence": 1,
+        "text": "Security Portal"
+      },
+      {
+        "bbox_px": [
+          1113,
+          11946,
+          1205,
+          11968
+        ],
+        "confidence": 1,
+        "text": "Report issue"
+      },
+      {
+        "bbox_px": [
+          270,
+          12067,
+          389,
+          12084
+        ],
+        "confidence": 1,
+        "text": "HIPAA Compliant"
+      },
+      {
+        "bbox_px": [
+          466,
+          12063,
+          504,
+          12082
+        ],
+        "confidence": 1,
+        "text": "\" GDPR:"
+      },
+      {
+        "bbox_px": [
+          516,
+          12067,
+          632,
+          12086
+        ],
+        "confidence": 1,
+        "text": "GDPR Compliant"
+      },
+      {
+        "bbox_px": [
+          747,
+          12067,
+          856,
+          12084
+        ],
+        "confidence": 1,
+        "text": "ISO 27001:2017"
+      },
+      {
+        "bbox_px": [
+          947,
+          12062,
+          1094,
+          12091
+        ],
+        "confidence": 1,
+        "text": "• IS0 13485:2016"
+      },
+      {
+        "bbox_px": [
+          219,
+          12142,
+          320,
+          12163
+        ],
+        "confidence": 1,
+        "text": "M English v"
+      },
+      {
+        "bbox_px": [
+          364,
+          12144,
+          460,
+          12163
+        ],
+        "confidence": 1,
+        "text": "Privacy Policy"
+      },
+      {
+        "bbox_px": [
+          495,
+          12143,
+          596,
+          12162
+        ],
+        "confidence": 1,
+        "text": "Cookies Policy"
+      },
+      {
+        "bbox_px": [
+          634,
+          12144,
+          770,
+          12161
+        ],
+        "confidence": 1,
+        "text": "© Infermedica 2024"
+      }
+    ],
+    "path": "screenshots/infermedica.png",
+    "width": 1440
+  }
+]

@@ -1,0 +1,3099 @@
+[
+  {
+    "height": 8317,
+    "lines": [
+      {
+        "bbox_px": [
+          60,
+          34,
+          731,
+          55
+        ],
+        "confidence": 1,
+        "text": "miro What is Miro v Solutions v Resources v Enterprise v Customers"
+      },
+      {
+        "bbox_px": [
+          731,
+          35,
+          802,
+          53
+        ],
+        "confidence": 1,
+        "text": "Pricing"
+      },
+      {
+        "bbox_px": [
+          1108,
+          36,
+          1215,
+          55
+        ],
+        "confidence": 1,
+        "text": "Contact Sales"
+      },
+      {
+        "bbox_px": [
+          1238,
+          39,
+          1283,
+          54
+        ],
+        "confidence": 1,
+        "text": "Login"
+      },
+      {
+        "bbox_px": [
+          1311,
+          36,
+          1403,
+          55
+        ],
+        "confidence": 1,
+        "text": "Sign up free"
+      },
+      {
+        "bbox_px": [
+          260,
+          187,
+          1182,
+          288
+        ],
+        "confidence": 1,
+        "text": "Innovate faster with Miro,"
+      },
+      {
+        "bbox_px": [
+          109,
+          300,
+          1330,
+          377
+        ],
+        "confidence": 1,
+        "text": "the Al-powered visual workspace."
+      },
+      {
+        "bbox_px": [
+          245,
+          397,
+          1194,
+          416
+        ],
+        "confidence": 1,
+        "text": "Bring teams together and quickly go from big ideas to execution with a workspace that leverages Al at every stage."
+      },
+      {
+        "bbox_px": [
+          559,
+          480,
+          705,
+          494
+        ],
+        "confidence": 1,
+        "text": "Your email address"
+      },
+      {
+        "bbox_px": [
+          668,
+          540,
+          771,
+          560
+        ],
+        "confidence": 1,
+        "text": "Sign up free"
+      },
+      {
+        "bbox_px": [
+          62,
+          719,
+          112,
+          740
+        ],
+        "confidence": 1,
+        "text": "miro"
+      },
+      {
+        "bbox_px": [
+          164,
+          724,
+          269,
+          737
+        ],
+        "confidence": 1,
+        "text": "Sprint planning v"
+      },
+      {
+        "bbox_px": [
+          62,
+          1172,
+          81,
+          1195
+        ],
+        "confidence": 1,
+        "text": "A"
+      },
+      {
+        "bbox_px": [
+          397,
+          858,
+          457,
+          873
+        ],
+        "confidence": 1,
+        "text": "Capacity"
+      },
+      {
+        "bbox_px": [
+          397,
+          909,
+          491,
+          929
+        ],
+        "confidence": 1,
+        "text": "Current points"
+      },
+      {
+        "bbox_px": [
+          394,
+          962,
+          507,
+          978
+        ],
+        "confidence": 1,
+        "text": "Points remaining"
+      },
+      {
+        "bbox_px": [
+          391,
+          1012,
+          473,
+          1028
+        ],
+        "confidence": 1,
+        "text": "Story points"
+      },
+      {
+        "bbox_px": [
+          203,
+          1035,
+          285,
+          1065
+        ],
+        "confidence": 1,
+        "text": "Sprint"
+      },
+      {
+        "bbox_px": [
+          185,
+          1064,
+          297,
+          1093
+        ],
+        "confidence": 1,
+        "text": "planning"
+      },
+      {
+        "bbox_px": [
+          148,
+          1119,
+          339,
+          1133
+        ],
+        "confidence": 1,
+        "text": "Define, plan, and manage your"
+      },
+      {
+        "bbox_px": [
+          156,
+          1134,
+          326,
+          1151
+        ],
+        "confidence": 1,
+        "text": "next sprint with your team."
+      },
+      {
+        "bbox_px": [
+          392,
+          1174,
+          439,
+          1187
+        ],
+        "confidence": 1,
+        "text": "People"
+      },
+      {
+        "bbox_px": [
+          358,
+          1193,
+          394,
+          1208
+        ],
+        "confidence": 1,
+        "text": "Jeff"
+      },
+      {
+        "bbox_px": [
+          182,
+          1211,
+          303,
+          1230
+        ],
+        "confidence": 1,
+        "text": "Import Jira cards"
+      },
+      {
+        "bbox_px": [
+          279,
+          1292,
+          405,
+          1311
+        ],
+        "confidence": 1,
+        "text": "→ Import Jira cards"
+      },
+      {
+        "bbox_px": [
+          274,
+          1336,
+          412,
+          1352
+        ],
+        "confidence": 1,
+        "text": "Import Azure cards"
+      },
+      {
+        "bbox_px": [
+          271,
+          1378,
+          415,
+          1397
+        ],
+        "confidence": 1,
+        "text": ". Show dependencies"
+      },
+      {
+        "bbox_px": [
+          559,
+          855,
+          595,
+          871
+        ],
+        "confidence": 1,
+        "text": "21 +"
+      },
+      {
+        "bbox_px": [
+          577,
+          910,
+          598,
+          928
+        ],
+        "confidence": 0.5,
+        "text": "18"
+      },
+      {
+        "bbox_px": [
+          641,
+          852,
+          698,
+          872
+        ],
+        "confidence": 1,
+        "text": "Backlog"
+      },
+      {
+        "bbox_px": [
+          650,
+          907,
+          729,
+          920
+        ],
+        "confidence": 1,
+        "text": "Picture Gallery"
+      },
+      {
+        "bbox_px": [
+          676,
+          930,
+          710,
+          944
+        ],
+        "confidence": 1,
+        "text": "To Do"
+      },
+      {
+        "bbox_px": [
+          718,
+          928,
+          804,
+          944
+        ],
+        "confidence": 1,
+        "text": "Hiroku Mostajo"
+      },
+      {
+        "bbox_px": [
+          650,
+          1009,
+          784,
+          1023
+        ],
+        "confidence": 1,
+        "text": "User dashboard redesign"
+      },
+      {
+        "bbox_px": [
+          671,
+          1033,
+          742,
+          1047
+        ],
+        "confidence": 1,
+        "text": "In Progress"
+      },
+      {
+        "bbox_px": [
+          739,
+          1030,
+          828,
+          1047
+        ],
+        "confidence": 1,
+        "text": "Hiroku Mostajo"
+      },
+      {
+        "bbox_px": [
+          653,
+          1059,
+          713,
+          1073
+        ],
+        "confidence": 1,
+        "text": "L MRK-333"
+      },
+      {
+        "bbox_px": [
+          650,
+          1111,
+          789,
+          1124
+        ],
+        "confidence": 1,
+        "text": "Bug reporting form design"
+      },
+      {
+        "bbox_px": [
+          718,
+          1129,
+          808,
+          1149
+        ],
+        "confidence": 1,
+        "text": "Brian Lakeman"
+      },
+      {
+        "bbox_px": [
+          650,
+          1211,
+          778,
+          1224
+        ],
+        "confidence": 1,
+        "text": "Navigation layout design"
+      },
+      {
+        "bbox_px": [
+          755,
+          1240,
+          812,
+          1253
+        ],
+        "confidence": 1,
+        "text": "E DTT-363"
+      },
+      {
+        "bbox_px": [
+          750,
+          1291,
+          880,
+          1305
+        ],
+        "confidence": 1,
+        "text": "Navigation layout design"
+      },
+      {
+        "bbox_px": [
+          776,
+          1315,
+          810,
+          1329
+        ],
+        "confidence": 1,
+        "text": "To Do"
+      },
+      {
+        "bbox_px": [
+          823,
+          1315,
+          906,
+          1329
+        ],
+        "confidence": 1,
+        "text": "Latonya Crusco"
+      },
+      {
+        "bbox_px": [
+          755,
+          1341,
+          818,
+          1355
+        ],
+        "confidence": 1,
+        "text": "• WDD-763"
+      },
+      {
+        "bbox_px": [
+          893,
+          855,
+          995,
+          869
+        ],
+        "confidence": 1,
+        "text": "Current sprint | 3"
+      },
+      {
+        "bbox_px": [
+          901,
+          907,
+          938,
+          920
+        ],
+        "confidence": 1,
+        "text": "Footer"
+      },
+      {
+        "bbox_px": [
+          896,
+          926,
+          1063,
+          949
+        ],
+        "confidence": 1,
+        "text": "-=- To Do ... Deedee Graubart"
+      },
+      {
+        "bbox_px": [
+          904,
+          954,
+          930,
+          970
+        ],
+        "confidence": 0.30000001192092896,
+        "text": "O &"
+      },
+      {
+        "bbox_px": [
+          901,
+          980,
+          961,
+          994
+        ],
+        "confidence": 1,
+        "text": "B DTT-678"
+      },
+      {
+        "bbox_px": [
+          901,
+          1033,
+          961,
+          1047
+        ],
+        "confidence": 1,
+        "text": "Video tools"
+      },
+      {
+        "bbox_px": [
+          927,
+          1056,
+          987,
+          1070
+        ],
+        "confidence": 1,
+        "text": "In Progress"
+      },
+      {
+        "bbox_px": [
+          990,
+          1054,
+          1074,
+          1070
+        ],
+        "confidence": 1,
+        "text": "• Adria Weinert"
+      },
+      {
+        "bbox_px": [
+          904,
+          1077,
+          930,
+          1094
+        ],
+        "confidence": 0.30000001192092896,
+        "text": "O &"
+      },
+      {
+        "bbox_px": [
+          901,
+          1104,
+          961,
+          1117
+        ],
+        "confidence": 1,
+        "text": "• PLN-214"
+      },
+      {
+        "bbox_px": [
+          1045,
+          1143,
+          1100,
+          1159
+        ],
+        "confidence": 1,
+        "text": "Joane"
+      },
+      {
+        "bbox_px": [
+          901,
+          1155,
+          969,
+          1169
+        ],
+        "confidence": 1,
+        "text": "Video Gallery"
+      },
+      {
+        "bbox_px": [
+          927,
+          1179,
+          956,
+          1193
+        ],
+        "confidence": 1,
+        "text": "Done"
+      },
+      {
+        "bbox_px": [
+          966,
+          1179,
+          1063,
+          1193
+        ],
+        "confidence": 1,
+        "text": "co Deedee Graubart"
+      },
+      {
+        "bbox_px": [
+          1000,
+          1237,
+          1071,
+          1251
+        ],
+        "confidence": 1,
+        "text": "Video Gallery"
+      },
+      {
+        "bbox_px": [
+          1068,
+          1261,
+          1162,
+          1274
+        ],
+        "confidence": 1,
+        "text": "os Deedee Graubart"
+      },
+      {
+        "bbox_px": [
+          1003,
+          1312,
+          1058,
+          1321
+        ],
+        "confidence": 1,
+        "text": "V DTT-765"
+      },
+      {
+        "bbox_px": [
+          1186,
+          719,
+          1230,
+          743
+        ],
+        "confidence": 0.30000001192092896,
+        "text": "533"
+      },
+      {
+        "bbox_px": [
+          1142,
+          855,
+          1228,
+          869
+        ],
+        "confidence": 1,
+        "text": "Next sprint | 2"
+      },
+      {
+        "bbox_px": [
+          1149,
+          907,
+          1225,
+          920
+        ],
+        "confidence": 1,
+        "text": "Content Editor"
+      },
+      {
+        "bbox_px": [
+          1176,
+          930,
+          1230,
+          944
+        ],
+        "confidence": 1,
+        "text": "In Progress"
+      },
+      {
+        "bbox_px": [
+          1241,
+          930,
+          1338,
+          944
+        ],
+        "confidence": 1,
+        "text": "os Deedee Graubart"
+      },
+      {
+        "bbox_px": [
+          1152,
+          986,
+          1212,
+          992
+        ],
+        "confidence": 0.30000001192092896,
+        "text": "7 WUD-/1E"
+      },
+      {
+        "bbox_px": [
+          1168,
+          1056,
+          1207,
+          1070
+        ],
+        "confidence": 1,
+        "text": "TO DO"
+      },
+      {
+        "bbox_px": [
+          1155,
+          1080,
+          1186,
+          1096
+        ],
+        "confidence": 1,
+        "text": "• 13"
+      },
+      {
+        "bbox_px": [
+          1220,
+          1056,
+          1309,
+          1070
+        ],
+        "confidence": 1,
+        "text": "Vincente Goyins"
+      },
+      {
+        "bbox_px": [
+          1240,
+          1128,
+          1320,
+          1149
+        ],
+        "confidence": 1,
+        "text": "Patricia"
+      },
+      {
+        "bbox_px": [
+          1314,
+          721,
+          1372,
+          737
+        ],
+        "confidence": 1,
+        "text": "& Share"
+      },
+      {
+        "bbox_px": [
+          46,
+          1684,
+          143,
+          1713
+        ],
+        "confidence": 1,
+        "text": "accenture"
+      },
+      {
+        "bbox_px": [
+          36,
+          1772,
+          154,
+          1797
+        ],
+        "confidence": 1,
+        "text": "3 Dropbox"
+      },
+      {
+        "bbox_px": [
+          219,
+          1692,
+          324,
+          1713
+        ],
+        "confidence": 1,
+        "text": "• bumble"
+      },
+      {
+        "bbox_px": [
+          224,
+          1770,
+          318,
+          1795
+        ],
+        "confidence": 1,
+        "text": "*macys"
+      },
+      {
+        "bbox_px": [
+          399,
+          1691,
+          494,
+          1715
+        ],
+        "confidence": 1,
+        "text": "Deloitte."
+      },
+      {
+        "bbox_px": [
+          431,
+          1773,
+          491,
+          1789
+        ],
+        "confidence": 1,
+        "text": "• Liberty"
+      },
+      {
+        "bbox_px": [
+          436,
+          1786,
+          496,
+          1797
+        ],
+        "confidence": 0.5,
+        "text": "Mutual"
+      },
+      {
+        "bbox_px": [
+          491,
+          1253,
+          540,
+          1268
+        ],
+        "confidence": 1,
+        "text": "People"
+      },
+      {
+        "bbox_px": [
+          501,
+          1289,
+          517,
+          1305
+        ],
+        "confidence": 1,
+        "text": "a"
+      },
+      {
+        "bbox_px": [
+          525,
+          1333,
+          608,
+          1347
+        ],
+        "confidence": 1,
+        "text": "Adria Weinert"
+      },
+      {
+        "bbox_px": [
+          525,
+          1373,
+          616,
+          1387
+        ],
+        "confidence": 1,
+        "text": "Hiroku Mostajo"
+      },
+      {
+        "bbox_px": [
+          525,
+          1410,
+          616,
+          1423
+        ],
+        "confidence": 1,
+        "text": "Rubin Kotowicz"
+      },
+      {
+        "bbox_px": [
+          520,
+          1446,
+          614,
+          1459
+        ],
+        "confidence": 1,
+        "text": ") Brian Lakeman"
+      },
+      {
+        "bbox_px": [
+          577,
+          1595,
+          862,
+          1614
+        ],
+        "confidence": 1,
+        "text": "Rated 4.8 out of 5,134+ G2 reviews"
+      },
+      {
+        "bbox_px": [
+          572,
+          1692,
+          669,
+          1716
+        ],
+        "confidence": 1,
+        "text": "DocuSign"
+      },
+      {
+        "bbox_px": [
+          739,
+          1692,
+          859,
+          1718
+        ],
+        "confidence": 1,
+        "text": "Ccontentful"
+      },
+      {
+        "bbox_px": [
+          574,
+          1771,
+          671,
+          1797
+        ],
+        "confidence": 1,
+        "text": "@TOTAL"
+      },
+      {
+        "bbox_px": [
+          752,
+          1771,
+          846,
+          1797
+        ],
+        "confidence": 1,
+        "text": "Whirlpool"
+      },
+      {
+        "bbox_px": [
+          940,
+          1692,
+          1006,
+          1716
+        ],
+        "confidence": 1,
+        "text": "asos"
+      },
+      {
+        "bbox_px": [
+          1311,
+          1428,
+          1345,
+          1441
+        ],
+        "confidence": 1,
+        "text": "100%"
+      },
+      {
+        "bbox_px": [
+          1086,
+          1680,
+          1207,
+          1725
+        ],
+        "confidence": 1,
+        "text": "* PEPSICO"
+      },
+      {
+        "bbox_px": [
+          1304,
+          1695,
+          1345,
+          1708
+        ],
+        "confidence": 1,
+        "text": "Hanes"
+      },
+      {
+        "bbox_px": [
+          1092,
+          1767,
+          1207,
+          1796
+        ],
+        "confidence": 1,
+        "text": "WAL DiSNEY"
+      },
+      {
+        "bbox_px": [
+          1277,
+          1773,
+          1372,
+          1795
+        ],
+        "confidence": 1,
+        "text": "* YAMAHA"
+      },
+      {
+        "bbox_px": [
+          46,
+          1685,
+          146,
+          1716
+        ],
+        "confidence": 1,
+        "text": "accenture"
+      },
+      {
+        "bbox_px": [
+          36,
+          1772,
+          154,
+          1796
+        ],
+        "confidence": 1,
+        "text": "Dropbox"
+      },
+      {
+        "bbox_px": [
+          219,
+          1691,
+          324,
+          1715
+        ],
+        "confidence": 1,
+        "text": "• bumble"
+      },
+      {
+        "bbox_px": [
+          221,
+          1766,
+          319,
+          1799
+        ],
+        "confidence": 1,
+        "text": "*madys"
+      },
+      {
+        "bbox_px": [
+          399,
+          1691,
+          494,
+          1715
+        ],
+        "confidence": 1,
+        "text": "Deloitte."
+      },
+      {
+        "bbox_px": [
+          436,
+          1772,
+          486,
+          1788
+        ],
+        "confidence": 1,
+        "text": "Libert"
+      },
+      {
+        "bbox_px": [
+          436,
+          1788,
+          491,
+          1801
+        ],
+        "confidence": 1,
+        "text": "Mutual"
+      },
+      {
+        "bbox_px": [
+          577,
+          1600,
+          768,
+          1613
+        ],
+        "confidence": 1,
+        "text": "Ratea 4.8 out oT 0,134+"
+      },
+      {
+        "bbox_px": [
+          770,
+          1600,
+          862,
+          1613
+        ],
+        "confidence": 1,
+        "text": "Ge revlews"
+      },
+      {
+        "bbox_px": [
+          572,
+          1691,
+          669,
+          1718
+        ],
+        "confidence": 1,
+        "text": "DocuSign"
+      },
+      {
+        "bbox_px": [
+          574,
+          1769,
+          671,
+          1796
+        ],
+        "confidence": 1,
+        "text": "@ TOTAL"
+      },
+      {
+        "bbox_px": [
+          739,
+          1690,
+          859,
+          1718
+        ],
+        "confidence": 1,
+        "text": "Ccontentful"
+      },
+      {
+        "bbox_px": [
+          752,
+          1767,
+          849,
+          1801
+        ],
+        "confidence": 1,
+        "text": "Whirlpool"
+      },
+      {
+        "bbox_px": [
+          940,
+          1694,
+          1006,
+          1717
+        ],
+        "confidence": 1,
+        "text": "asos"
+      },
+      {
+        "bbox_px": [
+          946,
+          1793,
+          1003,
+          1809
+        ],
+        "confidence": 1,
+        "text": "UBISOFT"
+      },
+      {
+        "bbox_px": [
+          1086,
+          1681,
+          1206,
+          1724
+        ],
+        "confidence": 1,
+        "text": "* PEPSICO"
+      },
+      {
+        "bbox_px": [
+          1090,
+          1761,
+          1209,
+          1802
+        ],
+        "confidence": 1,
+        "text": "WAL DiSNEY"
+      },
+      {
+        "bbox_px": [
+          1304,
+          1696,
+          1345,
+          1709
+        ],
+        "confidence": 1,
+        "text": "Hanes"
+      },
+      {
+        "bbox_px": [
+          1277,
+          1772,
+          1372,
+          1796
+        ],
+        "confidence": 1,
+        "text": "® YAMAHA"
+      },
+      {
+        "bbox_px": [
+          279,
+          2008,
+          1162,
+          2053
+        ],
+        "confidence": 1,
+        "text": "Don't start from scrtch - dive right into one"
+      },
+      {
+        "bbox_px": [
+          556,
+          2063,
+          885,
+          2105
+        ],
+        "confidence": 1,
+        "text": "of our templates"
+      },
+      {
+        "bbox_px": [
+          75,
+          2217,
+          329,
+          2246
+        ],
+        "confidence": 1,
+        "text": "Strategy & Planning"
+      },
+      {
+        "bbox_px": [
+          436,
+          2217,
+          658,
+          2246
+        ],
+        "confidence": 1,
+        "text": "Process Mapping"
+      },
+      {
+        "bbox_px": [
+          794,
+          2217,
+          987,
+          2246
+        ],
+        "confidence": 1,
+        "text": "Retrospectives"
+      },
+      {
+        "bbox_px": [
+          1142,
+          2217,
+          1325,
+          2246
+        ],
+        "confidence": 1,
+        "text": "Mind Mapping"
+      },
+      {
+        "bbox_px": [
+          786,
+          2337,
+          810,
+          2348
+        ],
+        "confidence": 1,
+        "text": "Mad"
+      },
+      {
+        "bbox_px": [
+          768,
+          2373,
+          799,
+          2379
+        ],
+        "confidence": 1,
+        "text": "we lost"
+      },
+      {
+        "bbox_px": [
+          70,
+          2397,
+          78,
+          2421
+        ],
+        "confidence": 1,
+        "text": "Bars tear"
+      },
+      {
+        "bbox_px": [
+          324,
+          2670,
+          1121,
+          2715
+        ],
+        "confidence": 1,
+        "text": "Speed up your work with solutions for all"
+      },
+      {
+        "bbox_px": [
+          392,
+          2716,
+          1047,
+          2766
+        ],
+        "confidence": 1,
+        "text": "stages of innovation in one place"
+      },
+      {
+        "bbox_px": [
+          739,
+          2840,
+          901,
+          2855
+        ],
+        "confidence": 1,
+        "text": "miro @ Product briof brainstorm v"
+      },
+      {
+        "bbox_px": [
+          885,
+          2902,
+          1050,
+          2921
+        ],
+        "confidence": 1,
+        "text": "Suggest more solutions"
+      },
+      {
+        "bbox_px": [
+          1089,
+          2897,
+          1149,
+          2911
+        ],
+        "confidence": 1,
+        "text": "• Product Leaser"
+      },
+      {
+        "bbox_px": [
+          770,
+          2968,
+          818,
+          2976
+        ],
+        "confidence": 1,
+        "text": "Study group"
+      },
+      {
+        "bbox_px": [
+          778,
+          2978,
+          812,
+          2989
+        ],
+        "confidence": 1,
+        "text": "feature"
+      },
+      {
+        "bbox_px": [
+          75,
+          2997,
+          376,
+          3031
+        ],
+        "confidence": 1,
+        "text": "Strategize and plan"
+      },
+      {
+        "bbox_px": [
+          75,
+          3046,
+          648,
+          3069
+        ],
+        "confidence": 1,
+        "text": "Make sure your company strotegy aligns with customer needs. Define"
+      },
+      {
+        "bbox_px": [
+          75,
+          3072,
+          663,
+          3091
+        ],
+        "confidence": 1,
+        "text": "goals, visualize priorities, and watch plans play off in a big way. With Al-"
+      },
+      {
+        "bbox_px": [
+          75,
+          3096,
+          480,
+          3114
+        ],
+        "confidence": 1,
+        "text": "powered tools throughout, you'll just move faster."
+      },
+      {
+        "bbox_px": [
+          763,
+          3085,
+          825,
+          3091
+        ],
+        "confidence": 0.30000001192092896,
+        "text": "cfiiea accasc te"
+      },
+      {
+        "bbox_px": [
+          765,
+          3093,
+          825,
+          3106
+        ],
+        "confidence": 1,
+        "text": "study materials"
+      },
+      {
+        "bbox_px": [
+          810,
+          3127,
+          838,
+          3140
+        ],
+        "confidence": 1,
+        "text": "Jessic"
+      },
+      {
+        "bbox_px": [
+          1270,
+          2840,
+          1382,
+          2855
+        ],
+        "confidence": 1,
+        "text": "DO3 OyFAR Share"
+      },
+      {
+        "bbox_px": [
+          1223,
+          2897,
+          1395,
+          2910
+        ],
+        "confidence": 1,
+        "text": "Generate doc from brainsto"
+      },
+      {
+        "bbox_px": [
+          1325,
+          3248,
+          1379,
+          3263
+        ],
+        "confidence": 0.30000001192092896,
+        "text": "- 10x +"
+      },
+      {
+        "bbox_px": [
+          52,
+          3350,
+          185,
+          3358
+        ],
+        "confidence": 1,
+        "text": "miro o Insight synthesis v"
+      },
+      {
+        "bbox_px": [
+          582,
+          3347,
+          692,
+          3363
+        ],
+        "confidence": 0.5,
+        "text": "ДЭЗ OyFAu Share"
+      },
+      {
+        "bbox_px": [
+          412,
+          3381,
+          512,
+          3389
+        ],
+        "confidence": 1,
+        "text": "* Generate summary dod"
+      },
+      {
+        "bbox_px": [
+          1325,
+          3249,
+          1382,
+          3262
+        ],
+        "confidence": 0.30000001192092896,
+        "text": "- 1ox +"
+      },
+      {
+        "bbox_px": [
+          52,
+          3348,
+          188,
+          3362
+        ],
+        "confidence": 1,
+        "text": "miro G, Insight synthosis v"
+      },
+      {
+        "bbox_px": [
+          582,
+          3346,
+          692,
+          3362
+        ],
+        "confidence": 0.30000001192092896,
+        "text": "MЭ3 OyFAu Share"
+      },
+      {
+        "bbox_px": [
+          415,
+          3380,
+          514,
+          3394
+        ],
+        "confidence": 1,
+        "text": "* Generate summary doc"
+      },
+      {
+        "bbox_px": [
+          54,
+          3610,
+          67,
+          3626
+        ],
+        "confidence": 1,
+        "text": "A"
+      },
+      {
+        "bbox_px": [
+          763,
+          3489,
+          1053,
+          3519
+        ],
+        "confidence": 1,
+        "text": "Put customers first"
+      },
+      {
+        "bbox_px": [
+          763,
+          3540,
+          1356,
+          3564
+        ],
+        "confidence": 1,
+        "text": "Designing customer-first solutions is easy when the whole team can see"
+      },
+      {
+        "bbox_px": [
+          763,
+          3568,
+          1293,
+          3587
+        ],
+        "confidence": 1,
+        "text": "every insight in one space. Use Al to turn data into diagrams and"
+      },
+      {
+        "bbox_px": [
+          760,
+          3592,
+          1322,
+          3611
+        ],
+        "confidence": 1,
+        "text": "summories in minutes - then share with everyone on one intelligent"
+      },
+      {
+        "bbox_px": [
+          760,
+          3618,
+          828,
+          3634
+        ],
+        "confidence": 1,
+        "text": "canvas."
+      },
+      {
+        "bbox_px": [
+          640,
+          3757,
+          695,
+          3770
+        ],
+        "confidence": 1,
+        "text": "- 100x +"
+      },
+      {
+        "bbox_px": [
+          1094,
+          3923,
+          1186,
+          3943
+        ],
+        "confidence": 1,
+        "text": "→ Miro Al"
+      },
+      {
+        "bbox_px": [
+          75,
+          3997,
+          347,
+          4032
+        ],
+        "confidence": 1,
+        "text": "Speed up delivery"
+      },
+      {
+        "bbox_px": [
+          78,
+          4049,
+          648,
+          4068
+        ],
+        "confidence": 1,
+        "text": "Crunch down time to market using intelligent capabilities to diagram,"
+      },
+      {
+        "bbox_px": [
+          75,
+          4073,
+          661,
+          4095
+        ],
+        "confidence": 1,
+        "text": "visualize data, and run workshops. By blending Al and interactivity in all"
+      },
+      {
+        "bbox_px": [
+          75,
+          4100,
+          640,
+          4118
+        ],
+        "confidence": 1,
+        "text": "your processes to develop products ond services, you'll also ramp up"
+      },
+      {
+        "bbox_px": [
+          75,
+          4122,
+          183,
+          4142
+        ],
+        "confidence": 1,
+        "text": "productivity."
+      },
+      {
+        "bbox_px": [
+          862,
+          4238,
+          917,
+          4256
+        ],
+        "confidence": 1,
+        "text": "Emma"
+      },
+      {
+        "bbox_px": [
+          289,
+          4614,
+          1147,
+          4663
+        ],
+        "confidence": 1,
+        "text": "The world's most innovative companies are"
+      },
+      {
+        "bbox_px": [
+          415,
+          4664,
+          1027,
+          4719
+        ],
+        "confidence": 1,
+        "text": "collaborating in Miro, everyday"
+      },
+      {
+        "bbox_px": [
+          282,
+          4740,
+          1155,
+          4761
+        ],
+        "confidence": 1,
+        "text": "More than 180,000 organizations, including Nike, Ikea, Deloitte, WPP, and Cisco, have adopted Miro to help"
+      },
+      {
+        "bbox_px": [
+          331,
+          4766,
+          1105,
+          4785
+        ],
+        "confidence": 1,
+        "text": "innovate the way they innovate, with the goal of improving the speed and quality of their work."
+      },
+      {
+        "bbox_px": [
+          634,
+          4825,
+          805,
+          4845
+        ],
+        "confidence": 1,
+        "text": "Meet our customers"
+      },
+      {
+        "bbox_px": [
+          70,
+          4947,
+          637,
+          4976
+        ],
+        "confidence": 1,
+        "text": "\"With Miro, we went from project brief to in-market"
+      },
+      {
+        "bbox_px": [
+          70,
+          4976,
+          624,
+          4997
+        ],
+        "confidence": 1,
+        "text": "launch in 10 months. That usually takes 3 years at"
+      },
+      {
+        "bbox_px": [
+          755,
+          4944,
+          1356,
+          4977
+        ],
+        "confidence": 1,
+        "text": "\"Bringing everyone together to plan in Miro mens the"
+      },
+      {
+        "bbox_px": [
+          757,
+          4975,
+          1304,
+          4997
+        ],
+        "confidence": 1,
+        "text": "most impactful initiatives will happen at the right"
+      },
+      {
+        "bbox_px": [
+          70,
+          4945,
+          637,
+          4977
+        ],
+        "confidence": 1,
+        "text": "\"With Miro, we went from project brief to in-market"
+      },
+      {
+        "bbox_px": [
+          70,
+          4977,
+          619,
+          5001
+        ],
+        "confidence": 1,
+        "text": "launch in 10 months. That usually takes 3 years at"
+      },
+      {
+        "bbox_px": [
+          70,
+          5003,
+          180,
+          5030
+        ],
+        "confidence": 1,
+        "text": "PepsiCoạỊồiại"
+      },
+      {
+        "bbox_px": [
+          143,
+          5092,
+          263,
+          5108
+        ],
+        "confidence": 1,
+        "text": "Caroline de Diego"
+      },
+      {
+        "bbox_px": [
+          143,
+          5110,
+          514,
+          5129
+        ],
+        "confidence": 1,
+        "text": "Senior Manager, Global Design & Morketing Innovation at"
+      },
+      {
+        "bbox_px": [
+          143,
+          5129,
+          201,
+          5145
+        ],
+        "confidence": 1,
+        "text": "PepsiCo"
+      },
+      {
+        "bbox_px": [
+          635,
+          4826,
+          804,
+          4844
+        ],
+        "confidence": 1,
+        "text": "Meet our customers"
+      },
+      {
+        "bbox_px": [
+          755,
+          4946,
+          1356,
+          4975
+        ],
+        "confidence": 1,
+        "text": "\"Bringing everyone together to plan in Miro means the"
+      },
+      {
+        "bbox_px": [
+          757,
+          4974,
+          1304,
+          5004
+        ],
+        "confidence": 1,
+        "text": "most impactful initiotives will happen at the right"
+      },
+      {
+        "bbox_px": [
+          755,
+          5001,
+          825,
+          5030
+        ],
+        "confidence": 1,
+        "text": "time.\""
+      },
+      {
+        "bbox_px": [
+          830,
+          5108,
+          920,
+          5130
+        ],
+        "confidence": 1,
+        "text": "Lucy Starling"
+      },
+      {
+        "bbox_px": [
+          1267,
+          5108,
+          1338,
+          5137
+        ],
+        "confidence": 1,
+        "text": "asos"
+      },
+      {
+        "bbox_px": [
+          828,
+          5126,
+          1048,
+          5152
+        ],
+        "confidence": 1,
+        "text": "Product Operations Lead at Asos"
+      },
+      {
+        "bbox_px": [
+          44,
+          5542,
+          436,
+          5595
+        ],
+        "confidence": 1,
+        "text": "Al, interactive tools,"
+      },
+      {
+        "bbox_px": [
+          44,
+          5597,
+          425,
+          5642
+        ],
+        "confidence": 1,
+        "text": "and integrations to"
+      },
+      {
+        "bbox_px": [
+          44,
+          5650,
+          324,
+          5687
+        ],
+        "confidence": 1,
+        "text": "deliver break-"
+      },
+      {
+        "bbox_px": [
+          41,
+          5704,
+          449,
+          5754
+        ],
+        "confidence": 1,
+        "text": "through work, faster"
+      },
+      {
+        "bbox_px": [
+          44,
+          5775,
+          452,
+          5796
+        ],
+        "confidence": 1,
+        "text": "Unlock faster and more engaging team work with"
+      },
+      {
+        "bbox_px": [
+          44,
+          5799,
+          454,
+          5820
+        ],
+        "confidence": 1,
+        "text": "an Al-powered, secure plotform for collaboration,"
+      },
+      {
+        "bbox_px": [
+          44,
+          5825,
+          402,
+          5844
+        ],
+        "confidence": 1,
+        "text": "plonning, decision-making, and more. Bring"
+      },
+      {
+        "bbox_px": [
+          41,
+          5849,
+          452,
+          5867
+        ],
+        "confidence": 1,
+        "text": "together all the people and informotion you need"
+      },
+      {
+        "bbox_px": [
+          41,
+          5874,
+          431,
+          5893
+        ],
+        "confidence": 1,
+        "text": "to gother insights, design solutions, ond deliver"
+      },
+      {
+        "bbox_px": [
+          41,
+          5898,
+          339,
+          5917
+        ],
+        "confidence": 1,
+        "text": "new products or services to mrket."
+      },
+      {
+        "bbox_px": [
+          540,
+          5566,
+          750,
+          5592
+        ],
+        "confidence": 1,
+        "text": "Intelligent Canvas"
+      },
+      {
+        "bbox_px": [
+          543,
+          5618,
+          1325,
+          5637
+        ],
+        "confidence": 1,
+        "text": "Ideate, iterate, and deliver faster as a team on an intelligent canvas. Everything from customer"
+      },
+      {
+        "bbox_px": [
+          543,
+          5642,
+          1361,
+          5663
+        ],
+        "confidence": 1,
+        "text": "journey mapping, to diagraming, to sprint planning includes Al, interactive tools, and integrations in"
+      },
+      {
+        "bbox_px": [
+          546,
+          5668,
+          875,
+          5684
+        ],
+        "confidence": 1,
+        "text": "one seamless experience for your team."
+      },
+      {
+        "bbox_px": [
+          559,
+          5720,
+          658,
+          5736
+        ],
+        "confidence": 1,
+        "text": "Learn more"
+      },
+      {
+        "bbox_px": [
+          559,
+          5786,
+          601,
+          5802
+        ],
+        "confidence": 1,
+        "text": "miro"
+      },
+      {
+        "bbox_px": [
+          614,
+          5788,
+          713,
+          5802
+        ],
+        "confidence": 1,
+        "text": "©, Sprint planning v"
+      },
+      {
+        "bbox_px": [
+          747,
+          5838,
+          786,
+          5851
+        ],
+        "confidence": 1,
+        "text": "Capacity"
+      },
+      {
+        "bbox_px": [
+          747,
+          5869,
+          807,
+          5883
+        ],
+        "confidence": 1,
+        "text": "Current points"
+      },
+      {
+        "bbox_px": [
+          747,
+          5901,
+          815,
+          5915
+        ],
+        "confidence": 1,
+        "text": "Points remaining"
+      },
+      {
+        "bbox_px": [
+          632,
+          5942,
+          682,
+          5962
+        ],
+        "confidence": 1,
+        "text": "Sprint"
+      },
+      {
+        "bbox_px": [
+          619,
+          5964,
+          689,
+          5979
+        ],
+        "confidence": 1,
+        "text": "planning"
+      },
+      {
+        "bbox_px": [
+          595,
+          5992,
+          713,
+          6006
+        ],
+        "confidence": 1,
+        "text": "Define, plan and manage your"
+      },
+      {
+        "bbox_px": [
+          616,
+          6052,
+          689,
+          6061
+        ],
+        "confidence": 1,
+        "text": "importjira caros"
+      },
+      {
+        "bbox_px": [
+          611,
+          6073,
+          697,
+          6090
+        ],
+        "confidence": 1,
+        "text": "C Import Azure cards"
+      },
+      {
+        "bbox_px": [
+          611,
+          6099,
+          697,
+          6115
+        ],
+        "confidence": 1,
+        "text": "Q. Show dependencies"
+      },
+      {
+        "bbox_px": [
+          742,
+          6053,
+          770,
+          6063
+        ],
+        "confidence": 1,
+        "text": "People"
+      },
+      {
+        "bbox_px": [
+          893,
+          5835,
+          940,
+          5849
+        ],
+        "confidence": 1,
+        "text": "Backlog 1 5"
+      },
+      {
+        "bbox_px": [
+          844,
+          6000,
+          870,
+          6019
+        ],
+        "confidence": 1,
+        "text": "(21)"
+      },
+      {
+        "bbox_px": [
+          899,
+          5867,
+          946,
+          5881
+        ],
+        "confidence": 1,
+        "text": "Picture Gallery"
+      },
+      {
+        "bbox_px": [
+          901,
+          6000,
+          1006,
+          6013
+        ],
+        "confidence": 1,
+        "text": "=In Progress •Hroku Mostay"
+      },
+      {
+        "bbox_px": [
+          899,
+          6061,
+          993,
+          6074
+        ],
+        "confidence": 1,
+        "text": "= ToDo @Brisn Lakemon"
+      },
+      {
+        "bbox_px": [
+          899,
+          6078,
+          935,
+          6084
+        ],
+        "confidence": 0.30000001192092896,
+        "text": "19 DTT-363"
+      },
+      {
+        "bbox_px": [
+          899,
+          6110,
+          974,
+          6116
+        ],
+        "confidence": 1,
+        "text": "Navieabon bryout des er"
+      },
+      {
+        "bbox_px": [
+          901,
+          6121,
+          995,
+          6134
+        ],
+        "confidence": 1,
+        "text": "=ToDo @Laconya Crusco"
+      },
+      {
+        "bbox_px": [
+          849,
+          6139,
+          901,
+          6152
+        ],
+        "confidence": 1,
+        "text": "Patricia"
+      },
+      {
+        "bbox_px": [
+          1042,
+          5841,
+          1105,
+          5847
+        ],
+        "confidence": 1,
+        "text": "current sprint"
+      },
+      {
+        "bbox_px": [
+          1050,
+          5883,
+          1144,
+          5891
+        ],
+        "confidence": 1,
+        "text": "= To Do Deedee Grauba"
+      },
+      {
+        "bbox_px": [
+          1016,
+          5930,
+          1045,
+          5943
+        ],
+        "confidence": 1,
+        "text": "Jeff"
+      },
+      {
+        "bbox_px": [
+          1191,
+          5841,
+          1246,
+          5847
+        ],
+        "confidence": 1,
+        "text": "Next sprint 2"
+      },
+      {
+        "bbox_px": [
+          1196,
+          5865,
+          1247,
+          5882
+        ],
+        "confidence": 1,
+        "text": "Content Editor"
+      },
+      {
+        "bbox_px": [
+          1199,
+          5883,
+          1304,
+          5891
+        ],
+        "confidence": 1,
+        "text": "= In Progress Deedee Grauc"
+      },
+      {
+        "bbox_px": [
+          1196,
+          5914,
+          1236,
+          5919
+        ],
+        "confidence": 0.30000001192092896,
+        "text": "WO0-21"
+      },
+      {
+        "bbox_px": [
+          1199,
+          5958,
+          1291,
+          5964
+        ],
+        "confidence": 0.30000001192092896,
+        "text": "o Do b Vincente covn"
+      },
+      {
+        "bbox_px": [
+          1047,
+          5985,
+          1084,
+          5998
+        ],
+        "confidence": 1,
+        "text": "B OTT:765"
+      },
+      {
+        "bbox_px": [
+          1162,
+          6047,
+          1210,
+          6063
+        ],
+        "confidence": 1,
+        "text": "Joane"
+      },
+      {
+        "bbox_px": [
+          543,
+          6306,
+          569,
+          6330
+        ],
+        "confidence": 1,
+        "text": "AI"
+      },
+      {
+        "bbox_px": [
+          543,
+          6401,
+          768,
+          6430
+        ],
+        "confidence": 1,
+        "text": "Apps & Integr1tions"
+      },
+      {
+        "bbox_px": [
+          1343,
+          6304,
+          1366,
+          6327
+        ],
+        "confidence": 1,
+        "text": "+"
+      },
+      {
+        "bbox_px": [
+          542,
+          6495,
+          656,
+          6523
+        ],
+        "confidence": 1,
+        "text": "Diagroms"
+      },
+      {
+        "bbox_px": [
+          543,
+          6400,
+          768,
+          6428
+        ],
+        "confidence": 1,
+        "text": "Apps & Integrations"
+      },
+      {
+        "bbox_px": [
+          542,
+          6494,
+          656,
+          6524
+        ],
+        "confidence": 1,
+        "text": "Diagrams"
+      },
+      {
+        "bbox_px": [
+          543,
+          6587,
+          765,
+          6617
+        ],
+        "confidence": 1,
+        "text": "Enterprise Platform"
+      },
+      {
+        "bbox_px": [
+          543,
+          6680,
+          721,
+          6711
+        ],
+        "confidence": 1,
+        "text": "Developer Tools"
+      },
+      {
+        "bbox_px": [
+          454,
+          7024,
+          983,
+          7072
+        ],
+        "confidence": 1,
+        "text": "Join our 80M+ users today"
+      },
+      {
+        "bbox_px": [
+          467,
+          7101,
+          969,
+          7119
+        ],
+        "confidence": 1,
+        "text": "Join thousands of teams using Miro to do their best work yet."
+      },
+      {
+        "bbox_px": [
+          524,
+          7158,
+          671,
+          7179
+        ],
+        "confidence": 1,
+        "text": "Your email address:"
+      },
+      {
+        "bbox_px": [
+          810,
+          7160,
+          914,
+          7180
+        ],
+        "confidence": 1,
+        "text": "Sign up free"
+      },
+      {
+        "bbox_px": [
+          26,
+          7297,
+          125,
+          7326
+        ],
+        "confidence": 1,
+        "text": "accenture"
+      },
+      {
+        "bbox_px": [
+          52,
+          7435,
+          112,
+          7454
+        ],
+        "confidence": 1,
+        "text": "• Home"
+      },
+      {
+        "bbox_px": [
+          44,
+          7539,
+          115,
+          7557
+        ],
+        "confidence": 1,
+        "text": "Product"
+      },
+      {
+        "bbox_px": [
+          44,
+          7587,
+          198,
+          7606
+        ],
+        "confidence": 1,
+        "text": "Online whiteboard"
+      },
+      {
+        "bbox_px": [
+          41,
+          7633,
+          209,
+          7658
+        ],
+        "confidence": 1,
+        "text": "Apps & Integrations"
+      },
+      {
+        "bbox_px": [
+          41,
+          7685,
+          133,
+          7704
+        ],
+        "confidence": 1,
+        "text": "Templates"
+      },
+      {
+        "bbox_px": [
+          41,
+          7734,
+          128,
+          7750
+        ],
+        "confidence": 1,
+        "text": "Miroverse"
+      },
+      {
+        "bbox_px": [
+          41,
+          7781,
+          248,
+          7800
+        ],
+        "confidence": 1,
+        "text": "Miro Developer Platform"
+      },
+      {
+        "bbox_px": [
+          41,
+          7828,
+          177,
+          7847
+        ],
+        "confidence": 1,
+        "text": "Miro for Devices"
+      },
+      {
+        "bbox_px": [
+          41,
+          7877,
+          188,
+          7896
+        ],
+        "confidence": 1,
+        "text": "Enterprise Guard"
+      },
+      {
+        "bbox_px": [
+          39,
+          7924,
+          149,
+          7946
+        ],
+        "confidence": 1,
+        "text": "Accessibility"
+      },
+      {
+        "bbox_px": [
+          41,
+          7976,
+          138,
+          7996
+        ],
+        "confidence": 1,
+        "text": "Changelog"
+      },
+      {
+        "bbox_px": [
+          198,
+          7302,
+          305,
+          7323
+        ],
+        "confidence": 1,
+        "text": "e bumble"
+      },
+      {
+        "bbox_px": [
+          381,
+          7302,
+          475,
+          7326
+        ],
+        "confidence": 1,
+        "text": "Deloitte."
+      },
+      {
+        "bbox_px": [
+          554,
+          7302,
+          650,
+          7326
+        ],
+        "confidence": 1,
+        "text": "DocuSign®"
+      },
+      {
+        "bbox_px": [
+          718,
+          7302,
+          838,
+          7329
+        ],
+        "confidence": 1,
+        "text": "C contentful"
+      },
+      {
+        "bbox_px": [
+          919,
+          7299,
+          990,
+          7326
+        ],
+        "confidence": 1,
+        "text": "asos"
+      },
+      {
+        "bbox_px": [
+          318,
+          7539,
+          399,
+          7557
+        ],
+        "confidence": 1,
+        "text": "Solutions"
+      },
+      {
+        "bbox_px": [
+          318,
+          7587,
+          530,
+          7606
+        ],
+        "confidence": 1,
+        "text": "Meetings and Workshops"
+      },
+      {
+        "bbox_px": [
+          318,
+          7634,
+          525,
+          7657
+        ],
+        "confidence": 1,
+        "text": "Brainstorming & Ideation"
+      },
+      {
+        "bbox_px": [
+          318,
+          7684,
+          452,
+          7705
+        ],
+        "confidence": 1,
+        "text": "Agile Workflows"
+      },
+      {
+        "bbox_px": [
+          318,
+          7734,
+          433,
+          7752
+        ],
+        "confidence": 1,
+        "text": "Diagramming"
+      },
+      {
+        "bbox_px": [
+          318,
+          7781,
+          475,
+          7800
+        ],
+        "confidence": 1,
+        "text": "Research & Design"
+      },
+      {
+        "bbox_px": [
+          318,
+          7827,
+          483,
+          7849
+        ],
+        "confidence": 1,
+        "text": "Strategy & Planning"
+      },
+      {
+        "bbox_px": [
+          316,
+          7877,
+          402,
+          7896
+        ],
+        "confidence": 1,
+        "text": "Mind Map"
+      },
+      {
+        "bbox_px": [
+          318,
+          7925,
+          433,
+          7946
+        ],
+        "confidence": 1,
+        "text": "Concept Map"
+      },
+      {
+        "bbox_px": [
+          316,
+          7974,
+          480,
+          7995
+        ],
+        "confidence": 1,
+        "text": "Online Sticky Notes"
+      },
+      {
+        "bbox_px": [
+          318,
+          8021,
+          459,
+          8040
+        ],
+        "confidence": 1,
+        "text": "Flowchart Maker"
+      },
+      {
+        "bbox_px": [
+          318,
+          8070,
+          410,
+          8088
+        ],
+        "confidence": 1,
+        "text": "Wireframe"
+      },
+      {
+        "bbox_px": [
+          590,
+          7540,
+          682,
+          7556
+        ],
+        "confidence": 1,
+        "text": "Resources"
+      },
+      {
+        "bbox_px": [
+          590,
+          7587,
+          716,
+          7606
+        ],
+        "confidence": 1,
+        "text": "Miro Academy"
+      },
+      {
+        "bbox_px": [
+          590,
+          7636,
+          695,
+          7656
+        ],
+        "confidence": 1,
+        "text": "Help Center"
+      },
+      {
+        "bbox_px": [
+          590,
+          7684,
+          632,
+          7708
+        ],
+        "confidence": 1,
+        "text": "Blog"
+      },
+      {
+        "bbox_px": [
+          590,
+          7734,
+          650,
+          7752
+        ],
+        "confidence": 1,
+        "text": "Status"
+      },
+      {
+        "bbox_px": [
+          590,
+          7781,
+          734,
+          7800
+        ],
+        "confidence": 1,
+        "text": "Miro Community"
+      },
+      {
+        "bbox_px": [
+          582,
+          7828,
+          689,
+          7847
+        ],
+        "confidence": 1,
+        "text": "Miro Events"
+      },
+      {
+        "bbox_px": [
+          867,
+          7540,
+          951,
+          7559
+        ],
+        "confidence": 1,
+        "text": "Company"
+      },
+      {
+        "bbox_px": [
+          867,
+          7587,
+          946,
+          7606
+        ],
+        "confidence": 1,
+        "text": "About us"
+      },
+      {
+        "bbox_px": [
+          867,
+          7634,
+          956,
+          7653
+        ],
+        "confidence": 1,
+        "text": "Careers 1?"
+      },
+      {
+        "bbox_px": [
+          865,
+          7684,
+          1006,
+          7702
+        ],
+        "confidence": 1,
+        "text": "Miro in the News"
+      },
+      {
+        "bbox_px": [
+          867,
+          7733,
+          1014,
+          7750
+        ],
+        "confidence": 1,
+        "text": "Customer Stories"
+      },
+      {
+        "bbox_px": [
+          1345,
+          6494,
+          1366,
+          6517
+        ],
+        "confidence": 1,
+        "text": "+"
+      },
+      {
+        "bbox_px": [
+          1343,
+          6588,
+          1366,
+          6611
+        ],
+        "confidence": 1,
+        "text": "+"
+      },
+      {
+        "bbox_px": [
+          1343,
+          6682,
+          1366,
+          6706
+        ],
+        "confidence": 1,
+        "text": "+"
+      },
+      {
+        "bbox_px": [
+          1066,
+          7290,
+          1188,
+          7335
+        ],
+        "confidence": 1,
+        "text": "• PEPSICO"
+      },
+      {
+        "bbox_px": [
+          1283,
+          7302,
+          1325,
+          7320
+        ],
+        "confidence": 1,
+        "text": "Hanes"
+      },
+      {
+        "bbox_px": [
+          1142,
+          7540,
+          1285,
+          7559
+        ],
+        "confidence": 1,
+        "text": "Plans and Pricing"
+      },
+      {
+        "bbox_px": [
+          1138,
+          7585,
+          1203,
+          7612
+        ],
+        "confidence": 1,
+        "text": "Pricing"
+      },
+      {
+        "bbox_px": [
+          1142,
+          7637,
+          1217,
+          7653
+        ],
+        "confidence": 1,
+        "text": "Business"
+      },
+      {
+        "bbox_px": [
+          1142,
+          7684,
+          1230,
+          7705
+        ],
+        "confidence": 1,
+        "text": "Enterprise"
+      },
+      {
+        "bbox_px": [
+          1142,
+          7734,
+          1246,
+          7750
+        ],
+        "confidence": 1,
+        "text": "Consultants"
+      },
+      {
+        "bbox_px": [
+          1141,
+          7780,
+          1231,
+          7798
+        ],
+        "confidence": 1,
+        "text": "Education"
+      },
+      {
+        "bbox_px": [
+          1141,
+          7828,
+          1217,
+          7847
+        ],
+        "confidence": 1,
+        "text": "Startups"
+      },
+      {
+        "bbox_px": [
+          1136,
+          7877,
+          1191,
+          7899
+        ],
+        "confidence": 1,
+        "text": "NPOs"
+      },
+      {
+        "bbox_px": [
+          1142,
+          7927,
+          1277,
+          7944
+        ],
+        "confidence": 1,
+        "text": "Contact sales →"
+      },
+      {
+        "bbox_px": [
+          316,
+          8022,
+          460,
+          8041
+        ],
+        "confidence": 1,
+        "text": "Flowchart Maker"
+      },
+      {
+        "bbox_px": [
+          316,
+          8070,
+          408,
+          8087
+        ],
+        "confidence": 1,
+        "text": "Wireframe"
+      },
+      {
+        "bbox_px": [
+          104,
+          8196,
+          131,
+          8218
+        ],
+        "confidence": 1,
+        "text": "+"
+      },
+      {
+        "bbox_px": [
+          322,
+          8198,
+          404,
+          8221
+        ],
+        "confidence": 1,
+        "text": "English ®"
+      },
+      {
+        "bbox_px": [
+          1157,
+          8193,
+          1232,
+          8204
+        ],
+        "confidence": 1,
+        "text": "Download on the"
+      },
+      {
+        "bbox_px": [
+          1156,
+          8201,
+          1237,
+          8223
+        ],
+        "confidence": 1,
+        "text": "App Store"
+      },
+      {
+        "bbox_px": [
+          73,
+          8264,
+          182,
+          8284
+        ],
+        "confidence": 1,
+        "text": "Miro © 2024"
+      },
+      {
+        "bbox_px": [
+          211,
+          8262,
+          349,
+          8279
+        ],
+        "confidence": 1,
+        "text": "Terms of Service"
+      },
+      {
+        "bbox_px": [
+          357,
+          8262,
+          648,
+          8284
+        ],
+        "confidence": 1,
+        "text": "Privacy Policy Manage Cookies"
+      },
+      {
+        "bbox_px": [
+          1299,
+          8189,
+          1345,
+          8202
+        ],
+        "confidence": 1,
+        "text": "GET IT ON"
+      },
+      {
+        "bbox_px": [
+          1299,
+          8201,
+          1389,
+          8223
+        ],
+        "confidence": 1,
+        "text": "Google Play"
+      }
+    ],
+    "path": "screenshots/miro.png",
+    "width": 1440
+  }
+]

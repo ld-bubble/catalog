@@ -1,0 +1,725 @@
+[
+  {
+    "id": "acorns",
+    "industry": "Finance",
+    "audience": "Consumers",
+    "conversion_goal": "signup",
+    "style": "illustration-led",
+    "color_family": "green",
+    "hero_layout": "centered",
+    "headline": "Acorns helps you save and invest",
+    "ctas": [
+      "Get started"
+    ],
+    "observation": "Character illustration and a large phone flank centered copy on a green gradient."
+  },
+  {
+    "id": "stripe",
+    "industry": "Finance",
+    "audience": "Businesses and developers",
+    "conversion_goal": "signup",
+    "style": "abstract-gradient",
+    "color_family": "multicolor",
+    "hero_layout": "left",
+    "headline": "Financial infrastructure to grow your revenue.",
+    "ctas": [
+      "Get started",
+      "Sign up with Google"
+    ],
+    "observation": "Oversized continuous headline and supporting copy sit below a diagonal orange-purple gradient, followed by customer logos."
+  },
+  {
+    "id": "mercury",
+    "industry": "Finance",
+    "audience": "Business owners",
+    "conversion_goal": "open-account",
+    "style": "photography-led",
+    "color_family": "natural",
+    "hero_layout": "centered",
+    "headline": "Radically different banking",
+    "ctas": [
+      "Open account",
+      "Launch demo"
+    ],
+    "observation": "Centered white copy and an email field overlay a scenic landscape with a desk and laptop."
+  },
+  {
+    "id": "wise",
+    "industry": "Finance",
+    "audience": "Consumers and businesses",
+    "conversion_goal": "open-account",
+    "style": "bold-typography",
+    "color_family": "green",
+    "hero_layout": "centered",
+    "headline": "MONEY FOR HERE, THERE AND EVERYWHERE",
+    "ctas": [
+      "Open an account",
+      "Send money now"
+    ],
+    "observation": "Heavy uppercase centered text sits above a bright globe and currency illustration."
+  },
+  {
+    "id": "revolut",
+    "industry": "Finance",
+    "audience": "Consumers",
+    "conversion_goal": "download",
+    "style": "photography-led",
+    "color_family": "blue",
+    "hero_layout": "left",
+    "headline": "BREAKTHROUGH BANKING",
+    "ctas": [
+      "Get the app"
+    ],
+    "observation": "Large uppercase white text overlays a blue-sky portrait, with a floating banking balance interface."
+  },
+  {
+    "id": "ramp",
+    "industry": "Finance",
+    "audience": "Business finance teams",
+    "conversion_goal": "lead-capture",
+    "style": "interface-led",
+    "color_family": "lime",
+    "hero_layout": "left",
+    "headline": "Time is money. Save both.",
+    "ctas": [
+      "Learn more, get a grill",
+      "See a demo"
+    ],
+    "observation": "Large left-aligned black type and a lime email CTA sit above floating invoice panels on a faint dotted grid."
+  },
+  {
+    "id": "gusto",
+    "industry": "HR and employment",
+    "audience": "Business owners and HR teams",
+    "conversion_goal": "signup",
+    "style": "expressive-product",
+    "color_family": "red",
+    "hero_layout": "centered",
+    "headline": "Hire, pay, and grow like a pro.",
+    "ctas": [
+      "Create free account",
+      "How Gusto works"
+    ],
+    "observation": "White serif display type sits on a vivid red-pink background above layered payroll and team cards."
+  },
+  {
+    "id": "deel",
+    "industry": "HR and employment",
+    "audience": "Global employers",
+    "conversion_goal": "book-demo",
+    "style": "photography-led",
+    "color_family": "black",
+    "hero_layout": "split",
+    "headline": "Hire, manage, pay, & equip anyone, anywhere.",
+    "ctas": [
+      "Book a demo"
+    ],
+    "observation": "A black copy panel with task-selection cards is paired with a large celebrity campaign photograph."
+  },
+  {
+    "id": "remote-2",
+    "industry": "HR and employment",
+    "audience": "Global employers",
+    "conversion_goal": "book-demo",
+    "style": "diagram-led",
+    "color_family": "blue",
+    "hero_layout": "split",
+    "headline": "Global employment runs on Remote",
+    "ctas": [
+      "Book demo",
+      "Get started"
+    ],
+    "observation": "A pale split hero pairs left-aligned copy with a globe diagram and employment-status cards; a logo strip follows."
+  },
+  {
+    "id": "qonto",
+    "industry": "Finance",
+    "audience": "Business owners",
+    "conversion_goal": "open-account",
+    "style": "photography-led",
+    "color_family": "black",
+    "hero_layout": "left",
+    "headline": "Business account. Finance management. Company creation.",
+    "ctas": [
+      "Open an account"
+    ],
+    "observation": "White copy sits at the lower left over a full-width workspace photograph containing a finance dashboard."
+  },
+  {
+    "id": "linear",
+    "industry": "Productivity and collaboration",
+    "audience": "Product and engineering teams",
+    "conversion_goal": "open-app",
+    "style": "interface-led",
+    "color_family": "black",
+    "hero_layout": "left",
+    "headline": "The product development system for teams and agents",
+    "ctas": [
+      "Open app"
+    ],
+    "observation": "Light text on a near-black background precedes a broad, detailed product interface."
+  },
+  {
+    "id": "notion",
+    "industry": "Productivity and collaboration",
+    "audience": "Knowledge-work teams",
+    "conversion_goal": "signup",
+    "style": "interface-and-illustration",
+    "color_family": "white",
+    "hero_layout": "centered",
+    "headline": "Where teams and agents Ship together.",
+    "ctas": [
+      "Get Notion free",
+      "Request a demo"
+    ],
+    "observation": "Bold centered black type includes a green highlighted word above a product window and hand-drawn characters."
+  },
+  {
+    "id": "figma",
+    "industry": "Design and website building",
+    "audience": "Design and product teams",
+    "conversion_goal": "signup",
+    "style": "editorial-collage",
+    "color_family": "white",
+    "hero_layout": "three-part",
+    "headline": "The intelligent canvas for infinite creativity",
+    "ctas": [
+      "Get started"
+    ],
+    "observation": "Short left-aligned stacked type, a central collage of design canvases, and an isolated CTA create a three-part hero."
+  },
+  {
+    "id": "webflow",
+    "industry": "Design and website building",
+    "audience": "Marketing and web teams",
+    "conversion_goal": "signup",
+    "style": "showcase-led",
+    "color_family": "white",
+    "hero_layout": "left",
+    "headline": "Build for what’s next",
+    "ctas": [
+      "Get started",
+      "Talk to Sales"
+    ],
+    "observation": "A compact left-aligned promise and paired actions sit above a horizontal row of website and results cards."
+  },
+  {
+    "id": "framer",
+    "industry": "Design and website building",
+    "audience": "Designers and web teams",
+    "conversion_goal": "signup",
+    "style": "interface-led",
+    "color_family": "black",
+    "hero_layout": "left",
+    "headline": "Design with agents. Refine on the canvas. Ship with your team.",
+    "ctas": [
+      "Get started for free",
+      "Download app"
+    ],
+    "observation": "Three short lines of light type on black sit above a large website-editor screenshot."
+  },
+  {
+    "id": "squarespace",
+    "industry": "Design and website building",
+    "audience": "Creators and business owners",
+    "conversion_goal": "signup",
+    "style": "photography-led",
+    "color_family": "black",
+    "hero_layout": "centered",
+    "headline": "A website makes it real",
+    "ctas": [
+      "GET STARTED"
+    ],
+    "observation": "Centered white copy overlays a cinematic lifestyle photograph, with layered website examples below."
+  },
+  {
+    "id": "shopify",
+    "industry": "Commerce and logistics",
+    "audience": "Merchants",
+    "conversion_goal": "free-trial",
+    "style": "photography-led",
+    "color_family": "black",
+    "hero_layout": "left",
+    "headline": "Be the next big thing",
+    "ctas": [
+      "Start free trial"
+    ],
+    "observation": "Large light copy and a trial action overlay a commerce scene; a rounded dark platform section follows."
+  },
+  {
+    "id": "github",
+    "industry": "Developer infrastructure",
+    "audience": "Developers and engineering teams",
+    "conversion_goal": "free-trial",
+    "style": "illustration-led",
+    "color_family": "purple",
+    "hero_layout": "centered",
+    "headline": "The future of building happens together",
+    "ctas": [
+      "Start a 30 day free trial",
+      "Contact sales"
+    ],
+    "observation": "Centered white copy on a deep purple field leads into glowing character imagery and a product view."
+  },
+  {
+    "id": "vercel",
+    "industry": "Developer infrastructure",
+    "audience": "Developers and AI teams",
+    "conversion_goal": "deploy",
+    "style": "minimal-geometric",
+    "color_family": "white",
+    "hero_layout": "three-part",
+    "headline": "Agentic Infrastructure",
+    "ctas": [
+      "Deploy now",
+      "Talk to sales"
+    ],
+    "observation": "Sparse white composition places stacked copy, a black triangular mark, and short audience statements in separate zones."
+  },
+  {
+    "id": "supabase",
+    "industry": "Developer infrastructure",
+    "audience": "Developers",
+    "conversion_goal": "start-project",
+    "style": "bold-typography",
+    "color_family": "black",
+    "hero_layout": "centered",
+    "headline": "Build in a weekend Scale to millions",
+    "ctas": [
+      "Start your project",
+      "Documentation"
+    ],
+    "observation": "A centered two-line promise switches from white to green on black, followed by logos and capability cards."
+  },
+  {
+    "id": "cloudflare-workers",
+    "industry": "Developer infrastructure",
+    "audience": "Developers",
+    "conversion_goal": "signup",
+    "style": "diagram-led",
+    "color_family": "white",
+    "hero_layout": "centered",
+    "headline": "Deploy serverless functions globally in seconds",
+    "ctas": [
+      "Start building for free",
+      "View docs"
+    ],
+    "observation": "A faint serverless network diagram sits above centered type and an orange action; concise benefits sit below."
+  },
+  {
+    "id": "cursor",
+    "industry": "AI products",
+    "audience": "Developers",
+    "conversion_goal": "download",
+    "style": "interface-led",
+    "color_family": "cream",
+    "hero_layout": "left",
+    "headline": "Built to make you extraordinarily productive, Cursor is the best way to code with AI.",
+    "ctas": [
+      "Download for macOS"
+    ],
+    "observation": "Small, restrained left-aligned copy and a download action precede a large editor view on a landscape backdrop."
+  },
+  {
+    "id": "claude",
+    "industry": "AI products",
+    "audience": "Knowledge workers",
+    "conversion_goal": "try-product",
+    "style": "illustration-led",
+    "color_family": "cream",
+    "hero_layout": "split",
+    "headline": "Meet your thinking partner",
+    "ctas": [
+      "Ask Claude",
+      "Try Claude"
+    ],
+    "observation": "Warm cream space pairs serif copy and a prompt field with a loose black line illustration and orange circle."
+  },
+  {
+    "id": "chatgpt",
+    "industry": "AI products",
+    "audience": "Consumers and knowledge workers",
+    "conversion_goal": "try-product",
+    "style": "interface-and-illustration",
+    "color_family": "white",
+    "hero_layout": "centered",
+    "headline": "Now you can chat, work & code all in one place.",
+    "ctas": [
+      "Try it now*",
+      "Download the app"
+    ],
+    "observation": "Large centered black type includes a colored word, with paired actions and overlapping application views below."
+  },
+  {
+    "id": "runway",
+    "industry": "AI products",
+    "audience": "Creative and technical teams",
+    "conversion_goal": "free-trial",
+    "style": "photography-led",
+    "color_family": "blue",
+    "hero_layout": "left",
+    "headline": "Building Real-World Intelligence",
+    "ctas": [
+      "Try Runway for free"
+    ],
+    "observation": "White copy overlays a cinematic icy landscape; logos and platform explanations follow."
+  },
+  {
+    "id": "descript-2",
+    "industry": "AI products",
+    "audience": "Video creators",
+    "conversion_goal": "signup",
+    "style": "expressive-product",
+    "color_family": "burgundy",
+    "hero_layout": "centered",
+    "headline": "AI-editing for every kind of video",
+    "ctas": [
+      "Get started for free"
+    ],
+    "observation": "Large white serif text on burgundy precedes overlapping editing and chat interface panels."
+  },
+  {
+    "id": "grammarly",
+    "industry": "AI products",
+    "audience": "Writers and teams",
+    "conversion_goal": "signup",
+    "style": "interface-led",
+    "color_family": "white",
+    "hero_layout": "split",
+    "headline": "Responsible AI that ensures your writing and reputation shine",
+    "ctas": [
+      "Sign up It’s free",
+      "Sign up with Google"
+    ],
+    "observation": "A left-aligned benefit headline is paired with a small writing-suggestion example; a dense logo strip supplies proof."
+  },
+  {
+    "id": "intercom",
+    "industry": "Customer service",
+    "audience": "Customer support teams",
+    "conversion_goal": "free-trial",
+    "style": "editorial-collage",
+    "color_family": "white",
+    "hero_layout": "split",
+    "headline": "The only helpdesk designed for the AI Agent era",
+    "ctas": [
+      "Start free trial",
+      "View demo"
+    ],
+    "observation": "An oversized headline and compact supporting column sit above artwork tiles and a helpdesk screenshot."
+  },
+  {
+    "id": "zendesk",
+    "industry": "Customer service",
+    "audience": "Customer support teams",
+    "conversion_goal": "free-trial",
+    "style": "photography-led",
+    "color_family": "lime",
+    "hero_layout": "left",
+    "headline": "Move beyond deflection. Deliver real resolutions.",
+    "ctas": [
+      "Try for free",
+      "View demo"
+    ],
+    "observation": "A rounded full-width portrait stage contains light headline text, an email field, and a lime trial action."
+  },
+  {
+    "id": "mailchimp",
+    "industry": "Marketing and sales",
+    "audience": "Marketing teams",
+    "conversion_goal": "signup",
+    "style": "editorial-showcase",
+    "color_family": "yellow",
+    "hero_layout": "centered",
+    "headline": "Turn Emails into Revenue",
+    "ctas": [
+      "Sign Up"
+    ],
+    "observation": "Centered serif copy and a yellow action lead into four adjacent feature panels mixing product UI, people, and objects."
+  },
+  {
+    "id": "buffer",
+    "industry": "Marketing and sales",
+    "audience": "Creators and social teams",
+    "conversion_goal": "signup",
+    "style": "icon-led",
+    "color_family": "white",
+    "hero_layout": "centered",
+    "headline": "Your social media workspace",
+    "ctas": [
+      "Get started for free"
+    ],
+    "observation": "Centered type and an email field are surrounded by platform icons; a customer-logo strip follows."
+  },
+  {
+    "id": "ahrefs",
+    "industry": "Marketing and sales",
+    "audience": "SEO and marketing teams",
+    "conversion_goal": "signup",
+    "style": "bold-typography",
+    "color_family": "blue",
+    "hero_layout": "left",
+    "headline": "Everything you need to rank higher & get more traffic",
+    "ctas": [
+      "Sign up for Ahrefs"
+    ],
+    "observation": "Large light text with inline playful graphics sits on saturated blue beside orange signup and social-proof elements."
+  },
+  {
+    "id": "semrush",
+    "industry": "Marketing and sales",
+    "audience": "Marketing teams",
+    "conversion_goal": "lead-capture",
+    "style": "interface-led",
+    "color_family": "mint",
+    "hero_layout": "centered",
+    "headline": "Be found everywhere search happens",
+    "ctas": [
+      "Get insights"
+    ],
+    "observation": "Centered black type on a pale mint background leads into a website-input action and a broad analytics panel."
+  },
+  {
+    "id": "typeform",
+    "industry": "Marketing and sales",
+    "audience": "Marketing and research teams",
+    "conversion_goal": "signup",
+    "style": "editorial-typography",
+    "color_family": "purple",
+    "hero_layout": "centered",
+    "headline": "Your favorite forms. Now with AI automation.",
+    "ctas": [
+      "Get started—it’s free"
+    ],
+    "observation": "Large centered light serif type on dark purple sits above a CTA and three compact capability panels."
+  },
+  {
+    "id": "calendly",
+    "industry": "Productivity and collaboration",
+    "audience": "Professionals and sales teams",
+    "conversion_goal": "signup",
+    "style": "interface-led",
+    "color_family": "blue",
+    "hero_layout": "centered",
+    "headline": "All the work around meetings, handled.",
+    "ctas": [
+      "Sign up with Google",
+      "Sign up with Microsoft"
+    ],
+    "observation": "Centered dark copy and two provider-signup actions lead into a broad scheduling interface framed by blue gradients."
+  },
+  {
+    "id": "basecamp",
+    "industry": "Productivity and collaboration",
+    "audience": "Project teams",
+    "conversion_goal": "signup",
+    "style": "editorial-product",
+    "color_family": "cream",
+    "hero_layout": "split",
+    "headline": "The refreshingly straightforward project management system that’s rock-solid and easy to use.",
+    "ctas": [
+      "Sign up free"
+    ],
+    "observation": "An unusually utilitarian column of text links and a lower headline accompany a project dashboard, with highlighted testimonial excerpts below."
+  },
+  {
+    "id": "todoist",
+    "industry": "Productivity and collaboration",
+    "audience": "Individuals and teams",
+    "conversion_goal": "signup",
+    "style": "interface-and-illustration",
+    "color_family": "cream",
+    "hero_layout": "split",
+    "headline": "Organize your work and life, finally.",
+    "ctas": [
+      "Start for free"
+    ],
+    "observation": "Left-aligned black copy and a red action sit beside desktop and phone task views; illustrated waves frame publication quotes below."
+  },
+  {
+    "id": "dropbox",
+    "industry": "Productivity and collaboration",
+    "audience": "Individuals and teams",
+    "conversion_goal": "free-trial",
+    "style": "interface-led",
+    "color_family": "white",
+    "hero_layout": "split",
+    "headline": "Get to work, with a lot less work",
+    "ctas": [
+      "Try Dropbox free"
+    ],
+    "observation": "A compact copy column and blue action sit beside desktop and mobile file views; customer proof follows."
+  },
+  {
+    "id": "miro",
+    "industry": "Productivity and collaboration",
+    "audience": "Collaborative teams",
+    "conversion_goal": "signup",
+    "style": "interface-led",
+    "color_family": "cream",
+    "hero_layout": "centered",
+    "headline": "Innovate faster with Miro, the AI-powered visual workspace.",
+    "ctas": [
+      "Sign up free"
+    ],
+    "observation": "Wide centered copy on cream sits above an email form and a broad collaborative-board screenshot."
+  },
+  {
+    "id": "coda",
+    "industry": "Productivity and collaboration",
+    "audience": "Knowledge-work teams",
+    "conversion_goal": "signup",
+    "style": "interface-led",
+    "color_family": "peach",
+    "hero_layout": "left",
+    "headline": "Your all-in-one collaborative workspace.",
+    "ctas": [
+      "Get started for free",
+      "Contact sales"
+    ],
+    "observation": "Bold left-aligned type and black/white actions sit above a large project-workspace screenshot on peach."
+  },
+  {
+    "id": "pitch",
+    "industry": "Productivity and collaboration",
+    "audience": "Presentation and sales teams",
+    "conversion_goal": "generate",
+    "style": "template-collage",
+    "color_family": "purple",
+    "hero_layout": "centered",
+    "headline": "Create slides that win.",
+    "ctas": [
+      "Generate"
+    ],
+    "observation": "Oversized white text overlays purple-tinted slide thumbnails, with a central presentation prompt field."
+  },
+  {
+    "id": "raycast",
+    "industry": "Productivity and collaboration",
+    "audience": "Desktop power users",
+    "conversion_goal": "download",
+    "style": "abstract-3d",
+    "color_family": "black",
+    "hero_layout": "centered",
+    "headline": "Your shortcut to everything.",
+    "ctas": [
+      "Download"
+    ],
+    "observation": "Centered white copy and a download action sit on black in front of angular glowing red geometry."
+  },
+  {
+    "id": "patreon",
+    "industry": "Creator platforms",
+    "audience": "Creators",
+    "conversion_goal": "signup",
+    "style": "photography-led",
+    "color_family": "natural",
+    "hero_layout": "distributed",
+    "headline": "Make it making art",
+    "ctas": [
+      "Get Started"
+    ],
+    "observation": "A full-bleed creator portrait uses large white words spread across the lower hero and a compact centered brand navigation."
+  },
+  {
+    "id": "substack",
+    "industry": "Creator platforms",
+    "audience": "Writers and creators",
+    "conversion_goal": "start-publishing",
+    "style": "abstract-gradient",
+    "color_family": "orange",
+    "hero_layout": "centered",
+    "headline": "Make money doing the work you believe in.",
+    "ctas": [
+      "Start your Substack"
+    ],
+    "observation": "Centered light serif copy sits over an orange-to-green textured gradient, followed by a four-benefit strip."
+  },
+  {
+    "id": "teachable",
+    "industry": "Education",
+    "audience": "Education creators",
+    "conversion_goal": "signup",
+    "style": "interface-led",
+    "color_family": "lime",
+    "hero_layout": "centered",
+    "headline": "The easiest-to-use platform to grow your education business",
+    "ctas": [
+      "Start for free",
+      "Explore our plans"
+    ],
+    "observation": "Large centered black serif copy and lime actions lead into an education-product setup interface."
+  },
+  {
+    "id": "brilliant",
+    "industry": "Education",
+    "audience": "Learners and parents",
+    "conversion_goal": "audience-selection",
+    "style": "illustration-led",
+    "color_family": "green",
+    "hero_layout": "split",
+    "headline": "Your personal tutor for math and coding",
+    "ctas": [
+      "I’m a learner",
+      "I’m a parent or teacher"
+    ],
+    "observation": "A left-aligned serif promise and two audience choices sit beside a geometric learning illustration on pale gray."
+  },
+  {
+    "id": "oscar",
+    "industry": "Healthcare",
+    "audience": "Insurance shoppers",
+    "conversion_goal": "find-plan",
+    "style": "photography-led",
+    "color_family": "purple",
+    "hero_layout": "centered",
+    "headline": "Health insurance made for real life",
+    "ctas": [
+      "Find a Plan"
+    ],
+    "observation": "A full-width multigenerational family photograph anchors large light serif copy; a purple plan-finding action appears in navigation."
+  },
+  {
+    "id": "infermedica",
+    "industry": "Healthcare",
+    "audience": "Healthcare organizations",
+    "conversion_goal": "book-meeting",
+    "style": "photography-and-interface",
+    "color_family": "purple",
+    "hero_layout": "centered",
+    "headline": "Provide the most accurate and efficient care with Infermedica's symptom checker and virtual triage",
+    "ctas": [
+      "Schedule a meeting"
+    ],
+    "observation": "A centered text-led hero highlights the product phrase in purple, above a patient photograph with symptom-interface overlays."
+  },
+  {
+    "id": "shipbob",
+    "industry": "Commerce and logistics",
+    "audience": "Ecommerce businesses",
+    "conversion_goal": "get-quote",
+    "style": "testimonial-led",
+    "color_family": "blue",
+    "hero_layout": "split",
+    "headline": "Chaos-proof your fulfillment with ShipBob",
+    "ctas": [
+      "Get A Quote"
+    ],
+    "observation": "A left-aligned benefit headline and three bullets face a customer portrait with a testimonial card, followed by a logo strip."
+  },
+  {
+    "id": "mapbox",
+    "industry": "Developer infrastructure",
+    "audience": "Developers and businesses",
+    "conversion_goal": "signup",
+    "style": "technical-minimal",
+    "color_family": "black",
+    "hero_layout": "centered",
+    "headline": "Location Infrastructure for AI",
+    "ctas": [
+      "Get started for free",
+      "Contact us"
+    ],
+    "observation": "Centered light type and a blue action sit on black above large customer logos; product examples follow further down the page."
+  }
+]

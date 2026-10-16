@@ -1,0 +1,2309 @@
+[
+  {
+    "height": 6181,
+    "lines": [
+      {
+        "bbox_px": [
+          75,
+          25,
+          151,
+          39
+        ],
+        "confidence": 1,
+        "text": "Products •"
+      },
+      {
+        "bbox_px": [
+          169,
+          26,
+          256,
+          39
+        ],
+        "confidence": 1,
+        "text": "Resources v"
+      },
+      {
+        "bbox_px": [
+          271,
+          26,
+          344,
+          41
+        ],
+        "confidence": 1,
+        "text": "Enterprise"
+      },
+      {
+        "bbox_px": [
+          363,
+          26,
+          410,
+          41
+        ],
+        "confidence": 1,
+        "text": "Pricing"
+      },
+      {
+        "bbox_px": [
+          556,
+          88,
+          713,
+          105
+        ],
+        "confidence": 1,
+        "text": "Ship 26 is coming to SF"
+      },
+      {
+        "bbox_px": [
+          742,
+          86,
+          865,
+          105
+        ],
+        "confidence": 1,
+        "text": "Get your ticket ›"
+      },
+      {
+        "bbox_px": [
+          23,
+          466,
+          224,
+          524
+        ],
+        "confidence": 1,
+        "text": "Agentic"
+      },
+      {
+        "bbox_px": [
+          17,
+          530,
+          374,
+          584
+        ],
+        "confidence": 1,
+        "text": "Infrastructure"
+      },
+      {
+        "bbox_px": [
+          36,
+          626,
+          133,
+          649
+        ],
+        "confidence": 1,
+        "text": "Deploy now"
+      },
+      {
+        "bbox_px": [
+          172,
+          624,
+          274,
+          649
+        ],
+        "confidence": 1,
+        "text": "Talk to sales"
+      },
+      {
+        "bbox_px": [
+          20,
+          1079,
+          156,
+          1107
+        ],
+        "confidence": 1,
+        "text": "@BLACKBOX.AI"
+      },
+      {
+        "bbox_px": [
+          267,
+          1074,
+          332,
+          1103
+        ],
+        "confidence": 1,
+        "text": "charles"
+      },
+      {
+        "bbox_px": [
+          266,
+          1093,
+          329,
+          1114
+        ],
+        "confidence": 1,
+        "text": "SCHWAI"
+      },
+      {
+        "bbox_px": [
+          444,
+          1080,
+          598,
+          1106
+        ],
+        "confidence": 1,
+        "text": "→ DOORDASH"
+      },
+      {
+        "bbox_px": [
+          705,
+          1082,
+          792,
+          1107
+        ],
+        "confidence": 1,
+        "text": "OpenAl"
+      },
+      {
+        "bbox_px": [
+          893,
+          1076,
+          1004,
+          1111
+        ],
+        "confidence": 1,
+        "text": "Supreme"
+      },
+      {
+        "bbox_px": [
+          28,
+          1373,
+          697,
+          1420
+        ],
+        "confidence": 1,
+        "text": "Build agents on infrastructure"
+      },
+      {
+        "bbox_px": [
+          20,
+          1425,
+          486,
+          1473
+        ],
+        "confidence": 1,
+        "text": "that thinks like them"
+      },
+      {
+        "bbox_px": [
+          425,
+          1540,
+          533,
+          1554
+        ],
+        "confidence": 1,
+        "text": "New Al chat v"
+      },
+      {
+        "bbox_px": [
+          80,
+          1677,
+          188,
+          1705
+        ],
+        "confidence": 1,
+        "text": "Strategi"
+      },
+      {
+        "bbox_px": [
+          431,
+          1650,
+          671,
+          1674
+        ],
+        "confidence": 1,
+        "text": "How can I help you today?"
+      },
+      {
+        "bbox_px": [
+          430,
+          1699,
+          588,
+          1719
+        ],
+        "confidence": 1,
+        "text": "AX Translate this page"
+      },
+      {
+        "bbox_px": [
+          433,
+          1737,
+          593,
+          1756
+        ],
+        "confidence": 1,
+        "text": "Q Analyze for insights"
+      },
+      {
+        "bbox_px": [
+          433,
+          1773,
+          601,
+          1792
+        ],
+        "confidence": 1,
+        "text": "• Create a task tracker"
+      },
+      {
+        "bbox_px": [
+          1160,
+          26,
+          1241,
+          39
+        ],
+        "confidence": 1,
+        "text": "Get a Demo"
+      },
+      {
+        "bbox_px": [
+          1272,
+          25,
+          1317,
+          42
+        ],
+        "confidence": 1,
+        "text": "Log In"
+      },
+      {
+        "bbox_px": [
+          1348,
+          23,
+          1403,
+          41
+        ],
+        "confidence": 1,
+        "text": "Sign Up"
+      },
+      {
+        "bbox_px": [
+          1055,
+          515,
+          1189,
+          535
+        ],
+        "confidence": 1,
+        "text": "For coding agents"
+      },
+      {
+        "bbox_px": [
+          1055,
+          549,
+          1230,
+          565
+        ],
+        "confidence": 1,
+        "text": "To ship apps and agents"
+      },
+      {
+        "bbox_px": [
+          1058,
+          580,
+          1215,
+          599
+        ],
+        "confidence": 1,
+        "text": "Automated by agents"
+      },
+      {
+        "bbox_px": [
+          1108,
+          1070,
+          1168,
+          1104
+        ],
+        "confidence": 1,
+        "text": "Weather"
+      },
+      {
+        "bbox_px": [
+          1110,
+          1101,
+          1173,
+          1117
+        ],
+        "confidence": 1,
+        "text": "Company"
+      },
+      {
+        "bbox_px": [
+          1280,
+          1074,
+          1421,
+          1112
+        ],
+        "confidence": 1,
+        "text": "& Polymarket"
+      },
+      {
+        "bbox_px": [
+          1079,
+          1642,
+          1406,
+          1669
+        ],
+        "confidence": 1,
+        "text": "Notion powers millions of agent"
+      },
+      {
+        "bbox_px": [
+          1079,
+          1673,
+          1385,
+          1700
+        ],
+        "confidence": 1,
+        "text": "conversations daily on Vercel."
+      },
+      {
+        "bbox_px": [
+          1079,
+          1742,
+          1139,
+          1763
+        ],
+        "confidence": 1,
+        "text": "Features"
+      },
+      {
+        "bbox_px": [
+          1079,
+          1768,
+          1228,
+          1786
+        ],
+        "confidence": 1,
+        "text": "Durable Orchestration"
+      },
+      {
+        "bbox_px": [
+          80,
+          1678,
+          259,
+          1708
+        ],
+        "confidence": 1,
+        "text": "Strategy doc"
+      },
+      {
+        "bbox_px": [
+          433,
+          1651,
+          671,
+          1673
+        ],
+        "confidence": 1,
+        "text": "How can I help you today?"
+      },
+      {
+        "bbox_px": [
+          430,
+          1699,
+          588,
+          1718
+        ],
+        "confidence": 1,
+        "text": "A* Translate this page"
+      },
+      {
+        "bbox_px": [
+          433,
+          1738,
+          593,
+          1757
+        ],
+        "confidence": 1,
+        "text": "Q Analyze for insights"
+      },
+      {
+        "bbox_px": [
+          433,
+          1772,
+          601,
+          1793
+        ],
+        "confidence": 1,
+        "text": "Create a task tracker"
+      },
+      {
+        "bbox_px": [
+          452,
+          1832,
+          465,
+          1848
+        ],
+        "confidence": 1,
+        "text": "@"
+      },
+      {
+        "bbox_px": [
+          491,
+          1832,
+          588,
+          1849
+        ],
+        "confidence": 1,
+        "text": "D Strategy doc"
+      },
+      {
+        "bbox_px": [
+          438,
+          1871,
+          616,
+          1888
+        ],
+        "confidence": 1,
+        "text": "Ask, search, or make anything"
+      },
+      {
+        "bbox_px": [
+          1079,
+          1643,
+          1406,
+          1668
+        ],
+        "confidence": 1,
+        "text": "Notion powers millions of agent"
+      },
+      {
+        "bbox_px": [
+          1079,
+          1675,
+          1382,
+          1699
+        ],
+        "confidence": 1,
+        "text": "conversations daily on Vercel."
+      },
+      {
+        "bbox_px": [
+          1081,
+          1743,
+          1139,
+          1756
+        ],
+        "confidence": 1,
+        "text": "Features"
+      },
+      {
+        "bbox_px": [
+          1079,
+          1770,
+          1228,
+          1786
+        ],
+        "confidence": 1,
+        "text": "Durable Orchestration"
+      },
+      {
+        "bbox_px": [
+          1079,
+          1793,
+          1252,
+          1812
+        ],
+        "confidence": 1,
+        "text": "Sandboxed Environments"
+      },
+      {
+        "bbox_px": [
+          1079,
+          1820,
+          1205,
+          1838
+        ],
+        "confidence": 1,
+        "text": "AI Model Gateway"
+      },
+      {
+        "bbox_px": [
+          1079,
+          1848,
+          1178,
+          1864
+        ],
+        "confidence": 1,
+        "text": "Fluid Compute"
+      },
+      {
+        "bbox_px": [
+          493,
+          2243,
+          1071,
+          2298
+        ],
+        "confidence": 1,
+        "text": "Ship apps that scale from"
+      },
+      {
+        "bbox_px": [
+          493,
+          2287,
+          1043,
+          2351
+        ],
+        "confidence": 1,
+        "text": "zero to millions instantly"
+      },
+      {
+        "bbox_px": [
+          507,
+          2405,
+          684,
+          2426
+        ],
+        "confidence": 1,
+        "text": "Zapier Products ~"
+      },
+      {
+        "bbox_px": [
+          770,
+          2411,
+          974,
+          2424
+        ],
+        "confidence": 1,
+        "text": "Resources v Enterprise Pricing"
+      },
+      {
+        "bbox_px": [
+          1123,
+          2405,
+          1327,
+          2424
+        ],
+        "confidence": 1,
+        "text": "Q Contact sales Login"
+      },
+      {
+        "bbox_px": [
+          20,
+          2515,
+          326,
+          2539
+        ],
+        "confidence": 1,
+        "text": "Zapier serves over 100 million"
+      },
+      {
+        "bbox_px": [
+          23,
+          2546,
+          358,
+          2574
+        ],
+        "confidence": 1,
+        "text": "monthly website visits on Vercel."
+      },
+      {
+        "bbox_px": [
+          23,
+          2617,
+          83,
+          2630
+        ],
+        "confidence": 1,
+        "text": "Features"
+      },
+      {
+        "bbox_px": [
+          23,
+          2642,
+          125,
+          2658
+        ],
+        "confidence": 1,
+        "text": "Global Delivery"
+      },
+      {
+        "bbox_px": [
+          23,
+          2669,
+          198,
+          2683
+        ],
+        "confidence": 1,
+        "text": "Deployment Environments"
+      },
+      {
+        "bbox_px": [
+          23,
+          2693,
+          164,
+          2709
+        ],
+        "confidence": 1,
+        "text": "Serverless Functions"
+      },
+      {
+        "bbox_px": [
+          23,
+          2719,
+          188,
+          2735
+        ],
+        "confidence": 1,
+        "text": "Web Application Firewall"
+      },
+      {
+        "bbox_px": [
+          880,
+          2515,
+          1027,
+          2529
+        ],
+        "confidence": 1,
+        "text": "AI AUTOMATION, GOVERNED"
+      },
+      {
+        "bbox_px": [
+          713,
+          2549,
+          1196,
+          2588
+        ],
+        "confidence": 1,
+        "text": "Your tools. Your rules. Any Al."
+      },
+      {
+        "bbox_px": [
+          700,
+          2609,
+          1210,
+          2625
+        ],
+        "confidence": 1,
+        "text": "Zapier gives teams one place to set guardrails, manage model access, and see everything - so"
+      },
+      {
+        "bbox_px": [
+          729,
+          2627,
+          1178,
+          2641
+        ],
+        "confidence": 1,
+        "text": "everyone can build with Al confidently, on any model, without waiting for permission."
+      },
+      {
+        "bbox_px": [
+          794,
+          2673,
+          922,
+          2693
+        ],
+        "confidence": 1,
+        "text": "Start free with emal!"
+      },
+      {
+        "bbox_px": [
+          956,
+          2674,
+          1115,
+          2690
+        ],
+        "confidence": 1,
+        "text": "G Start free with Google"
+      },
+      {
+        "bbox_px": [
+          747,
+          2740,
+          807,
+          2759
+        ],
+        "confidence": 1,
+        "text": "450K+"
+      },
+      {
+        "bbox_px": [
+          749,
+          2763,
+          810,
+          2777
+        ],
+        "confidence": 1,
+        "text": "Agents built"
+      },
+      {
+        "bbox_px": [
+          925,
+          2740,
+          985,
+          2756
+        ],
+        "confidence": 1,
+        "text": "9,000+"
+      },
+      {
+        "bbox_px": [
+          904,
+          2764,
+          1003,
+          2777
+        ],
+        "confidence": 1,
+        "text": "App integrations with"
+      },
+      {
+        "bbox_px": [
+          912,
+          2776,
+          995,
+          2790
+        ],
+        "confidence": 1,
+        "text": "govered access"
+      },
+      {
+        "bbox_px": [
+          1097,
+          2740,
+          1162,
+          2756
+        ],
+        "confidence": 1,
+        "text": "3.39M+"
+      },
+      {
+        "bbox_px": [
+          1068,
+          2764,
+          1191,
+          2777
+        ],
+        "confidence": 1,
+        "text": "MCP tool calls completed"
+      },
+      {
+        "bbox_px": [
+          23,
+          3117,
+          470,
+          3171
+        ],
+        "confidence": 1,
+        "text": "Host platforms that"
+      },
+      {
+        "bbox_px": [
+          25,
+          3175,
+          518,
+          3228
+        ],
+        "confidence": 1,
+        "text": "serve every customer"
+      },
+      {
+        "bbox_px": [
+          47,
+          3279,
+          120,
+          3297
+        ],
+        "confidence": 1,
+        "text": "•mintlify"
+      },
+      {
+        "bbox_px": [
+          47,
+          3321,
+          109,
+          3334
+        ],
+        "confidence": 1,
+        "text": "87 Get Started"
+      },
+      {
+        "bbox_px": [
+          46,
+          3341,
+          102,
+          3356
+        ],
+        "confidence": 1,
+        "text": "Introduction"
+      },
+      {
+        "bbox_px": [
+          44,
+          3363,
+          96,
+          3376
+        ],
+        "confidence": 1,
+        "text": "Quickstart"
+      },
+      {
+        "bbox_px": [
+          571,
+          3280,
+          620,
+          3298
+        ],
+        "confidence": 1,
+        "text": "Changelog"
+      },
+      {
+        "bbox_px": [
+          1079,
+          3373,
+          1238,
+          3397
+        ],
+        "confidence": 1,
+        "text": "Mintlify powers"
+      },
+      {
+        "bbox_px": [
+          23,
+          3200,
+          509,
+          3224
+        ],
+        "confidence": 0.5,
+        "text": "oolve evel y oaotennel"
+      },
+      {
+        "bbox_px": [
+          47,
+          3280,
+          117,
+          3296
+        ],
+        "confidence": 1,
+        "text": "• mintlify"
+      },
+      {
+        "bbox_px": [
+          133,
+          3283,
+          172,
+          3294
+        ],
+        "confidence": 1,
+        "text": "English -"
+      },
+      {
+        "bbox_px": [
+          47,
+          3320,
+          107,
+          3333
+        ],
+        "confidence": 1,
+        "text": "1 Get Started"
+      },
+      {
+        "bbox_px": [
+          44,
+          3343,
+          102,
+          3357
+        ],
+        "confidence": 1,
+        "text": "Introduction"
+      },
+      {
+        "bbox_px": [
+          47,
+          3364,
+          96,
+          3377
+        ],
+        "confidence": 1,
+        "text": "Quickstart"
+      },
+      {
+        "bbox_px": [
+          47,
+          3385,
+          75,
+          3398
+        ],
+        "confidence": 1,
+        "text": "CLI >"
+      },
+      {
+        "bbox_px": [
+          44,
+          3406,
+          88,
+          3419
+        ],
+        "confidence": 1,
+        "text": "Al-native"
+      },
+      {
+        "bbox_px": [
+          47,
+          3443,
+          96,
+          3451
+        ],
+        "confidence": 1,
+        "text": "m Organize"
+      },
+      {
+        "bbox_px": [
+          47,
+          3464,
+          120,
+          3477
+        ],
+        "confidence": 1,
+        "text": "Global settings"
+      },
+      {
+        "bbox_px": [
+          44,
+          3490,
+          91,
+          3495
+        ],
+        "confidence": 0.30000001192092896,
+        "text": "10198101"
+      },
+      {
+        "bbox_px": [
+          44,
+          3508,
+          75,
+          3519
+        ],
+        "confidence": 1,
+        "text": "Pages"
+      },
+      {
+        "bbox_px": [
+          44,
+          3527,
+          109,
+          3540
+        ],
+        "confidence": 1,
+        "text": "Hidden pages"
+      },
+      {
+        "bbox_px": [
+          44,
+          3553,
+          101,
+          3558
+        ],
+        "confidence": 1,
+        "text": "excuce Ties"
+      },
+      {
+        "bbox_px": [
+          47,
+          3584,
+          104,
+          3597
+        ],
+        "confidence": 1,
+        "text": "©, Customize"
+      },
+      {
+        "bbox_px": [
+          355,
+          3283,
+          423,
+          3294
+        ],
+        "confidence": 1,
+        "text": "Documentation"
+      },
+      {
+        "bbox_px": [
+          441,
+          3283,
+          473,
+          3294
+        ],
+        "confidence": 1,
+        "text": "Guides"
+      },
+      {
+        "bbox_px": [
+          491,
+          3283,
+          551,
+          3294
+        ],
+        "confidence": 1,
+        "text": "API reference"
+      },
+      {
+        "bbox_px": [
+          569,
+          3283,
+          619,
+          3296
+        ],
+        "confidence": 1,
+        "text": "Changelog"
+      },
+      {
+        "bbox_px": [
+          768,
+          3283,
+          812,
+          3297
+        ],
+        "confidence": 1,
+        "text": "Talk to us"
+      },
+      {
+        "bbox_px": [
+          1081,
+          3372,
+          1239,
+          3400
+        ],
+        "confidence": 1,
+        "text": "Mintlify powers"
+      },
+      {
+        "bbox_px": [
+          1081,
+          3406,
+          1322,
+          3424
+        ],
+        "confidence": 1,
+        "text": "documentation for over"
+      },
+      {
+        "bbox_px": [
+          1079,
+          3437,
+          1387,
+          3461
+        ],
+        "confidence": 1,
+        "text": "20,000 companies on Vercel."
+      },
+      {
+        "bbox_px": [
+          478,
+          3435,
+          642,
+          3459
+        ],
+        "confidence": 1,
+        "text": "Documentation"
+      },
+      {
+        "bbox_px": [
+          384,
+          3472,
+          736,
+          3485
+        ],
+        "confidence": 1,
+        "text": "Meet the next generation of documentation. Al-native, beautiful"
+      },
+      {
+        "bbox_px": [
+          418,
+          3487,
+          700,
+          3503
+        ],
+        "confidence": 1,
+        "text": "out-of-the-box, and built for developers and teams."
+      },
+      {
+        "bbox_px": [
+          1079,
+          3506,
+          1139,
+          3519
+        ],
+        "confidence": 1,
+        "text": "Features"
+      },
+      {
+        "bbox_px": [
+          1079,
+          3532,
+          1189,
+          3545
+        ],
+        "confidence": 1,
+        "text": "Tenant Isolation"
+      },
+      {
+        "bbox_px": [
+          1079,
+          3557,
+          1223,
+          3574
+        ],
+        "confidence": 1,
+        "text": "Domain Management"
+      },
+      {
+        "bbox_px": [
+          1079,
+          3584,
+          1243,
+          3598
+        ],
+        "confidence": 1,
+        "text": "Custom SSL Certificates"
+      },
+      {
+        "bbox_px": [
+          1079,
+          3610,
+          1173,
+          3623
+        ],
+        "confidence": 1,
+        "text": "Preview URLs"
+      },
+      {
+        "bbox_px": [
+          26,
+          3939,
+          420,
+          3995
+        ],
+        "confidence": 1,
+        "text": "Recently shipped"
+      },
+      {
+        "bbox_px": [
+          1178,
+          4141,
+          1233,
+          4154
+        ],
+        "confidence": 1,
+        "text": "VERCEL"
+      },
+      {
+        "bbox_px": [
+          1246,
+          4138,
+          1322,
+          4160
+        ],
+        "confidence": 1,
+        "text": "PASSPORT"
+      },
+      {
+        "bbox_px": [
+          1249,
+          4164,
+          1330,
+          4181
+        ],
+        "confidence": 1,
+        "text": "PASAPORTE"
+      },
+      {
+        "bbox_px": [
+          1249,
+          4188,
+          1338,
+          4204
+        ],
+        "confidence": 1,
+        "text": "PASSAPORTO"
+      },
+      {
+        "bbox_px": [
+          744,
+          4262,
+          841,
+          4285
+        ],
+        "confidence": 1,
+        "text": "Passport"
+      },
+      {
+        "bbox_px": [
+          747,
+          4293,
+          987,
+          4311
+        ],
+        "confidence": 1,
+        "text": "Secure every internal agent, app, and"
+      },
+      {
+        "bbox_px": [
+          747,
+          4311,
+          998,
+          4330
+        ],
+        "confidence": 1,
+        "text": "deployment with your identity provider."
+      },
+      {
+        "bbox_px": [
+          1063,
+          4429,
+          1181,
+          4445
+        ],
+        "confidence": 1,
+        "text": "A vercel deploy"
+      },
+      {
+        "bbox_px": [
+          1066,
+          4453,
+          1144,
+          4466
+        ],
+        "confidence": 1,
+        "text": "Vercel CLI"
+      },
+      {
+        "bbox_px": [
+          1068,
+          4476,
+          1353,
+          4490
+        ],
+        "confidence": 1,
+        "text": "v Building image from Dockerfile.vercel"
+      },
+      {
+        "bbox_px": [
+          1068,
+          4497,
+          1369,
+          4510
+        ],
+        "confidence": 1,
+        "text": "v Stored image in your project's registry"
+      },
+      {
+        "bbox_px": [
+          1066,
+          4515,
+          1264,
+          4531
+        ],
+        "confidence": 1,
+        "text": "v Deployed to Fluid compute"
+      },
+      {
+        "bbox_px": [
+          1066,
+          4539,
+          1361,
+          4555
+        ],
+        "confidence": 1,
+        "text": "Production: https://my-server.vercel.app"
+      },
+      {
+        "bbox_px": [
+          44,
+          4615,
+          308,
+          4631
+        ],
+        "confidence": 1,
+        "text": "A framework for building durable agents."
+      },
+      {
+        "bbox_px": [
+          747,
+          4563,
+          859,
+          4584
+        ],
+        "confidence": 1,
+        "text": "Containers"
+      },
+      {
+        "bbox_px": [
+          747,
+          4593,
+          935,
+          4610
+        ],
+        "confidence": 1,
+        "text": "Run production workloads in"
+      },
+      {
+        "bbox_px": [
+          747,
+          4615,
+          940,
+          4628
+        ],
+        "confidence": 1,
+        "text": "isolated containers on Vercel."
+      },
+      {
+        "bbox_px": [
+          415,
+          4934,
+          1027,
+          4995
+        ],
+        "confidence": 1,
+        "text": "Built by you, or your agents"
+      },
+      {
+        "bbox_px": [
+          420,
+          4935,
+          1027,
+          4997
+        ],
+        "confidence": 1,
+        "text": "Built by you, or your agents"
+      },
+      {
+        "bbox_px": [
+          533,
+          5037,
+          625,
+          5054
+        ],
+        "confidence": 1,
+        "text": "Deploy now"
+      },
+      {
+        "bbox_px": [
+          665,
+          5035,
+          908,
+          5054
+        ],
+        "confidence": 1,
+        "text": "* Onboard your agent"
+      },
+      {
+        "bbox_px": [
+          20,
+          5393,
+          106,
+          5412
+        ],
+        "confidence": 1,
+        "text": "Agent Stack"
+      },
+      {
+        "bbox_px": [
+          20,
+          5426,
+          75,
+          5447
+        ],
+        "confidence": 1,
+        "text": "AI SDK"
+      },
+      {
+        "bbox_px": [
+          20,
+          5457,
+          100,
+          5477
+        ],
+        "confidence": 1,
+        "text": "AI Gateway"
+      },
+      {
+        "bbox_px": [
+          20,
+          5485,
+          83,
+          5504
+        ],
+        "confidence": 1,
+        "text": "Sandbox"
+      },
+      {
+        "bbox_px": [
+          20,
+          5510,
+          96,
+          5531
+        ],
+        "confidence": 1,
+        "text": "Workflows"
+      },
+      {
+        "bbox_px": [
+          20,
+          5541,
+          119,
+          5561
+        ],
+        "confidence": 1,
+        "text": "Connect New"
+      },
+      {
+        "bbox_px": [
+          20,
+          5567,
+          121,
+          5588
+        ],
+        "confidence": 1,
+        "text": "Passport New"
+      },
+      {
+        "bbox_px": [
+          20,
+          5596,
+          92,
+          5616
+        ],
+        "confidence": 1,
+        "text": "eve New"
+      },
+      {
+        "bbox_px": [
+          257,
+          5389,
+          355,
+          5412
+        ],
+        "confidence": 1,
+        "text": "Core Platform"
+      },
+      {
+        "bbox_px": [
+          255,
+          5424,
+          303,
+          5448
+        ],
+        "confidence": 1,
+        "text": "CI/CD"
+      },
+      {
+        "bbox_px": [
+          255,
+          5458,
+          370,
+          5476
+        ],
+        "confidence": 1,
+        "text": "Content Delivery"
+      },
+      {
+        "bbox_px": [
+          257,
+          5485,
+          355,
+          5504
+        ],
+        "confidence": 1,
+        "text": "Fluid Compute"
+      },
+      {
+        "bbox_px": [
+          257,
+          5510,
+          349,
+          5533
+        ],
+        "confidence": 1,
+        "text": "Observability"
+      },
+      {
+        "bbox_px": [
+          491,
+          5391,
+          553,
+          5413
+        ],
+        "confidence": 1,
+        "text": "Security"
+      },
+      {
+        "bbox_px": [
+          491,
+          5426,
+          611,
+          5449
+        ],
+        "confidence": 1,
+        "text": "Platform Security"
+      },
+      {
+        "bbox_px": [
+          493,
+          5456,
+          529,
+          5474
+        ],
+        "confidence": 1,
+        "text": "WAF"
+      },
+      {
+        "bbox_px": [
+          493,
+          5485,
+          609,
+          5504
+        ],
+        "confidence": 1,
+        "text": "Bot Management"
+      },
+      {
+        "bbox_px": [
+          491,
+          5510,
+          535,
+          5531
+        ],
+        "confidence": 1,
+        "text": "BotID"
+      },
+      {
+        "bbox_px": [
+          728,
+          5393,
+          770,
+          5412
+        ],
+        "confidence": 1,
+        "text": "Tools"
+      },
+      {
+        "bbox_px": [
+          728,
+          5425,
+          849,
+          5450
+        ],
+        "confidence": 1,
+        "text": "Vercel Drop New"
+      },
+      {
+        "bbox_px": [
+          728,
+          5457,
+          818,
+          5477
+        ],
+        "confidence": 1,
+        "text": "Vercel Agent"
+      },
+      {
+        "bbox_px": [
+          728,
+          5485,
+          858,
+          5504
+        ],
+        "confidence": 1,
+        "text": "Vercel Plugin New"
+      },
+      {
+        "bbox_px": [
+          728,
+          5510,
+          812,
+          5533
+        ],
+        "confidence": 1,
+        "text": "Agent Skills"
+      },
+      {
+        "bbox_px": [
+          726,
+          5540,
+          791,
+          5561
+        ],
+        "confidence": 1,
+        "text": "Domains"
+      },
+      {
+        "bbox_px": [
+          728,
+          5568,
+          751,
+          5585
+        ],
+        "confidence": 0.5,
+        "text": "vo"
+      },
+      {
+        "bbox_px": [
+          18,
+          5708,
+          62,
+          5731
+        ],
+        "confidence": 1,
+        "text": "Build"
+      },
+      {
+        "bbox_px": [
+          20,
+          5748,
+          79,
+          5767
+        ],
+        "confidence": 1,
+        "text": "AI Apps"
+      },
+      {
+        "bbox_px": [
+          22,
+          5777,
+          92,
+          5796
+        ],
+        "confidence": 1,
+        "text": "Web Apps"
+      },
+      {
+        "bbox_px": [
+          20,
+          5804,
+          127,
+          5823
+        ],
+        "confidence": 1,
+        "text": "Marketing Sites"
+      },
+      {
+        "bbox_px": [
+          20,
+          5834,
+          87,
+          5850
+        ],
+        "confidence": 1,
+        "text": "Platforms"
+      },
+      {
+        "bbox_px": [
+          23,
+          5861,
+          96,
+          5875
+        ],
+        "confidence": 1,
+        "text": "Commerce"
+      },
+      {
+        "bbox_px": [
+          20,
+          5888,
+          148,
+          5907
+        ],
+        "confidence": 1,
+        "text": "Platform Engineers"
+      },
+      {
+        "bbox_px": [
+          20,
+          5917,
+          138,
+          5936
+        ],
+        "confidence": 1,
+        "text": "Design Engineers"
+      },
+      {
+        "bbox_px": [
+          255,
+          5710,
+          301,
+          5731
+        ],
+        "confidence": 1,
+        "text": "Learn"
+      },
+      {
+        "bbox_px": [
+          257,
+          5750,
+          295,
+          5767
+        ],
+        "confidence": 1,
+        "text": "Docs"
+      },
+      {
+        "bbox_px": [
+          257,
+          5779,
+          290,
+          5796
+        ],
+        "confidence": 1,
+        "text": "Blog"
+      },
+      {
+        "bbox_px": [
+          257,
+          5806,
+          330,
+          5823
+        ],
+        "confidence": 1,
+        "text": "Changelog"
+      },
+      {
+        "bbox_px": [
+          257,
+          5834,
+          370,
+          5851
+        ],
+        "confidence": 1,
+        "text": "Knowledge Base"
+      },
+      {
+        "bbox_px": [
+          256,
+          5859,
+          322,
+          5880
+        ],
+        "confidence": 1,
+        "text": "Academy"
+      },
+      {
+        "bbox_px": [
+          257,
+          5890,
+          311,
+          5907
+        ],
+        "confidence": 1,
+        "text": "Articles"
+      },
+      {
+        "bbox_px": [
+          257,
+          5917,
+          334,
+          5934
+        ],
+        "confidence": 1,
+        "text": "Community"
+      },
+      {
+        "bbox_px": [
+          255,
+          5944,
+          326,
+          5964
+        ],
+        "confidence": 1,
+        "text": "Is Agentic"
+      },
+      {
+        "bbox_px": [
+          491,
+          5710,
+          550,
+          5731
+        ],
+        "confidence": 1,
+        "text": "Explore"
+      },
+      {
+        "bbox_px": [
+          493,
+          5747,
+          569,
+          5767
+        ],
+        "confidence": 1,
+        "text": "Customers"
+      },
+      {
+        "bbox_px": [
+          496,
+          5779,
+          579,
+          5792
+        ],
+        "confidence": 1,
+        "text": "Marketplace"
+      },
+      {
+        "bbox_px": [
+          496,
+          5806,
+          565,
+          5821
+        ],
+        "confidence": 1,
+        "text": "Templates"
+      },
+      {
+        "bbox_px": [
+          496,
+          5834,
+          590,
+          5846
+        ],
+        "confidence": 1,
+        "text": "Partner Finder"
+      },
+      {
+        "bbox_px": [
+          495,
+          5860,
+          581,
+          5876
+        ],
+        "confidence": 1,
+        "text": "Vercel + AWS"
+      },
+      {
+        "bbox_px": [
+          730,
+          5712,
+          795,
+          5732
+        ],
+        "confidence": 1,
+        "text": "Company"
+      },
+      {
+        "bbox_px": [
+          730,
+          5748,
+          774,
+          5765
+        ],
+        "confidence": 1,
+        "text": "About"
+      },
+      {
+        "bbox_px": [
+          732,
+          5779,
+          784,
+          5792
+        ],
+        "confidence": 1,
+        "text": "Careers"
+      },
+      {
+        "bbox_px": [
+          732,
+          5807,
+          770,
+          5819
+        ],
+        "confidence": 1,
+        "text": "Press"
+      },
+      {
+        "bbox_px": [
+          732,
+          5834,
+          778,
+          5849
+        ],
+        "confidence": 1,
+        "text": "Events"
+      },
+      {
+        "bbox_px": [
+          732,
+          5863,
+          789,
+          5875
+        ],
+        "confidence": 1,
+        "text": "Startups"
+      },
+      {
+        "bbox_px": [
+          732,
+          5890,
+          849,
+          5905
+        ],
+        "confidence": 1,
+        "text": "Shipped on Vercel"
+      },
+      {
+        "bbox_px": [
+          732,
+          5917,
+          874,
+          5932
+        ],
+        "confidence": 1,
+        "text": "Open Source Program"
+      },
+      {
+        "bbox_px": [
+          732,
+          5947,
+          799,
+          5959
+        ],
+        "confidence": 1,
+        "text": "Enterprise"
+      },
+      {
+        "bbox_px": [
+          729,
+          5972,
+          779,
+          5992
+        ],
+        "confidence": 1,
+        "text": "Pricing"
+      },
+      {
+        "bbox_px": [
+          730,
+          6001,
+          763,
+          6018
+        ],
+        "confidence": 1,
+        "text": "Help"
+      },
+      {
+        "bbox_px": [
+          964,
+          5393,
+          1050,
+          5412
+        ],
+        "confidence": 1,
+        "text": "Frameworks"
+      },
+      {
+        "bbox_px": [
+          964,
+          5428,
+          1031,
+          5447
+        ],
+        "confidence": 1,
+        "text": "eve New"
+      },
+      {
+        "bbox_px": [
+          964,
+          5458,
+          1015,
+          5476
+        ],
+        "confidence": 1,
+        "text": "Next.js"
+      },
+      {
+        "bbox_px": [
+          964,
+          5485,
+          1002,
+          5504
+        ],
+        "confidence": 1,
+        "text": "Nuxt"
+      },
+      {
+        "bbox_px": [
+          964,
+          5510,
+          1029,
+          5531
+        ],
+        "confidence": 1,
+        "text": "SvelteKit"
+      },
+      {
+        "bbox_px": [
+          964,
+          5541,
+          1002,
+          5560
+        ],
+        "confidence": 1,
+        "text": "Nitro"
+      },
+      {
+        "bbox_px": [
+          964,
+          5567,
+          1036,
+          5588
+        ],
+        "confidence": 1,
+        "text": "Turborepo"
+      },
+      {
+        "bbox_px": [
+          964,
+          5596,
+          1065,
+          5616
+        ],
+        "confidence": 1,
+        "text": "Tanstack Start"
+      },
+      {
+        "bbox_px": [
+          964,
+          5625,
+          1021,
+          5644
+        ],
+        "confidence": 1,
+        "text": "FastAPI"
+      },
+      {
+        "bbox_px": [
+          964,
+          5651,
+          1067,
+          5671
+        ],
+        "confidence": 1,
+        "text": "All frameworks"
+      },
+      {
+        "bbox_px": [
+          964,
+          5712,
+          1057,
+          5732
+        ],
+        "confidence": 1,
+        "text": "Legal & Trust"
+      },
+      {
+        "bbox_px": [
+          964,
+          5747,
+          1059,
+          5768
+        ],
+        "confidence": 1,
+        "text": "Privacy Policy"
+      },
+      {
+        "bbox_px": [
+          966,
+          5777,
+          1075,
+          5792
+        ],
+        "confidence": 1,
+        "text": "Terms of Service"
+      },
+      {
+        "bbox_px": [
+          964,
+          5807,
+          1056,
+          5823
+        ],
+        "confidence": 1,
+        "text": "Cookie Policy"
+      },
+      {
+        "bbox_px": [
+          966,
+          5834,
+          996,
+          5846
+        ],
+        "confidence": 1,
+        "text": "DPA"
+      },
+      {
+        "bbox_px": [
+          966,
+          5861,
+          1113,
+          5876
+        ],
+        "confidence": 1,
+        "text": "Acceptable Use Policy"
+      },
+      {
+        "bbox_px": [
+          964,
+          5890,
+          1109,
+          5907
+        ],
+        "confidence": 1,
+        "text": "Legal (all documents)"
+      },
+      {
+        "bbox_px": [
+          966,
+          5917,
+          1050,
+          5930
+        ],
+        "confidence": 1,
+        "text": "Trust Center"
+      },
+      {
+        "bbox_px": [
+          966,
+          5944,
+          1010,
+          5959
+        ],
+        "confidence": 1,
+        "text": "Status"
+      },
+      {
+        "bbox_px": [
+          964,
+          5974,
+          1094,
+          5991
+        ],
+        "confidence": 1,
+        "text": "Cookie Preferences"
+      },
+      {
+        "bbox_px": [
+          23,
+          6120,
+          177,
+          6135
+        ],
+        "confidence": 1,
+        "text": "• ALL SYSTEMS NORMAL."
+      },
+      {
+        "bbox_px": [
+          1201,
+          5391,
+          1241,
+          5412
+        ],
+        "confidence": 1,
+        "text": "SDKS"
+      },
+      {
+        "bbox_px": [
+          1201,
+          5428,
+          1278,
+          5447
+        ],
+        "confidence": 1,
+        "text": "Vercel SDK"
+      },
+      {
+        "bbox_px": [
+          1201,
+          5458,
+          1337,
+          5474
+        ],
+        "confidence": 1,
+        "text": "Workflow SDK New"
+      },
+      {
+        "bbox_px": [
+          1201,
+          5485,
+          1272,
+          5504
+        ],
+        "confidence": 1,
+        "text": "Flags SDK"
+      },
+      {
+        "bbox_px": [
+          1201,
+          5511,
+          1306,
+          5531
+        ],
+        "confidence": 1,
+        "text": "Chat SDK New"
+      },
+      {
+        "bbox_px": [
+          1201,
+          5541,
+          1324,
+          5560
+        ],
+        "confidence": 1,
+        "text": "Queues SDK New"
+      },
+      {
+        "bbox_px": [
+          1201,
+          5568,
+          1289,
+          5587
+        ],
+        "confidence": 1,
+        "text": "Streamdown"
+      },
+      {
+        "bbox_px": [
+          1201,
+          5710,
+          1249,
+          5731
+        ],
+        "confidence": 1,
+        "text": "Social"
+      },
+      {
+        "bbox_px": [
+          1201,
+          5748,
+          1249,
+          5765
+        ],
+        "confidence": 1,
+        "text": "GitHub"
+      },
+      {
+        "bbox_px": [
+          1201,
+          5804,
+          1260,
+          5821
+        ],
+        "confidence": 1,
+        "text": "LinkedIn"
+      },
+      {
+        "bbox_px": [
+          1201,
+          5834,
+          1257,
+          5848
+        ],
+        "confidence": 1,
+        "text": "YouTube"
+      },
+      {
+        "bbox_px": [
+          1201,
+          5863,
+          1270,
+          5878
+        ],
+        "confidence": 1,
+        "text": "Instagram"
+      }
+    ],
+    "path": "screenshots/vercel.png",
+    "width": 1440
+  }
+]

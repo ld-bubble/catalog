@@ -1,0 +1,2299 @@
+[
+  {
+    "height": 8226,
+    "lines": [
+      {
+        "bbox_px": [
+          62,
+          31,
+          185,
+          57
+        ],
+        "confidence": 1,
+        "text": "* Claude"
+      },
+      {
+        "bbox_px": [
+          611,
+          34,
+          723,
+          50
+        ],
+        "confidence": 1,
+        "text": "Meet Claude v"
+      },
+      {
+        "bbox_px": [
+          744,
+          34,
+          825,
+          50
+        ],
+        "confidence": 1,
+        "text": "Platform v"
+      },
+      {
+        "bbox_px": [
+          844,
+          34,
+          935,
+          50
+        ],
+        "confidence": 1,
+        "text": "Solutions v"
+      },
+      {
+        "bbox_px": [
+          948,
+          33,
+          1097,
+          52
+        ],
+        "confidence": 1,
+        "text": "Pricing v Learn v"
+      },
+      {
+        "bbox_px": [
+          1139,
+          33,
+          1241,
+          49
+        ],
+        "confidence": 1,
+        "text": "Contact sales"
+      },
+      {
+        "bbox_px": [
+          1280,
+          33,
+          1361,
+          49
+        ],
+        "confidence": 1,
+        "text": "Try Claude"
+      },
+      {
+        "bbox_px": [
+          62,
+          104,
+          115,
+          118
+        ],
+        "confidence": 1,
+        "text": "Product"
+      },
+      {
+        "bbox_px": [
+          1277,
+          102,
+          1372,
+          117
+        ],
+        "confidence": 1,
+        "text": "Explore here v"
+      },
+      {
+        "bbox_px": [
+          61,
+          300,
+          373,
+          363
+        ],
+        "confidence": 1,
+        "text": "Meet your"
+      },
+      {
+        "bbox_px": [
+          58,
+          354,
+          568,
+          445
+        ],
+        "confidence": 1,
+        "text": "thinking partner"
+      },
+      {
+        "bbox_px": [
+          62,
+          452,
+          582,
+          476
+        ],
+        "confidence": 1,
+        "text": "Tackle any big, bold, bewildering challenge with Claude."
+      },
+      {
+        "bbox_px": [
+          83,
+          538,
+          269,
+          555
+        ],
+        "confidence": 1,
+        "text": "How can I help you today?"
+      },
+      {
+        "bbox_px": [
+          415,
+          536,
+          520,
+          555
+        ],
+        "confidence": 1,
+        "text": "Ask Claude 1"
+      },
+      {
+        "bbox_px": [
+          65,
+          588,
+          216,
+          607
+        ],
+        "confidence": 1,
+        "text": "Write Learn"
+      },
+      {
+        "bbox_px": [
+          216,
+          591,
+          287,
+          607
+        ],
+        "confidence": 1,
+        "text": "‹> Code"
+      },
+      {
+        "bbox_px": [
+          397,
+          1127,
+          1045,
+          1185
+        ],
+        "confidence": 1,
+        "text": "The Al for problem solvers"
+      },
+      {
+        "bbox_px": [
+          391,
+          1219,
+          590,
+          1240
+        ],
+        "confidence": 1,
+        "text": "Download the desktop app:"
+      },
+      {
+        "bbox_px": [
+          619,
+          1221,
+          682,
+          1242
+        ],
+        "confidence": 1,
+        "text": "macOs"
+      },
+      {
+        "bbox_px": [
+          736,
+          1221,
+          818,
+          1243
+        ],
+        "confidence": 1,
+        "text": "Windows"
+      },
+      {
+        "bbox_px": [
+          870,
+          1218,
+          1021,
+          1245
+        ],
+        "confidence": 1,
+        "text": "Windows (arm64)"
+      },
+      {
+        "bbox_px": [
+          909,
+          1417,
+          967,
+          1433
+        ],
+        "confidence": 1,
+        "text": "Modeling"
+      },
+      {
+        "bbox_px": [
+          974,
+          1416,
+          1100,
+          1436
+        ],
+        "confidence": 1,
+        "text": "Business strategy"
+      },
+      {
+        "bbox_px": [
+          1108,
+          1417,
+          1189,
+          1433
+        ],
+        "confidence": 1,
+        "text": "Competition"
+      },
+      {
+        "bbox_px": [
+          935,
+          1504,
+          1000,
+          1517
+        ],
+        "confidence": 1,
+        "text": "Campaigns"
+      },
+      {
+        "bbox_px": [
+          1110,
+          1496,
+          1155,
+          1512
+        ],
+        "confidence": 1,
+        "text": "Growth"
+      },
+      {
+        "bbox_px": [
+          62,
+          1530,
+          381,
+          1563
+        ],
+        "confidence": 1,
+        "text": "&S Break down problems together"
+      },
+      {
+        "bbox_px": [
+          62,
+          1577,
+          384,
+          1596
+        ],
+        "confidence": 1,
+        "text": "Claude builds on your ideas, expands on your"
+      },
+      {
+        "bbox_px": [
+          62,
+          1598,
+          368,
+          1622
+        ],
+        "confidence": 1,
+        "text": "logic, and simplifies complexity one step at"
+      },
+      {
+        "bbox_px": [
+          60,
+          1624,
+          112,
+          1646
+        ],
+        "confidence": 1,
+        "text": "a time."
+      },
+      {
+        "bbox_px": [
+          674,
+          1527,
+          718,
+          1540
+        ],
+        "confidence": 1,
+        "text": "Visuals"
+      },
+      {
+        "bbox_px": [
+          1029,
+          1533,
+          1079,
+          1546
+        ],
+        "confidence": 1,
+        "text": "Markets"
+      },
+      {
+        "bbox_px": [
+          559,
+          1572,
+          629,
+          1588
+        ],
+        "confidence": 1,
+        "text": "Responsive"
+      },
+      {
+        "bbox_px": [
+          747,
+          1606,
+          810,
+          1622
+        ],
+        "confidence": 1,
+        "text": "Prototy.pes"
+      },
+      {
+        "bbox_px": [
+          653,
+          1635,
+          700,
+          1650
+        ],
+        "confidence": 1,
+        "text": "Design"
+      },
+      {
+        "bbox_px": [
+          574,
+          1690,
+          608,
+          1703
+        ],
+        "confidence": 1,
+        "text": "Flows"
+      },
+      {
+        "bbox_px": [
+          703,
+          1716,
+          773,
+          1729
+        ],
+        "confidence": 1,
+        "text": "Components"
+      },
+      {
+        "bbox_px": [
+          62,
+          1729,
+          342,
+          1757
+        ],
+        "confidence": 1,
+        "text": "oll Tackle your toughest work"
+      },
+      {
+        "bbox_px": [
+          62,
+          1773,
+          412,
+          1792
+        ],
+        "confidence": 1,
+        "text": "Claude provides expert-level collaboration on the"
+      },
+      {
+        "bbox_px": [
+          1264,
+          1731,
+          1311,
+          1745
+        ],
+        "confidence": 1,
+        "text": "Reviews"
+      },
+      {
+        "bbox_px": [
+          841,
+          1746,
+          1035,
+          1798
+        ],
+        "confidence": 1,
+        "text": "*Claude"
+      },
+      {
+        "bbox_px": [
+          57,
+          1602,
+          368,
+          1624
+        ],
+        "confidence": 1,
+        "text": "logic, and simplifies complexity one step at"
+      },
+      {
+        "bbox_px": [
+          60,
+          1626,
+          112,
+          1647
+        ],
+        "confidence": 1,
+        "text": "a time."
+      },
+      {
+        "bbox_px": [
+          747,
+          1605,
+          810,
+          1620
+        ],
+        "confidence": 1,
+        "text": "Prototy.pes"
+      },
+      {
+        "bbox_px": [
+          650,
+          1636,
+          700,
+          1649
+        ],
+        "confidence": 1,
+        "text": "Design"
+      },
+      {
+        "bbox_px": [
+          572,
+          1688,
+          608,
+          1704
+        ],
+        "confidence": 1,
+        "text": "Flows"
+      },
+      {
+        "bbox_px": [
+          62,
+          1730,
+          342,
+          1757
+        ],
+        "confidence": 1,
+        "text": "oll Tackle your toughest work"
+      },
+      {
+        "bbox_px": [
+          59,
+          1772,
+          413,
+          1798
+        ],
+        "confidence": 1,
+        "text": "Claude provides expert-level collaboration on the"
+      },
+      {
+        "bbox_px": [
+          57,
+          1793,
+          373,
+          1822
+        ],
+        "confidence": 1,
+        "text": "things you need to get done-from coding a"
+      },
+      {
+        "bbox_px": [
+          59,
+          1819,
+          292,
+          1846
+        ],
+        "confidence": 1,
+        "text": "product to critical data analysis."
+      },
+      {
+        "bbox_px": [
+          703,
+          1717,
+          773,
+          1730
+        ],
+        "confidence": 1,
+        "text": "Components"
+      },
+      {
+        "bbox_px": [
+          832,
+          1733,
+          1038,
+          1811
+        ],
+        "confidence": 1,
+        "text": "*Claude"
+      },
+      {
+        "bbox_px": [
+          1155,
+          1790,
+          1243,
+          1804
+        ],
+        "confidence": 1,
+        "text": "Documentation"
+      },
+      {
+        "bbox_px": [
+          1262,
+          1730,
+          1311,
+          1743
+        ],
+        "confidence": 1,
+        "text": "Reviews"
+      },
+      {
+        "bbox_px": [
+          1264,
+          1790,
+          1325,
+          1804
+        ],
+        "confidence": 1,
+        "text": "Debugging"
+      },
+      {
+        "bbox_px": [
+          669,
+          1819,
+          710,
+          1835
+        ],
+        "confidence": 1,
+        "text": "Editing"
+      },
+      {
+        "bbox_px": [
+          1155,
+          1876,
+          1366,
+          1898
+        ],
+        "confidence": 1,
+        "text": "Optimization Software development"
+      },
+      {
+        "bbox_px": [
+          65,
+          1926,
+          282,
+          1950
+        ],
+        "confidence": 1,
+        "text": "•Explore what's next"
+      },
+      {
+        "bbox_px": [
+          60,
+          1968,
+          402,
+          1992
+        ],
+        "confidence": 1,
+        "text": "Like an expert in your pocket, collaborating with"
+      },
+      {
+        "bbox_px": [
+          60,
+          1995,
+          405,
+          2019
+        ],
+        "confidence": 1,
+        "text": "Claude expands what you can build on your own"
+      },
+      {
+        "bbox_px": [
+          60,
+          2018,
+          167,
+          2040
+        ],
+        "confidence": 1,
+        "text": "or with teams."
+      },
+      {
+        "bbox_px": [
+          577,
+          1890,
+          637,
+          1906
+        ],
+        "confidence": 1,
+        "text": "Translation"
+      },
+      {
+        "bbox_px": [
+          661,
+          1923,
+          768,
+          1937
+        ],
+        "confidence": 1,
+        "text": "Content creation"
+      },
+      {
+        "bbox_px": [
+          781,
+          1929,
+          841,
+          1942
+        ],
+        "confidence": 1,
+        "text": "Marketing"
+      },
+      {
+        "bbox_px": [
+          590,
+          1997,
+          676,
+          2010
+        ],
+        "confidence": 1,
+        "text": "Documentation"
+      },
+      {
+        "bbox_px": [
+          713,
+          2023,
+          773,
+          2036
+        ],
+        "confidence": 1,
+        "text": "Education"
+      },
+      {
+        "bbox_px": [
+          1053,
+          1908,
+          1105,
+          1924
+        ],
+        "confidence": 1,
+        "text": "Patterns"
+      },
+      {
+        "bbox_px": [
+          891,
+          1971,
+          938,
+          1984
+        ],
+        "confidence": 1,
+        "text": "Reports"
+      },
+      {
+        "bbox_px": [
+          969,
+          1984,
+          1058,
+          2000
+        ],
+        "confidence": 1,
+        "text": "Data analysis"
+      },
+      {
+        "bbox_px": [
+          919,
+          2073,
+          983,
+          2092
+        ],
+        "confidence": 1,
+        "text": "Processing"
+      },
+      {
+        "bbox_px": [
+          1032,
+          2089,
+          1081,
+          2102
+        ],
+        "confidence": 1,
+        "text": "Queries"
+      },
+      {
+        "bbox_px": [
+          1238,
+          1971,
+          1280,
+          1984
+        ],
+        "confidence": 1,
+        "text": "Testing"
+      },
+      {
+        "bbox_px": [
+          1084,
+          2008,
+          1160,
+          2021
+        ],
+        "confidence": 1,
+        "text": "Visualizations"
+      },
+      {
+        "bbox_px": [
+          420,
+          2591,
+          1022,
+          2648
+        ],
+        "confidence": 1,
+        "text": "How you can use Claude"
+      },
+      {
+        "bbox_px": [
+          190,
+          2785,
+          253,
+          2800
+        ],
+        "confidence": 1,
+        "text": "f Learn"
+      },
+      {
+        "bbox_px": [
+          256,
+          2785,
+          648,
+          2803
+        ],
+        "confidence": 1,
+        "text": "<> Code EB Research ol0 Analyze Create"
+      },
+      {
+        "bbox_px": [
+          252,
+          3009,
+          301,
+          3027
+        ],
+        "confidence": 1,
+        "text": "Prompt"
+      },
+      {
+        "bbox_px": [
+          253,
+          3038,
+          496,
+          3052
+        ],
+        "confidence": 1,
+        "text": "Design a comprehensive study guide with"
+      },
+      {
+        "bbox_px": [
+          253,
+          3057,
+          509,
+          3070
+        ],
+        "confidence": 1,
+        "text": "summaries, practice questions, and memory"
+      },
+      {
+        "bbox_px": [
+          253,
+          3075,
+          431,
+          3088
+        ],
+        "confidence": 1,
+        "text": "aids from my course materials."
+      },
+      {
+        "bbox_px": [
+          253,
+          3125,
+          334,
+          3138
+        ],
+        "confidence": 1,
+        "text": "Attachments"
+      },
+      {
+        "bbox_px": [
+          266,
+          3164,
+          339,
+          3177
+        ],
+        "confidence": 1,
+        "text": "Study notes"
+      },
+      {
+        "bbox_px": [
+          266,
+          3182,
+          295,
+          3195
+        ],
+        "confidence": 1,
+        "text": "4 MB"
+      },
+      {
+        "bbox_px": [
+          405,
+          3164,
+          459,
+          3177
+        ],
+        "confidence": 1,
+        "text": "Psych 101"
+      },
+      {
+        "bbox_px": [
+          402,
+          3182,
+          457,
+          3196
+        ],
+        "confidence": 1,
+        "text": "Syllabus"
+      },
+      {
+        "bbox_px": [
+          266,
+          3243,
+          295,
+          3256
+        ],
+        "confidence": 1,
+        "text": "DOC"
+      },
+      {
+        "bbox_px": [
+          402,
+          3243,
+          428,
+          3253
+        ],
+        "confidence": 1,
+        "text": "PDF"
+      },
+      {
+        "bbox_px": [
+          648,
+          2941,
+          909,
+          2984
+        ],
+        "confidence": 1,
+        "text": "Psychology 101"
+      },
+      {
+        "bbox_px": [
+          648,
+          2988,
+          1123,
+          3031
+        ],
+        "confidence": 1,
+        "text": "comprehensive study guide"
+      },
+      {
+        "bbox_px": [
+          648,
+          3059,
+          901,
+          3089
+        ],
+        "confidence": 1,
+        "text": "Table of contents"
+      },
+      {
+        "bbox_px": [
+          650,
+          3116,
+          789,
+          3130
+        ],
+        "confidence": 1,
+        "text": "• Course overview"
+      },
+      {
+        "bbox_px": [
+          650,
+          3146,
+          885,
+          3165
+        ],
+        "confidence": 1,
+        "text": "• Lecture 1: What is psychology?"
+      },
+      {
+        "bbox_px": [
+          650,
+          3174,
+          878,
+          3191
+        ],
+        "confidence": 1,
+        "text": "• Lecture 2: Research methods"
+      },
+      {
+        "bbox_px": [
+          650,
+          3203,
+          802,
+          3219
+        ],
+        "confidence": 1,
+        "text": "• Practice questions"
+      },
+      {
+        "bbox_px": [
+          650,
+          3230,
+          786,
+          3251
+        ],
+        "confidence": 1,
+        "text": "• Study strategies"
+      },
+      {
+        "bbox_px": [
+          648,
+          3276,
+          901,
+          3305
+        ],
+        "confidence": 1,
+        "text": "Course overview"
+      },
+      {
+        "bbox_px": [
+          648,
+          3331,
+          1102,
+          3350
+        ],
+        "confidence": 1,
+        "text": "Meeting times: MWF 10:10-11:00 AM, Lab Tuesdays 2:00-4:50 PM"
+      },
+      {
+        "bbox_px": [
+          648,
+          3355,
+          1027,
+          3376
+        ],
+        "confidence": 1,
+        "text": "Office hours: Tuesdays 1-3 PM, Thursdays 11 AM-1 PM"
+      },
+      {
+        "bbox_px": [
+          266,
+          3241,
+          295,
+          3254
+        ],
+        "confidence": 1,
+        "text": "DOC"
+      },
+      {
+        "bbox_px": [
+          402,
+          3202,
+          420,
+          3215
+        ],
+        "confidence": 1,
+        "text": "1.2"
+      },
+      {
+        "bbox_px": [
+          402,
+          3241,
+          428,
+          3254
+        ],
+        "confidence": 1,
+        "text": "PDF"
+      },
+      {
+        "bbox_px": [
+          647,
+          3202,
+          802,
+          3222
+        ],
+        "confidence": 1,
+        "text": "• Practice questions"
+      },
+      {
+        "bbox_px": [
+          650,
+          3234,
+          786,
+          3250
+        ],
+        "confidence": 1,
+        "text": "• Study strategies"
+      },
+      {
+        "bbox_px": [
+          648,
+          3278,
+          901,
+          3305
+        ],
+        "confidence": 1,
+        "text": "Course overview"
+      },
+      {
+        "bbox_px": [
+          648,
+          3332,
+          1102,
+          3351
+        ],
+        "confidence": 1,
+        "text": "Meeting times: MWF 10:10-11:00 AM, Lab Tuesdays 2:00-4:50 PM"
+      },
+      {
+        "bbox_px": [
+          648,
+          3356,
+          1027,
+          3372
+        ],
+        "confidence": 1,
+        "text": "Office hours: Tuesdays 1-3 PM, Thursdays 11 AM-1 PM"
+      },
+      {
+        "bbox_px": [
+          648,
+          3393,
+          919,
+          3422
+        ],
+        "confidence": 1,
+        "text": "Key dates to remember"
+      },
+      {
+        "bbox_px": [
+          284,
+          3492,
+          360,
+          3519
+        ],
+        "confidence": 1,
+        "text": "Learn"
+      },
+      {
+        "bbox_px": [
+          734,
+          3492,
+          1108,
+          3511
+        ],
+        "confidence": 1,
+        "text": "Learn anything through conversation. Upload docs or"
+      },
+      {
+        "bbox_px": [
+          731,
+          3516,
+          1110,
+          3535
+        ],
+        "confidence": 1,
+        "text": "images for deeper insights or create visual study aids"
+      },
+      {
+        "bbox_px": [
+          734,
+          3540,
+          1100,
+          3561
+        ],
+        "confidence": 1,
+        "text": "with artifacts. Voice makes complex topics easier to"
+      },
+      {
+        "bbox_px": [
+          734,
+          3565,
+          1095,
+          3584
+        ],
+        "confidence": 1,
+        "text": "digest, while projects keep your learning organized."
+      },
+      {
+        "bbox_px": [
+          438,
+          3958,
+          841,
+          4010
+        ],
+        "confidence": 1,
+        "text": "Keep thinking with"
+      },
+      {
+        "bbox_px": [
+          284,
+          4790,
+          621,
+          4819
+        ],
+        "confidence": 1,
+        "text": "Your curiosity's collaborator"
+      },
+      {
+        "bbox_px": [
+          734,
+          4790,
+          1014,
+          4806
+        ],
+        "confidence": 1,
+        "text": "There's never been a worse time to be a"
+      },
+      {
+        "bbox_px": [
+          734,
+          4813,
+          1074,
+          4832
+        ],
+        "confidence": 1,
+        "text": "problem, or a better time to be a problem solver."
+      },
+      {
+        "bbox_px": [
+          290,
+          4800,
+          629,
+          4818
+        ],
+        "confidence": 1,
+        "text": "rou canoshy s conavorator"
+      },
+      {
+        "bbox_px": [
+          731,
+          4812,
+          1074,
+          4833
+        ],
+        "confidence": 1,
+        "text": "problem, or a better time to be a problem solver."
+      },
+      {
+        "bbox_px": [
+          127,
+          5030,
+          645,
+          5073
+        ],
+        "confidence": 1,
+        "text": "What problem are you up against?"
+      },
+      {
+        "bbox_px": [
+          812,
+          5037,
+          1003,
+          5059
+        ],
+        "confidence": 1,
+        "text": "How can I help you today?"
+      },
+      {
+        "bbox_px": [
+          1178,
+          5038,
+          1285,
+          5053
+        ],
+        "confidence": 1,
+        "text": "Ask Claude 1"
+      },
+      {
+        "bbox_px": [
+          564,
+          5520,
+          716,
+          5560
+        ],
+        "confidence": 1,
+        "text": "Claude"
+      },
+      {
+        "bbox_px": [
+          287,
+          5738,
+          439,
+          5781
+        ],
+        "confidence": 1,
+        "text": "Opus 4.1"
+      },
+      {
+        "bbox_px": [
+          734,
+          5741,
+          1063,
+          5760
+        ],
+        "confidence": 1,
+        "text": "Maximum reasoning power for your most"
+      },
+      {
+        "bbox_px": [
+          734,
+          5768,
+          1081,
+          5789
+        ],
+        "confidence": 1,
+        "text": "complex challenges and strategic decisions"
+      },
+      {
+        "bbox_px": [
+          734,
+          5804,
+          1092,
+          5820
+        ],
+        "confidence": 1,
+        "text": "Deep research • Complex reasoning • System architecture"
+      },
+      {
+        "bbox_px": [
+          744,
+          5851,
+          844,
+          5865
+        ],
+        "confidence": 1,
+        "text": "Model details →"
+      },
+      {
+        "bbox_px": [
+          281,
+          5994,
+          475,
+          6041
+        ],
+        "confidence": 1,
+        "text": "Sonnet 4.5"
+      },
+      {
+        "bbox_px": [
+          734,
+          6000,
+          974,
+          6019
+        ],
+        "confidence": 1,
+        "text": "Smartest model, designed for"
+      },
+      {
+        "bbox_px": [
+          734,
+          6026,
+          946,
+          6047
+        ],
+        "confidence": 1,
+        "text": "the work you do every day"
+      },
+      {
+        "bbox_px": [
+          731,
+          6063,
+          1024,
+          6079
+        ],
+        "confidence": 1,
+        "text": "Writing tasks • Fast analysis • Task automation"
+      },
+      {
+        "bbox_px": [
+          744,
+          6110,
+          846,
+          6123
+        ],
+        "confidence": 1,
+        "text": "Model details →"
+      },
+      {
+        "bbox_px": [
+          282,
+          6254,
+          460,
+          6299
+        ],
+        "confidence": 1,
+        "text": "Haiku4.5"
+      },
+      {
+        "bbox_px": [
+          734,
+          6259,
+          959,
+          6281
+        ],
+        "confidence": 1,
+        "text": "Fastest model, a lightweight"
+      },
+      {
+        "bbox_px": [
+          734,
+          6285,
+          987,
+          6306
+        ],
+        "confidence": 1,
+        "text": "version of our most powerful Al"
+      },
+      {
+        "bbox_px": [
+          734,
+          6322,
+          1019,
+          6338
+        ],
+        "confidence": 1,
+        "text": "Quick answers • Everyday tasks • Web search"
+      },
+      {
+        "bbox_px": [
+          744,
+          6369,
+          846,
+          6383
+        ],
+        "confidence": 1,
+        "text": "Model details →"
+      },
+      {
+        "bbox_px": [
+          323,
+          6605,
+          467,
+          6636
+        ],
+        "confidence": 1,
+        "text": "Explore the"
+      },
+      {
+        "bbox_px": [
+          310,
+          6634,
+          493,
+          6661
+        ],
+        "confidence": 1,
+        "text": "latest releases"
+      },
+      {
+        "bbox_px": [
+          62,
+          7604,
+          209,
+          7634
+        ],
+        "confidence": 1,
+        "text": "* Claude"
+      },
+      {
+        "bbox_px": [
+          78,
+          7681,
+          232,
+          7695
+        ],
+        "confidence": 1,
+        "text": "How can I help you today?"
+      },
+      {
+        "bbox_px": [
+          75,
+          7731,
+          128,
+          7747
+        ],
+        "confidence": 1,
+        "text": "ø Write"
+      },
+      {
+        "bbox_px": [
+          154,
+          7733,
+          209,
+          7747
+        ],
+        "confidence": 1,
+        "text": "• Learn"
+      },
+      {
+        "bbox_px": [
+          232,
+          7733,
+          287,
+          7747
+        ],
+        "confidence": 1,
+        "text": "‹> Code"
+      },
+      {
+        "bbox_px": [
+          62,
+          8056,
+          203,
+          8072
+        ],
+        "confidence": 1,
+        "text": "BY ANTHROPIC"
+      },
+      {
+        "bbox_px": [
+          60,
+          8079,
+          193,
+          8092
+        ],
+        "confidence": 1,
+        "text": "© 2025 ANTHROPIC PBC"
+      },
+      {
+        "bbox_px": [
+          101,
+          8116,
+          120,
+          8129
+        ],
+        "confidence": 1,
+        "text": "in"
+      },
+      {
+        "bbox_px": [
+          509,
+          7600,
+          567,
+          7616
+        ],
+        "confidence": 1,
+        "text": "Products"
+      },
+      {
+        "bbox_px": [
+          509,
+          7627,
+          554,
+          7640
+        ],
+        "confidence": 1,
+        "text": "Claude"
+      },
+      {
+        "bbox_px": [
+          509,
+          7650,
+          588,
+          7666
+        ],
+        "confidence": 1,
+        "text": "Claude Code"
+      },
+      {
+        "bbox_px": [
+          509,
+          7676,
+          567,
+          7693
+        ],
+        "confidence": 1,
+        "text": "Max plan"
+      },
+      {
+        "bbox_px": [
+          509,
+          7702,
+          572,
+          7716
+        ],
+        "confidence": 1,
+        "text": "Team plan"
+      },
+      {
+        "bbox_px": [
+          509,
+          7729,
+          603,
+          7742
+        ],
+        "confidence": 1,
+        "text": "Enterprise plan"
+      },
+      {
+        "bbox_px": [
+          509,
+          7751,
+          595,
+          7768
+        ],
+        "confidence": 1,
+        "text": "Download app"
+      },
+      {
+        "bbox_px": [
+          508,
+          7775,
+          555,
+          7795
+        ],
+        "confidence": 1,
+        "text": "Pricing"
+      },
+      {
+        "bbox_px": [
+          509,
+          7802,
+          548,
+          7818
+        ],
+        "confidence": 1,
+        "text": "Log in"
+      },
+      {
+        "bbox_px": [
+          508,
+          7882,
+          565,
+          7900
+        ],
+        "confidence": 1,
+        "text": "Features"
+      },
+      {
+        "bbox_px": [
+          509,
+          7909,
+          611,
+          7923
+        ],
+        "confidence": 1,
+        "text": "Claude and Slack"
+      },
+      {
+        "bbox_px": [
+          509,
+          7935,
+          603,
+          7948
+        ],
+        "confidence": 1,
+        "text": "Claude in Excel"
+      },
+      {
+        "bbox_px": [
+          509,
+          8016,
+          556,
+          8030
+        ],
+        "confidence": 1,
+        "text": "Models"
+      },
+      {
+        "bbox_px": [
+          509,
+          8040,
+          546,
+          8056
+        ],
+        "confidence": 1,
+        "text": "Opus"
+      },
+      {
+        "bbox_px": [
+          509,
+          8066,
+          556,
+          8079
+        ],
+        "confidence": 1,
+        "text": "Sonnet"
+      },
+      {
+        "bbox_px": [
+          509,
+          8090,
+          548,
+          8105
+        ],
+        "confidence": 1,
+        "text": "Haiku"
+      },
+      {
+        "bbox_px": [
+          765,
+          6629,
+          909,
+          6651
+        ],
+        "confidence": 1,
+        "text": "Claude Haiku 4.5"
+      },
+      {
+        "bbox_px": [
+          770,
+          6661,
+          888,
+          6682
+        ],
+        "confidence": 1,
+        "text": "S Announcement"
+      },
+      {
+        "bbox_px": [
+          765,
+          6755,
+          917,
+          6779
+        ],
+        "confidence": 1,
+        "text": "Claude Sonnet 4.5"
+      },
+      {
+        "bbox_px": [
+          770,
+          6788,
+          888,
+          6811
+        ],
+        "confidence": 1,
+        "text": "S Announcement"
+      },
+      {
+        "bbox_px": [
+          765,
+          6884,
+          901,
+          6908
+        ],
+        "confidence": 1,
+        "text": "Claude Opus 4.1"
+      },
+      {
+        "bbox_px": [
+          770,
+          6918,
+          888,
+          6936
+        ],
+        "confidence": 1,
+        "text": "3 Announcement"
+      },
+      {
+        "bbox_px": [
+          768,
+          7012,
+          1074,
+          7033
+        ],
+        "confidence": 1,
+        "text": "Claude can now connect to your world"
+      },
+      {
+        "bbox_px": [
+          770,
+          7043,
+          846,
+          7061
+        ],
+        "confidence": 1,
+        "text": "Product"
+      },
+      {
+        "bbox_px": [
+          768,
+          7140,
+          969,
+          7156
+        ],
+        "confidence": 1,
+        "text": "Claude Code: Your code's"
+      },
+      {
+        "bbox_px": [
+          765,
+          7166,
+          904,
+          7182
+        ],
+        "confidence": 1,
+        "text": "new collaborator"
+      },
+      {
+        "bbox_px": [
+          770,
+          7200,
+          846,
+          7216
+        ],
+        "confidence": 1,
+        "text": "3 Product"
+      },
+      {
+        "bbox_px": [
+          768,
+          7294,
+          1055,
+          7313
+        ],
+        "confidence": 1,
+        "text": "Claude takes research to new places"
+      },
+      {
+        "bbox_px": [
+          770,
+          7325,
+          854,
+          7345
+        ],
+        "confidence": 1,
+        "text": "S Research"
+      },
+      {
+        "bbox_px": [
+          731,
+          7600,
+          792,
+          7615
+        ],
+        "confidence": 1,
+        "text": "Solutions"
+      },
+      {
+        "bbox_px": [
+          731,
+          7625,
+          792,
+          7641
+        ],
+        "confidence": 1,
+        "text": "Al agents"
+      },
+      {
+        "bbox_px": [
+          731,
+          7650,
+          854,
+          7666
+        ],
+        "confidence": 1,
+        "text": "Code modernization"
+      },
+      {
+        "bbox_px": [
+          731,
+          7676,
+          778,
+          7692
+        ],
+        "confidence": 1,
+        "text": "Coding"
+      },
+      {
+        "bbox_px": [
+          731,
+          7702,
+          844,
+          7716
+        ],
+        "confidence": 1,
+        "text": "Customer support"
+      },
+      {
+        "bbox_px": [
+          731,
+          7726,
+          794,
+          7739
+        ],
+        "confidence": 1,
+        "text": "Education"
+      },
+      {
+        "bbox_px": [
+          731,
+          7752,
+          838,
+          7766
+        ],
+        "confidence": 1,
+        "text": "Financial services"
+      },
+      {
+        "bbox_px": [
+          731,
+          7777,
+          810,
+          7791
+        ],
+        "confidence": 1,
+        "text": "Government"
+      },
+      {
+        "bbox_px": [
+          731,
+          7801,
+          812,
+          7815
+        ],
+        "confidence": 1,
+        "text": "Life sciences"
+      },
+      {
+        "bbox_px": [
+          731,
+          7883,
+          891,
+          7897
+        ],
+        "confidence": 1,
+        "text": "Claude Developer Platform"
+      },
+      {
+        "bbox_px": [
+          731,
+          7909,
+          791,
+          7922
+        ],
+        "confidence": 1,
+        "text": "Overview"
+      },
+      {
+        "bbox_px": [
+          731,
+          7933,
+          825,
+          7949
+        ],
+        "confidence": 1,
+        "text": "Developer docs"
+      },
+      {
+        "bbox_px": [
+          731,
+          7959,
+          776,
+          7975
+        ],
+        "confidence": 1,
+        "text": "Pricing"
+      },
+      {
+        "bbox_px": [
+          731,
+          7984,
+          833,
+          7998
+        ],
+        "confidence": 1,
+        "text": "Amazon Bedrock"
+      },
+      {
+        "bbox_px": [
+          731,
+          8009,
+          878,
+          8025
+        ],
+        "confidence": 1,
+        "text": "Google Cloud's Vertex Al"
+      },
+      {
+        "bbox_px": [
+          731,
+          8034,
+          815,
+          8051
+        ],
+        "confidence": 1,
+        "text": "Console login"
+      },
+      {
+        "bbox_px": [
+          955,
+          7600,
+          996,
+          7618
+        ],
+        "confidence": 1,
+        "text": "Learn"
+      },
+      {
+        "bbox_px": [
+          956,
+          7624,
+          985,
+          7640
+        ],
+        "confidence": 1,
+        "text": "Blog"
+      },
+      {
+        "bbox_px": [
+          956,
+          7650,
+          1008,
+          7663
+        ],
+        "confidence": 1,
+        "text": "Courses"
+      },
+      {
+        "bbox_px": [
+          956,
+          7676,
+          1027,
+          7689
+        ],
+        "confidence": 1,
+        "text": "Connectors"
+      },
+      {
+        "bbox_px": [
+          956,
+          7702,
+          1058,
+          7716
+        ],
+        "confidence": 1,
+        "text": "Customer stories"
+      },
+      {
+        "bbox_px": [
+          956,
+          7726,
+          1105,
+          7742
+        ],
+        "confidence": 1,
+        "text": "Engineering at Anthropic"
+      },
+      {
+        "bbox_px": [
+          956,
+          7752,
+          998,
+          7765
+        ],
+        "confidence": 1,
+        "text": "Events"
+      },
+      {
+        "bbox_px": [
+          956,
+          7775,
+          1071,
+          7792
+        ],
+        "confidence": 1,
+        "text": "Powered by Claude"
+      },
+      {
+        "bbox_px": [
+          956,
+          7802,
+          1055,
+          7818
+        ],
+        "confidence": 1,
+        "text": "Service partners"
+      },
+      {
+        "bbox_px": [
+          956,
+          7827,
+          1061,
+          7844
+        ],
+        "confidence": 1,
+        "text": "Startups program"
+      },
+      {
+        "bbox_px": [
+          956,
+          7909,
+          1016,
+          7922
+        ],
+        "confidence": 1,
+        "text": "Company"
+      },
+      {
+        "bbox_px": [
+          956,
+          7935,
+          1019,
+          7949
+        ],
+        "confidence": 1,
+        "text": "Anthropic"
+      },
+      {
+        "bbox_px": [
+          956,
+          7959,
+          1006,
+          7972
+        ],
+        "confidence": 1,
+        "text": "Careers"
+      },
+      {
+        "bbox_px": [
+          956,
+          7984,
+          1063,
+          7998
+        ],
+        "confidence": 1,
+        "text": "Economic Futures"
+      },
+      {
+        "bbox_px": [
+          956,
+          8011,
+          1014,
+          8022
+        ],
+        "confidence": 1,
+        "text": "Research"
+      },
+      {
+        "bbox_px": [
+          953,
+          8035,
+          993,
+          8048
+        ],
+        "confidence": 1,
+        "text": "News"
+      },
+      {
+        "bbox_px": [
+          956,
+          8060,
+          1110,
+          8077
+        ],
+        "confidence": 1,
+        "text": "Responsible Scaling Policy"
+      },
+      {
+        "bbox_px": [
+          956,
+          8084,
+          1102,
+          8100
+        ],
+        "confidence": 1,
+        "text": "Security and compliance"
+      },
+      {
+        "bbox_px": [
+          955,
+          8110,
+          1037,
+          8128
+        ],
+        "confidence": 1,
+        "text": "Transparency"
+      },
+      {
+        "bbox_px": [
+          1178,
+          7600,
+          1285,
+          7617
+        ],
+        "confidence": 1,
+        "text": "Help and security"
+      },
+      {
+        "bbox_px": [
+          1178,
+          7624,
+          1246,
+          7640
+        ],
+        "confidence": 1,
+        "text": "Availability"
+      },
+      {
+        "bbox_px": [
+          1178,
+          7650,
+          1220,
+          7663
+        ],
+        "confidence": 1,
+        "text": "Status"
+      },
+      {
+        "bbox_px": [
+          1178,
+          7676,
+          1272,
+          7692
+        ],
+        "confidence": 1,
+        "text": "Support center"
+      },
+      {
+        "bbox_px": [
+          1181,
+          7757,
+          1288,
+          7773
+        ],
+        "confidence": 1,
+        "text": "Terms and policies"
+      },
+      {
+        "bbox_px": [
+          1178,
+          7781,
+          1273,
+          7799
+        ],
+        "confidence": 1,
+        "text": "Privacy choices"
+      },
+      {
+        "bbox_px": [
+          1178,
+          7808,
+          1262,
+          7823
+        ],
+        "confidence": 1,
+        "text": "Privacy policy"
+      },
+      {
+        "bbox_px": [
+          1178,
+          7833,
+          1353,
+          7849
+        ],
+        "confidence": 1,
+        "text": "Responsible disclosure policy"
+      },
+      {
+        "bbox_px": [
+          1178,
+          7859,
+          1351,
+          7873
+        ],
+        "confidence": 1,
+        "text": "Terms of service: Commercia"
+      },
+      {
+        "bbox_px": [
+          1178,
+          7883,
+          1343,
+          7897
+        ],
+        "confidence": 1,
+        "text": "Terms of service: Consumer"
+      },
+      {
+        "bbox_px": [
+          1178,
+          7909,
+          1257,
+          7925
+        ],
+        "confidence": 1,
+        "text": "Usage policy"
+      },
+      {
+        "bbox_px": [
+          60,
+          8056,
+          200,
+          8073
+        ],
+        "confidence": 1,
+        "text": "BY ANTHROPIC"
+      },
+      {
+        "bbox_px": [
+          62,
+          8079,
+          192,
+          8092
+        ],
+        "confidence": 1,
+        "text": "© 2025 ANTHROPIC PBC"
+      },
+      {
+        "bbox_px": [
+          736,
+          8010,
+          881,
+          8025
+        ],
+        "confidence": 1,
+        "text": "Google Cloud's Vertex Al"
+      },
+      {
+        "bbox_px": [
+          734,
+          8035,
+          814,
+          8050
+        ],
+        "confidence": 1,
+        "text": "Console login"
+      },
+      {
+        "bbox_px": [
+          958,
+          8060,
+          1113,
+          8075
+        ],
+        "confidence": 1,
+        "text": "Responsible Scaling Policy"
+      },
+      {
+        "bbox_px": [
+          958,
+          8085,
+          1103,
+          8098
+        ],
+        "confidence": 1,
+        "text": "Security and compliance"
+      },
+      {
+        "bbox_px": [
+          958,
+          8110,
+          1040,
+          8123
+        ],
+        "confidence": 1,
+        "text": "Transparency"
+      }
+    ],
+    "path": "screenshots/claude.png",
+    "width": 1440
+  }
+]
